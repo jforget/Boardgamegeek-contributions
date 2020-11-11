@@ -1,0 +1,86 @@
+-*- encoding: utf-8; indent-tabs-mode: nil -*-
+
+About "Wings of the Motherland":
+
+The rules booklet  includes an index of important  game concepts, each
+entry pointing to  the rules paragraphs where each  concept is defined
+or used. That's good! Very good!
+
+But the scenario  booklet does not include any index.  I am interested
+by an index of the people mentioned  in the scenarios, and by an index
+of scenario locations. So here it is, the various files in the present
+directory give you an index of people and an index of locations. And I
+have added a errata list, mentioning a few typos I have spotted in the
+booklet.
+
+By the way, I  am sure there are some typos lurking  in *my* files and
+some omissions. Please forgive me and report these typos and omissions
+to me.
+
+I am not interested by an index  of aircraft types or models, the list
+of  scenarios on  pages 114-115  is sufficient  for me.  And I  am not
+interested in an index of units (which would include ships' names). At
+least, not yet interested. If you want,  you can use the files in this
+directory to build an index of aircraft types or an index of units and
+ships.
+
+The scenario names are not given, they are replaced by codes: a letter
+prefix  followed  by  the  scenario number.  The  scenario  codes  are
+prefixed with "A" for air combat scenarios, with "G" for ground attack
+scenarios, "N" for ship attack scenarios  ("N "is for "naval") and "M"
+for mission  scale scenarios. Training  and general scenarios  are not
+taken into account, they do not contain names.
+
+Names  are be  typed in  Latin-1, even  for Russian  people (or  other
+countries using Cyrillic). Cyrillic names are transcribed into Latin-1
+using  the  English method.  For  French  (*)  and German  names  (and
+possibly a few others such as Finnish, Hungarian names), I will try to
+use the  proper accents, umlauts  and similar  marks, but there  is no
+garantee.
+
+(*) Since French is my native  language and since I have several books
+about  Normandie-Niemen, you  can  have higher  expectations about  my
+typing of French names, but still no garantee.
+
+Person names  are written with the  family name first, then  the given
+name and last  the nickname (if it exists). No  rank is given, because
+it  changes for  some people.  Likewise, locations  are given  as "Don
+river" rather than "river Don".
+
+The Richthofen  problem: among the Normandie-Niemen  pilots, there are
+Maurice Challe  (*) and  René Challe (two  brothers, like  Manfred and
+Lothar 25  years before in  Jasta 11) and  there are Jean  Sauvage and
+Roger  Sauvage (no  relationship).  So  we must  be  careful to  avoid
+confusion. While writing the index,  I have also found Georgiy Golubev
+and Vasiliy Golubev.  Do you know of other pilots  with names prone to
+confusion?
+
+(*) If you look for "Maurice Challe" in a search engine, you will find
+that the  Richthofen problem  is even more  serious with  the "Challe"
+name.  There are  two  famous "Maurice  Challe", the  Normandie-Niemen
+pilot (1911--1945)  and an  unrelated Maurice Challe  (1905--1979) who
+took part in the Alger putsch in 1961.
+
+In  some  cases,  a  scenario   mentions  a  family  name  without  an
+accompanying  christian name  and another  scenario mentions  the same
+family name with a christian  name. For example, scenario A75 mentions
+"Shestakov" and scenario A117 mentions  "Lev Shestakov". I have merged
+these two entries, even if I am not certain they are the same person.
+
+The  index  includes both  people  who  took  an  active part  in  the
+scenarios  and people  who only  get a  mention, such  as Hans-Joachim
+Marseille, Manfred  von Richthofen  and even  King Leonidas.  When the
+scenario code  is in  upright characters, that  means an  active role.
+When the scenario code is in italics, that means a simple mention. The
+same   is  done   for  the   locations,  but   there  might   be  some
+inconsistencies. For example, when a  scenario describes a mission "en
+route to X" or  "in the neighborhood of Y", the  scenarion codes for X
+and Y are  sometimes printed in upright characters and  in other cases
+they are printed in italics.
+
+Lua program files are licensed under the GNU Public License, version 1
+or later.
+
+Other files  are licensed under  the "Creative Commons  Zero" license.
+They are based on Wings of the Motherland, copyright (c) 2018 Clash of
+Arms Inc and J.D. Webster.

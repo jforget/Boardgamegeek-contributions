@@ -1,0 +1,391 @@
+% -*- encoding: utf-8; indent-tabs-mode: nil -*-
+%
+%     Script LATEX + METAPOST pour construire la version française de l'aide de jeu de History of the World
+%     Copyright (C) 2020 Jean Forget
+%
+%     Voir la licence dans la documentation à la fuin de ce fichier
+%
+\documentclass[a4paper,twocolumn]{article}
+\usepackage[english,frenchb,italian]{babel}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{luainputenc}
+\usepackage{luamplib}
+\usepackage{fancyhdr}
+
+% Voir LATEX guide pratique page 235
+% marge haute 25.4 - 12 = 13.4 mm
+\topmargin=-12mm
+\headheight=10mm
+\headsep=4mm
+% marge basse 297 - (13.4 + 267 + 4) = 12.6mm
+\textheight=240mm
+
+% marge gauche 25,4mm,
+% marge droite 210 - (25,4 + 173) = 11,6mm
+\oddsidemargin=0mm
+\marginparsep=0mm
+\textwidth=173mm
+\columnsep=8mm
+
+%&Latex
+
+\renewcommand{\rmdefault}[0]{ppl}
+\renewcommand{\sfdefault}[0]{phv}
+\renewcommand{\ttdefault}[0]{pcr}
+
+\newcommand{\datenum}{\number\year-%
+\ifnum\month<10\relax0\fi\number\month-%
+\ifnum\day<10\relax0\fi\number\day}
+
+\parindent=0mm
+\parskip=0pt
+
+\newenvironment{texte}{\rmfamily\footnotesize}{}
+
+\newcommand{\eps}[0]{$\varepsilon$}
+\newcommand{\carte}[1]{``\textit{#1}''}
+
+%\pagestyle{myheadings}
+%\markright{\sffamily\upshape\kern 8mm\datenum\hfill {\bfseries\normalsize History of the World}\kern 15mm\hfill Page }
+\pagestyle{fancy}
+\chead{\datenum\hfill \textit{History of the World} aide de jeu \hfill }
+\cfoot{\scriptsize CC0 (Creative Commons Zero), basé sur \textit{History of the World}, \copyright{} 2001, Avalon Hill Games, \copyright{} 2001 Hasbro}
+
+%\newcommand{\image}[2]{\includegraphics[#1]{#2}}
+\NoAutoSpaceBeforeFDP
+
+\begin{document}
+\begin{texte}
+\tolerance=1000
+
+\section{Capitale, cité et monument}
+
+\begin{mplibcode}
+beginfig(1);
+  xvide =  0; yvide = 40;
+  xcite = 60; ycite = 20;
+  xcap  =  0; ycap  =  0;
+  largeur = 20; hauteur = 5;
+  label(btex vide etex, (xvide, yvide));
+  label(btex cit\'e etex, (xcite, ycite));
+  label(btex capitale etex, (xcap, ycap));
+  draw  (xvide - largeur, yvide - hauteur) -- (xvide + largeur, yvide - hauteur)
+                                           -- (xvide + largeur, yvide + hauteur)
+                                           -- (xvide - largeur, yvide + hauteur)
+                                           -- (xvide - largeur, yvide - hauteur);
+  draw  (xcite - largeur, ycite - hauteur) -- (xcite + largeur, ycite - hauteur)
+                                           -- (xcite + largeur, ycite + hauteur)
+                                           -- (xcite - largeur, ycite + hauteur)
+                                           -- (xcite - largeur, ycite - hauteur);
+  draw  (xcap  - largeur, ycap  - hauteur) -- (xcap  + largeur, ycap  - hauteur)
+                                           -- (xcap  + largeur, ycap  + hauteur)
+                                           -- (xcap  - largeur, ycap  + hauteur)
+                                           -- (xcap  - largeur, ycap  - hauteur);
+
+  (x1, y1) = ((xvide + xcap) / 2 - 40, (yvide + ycap) / 2);
+  drawarrow (xvide - largeur, yvide) .. (x1, y1) .. (xcap - largeur, ycap);
+  label.lft(btex Placement initial etex, (x1, y1));
+
+  (x2, y2) = ((xvide + 2 * xcite) / 3 - largeur, (yvide + 2 * ycite) / 3);
+  drawarrow (xvide, yvide - hauteur) .. (x2, y2) .. (xcite - largeur, ycite);
+  label.llft(btex Carte \it Kingdom etex, (x2, y2));
+
+  (x3, y3) = ((xvide + xcite) / 2 + largeur, (yvide + ycite) / 2);
+  drawarrow (xcite, ycite + hauteur) .. (x3, y3) .. (xvide + largeur, yvide);
+  label.urt(btex Pillage, carte \it Disaster etex, (x3, y3));
+
+  (x4, y4) = ((xcite + xcap ) / 2 + largeur, (ycite + ycap - hauteur ) / 2);
+  drawarrow (xcap + largeur, ycap) .. (x4, y4) .. (xcite, ycite - hauteur);
+  label.lrt(btex Pillage, carte \it Disaster etex, (x4, y4));
+
+endfig;
+\end{mplibcode}
+
+\subsection{Capitale}
+
+      Obtenue lors du placement initial d'un peuple.
+
+      Supprimée lors d'un pillage, remplacée alors par une cité. Idem
+      avec une carte \carte{Disaster}.
+
+      Effet : 2 points.
+
+\subsection{Cité}
+
+      Obtenue lorsque l'on pille une capitale. Ou bien créée par certaines cartes
+      (royaumes).
+
+      Supprimée lors d'un nouveau pillage ou avec une carte \carte{Disaster}.
+
+      Effet : 1 point.
+
+\subsection{Monument}
+
+      Obtenu lors de la phase de construction, si l'empire contrôle deux
+      ressources.
+
+      Supprimé : habituellement, il dure jusqu'à la fin du jeu. Parfois,
+      supprimé par une carte \carte{Disaster}.
+
+      Effet : 1 point
+
+      Priorité pour le placement :
+
+\begin{enumerate}
+\item La capitale
+\item Une cité
+\item Une ressource
+\end{enumerate}
+
+\section{Monnaie}
+
+\begin{mplibcode}
+beginfig(1);
+  xrien     =   0; yrien     =  80;
+  xflotte   = -60; yflotte   =  50;
+  xmonnaie  =   0; ymonnaie  =   0;
+  xarmee    = -30; yarmee    = -40;
+  xfort     =  90; yfort     = -40;
+  xpool     =   0; ypool     = -80;
+  largeur = 20; hauteur = 5;
+  label(btex rien         etex, (xrien, yrien));
+  label(btex flotte       etex, (xflotte, yflotte));
+  label(btex monnaie      etex, (xmonnaie, ymonnaie));
+  label(btex arm\'ee      etex, (xarmee, yarmee));
+  label(btex fort         etex, (xfort, yfort));
+  label(btex pool initial etex, (xpool, ypool));
+  label(btex d'arm\'ees   etex, (xpool, ypool - 2 * hauteur));
+  draw  (xrien - largeur, yrien - hauteur) -- (xrien + largeur, yrien - hauteur)
+                                           -- (xrien + largeur, yrien + hauteur)
+                                           -- (xrien - largeur, yrien + hauteur)
+                                           -- (xrien - largeur, yrien - hauteur);
+  draw  (xflotte - largeur, yflotte - hauteur) -- (xflotte + largeur, yflotte - hauteur)
+                                               -- (xflotte + largeur, yflotte + hauteur)
+                                               -- (xflotte - largeur, yflotte + hauteur)
+                                               -- (xflotte - largeur, yflotte - hauteur);
+  draw  (xmonnaie  - largeur, ymonnaie  - hauteur) -- (xmonnaie + largeur, ymonnaie - hauteur)
+                                                   -- (xmonnaie + largeur, ymonnaie + hauteur)
+                                                   -- (xmonnaie - largeur, ymonnaie + hauteur)
+                                                   -- (xmonnaie - largeur, ymonnaie - hauteur);
+  draw  (xarmee  - largeur, yarmee  - hauteur) -- (xarmee + largeur, yarmee - hauteur)
+                                               -- (xarmee + largeur, yarmee + hauteur)
+                                               -- (xarmee - largeur, yarmee + hauteur)
+                                               -- (xarmee - largeur, yarmee - hauteur);
+  draw  (xfort  - largeur, yfort  - hauteur) -- (xfort + largeur, yfort - hauteur)
+                                             -- (xfort + largeur, yfort + hauteur)
+                                             -- (xfort - largeur, yfort + hauteur)
+                                             -- (xfort - largeur, yfort - hauteur);
+  draw  (xpool  - largeur, ypool  - 3 * hauteur) -- (xpool + largeur, ypool - 3 * hauteur)
+                                                 -- (xpool + largeur, ypool +     hauteur)
+                                                 -- (xpool - largeur, ypool +     hauteur)
+                                                 -- (xpool - largeur, ypool - 3 * hauteur);
+
+  (x1, y1) = ((xrien - largeur + xflotte) / 2 - 10, (yrien + yflotte + hauteur) / 2);
+  drawarrow (xrien - largeur, yrien) .. (x1, y1) .. (xflotte, yflotte + hauteur);
+  label.lft(btex Placement initial   etex, (x1, y1 + 2 * hauteur));
+  label.lft(btex Carte \it Astronomy etex, (x1, y1));
+
+  (x2, y2) = ((xflotte + xmonnaie - largeur) / 2 - 10, (yflotte + ymonnaie + hauteur) / 2);
+  drawarrow (xflotte, yflotte - hauteur) .. (x2, y2) .. (xmonnaie - largeur, ymonnaie + 2);
+  label.lft(btex Carte \it Reallocation etex, (x2, y2));
+
+  (x3, y3) = ((xmonnaie + xrien) / 2 - 15, (ymonnaie + yrien) / 2);
+  drawarrow (xmonnaie -5, ymonnaie + hauteur) .. (x3, y3) .. (xrien -5, yrien - hauteur);
+  label.lft(btex     Fin etex, (x3, y3 + hauteur));
+  label.lft(btex du tour etex, (x3, y3 - hauteur));
+
+  (x4, y4) = ((xmonnaie + xarmee) / 2 - 15, (ymonnaie + yarmee) / 2);
+  drawarrow (xmonnaie - largeur, ymonnaie - 2) .. (x4, y4) .. (xarmee, yarmee + hauteur);
+  label.lft(btex    Rachat d'une etex, (x4, y4 + hauteur));
+  label.lft(btex arm\'ee vaincue etex, (x4, y4 - hauteur));
+
+  (x5, y5) = ((xmonnaie + xfort) / 2 - 20, (ymonnaie + yfort) / 2);
+  drawarrow (xmonnaie, ymonnaie - hauteur) .. (x5, y5) .. (xfort - largeur, yfort);
+  label.lft(btex Achat etex, (x5, y5));
+
+  (x6, y6) = ((xmonnaie + xrien) / 2 + 15, (ymonnaie + yrien) / 2);
+  drawarrow (xrien + 5, yrien - hauteur) .. (x6, y6) .. (xmonnaie + 5, ymonnaie + hauteur);
+  label.rt(btex Cartes \it Allies  etex, (x6, y6 + 2 * hauteur));
+  label.rt(btex \it Pop. explosion etex, (x6, y6));
+  label.rt(btex \it Civil service  etex, (x6, y6 - 2 * hauteur));
+
+  (x71, y71) = ((xrien + largeur + xfort) / 2 + 15, (3 * yrien + yfort + hauteur) / 4);
+  (x72, y72) = ((xrien + largeur + 2 * xfort) / 3 + 15, (yrien + 3 * (yfort + hauteur)) / 4);
+  drawarrow (xrien + largeur, yrien - 2) .. (x71, y71) .. (x72, y72) .. (xfort - 2, yfort + hauteur);
+  label.lft(btex           Carte etex, (x72, y72));
+  label.lft(btex \it Engineering etex, (x72, y72 - 2 * hauteur));
+
+  (x81, y81) = ((xrien + largeur + 2 * xfort) / 3 + 25, (yrien + 3 * (yfort + hauteur)) / 4);
+  (x82, y82) = ((xrien + largeur + xfort) / 2 + 25, (3 * yrien + yfort + hauteur) / 4);
+  drawarrow (xfort + 2, yfort + hauteur) .. (x81, y81) .. (x82, y82) .. (xrien + largeur, yrien + 2);
+  label.rt(btex D\'efaite       etex, (x82, y82 + 10 * hauteur));
+  label.rt(btex Cartes          etex, (x82, y82 +  8 * hauteur));
+  label.rt(btex \it Famine      etex, (x82, y82 +  6 * hauteur));
+  label.rt(btex \it Plague      etex, (x82, y82 +  4 * hauteur));
+  label.rt(btex \it Black Death etex, (x82, y82 +  2 * hauteur));
+  label.rt(btex \it Pestilence  etex, (x82, y82));
+
+  (x9, y9) = ((xpool + largeur + xfort - hauteur) / 2 + 15, (ypool + yfort - hauteur) / 2);
+  drawarrow (xpool + largeur, ypool - hauteur) .. (x9, y9) .. (xfort, yfort - hauteur);
+  label.lrt(btex Conversion etex, (x9, y9));
+
+endfig;
+\end{mplibcode}
+
+\subsection{Monnaie}
+
+      Obtenue :
+      \begin{itemize}
+      \item carte \carte{Reallocation}, permettant de convertir des flottes en pièces de monnaie,
+      \item cartes \carte{Allies} et \carte{Population Explosion} donnant deux pièces,
+      \item carte \carte{Civil Service} donnant un nombre variable de pièces.
+      \end{itemize}
+
+      Effet : rachat d'une armée vaincue, ou bien construction d'un fort
+
+      Perdue à la fin du tour si pas utilisée.
+
+\subsection{Fort}
+
+      Obtenu :
+      \begin{itemize}
+      \item en dépensant une pièce de monnaie,
+      \item en convertissant une armée qui n'est pas encore placée,
+      \item carte \carte{Engineering} qui fournit 2 forts si l'on a une capitale.
+      \end{itemize}
+
+      Effet : le fort donne +1 au dé lors des combats en défense et il
+      absorbe la première perte.
+
+      Supprimé lorsqu'un combat est perdu ou par les cartes \carte{Famine},
+      \carte{Plague}, \carte{Black Death} et \carte{Pestilence}.
+
+\subsection{Flotte}
+
+      Obtenue :
+      \begin{itemize}
+      \item au déploiement d'un empire, comme indiqué sur la carte de l'empire,
+      \item carte \carte{Astronomy}.
+      \end{itemize}
+
+      Supprimée : à la fin du tour de l'empire, ou bien convertie en
+      monnaie avec une carte \carte{Reallocation}.
+
+      Effet : permet l'expansion à travers les mers et les océans.
+
+\section{Table de combat}
+
+\begin{tabular}[t]{|p{30mm}|p{16mm}|p{10mm}|p{10mm}|}
+\hline
+       Carte de         & Terrain du          &  Dés de              & Dés du  \\
+       l'attaquant      & défenseur           &  l'attaquant         & défenseur  \\
+\hline
+      (rien)            & normal              &         2D6          &       1D6         \\
+\hline
+      (rien)            & Grande muraille     &                      &       2D6         \\
+\hline
+      (rien)            & montagnes           &                      &       2D6         \\
+\hline
+Expert Troops: Mountains& montagnes           &                      &       1D6         \\
+\hline
+      (rien)            & forêt               &                      &       2D6         \\
+\hline
+ Expert Troops: Forests & forêt               &                      &       1D6         \\
+\hline
+      (rien)            & détroit             &                      &       2D6         \\
+\hline
+ Expert Troops: Straits & détroit             &                      &       1D6         \\
+\hline
+      (rien)            & débarquement        &                      &       3D6         \\
+\hline
+Naval Power             & débarquement        &                      &       2D6         \\
+\hline
+      (rien)            & fort                &                      & \textit{n}D6+1    \\
+\hline
+    Siegecraft          & capitale, cité ou
+                                fort          &        nD6+1         &                   \\
+\hline
+Leader (jusqu'au premier
+résultat triple)        &                     &         3D6          &                   \\
+\hline
+     weaponry           &                     & \textit{n}D6+1       &                   \\
+\hline
+ Jihad (jusqu'à la      &                     &       3D6+\eps       &                   \\
+ première défaite)      &                     &                      &                   \\
+\hline
+ Jihad (après la        &                     &       2D6+\eps       &                   \\
+ première défaite)      &                     &                      &                   \\
+\hline
+ Jihad (après la        &                     &         2D6          &                   \\
+ deuxième défaite)      &                     &                      &                   \\
+\hline
+ Elite (jusqu'à la      &                     & \textit{n}D6+\eps    &                   \\
+ première défaite)      &                     &                      &                   \\
+\hline
+
+
+ \end{tabular}
+
+\eps{} : un genre de point de dé fractionnaire, dont la seule utilité est qu'en cas d'égalité de points, il fait basculer la balance en la faveur du joueur.
+
+\textit{n}D6+... : se reporter à une autre ligne pour connaître la valeur de \textit{n}.
+
+\end{texte}
+\end{document}
+
+=encoding utf-8
+
+=head1 Description
+
+Script pour construire un fichier  PDF en français contenant les aides
+de jeu pour I<History of the World>.
+
+
+=head1 Utilisation
+
+  lualatex HotW-2001-city-coin-CRT-play-aid-FR-v1.tex
+
+=head1 Description
+
+Ce  fichier  LuaLATEX  donne  le  résumé de  quelques  règles  du  jeu
+I<History of  the World> (version  2001). publié par Avalon  Hill puis
+par Hasbro.
+
+Les  règles  concernant  les  capitales   et  les  cités,  les  règles
+concernant l'utilisation de la monnaie et les règles décrivant les cas
+particuliers des combats  sont dispersées dans le livret  de règles et
+dans  les cartes  d'événement. Le  but  de cette  aide de  jeu est  de
+regrouper ces règles dans des paragraphes courts et simples à lire.
+
+=head1 Copyright et Licence
+
+=head2 Fichier PDF
+
+Copyright (c) 2020 Jean Forget
+
+Le fichier PDF  résultant de ce programme est soumis  à la licence CC0
+(Creative Commons Zero).
+
+=head2 Program
+
+Copyright (c) 2020 Jean Forget
+
+Ce programme est diffusé sous la  licence GNU Public License version 1
+ou toute version ultérieure.
+
+Voici le texte officiel en anglais du résumé de la GPL :
+
+This program is  free software; you can redistribute  it and/or modify
+it under the  terms of the GNU General Public  License as published by
+the Free  Software Foundation; either  version 1, or (at  your option)
+any later version.
+
+This program  is distributed in the  hope that it will  be useful, but
+WITHOUT   ANY  WARRANTY;   without  even   the  implied   warranty  of
+MERCHANTABILITY  or FITNESS  FOR  A PARTICULAR  PURPOSE.  See the  GNU
+General Public License for more details.
+
+You should  have received  a copy  of the  GNU General  Public License
+along  with  this  program;  if   not,  write  to  the  Free  Software
+Foundation, Inc., L<https://www.fsf.org/>.
+

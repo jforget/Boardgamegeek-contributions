@@ -1,0 +1,98 @@
+% -*- encoding: utf-8 -*-
+%
+%    Document providing an index of proper names in Wings of the Motherland
+%    Copyright (C) 2020 Jean Forget, licensed under Creative Commons Zero
+%
+
+\documentclass[a4paper,twocolumn]{article}
+\usepackage{fancyhdr}
+
+\newcommand{\datenum}{\number\year-%
+\ifnum\month<10\relax0\fi\number\month-%
+\ifnum\day<10\relax0\fi\number\day}
+
+\parindent=0mm
+\parskip=0pt
+
+\pagestyle{fancy}
+\chead{\datenum\hfill Index of proper names in \textit{Wings of the Motherland} \hfill \thepage}
+\cfoot{\scriptsize CC0 (Creative Commons Zero), based on \textit{Wings of the Motherland}, copyright \copyright{} 2018 by Clash of Arms Inc \& J.D. Webster}
+
+\directlua{dofile("extract.lua")}
+
+\begin{document}
+\rmfamily
+\section*{Index of persons mentioned in the scenarios}
+
+Scenarios in which a person is active are in upright characters.
+Scenarios where a person is just mentioned are in italics.
+
+\vspace{3mm}
+
+\directlua{extract('A','M')}
+
+\section*{Index of locations and events mentioned in the scenarios}
+
+Germany, Russia and USSR are not indexed. Some locations such as
+Kursk are indexed in the associated event (Battle of Kursk).
+
+\vspace{3mm}
+
+In the context of the soviet army, ``fronts'' may designate an
+organization above armies (army groups for Germany) or this may
+designate a region where the fighting occurs. I have mentioned a few
+fronts when I think they designate a region, I have discarded the
+others when I think they designate an command organization.
+But I may have made some mistakes.
+
+\vspace{3mm}
+
+As for person names, when a location is directly involved in the
+scenario, the scenario code is typeset in upright characters and when
+the location is just mentioned, the code is typeset in italics.
+In some cases, it is difficult to determine if a location is directly
+involved in the scenario or if it is just mentioned. For example, when
+a scenario involves a mission ``en route to location X'', I have
+added the scenario code to the location X entry, but in some cases I have
+typeset the scenario code in upright characters, in other cases I have
+typeset it in italics.
+
+\vspace{3mm}
+
+\directlua{extract('L','ML')}
+
+\section*{Errata}
+
+Yakovlev, not Yakevlov: various pages of the scenario booklet, not limited
+to the scenarios from page 16 to page 114.
+
+\directlua{extract('E','-')}
+
+
+\end{document}
+
+=encoding utf-8
+
+=head1 Usage
+
+  lualatex index-WotM-v1.tex
+
+=head1 Description
+
+This  document  gives  an  index  of proper  names  mentioned  in  the
+scenarios  of  I<Wings of  the  Motherland>.  These proper  names  are
+separated in two categories. The first category is persons. The second
+category  mixes locations  (e.g. Kurksk)  and events  (e.g. Battle  of
+Kursk).
+
+This  document includes  also  a  few errata  I  have  spotted in  the
+scenario booklet.
+
+=head1 Copyright and License
+
+Copyright (c) 2020 Jean Forget, licensed under CC0 (Creative Commons Zero)
+
+The generated PDF document is based on the scenario booklet of
+\textit{Wings of the Motherland}, copyright (c) 2018, Clash of Arms
+Inc & J.D. Webster
+

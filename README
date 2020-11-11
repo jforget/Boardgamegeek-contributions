@@ -1,0 +1,12 @@
+-*- encoding: utf-8; indent-tabs-mode: nil -*-
+
+I have recently submitted a few files to Boardgamegeek.
+These files are PDF files, built by some programs.
+This repository stores the programs that I used
+to build the PDF files.
+
+These files are licensed under some free software license,
+so you can reuse my programs, tweak them and build your
+onw version of the PDF files.
+
+

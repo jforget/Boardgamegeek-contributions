@@ -1,0 +1,21 @@
+-*- encoding: utf-8; indent-tabs-mode: nil -*-
+
+Les règles concernant les capitales et les cités, les
+règles concernant l'utilisation de la monnaie et les
+règles décrivant les cas particuliers des combats sont
+dispersées dans le livret de règles et dans les cartes
+d'événement. Le but de cette aide de jeu est de regrouper
+ces règles dans des paragraphes courts et simples à lire.
+
+Existe en anglais.
+
+Si vous voulez traduire dans une autre langue, vous
+pouvez me contacter. Il vous faudra:
+-- de la patience (je ne lis pas mon courrier BGG tous les jours),
+-- une installation valide de luatex sur votre ordinateur,
+-- le fichier source en français ou en anglais (dans ce répertoire),
+-- une connaissance au raz des pâquerettes de TEX
+-- une connaissance de base de LATEX (mais pas au raz des pâquerettes)
+-- une assez bonne connaissance de METAPOST
+-- pas besoin de connaître lua.
+

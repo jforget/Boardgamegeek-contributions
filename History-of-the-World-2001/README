@@ -1,0 +1,23 @@
+-*- encoding: utf-8; indent-tabs-mode: nil -*-
+
+The rules describing capitals and cities, the rules
+governing the use of coins, and the rules describing
+special cases for combat are scattered over the
+rule booklet, plus the event cards. This play aid aims
+at gathering these rules into three comprehensive paragraphs.
+
+Exists in French.
+
+If you want to translate into another language, you
+can contact me. You will need:
+-- some patience (I do not read my geekmail every day),
+-- a working installation of luatex on your computer,
+-- the English or French source file (in this directory),
+-- very basic knowledge of TEX,
+-- some knowledge of LATEX (a bit more than TEX, but still basic),
+-- some rather good knowledge of METAPOST,
+-- knowledge of lua is not required.
+
+The LuaLATEX files are licensed under the GPL.
+
+

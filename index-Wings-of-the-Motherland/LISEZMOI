@@ -1,0 +1,95 @@
+-*- encoding: utf-8; indent-tabs-mode: nil -*-
+
+À propos de "Wings of the Motherland":
+
+Le livret de règles comporte un  index des concepts de jeu importants,
+chaque entrée pointant vers la  ou les règles définissant ou utilisant
+ledit concept. C'est bien ! Très bien !
+
+Mais le livret de scénarios ne comporte aucun index. Je suis intéressé
+par un index des personnes mentionnées dans les scénarios, ainsi qu'un
+index des  lieux où se déroulent  les scénarios. Voici le  résultat de
+mes recherches.  Les fichiers du  présent répertoire vous  donnent cet
+index des personnes  et cet index des lieux. J'ai  ajouté un index des
+fautes de frappe que j'ai détectées dans quelques scénarios.
+
+À propos, il y a sans aucun doute quelques fautes de frappe dans *mes*
+index,  ainsi que  des omissions.  Désolé.  Merci de  me signaler  ces
+erreurs, de façon que je puisse faire une version v2 corrigée.
+
+Je ne suis  pas intéressé par un index des  modèles d'avions. La table
+des scénarios des pages 114 et 115 est suffisante à mes yeux. De même,
+je ne suis pas intéressé par  un index des unités combattantes (ce qui
+inclut les noms  des navires). C'est-à-dire, pas  encore intéressé. Si
+vous voulez, vous  pouvez vous baser sur les fichiers  existants de ce
+répertoire pour  construire un index  des modèles d'avion ou  un index
+des unités combattantes.
+
+Je ne donne pas les titres de scénario, je les identifie par un simple
+code, constitué  d'une lettre et  du numéro de scénario.  Les préfixes
+sont "A" pour les scénarios de combat aérien, "G" pour les attaques au
+sol ("G" =  "ground attack"), "N" pour les attaques  air-mer ("N" pour
+"naval") et "M"  pour les scénarios utilisant  l'échelle des missions.
+Les scénarios d'entraînement  et les scénarios génériques  ne sont pas
+indexés.
+
+Le  jeu de  caractères pour  les noms  est le  Latin-1, même  pour les
+personnes  et  les lieux  russes  (ou  des autres  contrées  utilisant
+l'alphabet cyrillique).  Les noms cyrilliques sont  transcrits avec la
+méthode  anglophone ("Sasha"  au lieu  de "Sacha").  Pour les  noms en
+français (*)  ou en allemand  (et peut-être d'autres langues  comme le
+finlandais  et  le hongrois),  j'essaie  d'utiliser  les accents,  les
+trémas, les  umlauts et autres  signes particuliers, mais je  ne donne
+aucune garantie là-dessus.
+
+(*) Étant donné  que ma langue maternelle est le  français et que j'ai
+plusieurs livres sur le Normandie-Niémen,  vous pouvez espérer que les
+noms français seront correctement  orthographiés, mais malgré tout, je
+ne donne pas de garantie.
+
+Les noms des individus sont écrits  avec le nom de famille d'abord, le
+prénom ensuite et le surnom (s'il  existe) en dernier. Je ne donne pas
+le grade, puisqu'il  est susceptible de changer d'une  date à l'autre.
+De même, les  lieux sont donnés sour  la forme "Don river"  au lieu de
+"river Don".
+
+Le  problème Richthofen  :  au Normandie-Niémen,  il  y avait  Maurice
+Challe (*) et René Challe, deux frères, comme Manfred et Lothar 25 ans
+auparavant  à la  Jasta 11.  Il y  avait aussi  Jean Sauvage  et Roger
+Sauvage (aucun  lien de  parenté). Il faut  donc faire  attention pour
+éviter  la confusion.  Lors de  l'écriture  de l'index,  j'ai noté  en
+particulier Georgiy Golubev et Vasiliy Golubev. Savez-vous s'il existe
+d'autres pilotes avec des noms sources de confusion ?
+
+(*) Si  vous cherchez  "Maurice Challe" dans  un moteur  de recherche,
+vous  verrez que  le  "problème Richthofen"  s'aggrave.  En effet,  il
+existe deux  "Maurice Challe" connus  : le pilote  du Normandie-Niémen
+(1911--1945)  et  un  général  d'aviation (1905--1979)  sans  lien  de
+parenté, qui a pris part au putsch d'Alger en 1961.
+
+Dans certains  cas, un  premier scénario mentionne  un nom  de famille
+sans prénom  et un second  scénario mentionne  le même nom  de famille
+avec un prénom.  Par exemple le scénario A75  mentionne "Shestakov" et
+le scénario  A117 mentionne  "Lev Shestakov".  J'ai fusionné  les deux
+entrées dans la  table, même si je n'ai aucune  certitude qu'il s'agit
+de la même personne.
+
+L'index inclut à  la fois les personnes avec une  part active dans les
+scénarios  et les  personnes  qui sont  simplement mentionnées,  comme
+Hans-Joachim Marseille,  Manfred von Richthofen et  même Léonidas, roi
+de  Sparte. Lorsque  le code  du  scénario est  imprimé en  caractères
+droits,  cela signifie  que  la personne  a pris  une  part active  au
+scénario  et  lorsque le  code  du  scénario  est en  italiques,  cela
+signifie que la personne a  simplement été mentionnée dans le scénario
+sans y  participer. Le  même principe  a été  adopté pour  l'index des
+lieux, mais avec  une certaine incohérence à  l'occasion. Par exemple,
+lorsque  le scénario  est  une  mission "à  destination  de  X" ou  "à
+proximité de Y", le  code du scénario pour X ou  Y est parfois imprimé
+en caractères droits, parfois en italiques.
+
+Pour le programme Lua, la licence est la GNU Public License, version 1
+ou ultérieure.
+
+Pour les autres fichiers, la  licence est "Creative Commons Zero". Ces
+fichiers  sont basés  sur "Wings  of Motherland",  copyright (c)  2018
+Clash of Arms Inc and J.D. Webster.
