@@ -11,7 +11,7 @@ ML China
 ML Battle of Kursk
 
 A2
-A Goshk, Stepan
+A Goshko, Stepan
 L Rzhev
 
 A3
@@ -34,6 +34,7 @@ L Crimea
 A7
 L East Prussia
 A Challe, René
+E René Challe, not Rene Challes
 
 A8
 A Lavrinenkov, Vladimir
@@ -106,8 +107,9 @@ A25
 ML Romania
 ML Ukraine
 A Graf, Hermann
-A Grislawski, Alfred
+M Grislawski, Alfred
 L Kiev
+A Stein
 
 A26
 A Dimitriyev
@@ -186,6 +188,7 @@ E Rubstov or Rubtsov?
 A46
 L Kharkov
 A Eryomin
+E Eryomin or Yeremin? (see paragraph "4 crew quality")
 
 A47
 L Lake Ladoga
@@ -223,6 +226,7 @@ A55
 L Kirisha
 A Sukov, Arkadii
 A Lörzer
+E Sukov: Arkadii or Arkadi?
 
 A56
 L Don river
@@ -301,6 +305,7 @@ A Zangiyev
 A72
 A Sukov, Arkadii
 M Heyer, Hans-Joachim
+E Sukov: Arkadii or Arkadi?
 
 A73
 ML Stalingrad
@@ -319,7 +324,7 @@ ML Battle of Britain
 A75
 A Budanova, Iekaterina, "Katya"
 M Shestakov, Lev
-A Belayaeva, Raisa
+M Belayaeva, Raisa
 M Kuznetsova, Mariya
 M Litvak, Lilya
 
@@ -461,7 +466,7 @@ ML Kiev
 A Lipfert, Helmut
 
 A109
-L Lang, Emil
+M Lang, Emil
 M Marseille, Hans-Joachim
 ML North Africa
 A Rudorffer, Erich
@@ -584,6 +589,7 @@ L Königsberg
 A139
 A Sukov, Arkadii
 A Kroshinksi, Hans-Joachim
+E Sukov: Arkadii or Arkadi?
 
 A140
 ML Hungary
@@ -683,7 +689,7 @@ G21
 L Stalingrad
 
 G22
-A Emelianeko, Vasily
+A Emelianenko, Vasily
 ML North Caucasus
 
 G23
@@ -887,4 +893,5 @@ L Ukraine
 L Byshiv
 L Tilsit
 L East Prussia
+E Reshetnikov or Reshtnikov? or even Shestikov in paragraph "1 crew quality"
 
