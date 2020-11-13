@@ -7,12 +7,13 @@ Based on the scenario book of the game "Wings of the Motherland", copyright © 2
 A1
 A Zakharov, Georgiy
 L Minsk
+ML Spanish Civil War
 ML China
 ML Battle of Kursk
 
 A2
 A Goshko, Stepan
-L Rzhev
+ML Rzhev
 
 A3
 L Poltava
@@ -29,6 +30,7 @@ L Battle of Kursk
 A6
 A Lipfert, Helmut
 L strait of Kerch
+L Kerch, strait of
 L Crimea
 
 A7
@@ -76,7 +78,7 @@ A17
 A Ostermann
 
 A18
-L Berezina
+L Berezina river
 
 A19
 A Pokryshkin, Alexander "Sasha"
@@ -93,11 +95,12 @@ ML Battle of Britain
 M Von Richthofen, Manfred, Red Baron
 
 A22
-L Smolensk
+ML Smolensk
 A Orlov
 
 A23
-L Smolensk
+ML Smolensk
+L Barbarossa, Operation
 
 A24
 A Zaitsev, Alexander
@@ -108,7 +111,7 @@ ML Romania
 ML Ukraine
 A Graf, Hermann
 M Grislawski, Alfred
-L Kiev
+ML Kiev
 A Stein
 
 A26
@@ -119,6 +122,9 @@ A28
 L Murmansk
 A Hoffman
 
+A29
+L Barbarossa, Operation
+
 A30
 A Grislawski, Alfred
 
@@ -127,7 +133,7 @@ A Füllgrabe
 A Graf, Hermann
 
 A32
-L Moscow
+ML Moscow
 
 A33
 ML Zagreb
@@ -210,20 +216,21 @@ L Crimea
 
 A52
 A Graf, Hermann
-L Kharkov
+ML Kharkov
 E Graf with a single "f", not Graff
 
 A53
-L Kharkov
+ML Kharkov
 A Grislawski, Alfred
 A Hahn, Fritz
 
 A54
 A Pokryshkin, Alexander "Sasha"
-L Kharkov
+ML Kharkov
 
 A55
 L Kirisha
+L Volkhov Front
 A Sukov, Arkadii
 A Lörzer
 E Sukov: Arkadii or Arkadi?
@@ -232,12 +239,12 @@ A56
 L Don river
 
 A57
-L Lubyan
+L Lubyan Pocket
 A Teige, Waldemar
 
 A58
 L Kupyansk
-L Kharkov
+ML Kharkov
 A Yakimenko, Anton
 
 A59
@@ -253,6 +260,7 @@ A Dzal, Franjo
 M Pokryshkin, Alexander "Sasha"
 
 A62
+ML Rhzev
 A Kolbasovskiy or Kobasovskiy
 E Kolbasovskiy or Kobasovskiy?
 
@@ -291,7 +299,7 @@ M Litvak, Lilya
 E Budanova: Iekaterina, not Yaketarina
 
 A69
-L Smolensk
+ML Smolensk
 
 A70
 L Stalingrad
@@ -405,6 +413,7 @@ A92
 A Krupinski, Walter
 A Hartmann, Erich "Bubbi"
 L Ugrim
+E Missing close parens "(3238**) is" instead of "(3238** is"
 
 A93
 ML Battle of Kursk
@@ -416,6 +425,7 @@ A95
 L Battle of Kursk
 A Rall, Günther
 A Hartmann, Erich "Bubbi"
+E Missing close parens "(2840*) is" instead of "(2840* is"
 
 A96
 A Kozhedub, Ivan
@@ -488,6 +498,7 @@ ML Karelia
 A113
 ML Crimea
 ML Odessa
+L Black Sea
 A Pokryshkin, Alexander "Sasha"
 A Golubev, Georgiy
 
@@ -515,6 +526,7 @@ A118
 A Hannig, Norbert
 
 A119
+L Baltic Sea
 ML Leningrad
 
 A120
@@ -560,6 +572,7 @@ A Valpas
 A130
 ML Romania
 ML Turda
+E Rumania or Romania?
 
 A131
 A Tammen, Heinrich
@@ -601,10 +614,14 @@ A142
 L Königsberg
 A Marchi, Roger
 A Sauvage, Roger
+E Königsberg, not Konigsberg
+E Niemen, not Neimen
 
 A143
+ML Romania
 A Cantacuzino
 A Lipfert, Helmut
+E Rumania or Romania?
 
 A144
 A Kozhedub, Ivan
@@ -624,6 +641,7 @@ A Merkle, Karl
 
 A147
 A Kozhedub, Ivan
+L Berlin
 
 A148
 A Glinka, Dmitriy
@@ -644,6 +662,7 @@ G4
 A Rudel, Hans-Ulrich
 
 G5
+L Typhoon, Operation
 ML Moscow
 
 G8
@@ -761,6 +780,10 @@ G38
 M Leonidas
 ML Thermopylae
 ML Greece
+L Oder river
+
+G39
+L Oder river
 
 G40
 L Yuterborg
@@ -769,6 +792,8 @@ ML Berlin
 
 N1
 ML Sevastopol
+L strait of Kerch
+L Kerch, strait of
 
 N2
 ML Murmansk
@@ -778,6 +803,7 @@ ML Barents Sea
 N3
 A Lipfert, Helmut
 L strait of Kerch
+L Kerch, strait of
 L Black Sea
 
 N4
@@ -808,8 +834,9 @@ L Kerch peninsula
 
 N10
 L Kerch peninsula
-L Sevastopol
+ML Sevastopol
 L strait of Kerch
+L Kerch, strait of
 E Straits or strait?
 
 N11
@@ -844,11 +871,13 @@ L Black Sea
 ML Ukraine
 
 N19
+L Baltic Sea
 L Kiel
 
 N20
 ML East Prussia
 ML Estonia
+ML Prussia
 ML Denmark
 
 M1
@@ -864,6 +893,7 @@ L Norway
 L Banak
 L Nordkap
 L Barents Sea
+E Barents Sea, not Barent Sea
 
 M3
 L Black Sea
