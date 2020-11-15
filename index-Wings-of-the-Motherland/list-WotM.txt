@@ -413,7 +413,7 @@ A92
 A Krupinski, Walter
 A Hartmann, Erich "Bubbi"
 L Ugrim
-E Missing close parens "(3238**) is" instead of "(3238** is"
+E Missing close parens in the "crew quality" paragraph
 
 A93
 ML Battle of Kursk
@@ -425,7 +425,7 @@ A95
 L Battle of Kursk
 A Rall, Günther
 A Hartmann, Erich "Bubbi"
-E Missing close parens "(2840*) is" instead of "(2840* is"
+E Missing close parens in the "crew quality" paragraph
 
 A96
 A Kozhedub, Ivan
