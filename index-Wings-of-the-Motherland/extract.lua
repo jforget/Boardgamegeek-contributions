@@ -11,6 +11,14 @@ See the summary of GPL in the POD documentation below.
 
 ]]
 
+function normalize(name)
+  name = string.gsub(name, "é", "e");
+  name = string.gsub(name, "ö", "o");
+  name = string.gsub(name, "ü", "u");
+  name = string.gsub(name, "ž", "z");
+  return string.upper(name)
+end
+
 function extract(normal_tag, italic_tag)
 
 local filename = "list-WotM.txt";
@@ -19,6 +27,7 @@ local tag
 local name
 local data  = {}
 local names = {}
+local normalized_name = {}
 local bsl   = string.char(92)
 
 local f = assert(io.open(filename, 'r'))
@@ -32,7 +41,9 @@ for line in f:lines() do
     if (tag == normal_tag or tag == italic_tag) and name ~= nil then
       if data[name] == nil then
 	data[name] = { }
-        table.insert(names, name)
+        table.insert(names, name);
+        normalized_name[name] = normalize(name);
+        -- print(name, '->', normalize(name));
       end
       if tag == normal_tag then
 	table.insert(data[name], scenario);
@@ -44,7 +55,9 @@ for line in f:lines() do
   end
 end
 
-table.sort(names, function (a, b) return string.upper(a) < string.upper(b) end)
+
+
+table.sort(names, function (a, b) return normalized_name[a] < normalized_name[b] end)
 for i, n in ipairs(names) do
   sep = ''
   line = string.format("%s :", string.gsub(n, ' "', ' ``'))
