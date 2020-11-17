@@ -60,7 +60,9 @@ end
 table.sort(names, function (a, b) return normalized_name[a] < normalized_name[b] end)
 for i, n in ipairs(names) do
   sep = ''
-  line = string.format("%s :", string.gsub(n, ' "', ' ``'))
+  line = string.gsub(n, ' "', ' ``')
+  line = string.gsub(line, '"', "''")
+  line = string.format("%s :", line)
   for j, sc in ipairs(data[n]) do
     line = line .. string.format("%s %s", sep, sc)
     sep = ','

@@ -5,12 +5,15 @@
 %
 
 \documentclass[a4paper,twocolumn]{article}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{luainputenc}
 \usepackage{fancyhdr}
 
 \newcommand{\datenum}{\number\year-%
 \ifnum\month<10\relax0\fi\number\month-%
 \ifnum\day<10\relax0\fi\number\day}
 
+\renewcommand{\rmdefault}[0]{ppl}
 \parindent=0mm
 \parskip=0pt
 
@@ -19,9 +22,9 @@
 \cfoot{\scriptsize CC0 (Creative Commons Zero), based on \textit{Wings of the Motherland}, copyright \copyright{} 2018 by Clash of Arms Inc \& J.D. Webster}
 
 \directlua{dofile("extract.lua")}
+\newenvironment{texte}{\rmfamily}{}
 
 \begin{document}
-\rmfamily
 \section*{Index of persons mentioned in the scenarios}
 
 Scenarios in which a person is active are in upright characters.
@@ -71,7 +74,6 @@ Yakovlev, not Yakevlov: various pages of the scenario booklet, not limited
 to the scenarios from page 16 to page 114.
 
 \directlua{extract('E','-')}
-
 
 \end{document}
 
