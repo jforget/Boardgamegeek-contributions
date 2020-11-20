@@ -233,7 +233,7 @@ L Kirisha
 L Volkhov Front
 A Sukov, Arkadii
 A Lörzer
-E Sukov: Arkadii or Arkadi?
+E Sukov: Arkadii or Arkadi? Does it really matter?
 
 A56
 L Don river
@@ -313,7 +313,7 @@ A Zangiyev
 A72
 A Sukov, Arkadii
 M Heyer, Hans-Joachim
-E Sukov: Arkadii or Arkadi?
+E Sukov: Arkadii or Arkadi? Does it really matter?
 
 A73
 ML Stalingrad
@@ -413,7 +413,7 @@ A92
 A Krupinski, Walter
 A Hartmann, Erich "Bubbi"
 L Ugrim
-E Missing close parens in the "crew quality" paragraph
+E Missing close parenthesis in the "crew quality" paragraph
 
 A93
 ML Battle of Kursk
@@ -425,7 +425,7 @@ A95
 L Battle of Kursk
 A Rall, Günther
 A Hartmann, Erich "Bubbi"
-E Missing close parens in the "crew quality" paragraph
+E Missing close parenthesis in the "crew quality" paragraph
 
 A96
 A Kozhedub, Ivan
@@ -602,7 +602,7 @@ L Königsberg
 A139
 A Sukov, Arkadii
 A Kroshinksi, Hans-Joachim
-E Sukov: Arkadii or Arkadi?
+E Sukov: Arkadii or Arkadi? Does it really matter?
 
 A140
 ML Hungary
