@@ -31,7 +31,7 @@ scenarios, "N" for ship attack scenarios  ("N "is for "naval") and "M"
 for mission  scale scenarios. Training  and general scenarios  are not
 taken into account, they do not contain names.
 
-Names  are be  typed in  Latin-1, even  for Russian  people (or  other
+Names  are  typed  in  Latin-1,  even for  Russian  people  (or  other
 countries using Cyrillic). Cyrillic names are transcribed into Latin-1
 using  the  English method.  For  French  (*)  and German  names  (and
 possibly a few others such as Finnish, Hungarian names), I will try to
@@ -75,7 +75,7 @@ scenario code  is in  upright characters, that  means an  active role.
 When the scenario code is in italics, that means a simple mention. The
 same   is  done   for  the   locations,  but   there  might   be  some
 inconsistencies. For example, when a  scenario describes a mission "en
-route to X" or  "in the neighborhood of Y", the  scenarion codes for X
+route to X"  or "in the neighborhood  of Y", the scenario  codes for X
 and Y are  sometimes printed in upright characters and  in other cases
 they are printed in italics.
 
