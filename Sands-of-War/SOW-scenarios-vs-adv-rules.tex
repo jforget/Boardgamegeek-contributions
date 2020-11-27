@@ -1,0 +1,151 @@
+% -*- encoding: utf-8; indent-tabs-mode: nil -*-
+%\documentclass[a4paper,twocolumn]{article}
+\documentclass[a4paper]{article}
+\usepackage[english]{babel}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{luainputenc}
+\usepackage{fancyhdr}
+%\usepackage{lastpage}
+
+% Voir LATEX guide pratique page 235
+% marge haute 25.4 - 12 = 13.4 mm
+\topmargin=-12mm
+\headheight=10mm
+\headsep=4mm
+% marge basse 297 - (13.4 + 267 + 4) = 12.6mm
+\textheight=240mm
+
+% marge gauche 25,4mm,
+% marge droite 210 - (25,4 + 173) = 11,6mm
+\oddsidemargin=0mm
+\marginparsep=0mm
+\textwidth=173mm
+\columnsep=8mm
+
+%&Latex
+
+% \input{psnames}  % defines macros for names of PostScript TFMs
+\newenvironment{texte}{\rmfamily\footnotesize}{}
+
+\renewcommand{\rmdefault}[0]{ppl}
+\renewcommand{\sfdefault}[0]{phv}
+\renewcommand{\ttdefault}[0]{pcr}
+
+\parindent=0mm
+\parskip=0pt
+% \hsize=80mm
+\newlength{\decal}
+\setlength{\decal}{8mm}
+\newlength{\lgboite}
+\newlength{\supplement}
+\setlength{\supplement}{2mm}
+
+\newcommand{\z}[0]{\makebox[2mm]{}}
+\newcommand{\datenum}{\number\year-\ifnum\month<10\relax0\fi\number\month-\ifnum\day<10\relax0\fi\number\day}
+
+%\pagestyle{myheadings}
+%\markright{\sffamily\upshape\kern 8mm\datenum\hfill {\bfseries\normalsize The Sands of War scenarios}\kern 15mm\hfill Page }
+\pagestyle{fancy}
+\chead{\datenum\hfill \textit{The Sands of Wars} scenarios and advanced rules \hfill \thepage}
+\cfoot{\scriptsize CC0 (Creative Commons Zero), based on \textit{The Sands of War}, \copyright{} 1991, Franck Chadwick and GDW, Inc
+and \textit{The Sands of War Expanson Kit}, \copyright{} 1992, Franck Chadwick and GDW, Inc }
+
+\begin{document}
+\begin{texte}
+
+\tolerance=1000
+
+Upright title: scenario from the basic game
+
+\textit{Italic title: scenario from the expansion kit}
+
+\vspace*{5mm}
+
+\begin{tabular}{ll}
+N    &   None                             \\
+M    &   Missiles                         \\
+W    &   Troop-carried weapons            \\
+EW   &   Electronic warfare               \\
+GSA  &   General support artillery        \\
+AM   &   Advanced munitions               \\
+A    &   Amphibious and aquatic movement  \\
+OF   &   Obstacles and fortifications     \\
+FB   &   Fighter-bombers                  \\
+H    &   Helicopters                      \\
+V    &   Limited visibility               \\
+R    &   Rubble                           \\ 
+\end{tabular}
+
+\begin{tabular}{lrrrrrrrrrrrr}
+                                                   & N &  M &  W & EW & GSA & AM & A & OF & FB & H &  V & R \\
+
+\bf World War II in the Desert \\
+
+\it  Operation Compass                             &   &    &    &    &     & AM &   &    &    &   &  V &   \\
+     Operation Brevity                             &   &    &    &    &     &    &   & OF &    &   &    &   \\
+     Battleaxe, the central column                 &   &    &    &    &     & AM &   &    &    &   &  V &   \\
+     Battleaxe, the desert column                  &   &    &    &    &     & AM &   & OF &    &   &  V &   \\
+     The French Counterattack                      & N &    &    &    &     &    &   &    &    &   &    &   \\
+     The Palmyra Road                              & N &    &    &    &     &    &   &    &    &   &    &   \\
+\it  Operation Crusader, the Battle of Bir El Gubi &   &    &    &    &     & AM &   & OF & FB &   &  V &   \\
+\it  Operation Crusader, the Battle of Sidi Rezegh &   &    &    &    & GSA & AM &   &    & FB &   &  V &   \\
+     The Defense of "Snipe"                        &   &    &    &    &     & AM &   & OF &    &   &  V &   \\
+
+\bf Israeli War of Independence \\
+
+     The Jordan Valley                             & N &    &    &    &     &    &   &    &    &   &    &   \\
+     Second Battle of Latrun                       &   &    &  W &    &     &    &   &    &    &   &    &   \\
+     Operation Danny                               & N &    &    &    &     &    &   &    &    &   &    &   \\
+
+\bf The Sinai War \\
+
+     Abu Agheila                                   &   &    &    &    &     & AM &   & OF & FB &   &  V &   \\
+     Ambush at Mitla Pass                          &   &    &    &    &     &    &   & OF & FB &   &    &   \\
+
+\bf The Six Day War \\
+
+\it  South of Sheikh Zuweid                        &   &    &    &    &     & AM &   &    &    &   &  V &   \\
+     The Fall of Abu Agheila                       &   &  M &  W &    &     & AM &   & OF &    &   &  V &   \\
+     Encounter on the Ismaila Road                 & N &    &    &    &     &    &   &    &    &   &    &   \\
+     The Karameh Raid                              &   &    &  W &    &     & AM &   & OF & FB & H &  V &   \\
+
+\bf 1973 Arab-Israeli War \\
+
+     Final Attack on Booster                       &   &  M &  W &    &     & AM &   & OF &    &   &  V &   \\
+     The Drive for Ismaila                         &   &  M &  W &    &     & AM & A & OF & FB &   &  V &   \\
+
+\bf Lebanon - the Tortured Land \\
+
+     Ambush at Ain Zhalta                          &   &  M &  W &    &     & AM &   & OF &    &   &  V &   \\
+     Into the Bekaa                                &   &  M &  W &    & GSA & AM &   & OF &    & H &  V &   \\
+     Parting Shots                                 &   &  M &  W &    & GSA & AM &   & OF & FB &   &  V &   \\
+
+\bf The Iran-Iraq War \\
+
+     The First Attacks                             &   &    &  W &    &     &    &   &    &    &   &    &   \\
+     Ambush on the Korun River                     &   &  M &  W &    &     & AM & A &    &    &   &  V &   \\
+     Wal-Fajr 3 Offensive                          &   &  M &  W &    &     & AM &   & OF &    & H &  V &   \\
+     Operation Kheiber                             &   &  M &  W &    &     & AM & A & OF & FB & H &  V &   \\
+     Karbala-1                                     &   &  M &  W &    &     & AM &   & OF & FB & H &  V &   \\
+     Operation Badr                                &   &  M &  W &    &     & AM & A & OF & FB & H &  V &   \\
+     Operation Wal-Fajr 8                          &   &  M &  W &    &     & AM & A & OF &    &   &  V &   \\
+     Salamcheh                                     &   &  M &  W &    & GSA & AM & A & OF & FB & H &  V &   \\
+
+\bf The Gulf War \\
+
+     Saddam Strikes Back                           &   &  M &  W &    &     & AM & A &    &    & H &  V &   \\
+\it  Beachhead Kuwait                              &   &    &  W &    &     & AM & A & OF & FB & H &  V & R \\
+\it  The Battle of As Salam                        &   &    &  W &    &     & AM &   &    &    & H &  V &   \\
+\it  Al Jaber Airbase                              &   &    &  W &    &     & AM &   & OF &    &   &  V &   \\
+     Makfar Al Busayyah                            &   &  M &  W & EW & GSA & AM &   & OF &    &   &  V &   \\
+     Into the Euphrates Valley                     &   &  M &  W & EW & GSA & AM & A & OF &    &   &  V &   \\
+     Crushing the Tawakalna Guards                 &   &  M &  W & EW & GSA & AM &   &    &    &   &  V &   \\
+     Madinah Ridge                                 &   &  M &  W & EW & GSA & AM &   & OF & FB & H &  V &   \\
+\it  Kuwait International Airport                  &   &    &  W & EW & GSA & AM &   &    &    & H &  V &   \\
+\hline
+    Basic game                                     & 5 & 18 & 22 &  4 &  7  & 23 & 8 & 21 & 10 & 9 & 23 & 0 \\
+\it Expansion kit                                  & 0 &  0 &  4 &  1 &  2  &  8 & 1 &  3 &  3 & 3 &  8 & 1 \\
+\end{tabular}
+
+\end{texte}
+\end{document}
