@@ -1,0 +1,488 @@
+% -*- encoding: utf-8; indent-tabs-mode: nil -*-
+%
+%    French translation of the game sequence of Raid on St Nazaire, with various tables
+%    Copyright (C) 2020 Jean Forget, licensed under Creative Commons Zero
+%
+
+\documentclass[a4paper]{article}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{luainputenc}
+\usepackage{luamplib}
+%\usepackage{luatexko-mplib}
+\usepackage{fancyhdr}
+
+\hoffset-35mm
+\voffset-25mm
+%\hsize190mm
+%\vsize285mm
+
+\pageheight297mm
+\textheight255mm
+\pagewidth210mm
+\textwidth190mm
+
+\newcommand{\datenum}{\number\year-%
+\ifnum\month<10\relax0\fi\number\month-%
+\ifnum\day<10\relax0\fi\number\day}
+
+\pagestyle{fancy}
+\chead{\datenum\hfill Séquence de jeu \textit{Raid sur Saint-Nazaire} \hfill \thepage}
+\cfoot{\scriptsize CC0 (Creative Commons Zero) \\ basé sur \textit{Raid on St Nazaire}, copyright \copyright{} 1987 by The Avalon Hill Game Company}
+
+\renewcommand{\rmdefault}[0]{ppl}
+\renewcommand{\sfdefault}[0]{phv}
+\renewcommand{\ttdefault}[0]{pcr}
+
+\begin{document}
+\begin{mplibcode}
+beginfig(1);
+label.rt(btex \strut{} 1 {\bf D\'ebut du tour}                    etex, (100, 400));
+label.rt(btex \strut{} 1.1 r\'etablissement des canons            etex, (100, 390));
+label.rt(btex \strut{} et projecteurs {\it DR}                    etex, (100, 380)); xga = 100; yga = 380;
+label.rt(btex \strut{} 1.2 illumination {\it dr s\'election}      etex, (100, 370)); xda = 100; yda = 370;
+label.rt(btex \strut{} 2 {\bf Combat naval}                       etex, (100, 360));
+label.rt(btex \strut{} 2.1 les Allemands attaquent                etex, (100, 350));
+label.rt(btex \strut{} avec la d\'efense c\^oti\`ere              etex, (100, 340));
+label.rt(btex \strut{} 2.1.1 tirs syst\'ematiques                 etex, (100, 330));
+label.rt(btex \strut{} (Campbeltown si encore occup\'e,           etex, (100, 320));
+label.rt(btex \strut{} bateaux en feu)                            etex, (100, 310));
+label.rt(btex \strut{} {\it DR d\'eg\^ats}                        etex, (100, 300)); xgb = 100; ygb = 300;
+label.rt(btex \strut{} 2.1.2 tirs al\'eatoires                    etex, (100, 290));
+label.rt(btex \strut{} triade to hit/s\'election                  etex, (100, 280)); xdb = 100; ydb = 280;
+label.rt(btex \strut{} {\it DR d\'eg\^ats}                        etex, (100, 270)); xgc = 100; ygc = 270;
+label.rt(btex \strut{} 2.1.3 tirs en pleine mer                   etex, (100, 260));
+label.rt(btex \strut{} {\it DR} puis r\'esolution                 etex, (100, 250)); xgd = 100; ygd = 250;
+label.rt(btex \strut{} 2.2 les Anglais attaquent                  etex, (100, 240));
+label.rt(btex \strut{} avec des tirs de couverture                etex, (100, 230));
+label.rt(btex \strut{} {\it DR to hit} puis {\it dr} d\'eg\^ats   etex, (100, 220)); xdc = 100; ydc = 220;
+label.rt(btex \strut{} 2.3 les Allemands attaquent                etex, (100, 210));
+label.rt(btex \strut{} avec la d\'efense locale                   etex, (100, 200));
+label.rt(btex \strut{} triade to hit/s\'election                  etex, (100, 190)); xdd = 100; ydd = 190;
+label.rt(btex \strut{} {\it DR d\'eg\^ats}                        etex, (100, 180)); xgf = 100; ygf = 180;
+label.rt(btex \strut{} 3 {\bf Mouvement naval}                    etex, (100, 170));
+label.rt(btex \strut{} 3.1 effectuer les mouvements               etex, (100, 160)); xde = 100; yde = 160;
+label.rt(btex \strut{} 3.2 retraite des bateaux                   etex, (100, 150));
+label.rt(btex \strut{} allemands \`a partir de 02:22              etex, (100, 140));
+label.rt(btex \strut{} 3.3 enlever les marqueurs ``evasive"       etex, (100, 130));
+label.rt(btex \strut{} et ``turn away" ainsi                      etex, (100, 120));
+label.rt(btex \strut{} que les bateaux coul\'es                   etex, (100, 110));
+label.rt(btex \strut{} 4 {\bf D\'ebarquement et embarquement}     etex, (100, 100));
+label.rt(btex \strut{} 5 {\bf Activation des Allemands}           etex, (100,  90)); xdf = 100; ydf = 90;
+label.rt(btex \strut{} 6 {\bf Mouvement terrestre}                etex, (100,  80));
+label.rt(btex \strut{} 6.1 les commandos peuvent bouger           etex, (100,  70));
+label.rt(btex \strut{} 6.2 lancer les d\'es pour les Allemands,   etex, (100,  60));
+label.rt(btex \strut{} ceux qui r\'epondent aux                   etex, (100,  50));
+label.rt(btex \strut{} crit\`eres doivent bouger {\it dr}         etex, (100,  40));
+label.rt(btex \strut{} 7 {\bf Combat}                             etex, (100,  30));
+label.rt(btex \strut{} 7.1 les commandos peuvent tirer {\it dr}   etex, (100,  20)); xgj = 100; ygj = 20; 
+label.rt(btex \strut{} 7.2 les Allemands doivent tirer {\it dr}   etex, (100,  10)); xgg = 100; ygg = 10; 
+label.rt(btex \strut{} y compris la FLAK                          etex, (100,   0)); xdg = 100; ydg =  0;  
+label.rt(btex \strut{} 8 {\bf D\'emolition}                       etex, (100, -10));                      
+label.rt(btex \strut{} 8.1 r\'esoudre les pr\'eparations {\it dr} etex, (100, -20)); xgh = 100; ygh = -20;
+label.rt(btex \strut{} 8.2 r\'esoudre les d\'emolitions {\it dr}, etex, (100, -30)); xgi = 100; ygi = -30;
+label.rt(btex \strut{} les Allemands peuvent d\'ecouvrir          etex, (100, -40));
+label.rt(btex \strut{} et d\'esamorcer les charges {\it DR}       etex, (100, -50));
+label.rt(btex \strut{} 9 {\bf Fin du tour}                        etex, (100, -60));
+label.rt(btex \strut{} amalgame des pions allemands               etex, (100, -70));
+
+% Table des projecteurs
+xproj.g = -90; yproj.h = 400;
+label.rt(btex \strut{} 6.1                                        etex, (-90, 400));
+label.rt(btex \strut{}  {\it DR} : cf. marqueur OOA/DIS           etex, (-75, 400));
+label.rt(btex \strut{}  ou pion (si centrale 315 HS)              etex, (-75, 390));
+yproj.b = yproj.h - 30;
+
+% Table des dégâts
+xdegats.g = -75; ydegats.h = 370;
+label.lft(btex \strut{} 7.1                                                 etex, (xdegats.g, ydegats.h      ));
+label.rt (btex \strut{}       d\'eg\^ats                                    etex, (xdegats.g, ydegats.h      ));
+label.lft(btex \strut{} DR                                                  etex, (xdegats.g, ydegats.h -  10));
+label.rt (btex \strut{}       r\'esultat                                    etex, (xdegats.g, ydegats.h -  10));
+label.rt (btex \strut{}       $\dagger$ sauf Campbeltown                    etex, (xdegats.g, ydegats.h -  20));
+label.lft(btex \strut{}  2                                                  etex, (xdegats.g, ydegats.h -  30));
+label.rt (btex \strut{}       coul\'e  $\dagger$                            etex, (xdegats.g, ydegats.h -  30));
+label.rt (btex \strut{}       Campbeltwon : feu, pertes mult.               etex, (xdegats.g, ydegats.h -  40));
+label.lft(btex \strut{}  3                                                  etex, (xdegats.g, ydegats.h -  50));
+label.rt (btex \strut{}       feu, pertes mutiples                          etex, (xdegats.g, ydegats.h -  50));
+label.lft(btex \strut{}  4                                                  etex, (xdegats.g, ydegats.h -  60));
+label.rt (btex \strut{}       feu, r\'eduction canon                        etex, (xdegats.g, ydegats.h -  60));
+label.lft(btex \strut{}  5                                                  etex, (xdegats.g, ydegats.h -  70));
+label.rt (btex \strut{}       ``turn away'' $\dagger$, pertes mutiples      etex, (xdegats.g, ydegats.h -  70));
+label.lft(btex \strut{}  6                                                  etex, (xdegats.g, ydegats.h -  80));
+label.rt (btex \strut{}       ``turn away'' $\dagger$, r\'eduction canon    etex, (xdegats.g, ydegats.h -  80));
+label.lft(btex \strut{}  7                                                  etex, (xdegats.g, ydegats.h -  90));
+label.rt (btex \strut{}       ``evasive'' $\dagger$, pertes mutiples        etex, (xdegats.g, ydegats.h -  90));
+label.lft(btex \strut{}  8                                                  etex, (xdegats.g, ydegats.h - 100));
+label.rt (btex \strut{}       ``evasive'' $\dagger$, pertes                 etex, (xdegats.g, ydegats.h - 100));
+label.lft(btex \strut{}  9                                                  etex, (xdegats.g, ydegats.h - 110));
+label.rt (btex \strut{}       ``evasive'' $\dagger$                         etex, (xdegats.g, ydegats.h - 110));
+label.lft(btex \strut{} 10                                                  etex, (xdegats.g, ydegats.h - 120));
+label.rt (btex \strut{}       pertes multiples                              etex, (xdegats.g, ydegats.h - 120));
+label.lft(btex \strut{} 11                                                  etex, (xdegats.g, ydegats.h - 130));
+label.rt (btex \strut{}       r\'eduction canon                             etex, (xdegats.g, ydegats.h - 130));
+label.lft(btex \strut{} 12                                                  etex, (xdegats.g, ydegats.h - 140));
+label.rt (btex \strut{}       pertes                                        etex, (xdegats.g, ydegats.h - 140));
+ydegats.b = ydegats.h - 150;
+
+% Combat en pleine mer
+xnaval.g = 290; ynaval.h = 170;
+label.lft(btex \strut{} 7.4                                etex, (xnaval.g, ynaval.h      ));
+label.rt (btex \strut{}       Combat en pleine mer         etex, (xnaval.g, ynaval.h      ));
+label.lft(btex \strut{} DR                                 etex, (xnaval.g, ynaval.h -  10));
+label.rt (btex \strut{}       R\'esultat                   etex, (xnaval.g, ynaval.h -  10));
+label.lft(btex \strut{}  2                                 etex, (xnaval.g, ynaval.h -  20));
+label.rt (btex \strut{}       attaqu\'e par des destroyers etex, (xnaval.g, ynaval.h -  20));
+label.lft(btex \strut{}  3                                 etex, (xnaval.g, ynaval.h -  30));
+label.rt (btex \strut{}       attaqu\'e par des vedettes   etex, (xnaval.g, ynaval.h -  30));
+label.lft(btex \strut{}  4                                 etex, (xnaval.g, ynaval.h -  40));
+label.rt (btex \strut{}       attaqu\'e par des avions     etex, (xnaval.g, ynaval.h -  40));
+label.lft(btex \strut{} 5+                                 etex, (xnaval.g, ynaval.h -  50));
+label.rt (btex \strut{}       retour sans probl\`eme       etex, (xnaval.g, ynaval.h -  50));
+ynaval.b = ynaval.h - 60;
+
+% tirs de couverture et tirs de mortiers
+xcouv.g = -75; ycouv.h = 190;
+label.lft(btex \strut{} 7.2.1                                    etex, (xcouv.g, ycouv.h      ));
+label.rt (btex \strut{}       tir de couverture                  etex, (xcouv.g, ycouv.h      ));
+label.lft(btex \strut{} 11.5.2                                   etex, (xcouv.g, ycouv.h -  10));
+label.rt (btex \strut{}       mortiers                           etex, (xcouv.g, ycouv.h -  10));
+label.lft(btex \strut{} DR                                       etex, (xcouv.g, ycouv.h -  20));
+label.rt (btex \strut{}       \bf Tir de couverture              etex, (xcouv.g, ycouv.h -  20));
+label.lft(btex \strut{} 2-7                                      etex, (xcouv.g, ycouv.h -  30));
+label.rt (btex \strut{}       touch\'e                           etex, (xcouv.g, ycouv.h -  30));
+label.lft(btex \strut{} 8+                                       etex, (xcouv.g, ycouv.h -  40));
+label.rt (btex \strut{}       rat\'e, fin de la phase            etex, (xcouv.g, ycouv.h -  40));
+label.lft(btex \strut{} DRM                                      etex, (xcouv.g, ycouv.h -  50));
+label.rt (btex \strut{}       pour les tirs de couverture        etex, (xcouv.g, ycouv.h -  50));
+label.lft(btex \strut{} +1                                       etex, (xcouv.g, ycouv.h -  60));
+label.rt (btex \strut{}       pour chaque tir suppl.             etex, (xcouv.g, ycouv.h -  60));
+label.lft(btex \strut{} +\it n                                   etex, (xcouv.g, ycouv.h -  70));
+label.rt (btex \strut{}       voir ``Flotilla gun display''      etex, (xcouv.g, ycouv.h -  70));
+label.rt (btex \strut{}       (nombre de canons restants)        etex, (xcouv.g, ycouv.h -  80));
+label.rt (btex \strut{}       d\'ej\`a OOA/DIS : interdit        etex, (xcouv.g, ycouv.h -  90));
+label.lft(btex \strut{} dr                                       etex, (xcouv.g, ycouv.h - 100));
+label.rt (btex \strut{}       \bf Tir de mortier                 etex, (xcouv.g, ycouv.h - 100)); ymortier.h = ycouv.h - 100;
+label.lft(btex \strut{} 1                                        etex, (xcouv.g, ycouv.h - 110));
+label.rt (btex \strut{}       touch\'e                           etex, (xcouv.g, ycouv.h - 110));
+label.lft(btex \strut{} 2-6                                      etex, (xcouv.g, ycouv.h - 120));
+label.rt (btex \strut{}       rat\'e                             etex, (xcouv.g, ycouv.h - 120));
+label.lft(btex \strut{} dr                                       etex, (xcouv.g, ycouv.h - 130));
+label.rt (btex \strut{}       \bf D\'eg\^ats (couv et mortiers)  etex, (xcouv.g, ycouv.h - 130));
+label.lft(btex \strut{} 1                                        etex, (xcouv.g, ycouv.h - 140));
+label.rt (btex \strut{}       d\'etruit                          etex, (xcouv.g, ycouv.h - 140));
+label.lft(btex \strut{} 2-3                                      etex, (xcouv.g, ycouv.h - 150));
+label.rt (btex \strut{}       OOA                                etex, (xcouv.g, ycouv.h - 150));
+label.lft(btex \strut{} 4-6                                      etex, (xcouv.g, ycouv.h - 160));
+label.rt (btex \strut{}       DIS                                etex, (xcouv.g, ycouv.h - 160));
+ycouv.b = ycouv.h - 180;
+
+xgrenade.g = -75; ygrenade.h =  10;
+label.lft(btex \strut{} 11.6                             etex, (xgrenade.g, ygrenade.h     ));
+label.rt (btex \strut{}  \bf Attaque \`a la grenade      etex, (xgrenade.g, ygrenade.h     ));
+label.lft(btex \strut{} dr                               etex, (xgrenade.g, ygrenade.h - 10));
+label.rt (btex \strut{}  r\'esultat                      etex, (xgrenade.g, ygrenade.h - 10));
+label.lft(btex \strut{} 1-3                              etex, (xgrenade.g, ygrenade.h - 20));
+label.rt (btex \strut{}  d\'etruit                       etex, (xgrenade.g, ygrenade.h - 20));
+label.lft(btex \strut{} 4-6                              etex, (xgrenade.g, ygrenade.h - 30));
+label.rt (btex \strut{}  rien                            etex, (xgrenade.g, ygrenade.h - 30));
+label.rt (btex \strut{}  canon / proj d\'ej\`a OOA/DIS : etex, (xgrenade.g, ygrenade.h - 40));
+label.rt (btex \strut{}   destruction automatique        etex, (xgrenade.g, ygrenade.h - 50));
+ygrenade.b = ygrenade.h - 70;
+
+xprep.g = -75; yprep.h = -70;
+label.lft(btex \strut{} 12.3                                              etex, (xprep.g, yprep.h     ));
+label.rt (btex \strut{}  {\bf Pr\'eparation} : {\it dr} $<$ force, drm :  etex, (xprep.g, yprep.h     ));
+label.lft(btex \strut{} +2                                                etex, (xprep.g, yprep.h - 10));
+label.rt (btex \strut{}  \'equipe de d\'emo arriv\'ee ce tour             etex, (xprep.g, yprep.h - 10));
+label.lft(btex \strut{} +1                                                etex, (xprep.g, yprep.h - 20));
+label.rt (btex \strut{}  l'\'equipe a \'et\'e attaqu\'ee ce tour          etex, (xprep.g, yprep.h - 20));
+label.lft(btex \strut{} +1                                                etex, (xprep.g, yprep.h - 30));
+label.rt (btex \strut{}  l'\'equipe a attaqu\'e des                       etex, (xprep.g, yprep.h - 30));
+label.rt (btex \strut{}  Allemands ce tour                                etex, (xprep.g, yprep.h - 40));
+label.lft(btex \strut{} +1                                                etex, (xprep.g, yprep.h - 50));
+label.rt (btex \strut{}  par pion ennemi (sauf                            etex, (xprep.g, yprep.h - 50));
+label.rt (btex \strut{}  OOA/DIS) dans la case                            etex, (xprep.g, yprep.h - 60));
+label.lft(btex \strut{} -1                                                etex, (xprep.g, yprep.h - 70));
+label.rt (btex \strut{}  cible d\'esign\'ee de l'\'equipe                 etex, (xprep.g, yprep.h - 70));
+yprep.b = yprep.h - 90;
+
+xdemo.g = -75; ydemo.h = -180;
+label.lft(btex \strut{} 12.3                                   etex, (xdemo.g, ydemo.h      ));
+label.rt (btex \strut{}  \bf D\'emolition {\it dr}             etex, (xdemo.g, ydemo.h      ));
+label.lft(btex \strut{} 1-3                                    etex, (xdemo.g, ydemo.h -  10));
+label.rt (btex \strut{}  d\'etruit                             etex, (xdemo.g, ydemo.h -  10));
+label.lft(btex \strut{}   4                                    etex, (xdemo.g, ydemo.h -  20));
+label.rt (btex \strut{}  endommag\'e                           etex, (xdemo.g, ydemo.h -  20));
+label.lft(btex \strut{} 5-6                                    etex, (xdemo.g, ydemo.h -  30));
+label.rt (btex \strut{}  pas de d\'eg\^ats, charge ``at risk'' etex, (xdemo.g, ydemo.h -  30));
+label.lft(btex \strut{} drm                                    etex, (xdemo.g, ydemo.h -  40));
+label.lft(btex \strut{} -1                                     etex, (xdemo.g, ydemo.h -  50));
+label.rt (btex \strut{}  cible d\'ej\`a endommag\'ee           etex, (xdemo.g, ydemo.h -  50));
+label.lft(btex \strut{} +1                                     etex, (xdemo.g, ydemo.h -  60));
+label.rt (btex \strut{}  cible = caisson (ne s'applique        etex, (xdemo.g, ydemo.h -  60));
+label.rt (btex \strut{}  pas pour le Campbeltown)              etex, (xdemo.g, ydemo.h -  70));
+label.lft(btex \strut{} +1                                     etex, (xdemo.g, ydemo.h -  80));
+label.rt (btex \strut{}  charge ``at risk''                    etex, (xdemo.g, ydemo.h -  80));
+label.lft(btex \strut{} +1                                     etex, (xdemo.g, ydemo.h -  90));
+label.rt (btex \strut{}  d\'emolition par commando d'assaut    etex, (xdemo.g, ydemo.h -  90));
+label.lft(btex \strut{} -1                                     etex, (xdemo.g, ydemo.h - 100));
+label.rt (btex \strut{}  Campbeltown sabord\'e                 etex, (xdemo.g, ydemo.h - 100));
+label.lft(btex \strut{} -1                                     etex, (xdemo.g, ydemo.h - 110));
+label.rt (btex \strut{}  \'eperonnage \`a vitesse = 2          etex, (xdemo.g, ydemo.h - 110));
+ydemo.b = ydemo.h - 130;
+
+xillum.g = 260; yillum.h = 400;
+xillum.a = 280;   % retrait
+xillum.b = 300;   % deuxième colonne
+xillum.c = 325;   % troisième colonne
+xillum.d = 355;   % quatrième colonne
+label.rt(btex \strut{} 6.2                                                  etex, (xillum.g, yillum.h      ));
+label.rt(btex \strut{}      zone illumin\'ee                                etex, (xillum.a, yillum.h      ));
+label.rt(btex \strut{} dr                                                   etex, (xillum.g, yillum.h -  10));
+label   (btex \strut{}      1-3                                             etex, (xillum.b, yillum.h -  10));
+label   (btex \strut{}              4-5                                     etex, (xillum.c, yillum.h -  10));
+label   (btex \strut{}                    6                                 etex, (xillum.d, yillum.h -  10));
+label.rt(btex \strut{} zone                                                 etex, (xillum.g, yillum.h -  20));
+label   (btex \strut{}      1$^e$                                           etex, (xillum.b, yillum.h -  20));
+label   (btex \strut{}              2$^e$                                   etex, (xillum.c, yillum.h -  20));
+label   (btex \strut{}                    3$^e$                             etex, (xillum.d, yillum.h -  20));
+label.rt(btex \strut{} exceptions                                           etex, (xillum.g, yillum.h -  30));
+label.rt(btex \strut{} 412, tour 1, phase $\geq$ 2.1 $\rightarrow$ approche etex, (xillum.g, yillum.h -  40));
+label.rt(btex \strut{} 342, tour 1, phase $\geq$ 2.2 $\rightarrow$ approche etex, (xillum.g, yillum.h -  50));
+label.rt(btex \strut{} avant le premier d\'ebarquement                      etex, (xillum.g, yillum.h -  60));
+label.rt(btex \strut{}      $\rightarrow$ seulement sur mer                 etex, (xillum.a, yillum.h -  70));
+label.rt(btex \strut{} il ne reste plus de bateaux                          etex, (xillum.g, yillum.h -  80));
+label.rt(btex \strut{}      $\rightarrow$ seulement sur terre               etex, (xillum.a, yillum.h -  90));
+label.rt(btex \strut{} aucune zone \'eligible                               etex, (xillum.g, yillum.h - 100));
+label.rt(btex \strut{}      $\rightarrow$ la zone du projecteur             etex, (xillum.a, yillum.h - 110));
+yillum.b = yillum.h - 110;
+
+% tirs anti-navire
+xtirs.g = 260; ytirs.h = 270;
+xtirs.m = 285; % deuxième colonne de la table
+xtirs.n = 345; % troisième colonne
+label.rt(btex \strut{} 7.1                             etex, (xtirs.g, ytirs.h     ));
+label.rt(btex \strut{}   tirs al\'eatoires (limite 12) etex, (xtirs.m, ytirs.h     ));
+label.rt(btex \strut{} dr                              etex, (xtirs.g, ytirs.h - 10));
+label.rt(btex \strut{}   $\leq$ 1h40                   etex, (xtirs.m, ytirs.h - 10));
+label.rt(btex \strut{}            $\geq$ 1h46          etex, (xtirs.n, ytirs.h - 10));
+label.rt(btex \strut{} 1-4                             etex, (xtirs.g, ytirs.h - 20));
+label.rt(btex \strut{}   touch\'e                      etex, (xtirs.m, ytirs.h - 20));
+label.rt(btex \strut{}            touch\'e             etex, (xtirs.n, ytirs.h - 20));
+label.rt(btex \strut{}  5                              etex, (xtirs.g, ytirs.h - 30));
+label.rt(btex \strut{}   touch\'e                      etex, (xtirs.m, ytirs.h - 30));
+label.rt(btex \strut{}            rat\'e, fin          etex, (xtirs.n, ytirs.h - 30));
+label.rt(btex \strut{}  6                              etex, (xtirs.g, ytirs.h - 40));
+label.rt(btex \strut{}   rat\'e, fin                   etex, (xtirs.m, ytirs.h - 40));
+label.rt(btex \strut{}            rat\'e, fin          etex, (xtirs.n, ytirs.h - 40));
+ytirs.b = ytirs.h - 50;
+
+% drm pour les tirs anti-navire
+xdrm.g = 345; ydrm.h = 220;
+label.lft(btex \strut{} drm            etex, (xdrm.g, ydrm.h     ));
+label.rt (btex \strut{}  cause         etex, (xdrm.g, ydrm.h     ));
+label.lft(btex \strut{} -1             etex, (xdrm.g, ydrm.h - 10));
+label.rt (btex \strut{}  illumin\'e    etex, (xdrm.g, ydrm.h - 10));
+label.lft(btex \strut{} -1             etex, (xdrm.g, ydrm.h - 20));
+label.rt (btex \strut{}  en feu        etex, (xdrm.g, ydrm.h - 20));
+label.lft(btex \strut{} -1             etex, (xdrm.g, ydrm.h - 30));
+label.rt (btex \strut{}  immobilis\'e  etex, (xdrm.g, ydrm.h - 30));
+ydrm.b = ydrm.h - 40;
+
+xmvtnav.g = 290;  % valeur en MF
+ymvtnav.h =  90;
+xmvtnav.m = 320;  % explication des MF et valeur des dr
+xmvtnav.n = 340;  % explication des dr
+label.rt(btex \strut{} 8.1                                  etex, (xmvtnav.g, ymvtnav.h      ));
+label.rt(btex \strut{}  mouvement naval                     etex, (xmvtnav.m, ymvtnav.h      ));
+label.rt(btex \strut{} 1 MF                                 etex, (xmvtnav.g, ymvtnav.h -  10));
+label.rt(btex \strut{}  marqueur ``evasive"                 etex, (xmvtnav.m, ymvtnav.h -  10));
+label.rt(btex \strut{} 2 MF                                 etex, (xmvtnav.g, ymvtnav.h -  20));
+label.rt(btex \strut{}  marqueur ``turn away"               etex, (xmvtnav.m, ymvtnav.h -  20));
+label.rt(btex \strut{} 1 MF                                 etex, (xmvtnav.g, ymvtnav.h -  30));
+label.rt(btex \strut{}  zone $\rightarrow$ zone             etex, (xmvtnav.m, ymvtnav.h -  30));
+label.rt(btex \strut{} 2 MF                                 etex, (xmvtnav.g, ymvtnav.h -  40));
+label.rt(btex \strut{}  approche $\rightarrow$ pleine mer   etex, (xmvtnav.m, ymvtnav.h -  40));
+label.rt(btex \strut{} 1 MF                                 etex, (xmvtnav.g, ymvtnav.h -  50));
+label.rt(btex \strut{}  approche lointaine                  etex, (xmvtnav.m, ymvtnav.h -  50));
+label.rt(btex \strut{}  $\rightarrow$ pleine mer            etex, (xmvtnav.m, ymvtnav.h -  60));
+label.rt(btex \strut{} 1 MF                                 etex, (xmvtnav.g, ymvtnav.h -  70));
+label.rt(btex \strut{}  accostage pr\'evu                   etex, (xmvtnav.m, ymvtnav.h -  70));
+label.rt(btex \strut{} tous les MF + {\it dr }              etex, (xmvtnav.g, ymvtnav.h -  80));
+label.rt(btex \strut{}  accostage impr\'evu                 etex, (xmvtnav.m, ymvtnav.h -  90));
+label.rt(btex \strut{}  1-2                                 etex, (xmvtnav.m, ymvtnav.h - 100));
+label.rt(btex \strut{}  r\'eussi                            etex, (xmvtnav.n, ymvtnav.h - 100));
+label.rt(btex \strut{}  3-6                                 etex, (xmvtnav.m, ymvtnav.h - 110));
+label.rt(btex \strut{}  rat\'e                              etex, (xmvtnav.n, ymvtnav.h - 110));
+label.rt(btex \strut{} 1 MF                                 etex, (xmvtnav.g, ymvtnav.h - 120));
+label.rt(btex \strut{}  transbordage                        etex, (xmvtnav.m, ymvtnav.h - 120));
+label.rt(btex \strut{} 1 MF                                 etex, (xmvtnav.g, ymvtnav.h - 130));
+label.rt(btex \strut{}  torpillage {\it dr}                 etex, (xmvtnav.m, ymvtnav.h - 130));
+label.rt(btex \strut{}  1-2                                 etex, (xmvtnav.m, ymvtnav.h - 140));
+label.rt(btex \strut{}  d\'etruit                           etex, (xmvtnav.n, ymvtnav.h - 140));
+label.rt(btex \strut{}  3-4                                 etex, (xmvtnav.m, ymvtnav.h - 150));
+label.rt(btex \strut{}  endommag\'e                         etex, (xmvtnav.n, ymvtnav.h - 150));
+label.rt(btex \strut{}  5-6                                 etex, (xmvtnav.m, ymvtnav.h - 160));
+label.rt(btex \strut{}  rien                                etex, (xmvtnav.n, ymvtnav.h - 160));
+label.rt(btex \strut{}  drm                                 etex, (xmvtnav.m, ymvtnav.h - 170));
+label.rt(btex \strut{}  -1 si d\'ej\`a endom.               etex, (xmvtnav.n, ymvtnav.h - 170));
+label.rt(btex \strut{} 1 MF                                 etex, (xmvtnav.g, ymvtnav.h - 180));
+label.rt(btex \strut{}  \'eperonnage                        etex, (xmvtnav.m, ymvtnav.h - 180));
+ymvtnav.b = ymvtnav.h - 200;
+
+xactiv.g = 195; yactiv.h = -140;
+yactivdr.h = yactiv.h - 10;
+yactivnb.h = yactiv.h - 20;
+label.rt(btex \strut{} 9.1                 etex, (195, yactiv.h));
+label.rt(btex \strut{}  Table d'activation etex, (215, yactiv.h));
+label.rt(btex \strut{} DR   etex, (195, yactivdr.h));
+label.rt(btex \strut{}  1-  etex, (215, yactivdr.h));
+label.rt(btex \strut{}  2   etex, (230, yactivdr.h));
+label.rt(btex \strut{}  3   etex, (245, yactivdr.h));
+label.rt(btex \strut{}  4   etex, (260, yactivdr.h));
+label.rt(btex \strut{}  5   etex, (275, yactivdr.h));
+label.rt(btex \strut{}  6   etex, (290, yactivdr.h));
+label.rt(btex \strut{}  7   etex, (305, yactivdr.h));
+label.rt(btex \strut{}  8   etex, (320, yactivdr.h));
+label.rt(btex \strut{}  9   etex, (335, yactivdr.h));
+label.rt(btex \strut{}  10  etex, (350, yactivdr.h));
+label.rt(btex \strut{}  11  etex, (365, yactivdr.h));
+label.rt(btex \strut{}  12  etex, (380, yactivdr.h));
+label.rt(btex \strut{}  13+ etex, (395, yactivdr.h));
+label.rt(btex \strut{} nb   etex, (195, yactivnb.h));
+label.rt(btex \strut{}  1   etex, (215, yactivnb.h));
+label.rt(btex \strut{}  2   etex, (230, yactivnb.h));
+label.rt(btex \strut{}  3   etex, (245, yactivnb.h));
+label.rt(btex \strut{}  4   etex, (260, yactivnb.h));
+label.rt(btex \strut{}  4   etex, (275, yactivnb.h));
+label.rt(btex \strut{}  5   etex, (290, yactivnb.h));
+label.rt(btex \strut{}  5   etex, (305, yactivnb.h));
+label.rt(btex \strut{}  6   etex, (320, yactivnb.h));
+label.rt(btex \strut{}  7   etex, (335, yactivnb.h));
+label.rt(btex \strut{}   7  etex, (350, yactivnb.h));
+label.rt(btex \strut{}   8  etex, (365, yactivnb.h));
+label.rt(btex \strut{}  8*  etex, (380, yactivnb.h));
+label.rt(btex \strut{}  9*  etex, (395, yactivnb.h));
+label.rt(btex \strut{} DRM selon l'heure                etex, (195, yactiv.h - 30));
+label.rt(btex \strut{} * dont un PSW 232 si disponible  etex, (195, yactiv.h - 40));
+yactiv.b = -220;
+
+xflak.g = 145; yflak.h = -100;
+label.rt(btex \strut{} 11.5.1 FLAK to hit dr 1-2      etex, (xflak.g, yflak.h     ));
+label.rt(btex \strut{} illumin\'e : drm -1            etex, (xflak.g, yflak.h - 10));
+label.rt(btex \strut{} D\'eg\^ats une perte seulement etex, (xflak.g, yflak.h - 20));
+yflak.b = -160;
+
+% drm pour les combats terrestres
+xcombats.g = 265; ycombats.h = -220;
+label.lft(btex \strut{} 11.3                                          etex, (xcombats.g, ycombats.h     ));
+label.rt (btex \strut{}       combats terrestres                      etex, (xcombats.g, ycombats.h     ));
+label.lft(btex \strut{} drm                                           etex, (xcombats.g, ycombats.h - 10));
+label.rt (btex \strut{}       cause                                   etex, (xcombats.g, ycombats.h - 10));
+label.lft(btex \strut{} -1                                            etex, (xcombats.g, ycombats.h - 20));
+label.rt (btex \strut{}       tireur = commando d'assaut              etex, (xcombats.g, ycombats.h - 20));
+label.lft(btex \strut{} -1                                            etex, (xcombats.g, ycombats.h - 30));
+label.rt (btex \strut{}       tireur et cible dans la m\^eme case     etex, (xcombats.g, ycombats.h - 30));
+label.lft(btex \strut{} -1                                            etex, (xcombats.g, ycombats.h - 40));
+label.rt (btex \strut{}       tireur allemand dans un hex ou          etex, (xcombats.g, ycombats.h - 40));
+label.rt (btex \strut{}       profitant d'un projecteur dans la zone  etex, (xcombats.g, ycombats.h - 50));
+label.lft(btex \strut{} -1                                            etex, (xcombats.g, ycombats.h - 60));
+label.rt (btex \strut{}       cible illumin\'ee par un projecteur     etex, (xcombats.g, ycombats.h - 60));
+label.lft(btex \strut{} +1                                            etex, (xcombats.g, ycombats.h - 70));
+label.rt (btex \strut{}       cible dans un carr\'e,                  etex, (xcombats.g, ycombats.h - 70));
+label.rt (btex \strut{}       un triangle ou un hex                   etex, (xcombats.g, ycombats.h - 80));
+label.lft(btex \strut{} +1                                            etex, (xcombats.g, ycombats.h - 90));
+label.rt (btex \strut{}       tireur = \'equipe de d\'emolition       etex, (xcombats.g, ycombats.h - 90));
+ycombats.b = ycombats.h - 130;
+
+% doctrine de tir allemande
+xdoctrine.g = 110; ydoctrine.h = -220;
+label.lft(btex \strut{} 11.3.1                                etex, (xdoctrine.g, ydoctrine.h     ));
+label.rt (btex \strut{}       doctrine de tir allemande       etex, (xdoctrine.g, ydoctrine.h     ));
+label.lft(btex \strut{} A                                     etex, (xdoctrine.g, ydoctrine.h - 10));
+label.rt (btex \strut{}       FLAK : jamais une case          etex, (xdoctrine.g, ydoctrine.h - 10));
+label.rt (btex \strut{}       contenant des Allemands         etex, (xdoctrine.g, ydoctrine.h - 20));
+label.lft(btex \strut{} B                                     etex, (xdoctrine.g, ydoctrine.h - 30));
+label.rt (btex \strut{}       commando dans une               etex, (xdoctrine.g, ydoctrine.h - 30));
+label.rt (btex \strut{}       case illumin\'ee                etex, (xdoctrine.g, ydoctrine.h - 40));
+label.lft(btex \strut{} C                                     etex, (xdoctrine.g, ydoctrine.h - 50));
+label.rt (btex \strut{}       commando dans un cercle         etex, (xdoctrine.g, ydoctrine.h - 50));
+label.lft(btex \strut{} D                                     etex, (xdoctrine.g, ydoctrine.h - 60));
+label.rt (btex \strut{}       commando d'assaut               etex, (xdoctrine.g, ydoctrine.h - 60));
+label.lft(btex \strut{} E                                     etex, (xdoctrine.g, ydoctrine.h - 70));
+label.rt (btex \strut{}       commando le plus fort           etex, (xdoctrine.g, ydoctrine.h - 70));
+label.lft(btex \strut{} F                                     etex, (xdoctrine.g, ydoctrine.h - 80));
+label.rt (btex \strut{}       tirage au sort                  etex, (xdoctrine.g, ydoctrine.h - 80));
+ydoctrine.b = ydoctrine.h - 90;
+ 
+drawarrow (xga, yga) -- (60, 390);
+drawarrow (xgb, ygb) -- (70, 300);
+drawarrow (xgc, ygc) -- (60, 280);
+drawarrow (xgd + 110, ygd) -- (xgd + 130, ygd) -- (xnaval.g - 20, ynaval.h);
+drawarrow (xdc, ydc) -- (xcouv.g + 90, ycouv.h);
+drawarrow (xgf, ygf) -- (50, ydegats.b + 30);
+drawarrow (xgj, ygj) -- (xgj - 30, ygj + 50) -- (xcouv.g + 75, ymortier.h);
+drawarrow (xgj, ygj) -- (xgrenade.g + 105,  ygrenade.h);
+
+% 7.2 → doctrine et combats terrestres
+drawarrow (xgg, ygg) -- (xgg - 10, ygg - 10) -- (xgg - 10, -180) -- (100, ydoctrine.h + 10);
+drawarrow (xgg - 10, -180) -- (xcombats.g - 25, ycombats.h + 10);
+
+drawarrow (xgh, ygh) -- (xprep.g + 130, yprep.h + 10);
+drawarrow (xgi, ygi) -- (xdemo.g + 100, ydemo.h);
+drawarrow (xda + 130, yda) -- (xillum.g, yillum.h);
+
+% séquence 2.1.2 -> tirs aléatoires
+drawarrow (xdb + 110, ydb) -- (xtirs.g, ytirs.h);
+
+% tirs aléatoires -> drm
+drawarrow (xtirs.m, ytirs.b + 5) -- (xdrm.g - 25, ydrm.h);
+% défense locale 2.3 -> drm
+drawarrow (xdd + 110, ydd) -- (xdrm.g - 25, ydrm.h - 10);
+
+% mouvement naval 3.1 -> MF
+drawarrow (xde + 140, yde) -- (xmvtnav.g, ymvtnav.h);
+
+% 7.2 → FLAK
+drawarrow (xdg + 100, ydg) -- (260, ydg - 10) -- (260,  5 + yflak.h);
+
+% 5 activation → 9.1 table d'activation
+drawarrow (xdf + 140, ydf) -- (xdf + 180,  ydf - 20) -- (xdf + 180, yactiv.h + 10);
+endfig;
+\end{mplibcode}
+\end{document}
+
+
+=encoding utf-8
+
+=head1 Usage
+
+  lualatex RoSN-sequence-FR-V1.tex
+
+Puis   utilisez    votre   lecteur   PDF   habituel    pour   afficher
+RoSN-sequence-FR-V1.pdf.
+
+Then use your favorite PDF viewer to display RoSN-sequence-FR-V1.pdf.
+
+=head1 Description
+
+Ceci  est la  séquence de  jeu de  "Raid on  St Nazaire",  traduite en
+français et accompagnée  d'un bon nombre des tables  utilisées dans le
+jeu.
+
+This is  the game  sequence for  "Raid on  St Nazaire",  translated to
+French. This game sequence includes many tables used in the game.
+
+This  document includes  also  a  few errata  I  have  spotted in  the
+scenario booklet.
+
+=head1 Copyright and License
+
+Copyright (c) 2020 Jean Forget,  diffusé avec la licence CC0 (Creative
+Commons  Zero).  Ce  document  est  basé sur  "Raid  on  St  Nazaire",
+copyright (c) 1987, The Avalon Hill Game Company.
+
+Copyright (c) 2020  Jean Forget, license CC0  (Creative Commons Zero).
+This document is base on "Raid on St Nazaire", copyright (c) 1987, The
+Avalon Hill Game Company.
+
