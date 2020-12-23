@@ -61,19 +61,19 @@ Upright title: scenario from the basic game
 
 \vspace*{5mm}
 
-\begin{tabular}{ll}
-N    &   None                             \\
-M    &   Missiles                         \\
-W    &   Troop-carried weapons            \\
-EW   &   Electronic warfare               \\
-GSA  &   General support artillery        \\
-AM   &   Advanced munitions               \\
-A    &   Amphibious and aquatic movement  \\
-OF   &   Obstacles and fortifications     \\
-FB   &   Fighter-bombers                  \\
-H    &   Helicopters                      \\
-V    &   Limited visibility               \\
-R    &   Rubble                           \\ 
+\begin{tabular}{llll}
+N    &   None                             &      & Advanced Munitions\\
+M    &   Missiles                         & AM   & Unspecified Advanced Munitions \\
+W    &   Troop-carried weapons            & S    & Smoke\\
+EW   &   Electronic warfare               & I    & Illum \\
+GSA  &   General support artillery        & SI   & Smoke + Illum \\
+AM   &   Advanced munitions (see besides) & SD   & Smoke + DPICM \\
+A    &   Amphibious and aquatic movement  & SG   & Smoke + Gas   \\
+OF   &   Obstacles and fortifications     & SIG  & Smoke + Illum + Gas   \\
+FB   &   Fighter-bombers                  & SGC  & Smoke + Gas + CBU \\
+H    &   Helicopters                      & SIGC & Smoke + Illum + Gas + CBU      \\
+V    &   Limited visibility               & ISDF & Illum + Smoke + DPICM + FASCAM \\
+R    &   Rubble                           & SDCF & Smoke + DPICM + CBU   + FASCAM \\
 \end{tabular}
 
 \begin{tabular}{lcccccccccccc}
@@ -81,14 +81,14 @@ R    &   Rubble                           \\
 
 \bf World War II in the Desert \\
 
-\it  Operation Compass                             & . &  . &  . & .  &  .  & AM & . &  . &  . & . &  V & . \\
+\it  Operation Compass                             & . &  . &  . & .  &  .  & S  & . &  . &  . & . &  V & . \\
      Operation Brevity                             & . &  . &  . & .  &  .  & .  & . & OF &  . & . &  . & . \\
-     Battleaxe, the central column                 & . &  . &  . & .  &  .  & AM & . &  . &  . & . &  V & . \\
-     Battleaxe, the desert column                  & . &  . &  . & .  &  .  & AM & . & OF &  . & . &  V & . \\
+     Battleaxe, the central column                 & . &  . &  . & .  &  .  & S  & . &  . &  . & . &  V & . \\
+     Battleaxe, the desert column                  & . &  . &  . & .  &  .  & S  & . & OF &  . & . &  V & . \\
      The French Counterattack                      & N &  . &  . & .  &  .  & .  & . &  . &  . & . &  . & . \\
      The Palmyra Road                              & N &  . &  . & .  &  .  & .  & . &  . &  . & . &  . & . \\
-\it  Operation Crusader, the Battle of Bir El Gubi & . &  . &  . & .  &  .  & AM & . & OF & FB & . &  V & . \\
-\it  Operation Crusader, the Battle of Sidi Rezegh & . &  . &  . & .  & GSA & AM & . &  . & FB & . &  V & . \\
+\it  Operation Crusader, the Battle of Bir El Gubi & . &  . &  . & .  &  .  & S  & . & OF & FB & . &  V & . \\
+\it  Operation Crusader, the Battle of Sidi Rezegh & . &  . &  . & .  & GSA & S  & . &  . & FB & . &  V & . \\
      The Defense of "Snipe"                        & . &  . &  . & .  &  .  & AM & . & OF &  . & . &  V & . \\
 
 \bf Israeli War of Independence \\
@@ -104,44 +104,44 @@ R    &   Rubble                           \\
 
 \bf The Six Day War \\
 
-\it  South of Sheikh Zuweid                        & . &  . &  . &  . &  .  & AM & . &  . &  . & . &  V & . \\
-     The Fall of Abu Agheila                       & . &  M &  W &  . &  .  & AM & . & OF &  . & . &  V & . \\
+\it  South of Sheikh Zuweid                        & . &  . &  . &  . &  .  & S  & . &  . &  . & . &  V & . \\
+     The Fall of Abu Agheila                       & . &  M &  W &  . &  .  & SI & . & OF &  . & . &  V & . \\
      Encounter on the Ismaila Road                 & N &  . &  . &  . &  .  &  . & . &  . &  . & . &  . & . \\
-     The Karameh Raid                              & . &  . &  W &  . &  .  & AM & . & OF & FB & H &  V & . \\
+     The Karameh Raid                              & . &  . &  W &  . &  .  & S  & . & OF & FB & H &  V & . \\
 
 \bf 1973 Arab-Israeli War \\
 
-     Final Attack on Booster                       & . &  M &  W &  . &  .  & AM & . & OF &  . & . &  V & . \\
-     The Drive for Ismaila                         & . &  M &  W &  . &  .  & AM & A & OF & FB & . &  V & . \\
+     Final Attack on Booster                       & . &  M &  W &  . &  .  & S  & . & OF &  . & . &  V & . \\
+     The Drive for Ismaila                         & . &  M &  W &  . &  .  & S  & A & OF & FB & . &  V & . \\
 
 \bf Lebanon - the Tortured Land \\
 
-     Ambush at Ain Zhalta                          & . &  M &  W &  . &  .  & AM & . & OF &  . & . &  V & . \\
-     Into the Bekaa                                & . &  M &  W &  . & GSA & AM & . & OF &  . & H &  V & . \\
-     Parting Shots                                 & . &  M &  W &  . & GSA & AM & . & OF & FB & . &  V & . \\
+     Ambush at Ain Zhalta                          & . &  M &  W &  . &  .  & I  & . & OF &  . & . &  V & . \\
+     Into the Bekaa                                & . &  M &  W &  . & GSA & SD & . & OF &  . & H &  V & . \\
+     Parting Shots                                 & . &  M &  W &  . & GSA & SD & . & OF & FB & . &  V & . \\
 
 \bf The Iran-Iraq War \\
 
-     The First Attacks                             & . &  . &  W &  . &  .  &  . & . &  . &  . & . &  . & . \\
-     Ambush on the Korun River                     & . &  M &  W &  . &  .  & AM & A &  . &  . & . &  V & . \\
-     Wal-Fajr 3 Offensive                          & . &  M &  W &  . &  .  & AM & . & OF &  . & H &  V & . \\
-     Operation Kheiber                             & . &  M &  W &  . &  .  & AM & A & OF & FB & H &  V & . \\
-     Karbala-1                                     & . &  M &  W &  . &  .  & AM & . & OF & FB & H &  V & . \\
-     Operation Badr                                & . &  M &  W &  . &  .  & AM & A & OF & FB & H &  V & . \\
-     Operation Wal-Fajr 8                          & . &  M &  W &  . &  .  & AM & A & OF &  . & . &  V & . \\
-     Salamcheh                                     & . &  M &  W &  . & GSA & AM & A & OF & FB & H &  V & . \\
+     The First Attacks                             & . &  . &  W &  . &  .  &  .    & . &  . &  . & . &  . & . \\
+     Ambush on the Korun River                     & . &  M &  W &  . &  .  & S     & A &  . &  . & . &  V & . \\
+     Wal-Fajr 3 Offensive                          & . &  M &  W &  . &  .  & SG    & . & OF &  . & H &  V & . \\
+     Operation Kheiber                             & . &  M &  W &  . &  .  & SIG   & A & OF & FB & H &  V & . \\
+     Karbala-1                                     & . &  M &  W &  . &  .  & SG    & . & OF & FB & H &  V & . \\
+     Operation Badr                                & . &  M &  W &  . &  .  & SIGC  & A & OF & FB & H &  V & . \\
+     Operation Wal-Fajr 8                          & . &  M &  W &  . &  .  & SIG   & A & OF &  . & . &  V & . \\
+     Salamcheh                                     & . &  M &  W &  . & GSA & SGC   & A & OF & FB & H &  V & . \\
 
 \bf The Gulf War \\
 
-     Saddam Strikes Back                           & . &  M &  W &  . &  .  & AM & A &  . &  . & H &  V & . \\
-\it  Beachhead Kuwait                              & . &  . &  W &  . &  .  & AM & A & OF & FB & H &  V & R \\
-\it  The Battle of As Salam                        & . &  . &  W &  . &  .  & AM & . &  . &  . & H &  V & . \\
-\it  Al Jaber Airbase                              & . &  . &  W &  . &  .  & AM & . & OF &  . & . &  V & . \\
-     Makfar Al Busayyah                            & . &  M &  W & EW & GSA & AM & . & OF &  . & . &  V & . \\
-     Into the Euphrates Valley                     & . &  M &  W & EW & GSA & AM & A & OF &  . & . &  V & . \\
-     Crushing the Tawakalna Guards                 & . &  M &  W & EW & GSA & AM & . &  . &  . & . &  V & . \\
-     Madinah Ridge                                 & . &  M &  W & EW & GSA & AM & . & OF & FB & H &  V & . \\
-\it  Kuwait International Airport                  & . &  . &  W & EW & GSA & AM & . &  . &  . & H &  V & . \\
+     Saddam Strikes Back                           & . &  M &  W &  . &  .  & AM    & A &  . &  . & H &  V & . \\
+\it  Beachhead Kuwait                              & . &  . &  W &  . &  .  & SD    & A & OF & FB & H &  V & R \\
+\it  The Battle of As Salam                        & . &  . &  W &  . &  .  & S     & . &  . &  . & H &  V & . \\
+\it  Al Jaber Airbase                              & . &  . &  W &  . &  .  & SD    & . & OF &  . & . &  V & . \\
+     Makfar Al Busayyah                            & . &  M &  W & EW & GSA & SD    & . & OF &  . & . &  V & . \\
+     Into the Euphrates Valley                     & . &  M &  W & EW & GSA & SD    & A & OF &  . & . &  V & . \\
+     Crushing the Tawakalna Guards                 & . &  M &  W & EW & GSA & ISDF  & . &  . &  . & . &  V & . \\
+     Madinah Ridge                                 & . &  M &  W & EW & GSA & SDCF  & . & OF & FB & H &  V & . \\
+\it  Kuwait International Airport                  & . &  . &  W & EW & GSA & SD    & . &  . &  . & H &  V & . \\
 \hline
     Basic game                                     & 5 & 18 & 22 &  4 &  7  & 23 & 8 & 21 & 10 & 9 & 23 & 0 \\
 \it Expansion kit                                  & 0 &  0 &  4 &  1 &  2  &  8 & 1 &  3 &  3 & 3 &  8 & 1 \\
@@ -149,3 +149,4 @@ R    &   Rubble                           \\
 
 \end{texte}
 \end{document}
+
