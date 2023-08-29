@@ -1,0 +1,112 @@
+% -*- encoding: utf-8 -*-
+%
+%    Document providing an index of proper names in Over the Reich
+%    Copyright (C) 2023 Jean Forget, licensed under Creative Commons Zero
+%
+
+\documentclass[a4paper,twocolumn]{article}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{luainputenc}
+\usepackage{fancyhdr}
+
+\newcommand{\datenum}{\number\year-%
+\ifnum\month<10\relax0\fi\number\month-%
+\ifnum\day<10\relax0\fi\number\day}
+
+\renewcommand{\rmdefault}[0]{ppl}
+\parindent=0mm
+\parskip=0pt
+
+\pagestyle{fancy}
+\chead{\datenum\hfill Index of proper names in \textit{Over the Reich} \hfill \thepage}
+\cfoot{\scriptsize CC0 (Creative Commons Zero) \\ based on \textit{Over the Reich}, copyright \copyright{} 1993 by J.D. Webster \& Clash of Arms}
+
+\directlua{dofile("extract.lua")}
+\newenvironment{texte}{\rmfamily}{}
+
+\begin{document}
+\section*{Index of persons mentioned in the scenarios}
+
+Scenarios in which a person is active are in upright characters.
+Scenarios where a person is just mentioned are in italics.
+
+\vspace{3mm}
+
+\directlua{extract('P','MP')}
+
+\section*{Index of locations and events mentioned in the scenarios}
+
+Nations are not indexed.
+
+\vspace{3mm}
+
+As for person names, when a location is directly involved in the
+scenario, the scenario code is typeset in upright characters and when
+the location is just mentioned, the code is typeset in italics.
+In some cases, it is difficult to determine if a location is directly
+involved in the scenario or if it is just mentioned. For example, when
+a scenario involves a mission ``en route to location X'', I have
+added the scenario code to the location X entry, but in some cases I have
+typeset the scenario code in upright characters, in other cases I have
+typeset it in italics.
+
+\vspace{3mm}
+
+\directlua{extract('L','ML')}
+
+\section*{Units}
+
+\vspace{3mm}
+
+As for person names and locations, when a unit is directly involved in the
+scenario, the scenario code is typeset in upright characters and when
+the unit is just mentioned, the code is typeset in italics.
+
+\vspace{3mm}
+
+\directlua{extract('U','MU')}
+
+\section*{Aircraft Types}
+
+\vspace{3mm}
+
+\directlua{extract('A','MA')}
+
+\section*{Errata}
+
+Here are a few errata from the scenarios. Not something that can ruin a game, just
+a few typos.
+
+\vspace{3mm}
+
+\directlua{extract('E','-')}
+
+\end{document}
+
+=encoding utf-8
+
+=head1 Usage
+
+  lualatex index-OTR-v1.tex
+
+Then use your favorite PDF viewer to display index-OTR-v1.pdf
+
+=head1 Description
+
+This  document  gives  an  index  of proper  names  mentioned  in  the
+scenarios of  I<Over the Reich>.  These proper names are  separated in
+two categories.  The first  category is  persons. The  second category
+mixes locations (e.g.  Kurksk) and events (e.g. Battle  of Kursk). The
+third category includes  units and the fourth  category lists aircraft
+types.
+
+This  document includes  also  a  few errata  I  have  spotted in  the
+scenario booklet.
+
+=head1 Copyright and License
+
+Copyright (c) 2023 Jean Forget, licensed under CC0 (Creative Commons Zero)
+
+The generated PDF document is based on the booklet of \textit{Over the
+Reich}, copyright (c) 1993, J.D. Webster & Clash of Arms
+

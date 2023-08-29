@@ -1,0 +1,320 @@
+-*- encoding: utf-8; indent-tabs-mode: nil -*-
+
+License for this file is Creative Commons Zero.
+
+Based on the scenario book of the game "Over the Reich", copyright © 1993 by J.D. Webster & Clash of Arms
+
+S  48-1
+T  fighter Comparison Flight Tests
+D  1942--1943
+U  JG 2
+A  Spitfire F. Mk. IXc
+A  Fw 190A-4
+A  P-47D-10
+
+S  49-1
+T  T-bolt Pilot's Secret of Success
+D  1943--1944
+P  Johnson, Robert S.
+U  56th FG
+A  Bf 109G-10/U4
+A  P-47D-10
+
+S 49-2
+T Heavy Bomber Bashing
+D 1944
+A B-24J
+A Me 410A-2/U4
+
+S  50-1
+T  Gabby with the Poles
+D  1943-02-03
+P  Gabreski, Francis
+A  Spitfire F. Mk. IXc
+U  No. 315 Squadron
+P  Andersz
+MU 8th AF
+A  Fw 190A-4
+
+S  50-2
+T  I Fly for the Furher
+E  Title should be "I Fly for the Führer"
+P  Knocke, Heinz
+U  JG 11
+A  B-24D
+A  Bf 109G-6/R6
+
+S  50-3
+T  Melee over France
+D  1943-04-04
+U  JG 26
+MA B-17
+ML Paris
+A  Spitfire F. Mk. IXc
+A  Fw 190A-4
+P  Galland, "Wutz"
+MU 56th FG
+
+S  50-4
+T  Marauder Disaster
+D  1943-05-17
+A  B-26B-4
+U  322nd BG
+A  Bf 109G6
+
+S  51-1
+T  "Hub" Zemke's First Kills
+D  1943-06-13
+U  56th FG
+U  Zemke's Wolf Pack
+P  Zemke, "Hub"
+MP Johnson, Robert S.
+MP Gabreski, Francis
+
+S  51-2
+T  Johnson's Flying Wreck
+D  1943-06-24
+P  Johnson, Robert S.
+A  Fw 190A-4
+U  JG 26
+L  English Channel
+A  P-47D-1
+
+S  51-3
+T  Meat on the Table
+D  1943-08-17
+L  Schweinfurt
+L  Regensburg
+A  Bf 110G4/R3
+U  Zemke's Wolf Pack
+A  P-47D-10
+
+S  52-1
+T  Rescuing a Straggler
+D  1943-10-08
+P  Schreiber, Leroy
+U  56th FG
+MU 8th AF
+ML Bremen
+A  B-17F
+A  P-47D-10
+A  Fw 190A-4
+
+S  52-2
+T  Massacre at Schweinfurt
+D  1943-10-14
+L  Schweinfurt
+MU 8th AF
+A  B-17F
+U  305th BG
+A  Fw 190A-4/R6
+
+S  52-3
+T  Lighnings Surprised
+D  1943-11-13
+A  P-38J-10
+MA Fw 190
+A  Bf 109G6/R3
+A  Ju 88C6
+MA Me 210
+P  Myer, Joe
+
+S  52-4
+T  Medal of Honor Mission
+D  1944-01-11
+P  Howard, Jim
+U  354th FG
+A  P-51B-5
+A  B-17G
+U  401st BG
+A  Bf 110G2/R3
+A  Fw 190A-4
+A  Bf 109G-6/R6
+A  Ju 88C-6
+A  Bf 109G-6
+A  Bf 110G2/R4
+MU Flying Tigers
+MP Chennault
+MU 9th AF
+
+S  53-1
+T  Spitfire Versus Lighning
+D  1944, spring
+P  Lowell
+U  364th FG
+A  Spitfire L.F. Mk. XIV
+A  P-38J-25
+
+S  53-2
+T  Mistaken Identity
+D  1944-02-10
+A  P-51B-5
+A  Bf 109G-6
+A  P-47D-10
+MA Lightning
+P  Eagleston, Glenn
+ML English Channel
+
+S  54-1
+T  Little Chief's Lufbery
+D  1944-02-22
+P  Klibbe, Frank
+ML Munster
+MA Bf 109
+MA P-38
+A  P-47D-15
+A  Fw 190A-8
+
+S  54-2
+T  Mustangs Over Berlin
+D  1944-03-08
+P  Gentile, Don
+P  Godfrey, John
+A  P-51B-15
+A  Bf 109G-6/R6
+A  Bf 109G-10/U4
+
+S  54-3
+T  Zemke in Trouble
+D  1944-03-12
+ML Frankfurt
+P  Zemke, "Hub"
+A  Bf 109G-10/U4
+P  Rall, Gunther
+U  JG 11
+U  Zemke's Wolf Pack
+
+S  54-4
+T  Anderson's One-on-One
+D  1944-05-27
+A  P-51B-15
+A  Bf 109G-10
+P  Anderson, C.E. "Bud"
+U  357th FG
+ML Ludwigshafen
+
+S  55-1
+T  Enter the Tempest
+D  1944-06-16
+A  Tempest V
+L  D-Day
+MP Hitler
+A  V-1 Buzz bomb
+P  Beamont
+
+S  55-2
+T  Preddy's turkey Shoot
+D  1944-08-06
+A  P-51D-5
+A  P-51B-15
+P  Preddy, George
+U  352d FG
+A  Bf 109G-10/U4
+
+S  55-3
+T  Robin Olds Bags Two
+D  1944-08-14
+P  Olds, Robin
+ML Vietnam
+MU Wolf Pack
+MA F-4
+MP Zemke, "Hub"
+MU 56th FG
+U  479th FG
+A  Fw 190A-8
+A  P-38J-25
+MA P-51
+
+S  56-1
+T  Me 262 first Bomber Kill
+D  1944-08-15
+A  Me 262A-1
+MU Erprobungskommando of III/ZG 26
+MA Mosquito
+MA Spitfire
+P  Lennartz, Helmut
+A  B-17G
+ML Rhine
+
+S  56-2
+T  Storm-Fighter Slaughter
+D  1944-09-27
+U  445th BG
+A  B-24J
+A  P-51D-15
+A  Fw 190A-8/R2
+A  Fw 190A-8
+A  Me 410A-2/U4
+
+S  56-3
+T  The Death of Nowotny
+D  1944-11-08
+A  Me 262A-1
+U  Kommando Nowotny
+P  Nowotny, Walter
+P  Schell
+MA B-24
+A  P-51D-15
+
+S  57-1
+T  Yeager's 2d Best Day
+D  1944-11-27
+P  Yeager, Chuck
+U  357th FG
+ML Magdeburg
+A  P-51D-25
+A  Fw 190A-8
+MA Bf 109
+
+S  57-2
+T  Komet Missions
+D  1944, Autumn
+A  Me 163B
+A  P-51D-25
+A  B-17G
+
+S  57-3
+T  Clash of the New Breeds
+D  1944-12-27
+A  Tempest V
+A  Fw 190D-9
+MA Fw 190A-8
+U  JG-54
+U  80 Squadron
+
+S  58-1
+T  Wolf Pack on the Prowl
+D  1945-01-14
+U  56th FG
+U  Wolf Pack
+MA Fw 190
+A  Bf 109K-4
+P  Conger
+A  P-47M
+
+S  58-2
+T  The New Spitfires
+D  1945-01-23
+U  JG 26
+A  Fw 190D-9
+A  Bf 109G-10/R1
+U  JG 27
+A  Spitfire F. Mk. XIVe
+U  No. 41 Squadron
+
+S  58-3
+T  Galland's Last Mission
+D  1945-04-26
+P  Galland, Adolf
+A  Me 262A-1b
+U  JV 44
+A  B-26B-10
+A  P-51D-25
+
+S  58-4
+T  What If?
+D  1945, spring
+A  Ta 152H
+A  Do 335A
+A  Do 335B
+A  Do 335B-2
