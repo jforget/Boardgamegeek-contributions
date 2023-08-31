@@ -60,7 +60,7 @@ T  Marauder Disaster
 D  1943-05-17
 A  B-26B-4
 U  322nd BG
-A  Bf 109G6
+A  Bf 109G-6
 
 S  51-1
 T  "Hub" Zemke's First Kills
@@ -114,8 +114,8 @@ T  Lighnings Surprised
 D  1943-11-13
 A  P-38J-10
 MA Fw 190
-A  Bf 109G6/R3
-A  Ju 88C6
+A  Bf 109G-6/R3
+A  Ju 88C-6
 MA Me 210
 P  Myer, Joe
 
@@ -127,12 +127,12 @@ U  354th FG
 A  P-51B-5
 A  B-17G
 U  401st BG
-A  Bf 110G2/R3
+A  Bf 110G-2/R3
 A  Fw 190A-4
 A  Bf 109G-6/R6
 A  Ju 88C-6
 A  Bf 109G-6
-A  Bf 110G2/R4
+A  Bf 110G-2/R4
 MU Flying Tigers
 MP Chennault, Claire
 MU 9th AF
@@ -318,3 +318,107 @@ A  Ta 152H
 A  Do 335A
 A  Do 335B
 A  Do 335B-2
+
+S  62-1
+T  Wolf Pack Rodeos
+D  1943--1944
+L  English Channel
+U  56th FG
+U  JG 26
+U  Abbeville Kids
+A  P-47D-1
+A  Fw 190A-4
+A  Bf 109G-6
+L  Le Havre
+
+S  62-2
+T  Black Thursday
+D  1943-10-14
+MU 8th AF
+L  Schweinfurt
+A  B-17F
+U  305th BG
+MU 92d BG
+MU 306th BG
+MU 40th CW
+MU 1st CW
+MU 41st CW
+MU 1st AD
+MU 3rd AD
+A  P-47D-10
+A  Fw 190A-4
+A  Bf 109G-6/R6
+A  Bf 110G-2/R4
+A  Me 410A-2/U4
+A  Ju 88C-6
+L  English Channel
+
+S  63-1
+T  Circus To Lille
+D  1943-09 to 1944
+A  B-26B-10
+U  9th AF
+L  Lille
+U  322nd BG
+L  Abbeville
+A  Spitfire F. Mk. IXe
+A  Fw 190A-8
+A  Bf 109G-6
+
+S  64-1
+T  Ramrod To Berlin
+D  1944-03-06
+A  P-51B-15
+L  Berlin
+MU 8th AF
+U  92d BG
+MU 1st AD
+A  B-17G
+A  P-47D-23
+A  P-38J-25
+A  Fw 190A-8
+A  Bf 109G-10/U4
+A  Bf 109G-6/R6
+A  Me 410A-2/U4
+A  Bf 110G-2/R4
+L  English Channel
+
+S  65-1
+T  Target Ploesti
+D  1944-07-15
+L  Ploesti
+L  Romania
+E  "Romania", not "Rumania"
+MU 15th AF
+ML Berlin
+U  460th BG
+MU 55th CW
+L  Astra Romana refinery
+A  B-24J
+A  P-38J-25
+A  Fw 190A-8
+A  Bf 109G-6/R6
+A  Me 410A-2/U4
+A  Ju 88C-6
+A  Bf 109G-10/U4
+L  Adriatic Sea
+
+S  65-2
+T  Last Days Of The Reich
+D  1945-04
+MP Hitler
+ML Berlin
+ML Elbe river
+L  Leipzig
+MU 100th BG
+A  P-47M
+A  P-51D-25
+A  Tempest V
+A  Spitfire F. Mk. XIV
+A  B-17G
+A  Me 262A-1b
+A  Me 163B
+A  Bf 109K-4
+A  Fw 190D-9
+A  Ta 152H-1
+L  English Channel
