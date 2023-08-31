@@ -25,16 +25,25 @@
 \newenvironment{texte}{\rmfamily}{}
 
 \begin{document}
-\section*{Index of persons mentioned in the scenarios}
 
-Scenarios in which a person is active are in upright characters.
-Scenarios where a person is just mentioned are in italics.
+Scenarios are identified by the page number, a dash and a
+sequential number to distinguish scenarios in the same page. If
+a scenario is printed on several pages, the first page is used for
+the scenario code. For example, \textit{Marauder Disaster} is printed
+on pages 50 and 51, therefore its code is 50-4.
+
+When a person, location, etc is directly involved in a scenario,
+the scenario code is typeset in upright characters. If the scenario
+includes just an indirect mention of this person or location,
+its code is typeset in italics.
+
+\section*{Index of persons}
 
 \vspace{3mm}
 
 \directlua{extract('P','MP')}
 
-\section*{Index of locations and events mentioned in the scenarios}
+\section*{Index of locations and events}
 
 Nations are not indexed.
 
@@ -55,12 +64,6 @@ typeset it in italics.
 \directlua{extract('L','ML')}
 
 \section*{Units}
-
-\vspace{3mm}
-
-As for person names and locations, when a unit is directly involved in the
-scenario, the scenario code is typeset in upright characters and when
-the unit is just mentioned, the code is typeset in italics.
 
 \vspace{3mm}
 
