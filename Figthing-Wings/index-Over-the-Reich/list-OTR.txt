@@ -53,6 +53,7 @@ ML Paris
 A  Spitfire F. Mk. IXc
 A  Fw 190A-4
 P  Galland, Wilhelm-Ferdinand "Wutz"
+MP Galland, Adolf
 MU 56th FG
 
 S  50-4
@@ -61,6 +62,7 @@ D  1943-05-17
 A  B-26B-4
 U  322nd BG
 A  Bf 109G-6
+E  "Marauder", not "Maruader"
 
 S  51-1
 T  "Hub" Zemke's First Kills
@@ -158,6 +160,7 @@ ML English Channel
 S  54-1
 T  Little Chief's Lufbery
 D  1944-02-22
+MP Lufbery, Raoul
 P  Klibbe, Frank
 ML Munster
 MA Bf 109
@@ -182,6 +185,7 @@ P  Zemke, Hubert "Hub"
 A  Bf 109G-10/U4
 P  Rall, Gunther
 U  JG 11
+MP Lufbery, Raoul
 U  Zemke's Wolf Pack
 
 S  54-4
@@ -252,7 +256,7 @@ D  1944-11-08
 A  Me 262A-1
 U  Kommando Nowotny
 P  Nowotny, Walter
-P  Schell
+P  Schall
 MA B-24
 A  P-51D-15
 
@@ -286,6 +290,7 @@ S  58-1
 T  Wolf Pack on the Prowl
 D  1945-01-14
 U  56th FG
+ML Berlin
 U  Wolf Pack
 MA Fw 190
 A  Bf 109K-4
@@ -364,6 +369,7 @@ L  Abbeville
 A  Spitfire F. Mk. IXe
 A  Fw 190A-8
 A  Bf 109G-6
+L  English Channel
 
 S  64-1
 T  Ramrod To Berlin
@@ -390,6 +396,7 @@ L  Ploesti
 L  Romania
 E  "Romania", not "Rumania"
 MU 15th AF
+ML Italy
 ML Berlin
 U  460th BG
 MU 55th CW
@@ -422,3 +429,60 @@ A  Bf 109K-4
 A  Fw 190D-9
 A  Ta 152H-1
 L  English Channel
+
+S  66-1
+T  Jabos Over England
+D  1943-01-20
+U  10/JG 26
+U  10/JG 2
+ML London
+A  Fw 190A-4/U3
+A  Spitfire F. Mk. IXc
+MA Bf 109
+
+S  67-1
+T  Marauders On The Deck
+D  1943-05-17
+A  B-26B-4
+L  Velsen
+ML Ijmuiden
+A  Bf 109G-6
+
+S  67-2
+T  Rhubard Over France
+D  1943, autumn
+ML English Channel
+ML Caen
+A  Spitfire F. Mk. IXc
+
+S  67-3
+T  Train Busting
+D  1944, spring
+U  9th AF
+ML Normandy
+A  P-38J-25
+
+S  68-1
+T  Rommel Gets Strafed
+D  1944-07-17
+P  Rommel, Erwin
+U  83 Group
+A  Spitfire F. Mk. IXc
+
+S  68-2
+T  Bridge And Tank Busting
+D  1944-08
+ML Normandy
+MP Rommel, Erwin
+U  9th AF
+A  P-47D-25
+
+S  68-3
+T  Into The Inferno Of Flak!
+D  1945-04
+P  Clostermann, Pierre
+U  No. 56 Squadron
+A  Tempest V
+L  Schwerin
+A  Bf 109
+A  Bf 110
