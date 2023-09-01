@@ -38,7 +38,7 @@ A  Fw 190A-4
 
 S  50-2
 T  I Fly for the Furher
-E  Title should be "I Fly for the Führer"
+E  Title should be ``I Fly for the Führer"
 P  Knocke, Heinz
 U  JG 11
 A  B-24D
@@ -52,7 +52,7 @@ MA B-17
 ML Paris
 A  Spitfire F. Mk. IXc
 A  Fw 190A-4
-P  Galland, Wilhelm-Ferdinand "Wutz"
+P  Galland, Wilhelm-Ferdinand ``Wutz"
 MP Galland, Adolf
 MU 56th FG
 
@@ -62,14 +62,14 @@ D  1943-05-17
 A  B-26B-4
 U  322nd BG
 A  Bf 109G-6
-E  "Marauder", not "Maruader"
+E  ``Marauder", not ``Maruader"
 
 S  51-1
-T  "Hub" Zemke's First Kills
+T  ``Hub" Zemke's First Kills
 D  1943-06-13
 U  56th FG
 U  Zemke's Wolf Pack
-P  Zemke, Hubert "Hub"
+P  Zemke, Hubert ``Hub"
 MP Johnson, Robert S.
 MP Gabreski, Francis
 
@@ -181,7 +181,7 @@ S  54-3
 T  Zemke in Trouble
 D  1944-03-12
 ML Frankfurt
-P  Zemke, Hubert "Hub"
+P  Zemke, Hubert ``Hub"
 A  Bf 109G-10/U4
 P  Rall, Gunther
 U  JG 11
@@ -193,7 +193,7 @@ T  Anderson's One-on-One
 D  1944-05-27
 A  P-51B-15
 A  Bf 109G-10
-P  Anderson, C.E. "Bud"
+P  Anderson, C.E. ``Bud"
 U  357th FG
 ML Ludwigshafen
 
@@ -222,7 +222,7 @@ P  Olds, Robin
 ML Vietnam
 MU Wolf Pack
 MA F-4
-MP Zemke, Hubert "Hub"
+MP Zemke, Hubert ``Hub"
 MU 56th FG
 U  479th FG
 A  Fw 190A-8
@@ -263,7 +263,7 @@ A  P-51D-15
 S  57-1
 T  Yeager's 2d Best Day
 D  1944-11-27
-P  Yeager, Charles "Chuck"
+P  Yeager, Charles ``Chuck"
 U  357th FG
 ML Magdeburg
 A  P-51D-25
@@ -394,7 +394,7 @@ T  Target Ploesti
 D  1944-07-15
 L  Ploesti
 L  Romania
-E  "Romania", not "Rumania"
+E  ``Romania", not ``Rumania"
 MU 15th AF
 ML Italy
 ML Berlin
@@ -473,6 +473,7 @@ S  68-2
 T  Bridge And Tank Busting
 D  1944-08
 ML Normandy
+ML D-Day
 MP Rommel, Erwin
 U  9th AF
 A  P-47D-25
