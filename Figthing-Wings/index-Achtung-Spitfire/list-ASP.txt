@@ -1,0 +1,338 @@
+-*- encoding: utf-8; indent-tabs-mode: nil -*-
+
+License for this file is Creative Commons Zero.
+
+Based on the scenario book of the game "Achtung Spitfire!", copyright © 1994 by J.D. Webster & Clash of Arms Games
+
+S  49-1
+T  fighter Comparison Flight Tests
+D  1942--1943
+U  JG 2
+A  Spitfire Mk. VB
+A  Fw 190A-3
+A  Typhoon
+
+S  50-1
+T  Luftwaffe Pilot's Secret of Success
+P  Galland, Adolf
+MU JG 26
+ML Battle of Britain
+A  Spitfire Mk. II
+A  Bf 109E-7
+
+S  50-2
+T  Bomber Bashing
+D  1939-12-18
+MU Bomber Command
+A  Wellington Mk. IA
+L  Heligoland Bight
+A  Bf 110C-1
+A  Bf 109E-3
+
+S  50-2V
+A  Blenheim IV
+A  Fairey Battle
+A  Blenheim IVF
+
+S  51-1
+T  Hurricanes Over France
+D  1940-03-29
+U  No 1 Squadron
+A  Hurricane Mk. IA
+L  Phony War
+ML Poland
+P  Richey, Paul
+A  Bf 109E-3
+P  Volk
+U  JG 53
+
+S  51-2
+T  Low altitude Chase
+D  1940-05-11
+U  No 1 Squadron
+P  Richey, Paul
+MA Do 17P
+A  Hurricane Mk. IA
+A  Do 17Z-2
+
+S  51-3
+T  Zerstörer-Blenheim Melee
+D  1940-05-10
+A  Blenheim IF
+U  No 600 Squadron
+A  Bf 110C-1
+U  I/ZG 1
+MP Goering, Hermann
+P  Falk, Wolfgang
+
+S  52-1
+T  Zerstörer Killers
+D  1940-05-11
+MP Goering, Hermann
+A  Bf 110C-1
+A  Hurricane Mk. IA
+U  No 1 Squadron
+P  Richey, Paul
+
+S  52-2
+T  Battle Escort
+D  1940-05-12
+ML  Albert Canal
+A  Fairey Battle
+U  No 12 Squadron
+A  Hurricane Mk. IA
+E  ``From" instead of ``Form"
+A  Bf 109E-3
+
+S  52-3
+T  Adolf Galland's First Kills
+D  1940-05-12
+P  Galland, Adolf
+U  JG 27
+L  Spanish Civil War
+A  Hurricane Mk. I
+A  Bf 109E-3
+
+S  52-4
+T  One Against Many
+D  1940-05-21
+MU BEF
+ML Dunkirk
+P  Allen, Johnny
+A  Spitfire Mk. IA
+U  No 54 Squadron
+L  English Channel
+A  Ju 88A-5
+
+S  53-1
+T  Low Altitude Dogfight
+D  1940-05-23
+P  Deere, Al
+P  Allen, Johnny
+U  No 54 Squadron
+A  Bf 109E-3
+A  Spitfire Mk. IA
+
+S  53-2
+T  Spitfires Over France
+D  1940-05-23
+A  Spitfire Mk. IA
+U  No 92 Squadron
+ML Calais
+ML Dunkirk
+A  Bf 109E-3
+A  Bf 110C-1
+P  Tuck, Bob Stanford
+
+S  53-3
+T  Action Over Dunkirk
+D  1940-06-02
+L  Operation ``Dynamo"
+MU BEF
+L  Dunkirk
+U  No 92 Squadron
+P  Tuck, Bob Stanford
+A  He 111H-2
+A  Bf 109E-3
+A  Spitfire Mk. IA
+E  ``Mk. IA" instead of ``Mk. 1A"
+
+S  54-1
+T  Opening Round
+D  1940-07-10
+L  Battle of Britain
+L  English Channel
+A  Do 17Z-2
+U  KG 2
+A  Bf 109E-3
+U  JG 51
+MU Condor Legion
+P  Trauloft
+A  Bf 110C-1
+U  ZG 26
+A  Hurricane Mk. IA
+A  Spitfire Mk. IA
+
+S  54-2
+T  Doomed Defiants
+D  1940-07-19
+L  Dunkirk
+A  Defiant I
+U  No 141 Squadron
+A  Bf 109E-3
+U  JG 51
+P  Trauloft
+L  English Channel
+
+S  55-1
+T  Galland Returns
+D  1940-07-24
+L  English Channel
+MU JG 25
+MU JG 51
+P  Galland, Adolf
+U  III/JG 25
+A  Bf 109E-4
+A  Spitfire Mk. IA
+U  No 54 Squadron
+A  Do 17Z-2
+P  Allen, Johnny
+
+S  55-2
+T  Stukas On The Defensive
+D  1940-08-08
+A  Ju 87B-2
+MP Hitler, Adolf
+L  Battle of Britain
+MU C.W.8
+L  Dover Straits
+MA Bf 109
+A  Hurricane Mk. IA
+
+S  55-3
+T  Eagle Day Lufberry
+D  1940-08-13
+L  Eagle Day
+E  ``Lufbery" instead of ``Lufberry"
+MP Lufbery, Raoul  
+A  Bf 110C-3
+MA Do 17
+ML Dunkirk
+A  Spitfire Mk. IA
+A  Hurricane Mk. IA
+E  ``Mk. IA" instead of ``Mk. 1A"
+
+S  55-4
+T  Hard Day's Fighting
+D  1940-08-15
+P  Deere, Al
+U  No 54 Squadron
+P  Galland, Adolf
+A  Bf 109E-4/N
+A  Spitfire Mk. IA
+E  ``Mk. IA" instead of ``Mk. 1A"
+ML Calais
+
+S  56-1
+T  The Last Straw
+D  1940-09-15
+MP Goering, Hermann
+A  Bf 109E-4
+MP Hitler, Adolf
+MU Fighter Command
+ML London
+P  Bader, Douglas
+U  No 242 Squadron
+A  Hurricane Mk. IA
+A  Do 17Z-2
+
+S  56-3
+T  The RAF Counter-Offensive
+D  1941, spring
+ML Battle of Britain
+ML Greece
+ML Yugoslavia
+ML North Africa
+ML Russia
+ML English Channel
+MU Fighter Command
+A  Spitfire Mk. IIA
+A  Bf 109F-2
+A  Bf 109E-7
+A  Blenheim IV
+
+S  57-1
+T  A Tiger By The Tail
+D  1941-06-21
+P  Tuck, Bob Stanford
+U  No 257 Squadron
+A  Hurricane Mk. IIC
+ML Battle of Britain
+A  Bf 109F-2
+L  North Sea
+
+S  57-2
+T  Fighter Pilot's Summer
+D  1941-07-11
+P  Richey, Paul
+ML Battle of Britain
+U  No 609 Squadron
+A  Spitfire Mk. VB
+A  Bf 109F-4/Z
+
+S  57-3
+T  Whirlwinds In Action
+D  1941-08
+A  Whirlwind IA
+A  Bf 109F-2
+
+S  58-1
+T  Galland's Specials
+D  1941, Autumn
+ML Battle of Britain
+P  Galland, Adolf
+A  Bf 109F-2
+A  Spitfire Mk. VB
+MA Bf 109E
+
+S  58-2
+T  The Butcher Bird Arrives
+D  1941-09-21
+U  JG 26
+A  Fw 190A-1
+A  Spitfire Mk. VB
+MA Fw 190A-2
+
+S  58-3
+T  Focke-Wulfes Dominate
+D  1942-06-02
+ML Mediterranean
+ML Africa
+MU 8th Air Force
+A  Fw 190A-3
+P  Deere, Al
+ML United States
+U  No 403 Squadron
+L  Saint-Omer
+U  JG 26
+A  Spitfire Mk. VB
+
+S  58-4
+T  Typhoons Over Dieppe
+D  1942-08-19
+A  Typhoon IB
+L  Operation Jubilee
+L  Dieppe
+A  Dawson
+U  No 266 Squadron
+A  Do 217E-3
+A  Fw 190A-3
+MA Spitfire
+
+S  59-1
+T  Johnson's One-on-One
+D  1942-08-19
+P  Johnson, J.E.
+MP Bader, Douglas
+U  No 610 Squadron
+L  Dieppe
+A  Fw 190A-3
+A  Spitfire Mk. VB
+
+S  59-2
+T  The First Americans
+D  1942-08-19
+L  Dieppe
+A  Spitfire Mk. VB
+MU Eagle Squadron
+MU 8th Air Force
+A  Fw 190A-3
+A  Do 217E-3
+U  No 133 Eagle Squadron
+P  Blakeslee, Don
+
+S  59-3
+T  Fighting Mosquitoes
+D  1943, Spring
+A  Mosquito FB Mk. VI
+A  Bf 109G-2

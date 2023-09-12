@@ -1,0 +1,47 @@
+-*- encoding: utf-8; indent-tabs-mode: nil -*-
+
+About "Achtung Spitfire!":
+
+The rules booklet  includes an index of important  game concepts, each
+entry pointing to  the rules paragraphs where each  concept is defined
+or used. That's good!  Very good! But it does not  include an index of
+all  interesting  elements appearing  in  the  various scenarios.  Too
+bad...
+
+So, like I did with "Wings of the Motherland", I decided to compile an
+index of people appearing in the scenarios, and an index of locations.
+What I did not do (yet) with  WotM, I added an index of aircraft types
+and an index of units. And also an index of typos as with WotM.
+
+By the way, I  am sure there are some typos lurking  in *my* files and
+some omissions. Please forgive me and report these typos and omissions
+to me.
+
+The scenarios are not  numbered. So I give them a  code built with the
+page  number and  the sequence  of scenarios  within this  page. If  a
+scenario straddles  over two  pages, I  use the  first page,  with the
+scenario title.
+
+Person names  are written with the  family name first, then  the given
+name and last  the nickname (if it exists). No  rank is given, because
+it  changes for  some people.
+
+The  index  includes both  people  who  took  an  active part  in  the
+scenarios and people  who only get a mention, such  as xxxxxxxxx (page
+xx). When  the scenario code is  in upright characters, that  means an
+active role. When the scenario code is in italics, that means a simple
+mention. The same  is done for the locations, but  there might be some
+inconsistencies. For example, when a  scenario describes a mission "en
+route to X"  or "in the neighborhood  of Y", the scenario  codes for X
+and Y are  sometimes printed in upright characters and  in other cases
+they are printed in italics.
+
+Published in BGG on 2023-xx-xx, see
+https://boardgamegeek.com/filepage/xxx
+
+Lua program files are licensed under the GNU Public License, version 1
+or later.
+
+Other files  are licensed under  the "Creative Commons  Zero" license.
+They are based on "Achtung Spitfire!", copyright (c) 1994 J.D. Webster
+and Clash of Arms Games.

@@ -1,0 +1,118 @@
+% -*- encoding: utf-8 -*-
+%
+%    Document providing an index of proper names in Achtung Spitfire!
+%    Copyright (C) 2023 Jean Forget, licensed under Creative Commons Zero
+%
+
+\documentclass[a4paper,twocolumn]{article}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{luainputenc}
+\usepackage{fancyhdr}
+
+\newcommand{\datenum}{\number\year-%
+\ifnum\month<10\relax0\fi\number\month-%
+\ifnum\day<10\relax0\fi\number\day}
+
+\renewcommand{\rmdefault}[0]{ppl}
+\parindent=0mm
+\parskip=0pt
+
+\pagestyle{fancy}
+\chead{\datenum\hfill Index of proper names in \textit{Achtung Spitfire!} \hfill \thepage}
+\cfoot{\scriptsize CC0 (Creative Commons Zero) \\ based on \textit{Over the Reich}, copyright \copyright{} 1994 by J.D. Webster \& Clash of Arms Games}
+
+\directlua{dofile("extract.lua")}
+\newenvironment{texte}{\rmfamily}{}
+
+\begin{document}
+
+Scenarios are identified by the page number, a dash and a
+sequential number to distinguish scenarios in the same page. If
+a scenario is printed on several pages, the first page is used for
+the scenario code. For example, \textit{One Against Many} is printed
+on pages 52 and 53, therefore its code is 52-4.
+
+When a person, location, etc is directly involved in a scenario,
+the scenario code is typeset in upright characters. If the scenario
+includes just an indirect mention of this person or location,
+its code is typeset in italics. This may include Max Immelmann, Raoul Lufbery
+and John Thach if the eponymous aerobatic maneuver or the eponymous
+tactics are mentionned.
+
+
+\section*{Persons}
+
+\vspace{1mm}
+
+\directlua{extract('P','MP')}
+
+\section*{Locations And Events}
+
+Western European nations are not indexed.
+
+\vspace{1mm}
+
+\directlua{extract('L','ML')}
+
+\section*{Units}
+
+Nation-wide units such as RAF and Luftwaffe, are not indexed.
+
+\vspace{1mm}
+
+\directlua{extract('U','MU')}
+
+\vspace{1mm}
+
+\section*{Aircraft Types}
+
+The index includes the scenario variations and the encounter
+tables for mission scenarios, with a ``V'' or an ``E''
+suffix. Aircraft types are listed here only if they do not appear in the
+scenario main description.
+
+\vspace{1mm}
+
+\directlua{extract('A','MA')}
+
+\section*{Errata}
+
+Here are a few errata from the scenarios. Not something that can ruin a game, just
+a few typos.
+
+\vspace{1mm}
+
+% Inconsistent use of dashes in aircraft types, for example ``Bf 109G6''
+% instead of  ``Bf 109G-6'': various places.
+
+\directlua{extract('E','-')}
+
+\end{document}
+
+=encoding utf-8
+
+=head1 Usage
+
+  lualatex index-ASP-v1.tex
+
+Then use your favorite PDF viewer to display index-ASP-v1.pdf
+
+=head1 Description
+
+This  document  gives  an  index  of proper  names  mentioned  in  the
+scenarios of I<Achtung Spitfire!>. These proper names are separated in
+two categories.  The first  category is  persons. The  second category
+mixes locations (e.g.  Kurksk) and events (e.g. Battle  of Kursk). The
+third category includes  units and the fourth  category lists aircraft
+types.
+
+This  document includes  also  a  few errata  I  have  spotted in  the
+scenario booklet.
+
+=head1 Copyright and License
+
+Copyright (c) 2023 Jean Forget, licensed under CC0 (Creative Commons Zero)
+
+The generated PDF document is  based on the booklet of \textit{Achtung
+Spitfire!}, copyright (c) 1993, J.D. Webster & Clash of Arms
+
