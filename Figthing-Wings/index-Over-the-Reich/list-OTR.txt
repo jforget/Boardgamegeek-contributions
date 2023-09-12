@@ -38,7 +38,7 @@ A  Fw 190A-4
 
 S  50-2
 T  I Fly for the Furher
-E  Title should be ``I Fly for the Führer"
+E  ``Führer" instead of ``Furher"
 P  Knocke, Heinz
 U  JG 11
 A  B-24D
@@ -336,6 +336,29 @@ A  Fw 190A-4
 A  Bf 109G-6
 L  Le Havre
 
+S  62-1V
+A  Spitfire F. Mk. IX
+A  P-47D-25
+
+S  62-1E
+A  P-47D-5
+A  Spitfire F. Mk. IXc
+A  P-47C-5
+A  Bf 109G-6/R6
+A  Bf 110G-2/R3
+A  Ju 88C-6
+A  P-47D-15
+A  P-51B-5
+A  P-38J-10
+A  Bf 109G-10/U4
+A  Fw 190A-8
+A  Me 410A-2
+A  B-17F
+A  B-24J
+A  B-26B-10
+A  Ju-88
+A  Bf 110G-2
+
 S  62-2
 T  Black Thursday
 D  1943-10-14
@@ -358,6 +381,18 @@ A  Me 410A-2/U4
 A  Ju 88C-6
 L  English Channel
 
+S  62-2V
+A  P-38J-10
+
+S  62-2E
+A  Spitfire F. Mk. IXc
+A  P-38J-10
+A  Bf 109G-6/R2
+A  Me 410A-2
+A  Bf 110G-2/R3
+A  Ju-88
+A  Bf 110G-2
+
 S  63-1
 T  Circus To Lille
 D  1943-09 to 1944
@@ -370,6 +405,24 @@ A  Spitfire F. Mk. IXe
 A  Fw 190A-8
 A  Bf 109G-6
 L  English Channel
+
+S  63-1V
+A  P-38J-10
+
+S  63-1E
+A  P-47D-10
+A  Spitfire F. Mk. IXc
+A  Spitfire F. Mk. IXe
+A  P-38J-10
+A  Bf 109G-6/R6
+A  Fw 190A-4
+A  Bf 110G-2/R3
+A  Spitfire F. Mk. IX
+A  B-17F
+A  B-26
+A  B-17G
+A  Ju-88
+A  Ju 88C-6
 
 S  64-1
 T  Ramrod To Berlin
@@ -388,6 +441,23 @@ A  Bf 109G-6/R6
 A  Me 410A-2/U4
 A  Bf 110G-2/R4
 L  English Channel
+
+S  64-1V
+A  B-24
+
+S  64-1E
+A  Spitfire F. Mk. IXc
+A  Spitfire F. Mk. IXe
+A  P-51C-5
+A  P-51B-15
+A  Fw 190A-8/R2
+A  Fw 190A-8/R1
+A  Bf 110G-2/R3
+A  B-17F
+A  B-24J
+A  Me 410A-2
+A  Ju-88
+A  Ju 88C-6
 
 S  65-1
 T  Target Ploesti
@@ -410,6 +480,18 @@ A  Ju 88C-6
 A  Bf 109G-10/U4
 L  Adriatic Sea
 
+S  65-1V
+A  P-51D-5
+A  Bf 109G-6/R2
+
+S  65-1E
+A  P-47D-23
+A  Spitfire F. Mk. IXe
+A  P-51D-5
+A  Bf 109G-6
+A  Fw 190A-8/R2
+A  Bf 110G-2/R4
+
 S  65-2
 T  Last Days Of The Reich
 D  1945-04
@@ -429,6 +511,21 @@ A  Bf 109K-4
 A  Fw 190D-9
 A  Ta 152H-1
 L  English Channel
+
+S  65-2E
+A  P-51D-25
+A  P-47D-25
+A  P-38J-25
+A  Tempest
+A  Spitfire F. Mk. XIVe
+A  Bf 109G-10/U4
+A  Ta 152H-1
+A  Me 262A-1b
+A  B-17G
+A  B-26B
+A  P-38
+A  Ju-88
+A  Ju 88C-6
 
 S  66-1
 T  Jabos Over England
