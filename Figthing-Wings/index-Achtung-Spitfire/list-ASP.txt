@@ -194,7 +194,7 @@ T  Eagle Day Lufberry
 D  1940-08-13
 L  Eagle Day
 E  ``Lufbery" instead of ``Lufberry"
-MP Lufbery, Raoul  
+MP Lufbery, Raoul
 A  Bf 110C-3
 MA Do 17
 ML Dunkirk

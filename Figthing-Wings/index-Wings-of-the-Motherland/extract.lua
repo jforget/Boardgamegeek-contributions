@@ -40,16 +40,16 @@ for line in f:lines() do
     tag, name = string.match(line, "^(%a%a?)%s(.*)")
     if (tag == normal_tag or tag == italic_tag) and name ~= nil then
       if data[name] == nil then
-	data[name] = { }
+        data[name] = { }
         table.insert(names, name);
         normalized_name[name] = normalize(name);
         -- print(name, '->', normalize(name));
       end
       if tag == normal_tag then
-	table.insert(data[name], scenario);
+        table.insert(data[name], scenario);
       end
       if tag == italic_tag then
-	table.insert(data[name], bsl .. 'textit{' .. scenario .. '}');
+        table.insert(data[name], bsl .. 'textit{' .. scenario .. '}');
       end
     end
   end
