@@ -303,7 +303,7 @@ D  1942-08-19
 A  Typhoon IB
 L  Operation Jubilee
 L  Dieppe
-A  Dawson
+P  Dawson
 U  No 266 Squadron
 A  Do 217E-3
 A  Fw 190A-3
@@ -336,3 +336,68 @@ T  Fighting Mosquitoes
 D  1943, Spring
 A  Mosquito FB Mk. VI
 A  Bf 109G-2
+
+S  62-1
+T  Heligoland Bight
+D  1939-12-18
+A  Wellington Mk. IA
+L  Wilhemshaven
+L  Heligoland Bight
+A  Bf 109E-3
+A  Bf 110C-1
+L  North Sea
+L  Denmark
+
+S  62-1V
+A  Blenheim IVF
+
+S  62-1E
+A  Blenheim IVF
+A  Do 17Z-2
+A  Ju 88A-1
+
+S  62-2
+T  Armed Recon Over England
+D  1940-06
+ML Battle of Britain
+L  Manston
+L  Eastchurch
+L  Hornchurch
+L  Dover
+A  Ju 88A-5
+A  Hurricane Mk. IA
+A  Spitfire Mk. IA
+U  Coastal Command
+
+S  62-2V
+A  Do 17
+A  He 111
+
+S  62-2E
+A  Defiant I
+A  Blenheim IVF
+A  Bf 109E-3
+A  Bf 110C-1
+A  Fairey Battle
+A  Wellington
+A  Do 17Z-2
+A  He 111
+
+S  63-1
+T  Stuka Convoy Attack
+D  1940-07-24
+U  Luftflotte 2
+L  English Channel
+A  Ju 87B-2
+L  Dover Straits
+A  Bf 109E-4
+A  Bf 110C-1
+A  Hurricane Mk. IA
+A  Spitfire Mk. IA
+A  Defiant I
+
+S  63-1E
+A  Blenheim IVF
+A  Bf 109E-3
+A  Bf 110C-1
+A  Fairey Battle
