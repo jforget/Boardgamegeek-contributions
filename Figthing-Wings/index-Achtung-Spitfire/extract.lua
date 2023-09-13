@@ -93,7 +93,7 @@ data are:
 
 =over 4
 
-=item * S Scenario code: page number + position within the page
+=item * S Scenario code: page number + position within the page + optional V/E suffix
 
 =item * P Person taking an active part in the scenario.
 
@@ -105,7 +105,11 @@ data are:
 
 =item * U Unit appearing in the scenario
 
+=item * MU Unit mentioned in the scenario
+
 =item * A aircraft type used in the scenario
+
+=item * MA aircraft type mentioned in the scenario
 
 =item * E Errata mentioning a typo in the booklet
 
@@ -115,7 +119,7 @@ Other lines (such as blank lines) are ignored.
 
 =head1 Copyright and License
 
-Copyright (c) 2020 Jean Forget
+Copyright (c) 2023 Jean Forget
 
 This program is distributed under the  GNU Public License version 1 or
 later.
