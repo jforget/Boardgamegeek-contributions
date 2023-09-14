@@ -336,11 +336,11 @@ A  Fw 190A-4
 A  Bf 109G-6
 L  Le Havre
 
-S  62-1V
+S  62-1v
 A  Spitfire F. Mk. IX
 A  P-47D-25
 
-S  62-1E
+S  62-1e
 A  P-47D-5
 A  Spitfire F. Mk. IXc
 A  P-47C-5
@@ -381,10 +381,10 @@ A  Me 410A-2/U4
 A  Ju 88C-6
 L  English Channel
 
-S  62-2V
+S  62-2v
 A  P-38J-10
 
-S  62-2E
+S  62-2e
 A  Spitfire F. Mk. IXc
 A  P-38J-10
 A  Bf 109G-6/R2
@@ -406,10 +406,10 @@ A  Fw 190A-8
 A  Bf 109G-6
 L  English Channel
 
-S  63-1V
+S  63-1v
 A  P-38J-10
 
-S  63-1E
+S  63-1e
 A  P-47D-10
 A  Spitfire F. Mk. IXc
 A  Spitfire F. Mk. IXe
@@ -442,10 +442,10 @@ A  Me 410A-2/U4
 A  Bf 110G-2/R4
 L  English Channel
 
-S  64-1V
+S  64-1v
 A  B-24
 
-S  64-1E
+S  64-1e
 A  Spitfire F. Mk. IXc
 A  Spitfire F. Mk. IXe
 A  P-51C-5
@@ -480,11 +480,11 @@ A  Ju 88C-6
 A  Bf 109G-10/U4
 L  Adriatic Sea
 
-S  65-1V
+S  65-1v
 A  P-51D-5
 A  Bf 109G-6/R2
 
-S  65-1E
+S  65-1e
 A  P-47D-23
 A  Spitfire F. Mk. IXe
 A  P-51D-5
@@ -512,7 +512,7 @@ A  Fw 190D-9
 A  Ta 152H-1
 L  English Channel
 
-S  65-2E
+S  65-2e
 A  P-51D-25
 A  P-47D-25
 A  P-38J-25

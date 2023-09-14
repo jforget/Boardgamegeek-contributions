@@ -29,7 +29,7 @@ L  Heligoland Bight
 A  Bf 110C-1
 A  Bf 109E-3
 
-S  50-2V
+S  50-2v
 A  Blenheim IV
 A  Fairey Battle
 A  Blenheim IVF
@@ -348,10 +348,10 @@ A  Bf 110C-1
 L  North Sea
 L  Denmark
 
-S  62-1V
+S  62-1v
 A  Blenheim IVF
 
-S  62-1E
+S  62-1e
 A  Blenheim IVF
 A  Do 17Z-2
 A  Ju 88A-1
@@ -369,11 +369,11 @@ A  Hurricane Mk. IA
 A  Spitfire Mk. IA
 U  Coastal Command
 
-S  62-2V
+S  62-2v
 A  Do 17
 A  He 111
 
-S  62-2E
+S  62-2e
 A  Defiant I
 A  Blenheim IVF
 A  Bf 109E-3
@@ -396,7 +396,7 @@ A  Hurricane Mk. IA
 A  Spitfire Mk. IA
 A  Defiant I
 
-S  63-1E
+S  63-1e
 A  Blenheim IVF
 A  Bf 109E-3
 A  Fairey Battle
@@ -418,7 +418,7 @@ A  Hurricane Mk. IA
 A  Defiant I
 L  English Channel
 
-S  64-1E
+S  64-1e
 A  Spitfire Mk. II
 A  Blenheim IVF
 A  Wellington Mk. IC
@@ -443,12 +443,12 @@ A  Bf 109F-4/Z
 A  Fw 190A-2
 L  English Channel
 
-S  64-2V
+S  64-2v
 A  Typhoon
 A  Fw 190A-3
 A  Bf 109G-2
 
-S  64-2E
+S  64-2e
 A  Spitfire Mk. II
 A  Bf 109G-2
 A  Mosquito IV
@@ -471,10 +471,10 @@ A  Bf 109G-2
 A  Fw 190A-3/U3
 L  English Channel
 
-S  65-1V
+S  65-1v
 A  Spitfire Mk. IXB
 
-S  65-1E
+S  65-1e
 A  Whirlwind IA
 A  Bf 109F-2
 A  Bf 109F-4/Z
@@ -490,7 +490,7 @@ L  Albert Canal
 A  Fairey Battle
 A  Blenheim IV
 
-S  66-1V
+S  66-1v
 A  Ju 87B-2
 
 S  67-1
@@ -501,7 +501,7 @@ A  Defiant I
 A  Hurricane Mk. IA
 A  Ju 88A-5
 
-S  67-1V
+S  67-1v
 A  He 111
 
 S  67-2
@@ -513,7 +513,7 @@ A  Spitfire Mk. IIA
 A  Bf 110C-4/B
 A  Bf 109E-7
 
-S  67-2V
+S  67-2v
 A  Fw 190A-3/U3
 A  Spitfire Mk. VB
 
@@ -546,7 +546,7 @@ A  Spitfire Mk. VB
 A  Whirlwind IA
 A  Ju 88A
 
-S  68-2V
+S  68-2v
 A  Bf 109F-4
 
 S  68-3
@@ -555,5 +555,5 @@ D  1944-06
 A  Typhoon IB
 L  Normandy
 
-S  68-3V
+S  68-3v
 A  Mosquito VI
