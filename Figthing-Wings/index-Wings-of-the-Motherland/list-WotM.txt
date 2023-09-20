@@ -41,10 +41,10 @@ E René Challe, not Rene Challes
 S  A8
 P  Lavrinenkov, Vladimir
 P  Delfino, Louis
-M Zakharov, Georgiy
+MP Zakharov, Georgiy
 
 S  A9
-M Hitler, Adolf
+MP Hitler, Adolf
 ML Berlin
 L Prague
 P  Pshenichikov, Vasiliy
@@ -92,7 +92,7 @@ P  Mölders, Werner
 ML Spanish Civil War
 ML Battle of France
 ML Battle of Britain
-M Von Richthofen, Manfred, Red Baron
+MP Von Richthofen, Manfred, Red Baron
 
 S  A22
 ML Smolensk
@@ -110,7 +110,7 @@ S  A25
 ML Romania
 ML Ukraine
 P  Graf, Hermann
-M Grislawski, Alfred
+MP Grislawski, Alfred
 ML Kiev
 P  Stein
 
@@ -257,7 +257,7 @@ P  Keser
 
 S  A61
 P  Džal, Franjo
-M Pokryshkin, Alexander "Sasha"
+MP Pokryshkin, Alexander "Sasha"
 
 S  A62
 ML Rhzev
@@ -271,13 +271,13 @@ P  Ostermann
 S  A64
 L Stalingrad
 ML Kharkov
-M Khryukin
+MP Khryukin
 P  Eryomin
 L Volga river
 
 S  A65
-M Raskova, Marina
-M Stalin, Josef
+MP Raskova, Marina
+MP Stalin, Josef
 P  Litvak, Lilya
 P  Belayaeva, Raisa
 P  Maier
@@ -295,7 +295,7 @@ ML Leninsk
 
 S  A68
 P  Budanova, Iekaterina, "Katya"
-M Litvak, Lilya
+MP Litvak, Lilya
 E Budanova: Iekaterina, not Yaketarina
 
 S  A69
@@ -312,7 +312,7 @@ P  Zangiyev
 
 S  A72
 P  Sukov, Arkadii
-M Heyer, Hans-Joachim
+MP Heyer, Hans-Joachim
 E Sukov: Arkadii or Arkadi? Does it really matter?
 
 S  A73
@@ -331,10 +331,10 @@ ML Battle of Britain
 
 S  A75
 P  Budanova, Iekaterina, "Katya"
-M Shestakov, Lev
-M Belayaeva, Raisa
-M Kuznetsova, Mariya
-M Litvak, Lilya
+MP Shestakov, Lev
+MP Belayaeva, Raisa
+MP Kuznetsova, Mariya
+MP Litvak, Lilya
 
 S  A76
 ML Velikye Luki
@@ -363,16 +363,16 @@ ML Leningrad
 
 S  A82
 P  Litvak, Lilya
-M Budanova, Iekaterina, "Katya"
-M Solomatin, Alexei
+MP Budanova, Iekaterina, "Katya"
+MP Solomatin, Alexei
 ML Stalingrad
 
 S  A83
 P  Kozhedub, Ivan
 
 S  A84
-M de Gaulle, Charles
-M Stalin, Josef
+MP de Gaulle, Charles
+MP Stalin, Josef
 P  Durand, Albert
 P  Préziosi, Albert
 L Smolensk
@@ -389,7 +389,7 @@ P  Mahé, Yves
 S  A87
 P  Solomatin, Alexei
 P  Litvak, Lilya
-M Budanova, Iekaterina, "Katya"
+MP Budanova, Iekaterina, "Katya"
 
 S  A88
 L Baltic Sea
@@ -448,7 +448,7 @@ P  Lücke, Hermann
 
 S  A101
 P  Litvak, Lilya
-M Gorbachev, Mikhail
+MP Gorbachev, Mikhail
 
 S  A102
 P  Klubov, Alexander
@@ -476,8 +476,8 @@ ML Kiev
 P  Lipfert, Helmut
 
 S  A109
-M Lang, Emil
-M Marseille, Hans-Joachim
+MP Lang, Emil
+MP Marseille, Hans-Joachim
 ML North Africa
 P  Rudorffer, Erich
 
@@ -485,7 +485,7 @@ S  A110
 L Bolshaya Kostromka airfield
 P  Slizen, Leontiy
 P  Rall, Günther
-M Nowotny, Walter
+MP Nowotny, Walter
 
 S  A111
 P  Hannig, Norbert
@@ -654,7 +654,7 @@ L Berlin
 
 S  A150
 P  Hartmann, Erich "Bubbi"
-M Hitler, Adolf
+MP Hitler, Adolf
 P  Graf, Hermann
 L Czechoslovakia
 
@@ -683,7 +683,7 @@ L Lake Ladoga
 P  Kaberov, Igor
 
 S  G16
-M Stalin, Josef
+MP Stalin, Josef
 L Suchinichi
 
 S  G17
@@ -714,16 +714,16 @@ ML North Caucasus
 S  G23
 ML Stalingrad
 L Pitomnik
-M Pickert, Wolfgang
+MP Pickert, Wolfgang
 
 S  G24
 ML Stalingrad
 
 S  G25
-M Cordes, Udo
+MP Cordes, Udo
 
 S  G27
-M Stalin, Josef
+MP Stalin, Josef
 L Sumi-Belopolie rail line
 P  Proshkin
 P  Aleksukhin
@@ -777,7 +777,7 @@ ML Berlin
 E Seelow Heights or Seelowe Heights?
 
 S  G38
-M Leonidas
+MP Leonidas
 ML Thermopylae
 ML Greece
 L Oder river
@@ -866,7 +866,7 @@ S  N18
 ML Yalta
 ML Alushta
 ML Feodosiya
-M Stalin, Josef
+MP Stalin, Josef
 L Black Sea
 ML Ukraine
 
@@ -904,7 +904,7 @@ L Mamaia
 L Odessa
 
 S  M4
-M Hitler, Adolf
+MP Hitler, Adolf
 L Moscow
 ML Minsk
 L Minsk-Dubinskaya
