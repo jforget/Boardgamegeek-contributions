@@ -1,9 +1,9 @@
-#!/usr/bin/lua5.3
+#!/usr/bin/lua
 -- -*- encoding: utf-8; indent-tabs-mode: nil -*-
 --[[
 
 Utility script to build the index of proper names in Wings of the Motherland scenarios
-Copyright (C) 2020 Jean Forget
+Copyright (C) 2020, 2023 Jean Forget
 
 This program is distributed under the GNU Public License version 1 or later.
 
@@ -32,25 +32,23 @@ local bsl   = string.char(92)
 
 local f = assert(io.open(filename, 'r'))
 for line in f:lines() do
-  if string.match(line, "^%a%d+$") then
-    scenario = line
-    -- print(scenario, string.len(scenario))
-  else
-    --print(line)
-    tag, name = string.match(line, "^(%a%a?)%s(.*)")
-    if (tag == normal_tag or tag == italic_tag) and name ~= nil then
-      if data[name] == nil then
-        data[name] = { }
-        table.insert(names, name);
-        normalized_name[name] = normalize(name);
-        -- print(name, '->', normalize(name));
-      end
-      if tag == normal_tag then
-        table.insert(data[name], scenario);
-      end
-      if tag == italic_tag then
-        table.insert(data[name], bsl .. 'textit{' .. scenario .. '}');
-      end
+  --print(line)
+  tag, name = string.match(line, "^(%a%a?)%s%s?(.*)")
+  if tag == "S" and name ~= nil then
+    scenario = name
+  end
+  if (tag == normal_tag or tag == italic_tag) and name ~= nil then
+    if data[name] == nil then
+      data[name] = { }
+      table.insert(names, name);
+      normalized_name[name] = normalize(name);
+      -- print(name, '->', normalize(name));
+    end
+    if tag == normal_tag then
+      table.insert(data[name], scenario);
+    end
+    if tag == italic_tag then
+      table.insert(data[name], bsl .. 'textit{' .. scenario .. '}');
     end
   end
 end
@@ -88,12 +86,16 @@ The program is  meant to be called from a  LuaLaTeX document. There is
 no provision to call it from the command line.
 
 This   program   uses   a   text  file   with   a   hard-coded   name,
-F<list-WotM.txt>. This file contains three kinds of lines
+F<list-WotM.txt>. This file contains lines with a 1- or 2-letter code,
+some space, and then some data. These codes and the corresponding
+data are:
 
 =over 4
 
-=item  * Scenario  lines, which  contain an  alphabetic code  plus the
-scenario number, e.g. A109. The  alphabetic code gives the category of
+=item  * S Scenario code: an  alphabetic code  plus the
+scenario number, e.g. A109. In case of mission-scale scenarios,
+a S<v> or S<e> suffix designates the variant paragraph or the random encounter
+tables. The  alphabetic code gives the category of
 the scenario:
 
 =over 4
@@ -108,31 +110,31 @@ the scenario:
 
 =back
 
-=item *  Reference lines, which  give a name  and its relation  to the
-scenario.  These lines  include  a tag,  a space  and  the entry.  The
-currently defined tags are:
+=item * P Person taking an active part in the scenario.
 
-=over 4
-
-=item * A Person taking an active part in the scenario.
-
-=item * M Person mentioned in the scenario, without being really part of it.
+=item * MP Person mentioned in the scenario, without being really part of it.
 
 =item * L Location or event directly involved in the scenario.
 
 =item * ML Location or event mentioned in the scenario, without being really part of it.
 
+=item * U Unit appearing in the scenario
+
+=item * MU Unit mentioned in the scenario
+
+=item * A aircraft type used in the scenario
+
+=item * MA aircraft type mentioned in the scenario
+
 =item * E Errata mentioning a typo in the booklet
 
 =back
 
-=item * Other lines (such as blank lines) which are ignored.
-
-=back
+Other lines (such as blank lines) are ignored.
 
 =head1 Copyright and License
 
-Copyright (c) 2020 Jean Forget
+Copyright (c) 2020, 2023 Jean Forget
 
 This program is distributed under the  GNU Public License version 1 or
 later.
