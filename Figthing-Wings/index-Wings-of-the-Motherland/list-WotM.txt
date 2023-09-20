@@ -5,90 +5,90 @@ License for this file is Creative Commons Zero.
 Based on the scenario book of the game "Wings of the Motherland", copyright © 2018 by Clash of Arms Inc & J.D. Webster
 
 S  A1
-A Zakharov, Georgiy
+P  Zakharov, Georgiy
 L Minsk
 ML Spanish Civil War
 ML China
 ML Battle of Kursk
 
 S  A2
-A Goshko, Stepan
+P  Goshko, Stepan
 ML Rzhev
 
 S  A3
 L Poltava
-A Kurayev
-A Graf, Hermann
+P  Kurayev
+P  Graf, Hermann
 
 S  A4
-A Hartmann, Erich "Bubbi"
+P  Hartmann, Erich "Bubbi"
 
 S  A5
-A Jaekel, Egbert
+P  Jaekel, Egbert
 L Battle of Kursk
 
 S  A6
-A Lipfert, Helmut
+P  Lipfert, Helmut
 L strait of Kerch
 L Kerch, strait of
 L Crimea
 
 S  A7
 L East Prussia
-A Challe, René
+P  Challe, René
 E René Challe, not Rene Challes
 
 S  A8
-A Lavrinenkov, Vladimir
-A Delfino, Louis
+P  Lavrinenkov, Vladimir
+P  Delfino, Louis
 M Zakharov, Georgiy
 
 S  A9
 M Hitler, Adolf
 ML Berlin
 L Prague
-A Pshenichikov, Vasiliy
+P  Pshenichikov, Vasiliy
 
 S  A10
 L Kurovitsa Airdrome
-A Rubstov
+P  Rubstov
 E Rubstov or Rubtsov?
 
 S  A11
-A Oljenik
+P  Oljenik
 
 S  A12
-A Schellman, Wolfgang
-A Kuzmin
+P  Schellman, Wolfgang
+P  Kuzmin
 ML Spain
 
 S  A13
-A Pokryshkin, Alexander "Sasha"
+P  Pokryshkin, Alexander "Sasha"
 
 S  A14
-A Plotnikov
+P  Plotnikov
 ML Spanish Civil War
 L Minsk
-A Mahlke
+P  Mahlke
 
 S  A16
-A Pokryshkin, Alexander "Sasha"
+P  Pokryshkin, Alexander "Sasha"
 
 S  A17
-A Ostermann
+P  Ostermann
 
 S  A18
 L Berezina river
 
 S  A19
-A Pokryshkin, Alexander "Sasha"
+P  Pokryshkin, Alexander "Sasha"
 
 S  A20
 L Murmansk
-A Schaschke, Gerhard
+P  Schaschke, Gerhard
 
 S  A21
-A Mölders, Werner
+P  Mölders, Werner
 ML Spanish Civil War
 ML Battle of France
 ML Battle of Britain
@@ -96,41 +96,41 @@ M Von Richthofen, Manfred, Red Baron
 
 S  A22
 ML Smolensk
-A Orlov
+P  Orlov
 
 S  A23
 ML Smolensk
 L Barbarossa, Operation
 
 S  A24
-A Zaitsev, Alexander
-A Schaschke, Gerhard
+P  Zaitsev, Alexander
+P  Schaschke, Gerhard
 
 S  A25
 ML Romania
 ML Ukraine
-A Graf, Hermann
+P  Graf, Hermann
 M Grislawski, Alfred
 ML Kiev
-A Stein
+P  Stein
 
 S  A26
-A Dimitriyev
+P  Dimitriyev
 ML Leningrad
 
 S  A28
 L Murmansk
-A Hoffman
+P  Hoffman
 
 S  A29
 L Barbarossa, Operation
 
 S  A30
-A Grislawski, Alfred
+P  Grislawski, Alfred
 
 S  A31
-A Füllgrabe
-A Graf, Hermann
+P  Füllgrabe
+P  Graf, Hermann
 
 S  A32
 ML Moscow
@@ -139,100 +139,100 @@ S  A33
 ML Zagreb
 ML Balkans
 ML Croatia
-A Ferencina
-A Baumgarten
+P  Ferencina
+P  Baumgarten
 
 S  A34
-A Džal, Franjo
+P  Džal, Franjo
 
 S  A35
-A Kulakom
+P  Kulakom
 L Moscow
-A Wagner, Edmund
+P  Wagner, Edmund
 
 S  A36
-A Rall, Günther
+P  Rall, Günther
 ML Battle of France
 ML Battle of Britain
 
 S  A37
-A Graf, Hermann
-A Grislawski, Alfred
+P  Graf, Hermann
+P  Grislawski, Alfred
 L Azov
 
 S  A38
-A Graf, Hermann
+P  Graf, Hermann
 
 S  A39
 L Lake Ladoga
-A Raimann, Gerhard
+P  Raimann, Gerhard
 
 S  A40
 L Leningrad
 
 S  A41
 L Sevastopol
-A Huy, Wolf-Dietrich
-A Alekseyev
-A Avdeyev, Mikhail
+P  Huy, Wolf-Dietrich
+P  Alekseyev
+P  Avdeyev, Mikhail
 ML North Africa
 
 S  A42
-A Lohoff, Helmut
+P  Lohoff, Helmut
 
 S  A43
-A Pavlichenko
+P  Pavlichenko
 
 S  A44
 ML Demyansk
 
 S  A45
 ML Moscow
-A Rubtsov, Sergei
+P  Rubtsov, Sergei
 E Rubstov or Rubtsov?
 
 S  A46
 L Kharkov
-A Eryomin
+P  Eryomin
 E Eryomin or Yeremin? (see paragraph "4 crew quality")
 
 S  A47
 L Lake Ladoga
-A Golubev, Vasiliy
-A Schwartzkopf
+P  Golubev, Vasiliy
+P  Schwartzkopf
 
 S  A48
 ML Demyansk
 ML Kholm
 
 S  A49
-A Strelow, Hans
+P  Strelow, Hans
 
 S  A50
-A Mikovic, Veca
+P  Mikovic, Veca
 
 S  A51
 L Crimea
 
 S  A52
-A Graf, Hermann
+P  Graf, Hermann
 ML Kharkov
 E Graf with a single "f", not Graff
 
 S  A53
 ML Kharkov
-A Grislawski, Alfred
-A Hahn, Fritz
+P  Grislawski, Alfred
+P  Hahn, Fritz
 
 S  A54
-A Pokryshkin, Alexander "Sasha"
+P  Pokryshkin, Alexander "Sasha"
 ML Kharkov
 
 S  A55
 L Kirisha
 L Volkhov Front
-A Sukov, Arkadii
-A Lörzer
+P  Sukov, Arkadii
+P  Lörzer
 E Sukov: Arkadii or Arkadi? Does it really matter?
 
 S  A56
@@ -240,61 +240,61 @@ L Don river
 
 S  A57
 L Lubyan Pocket
-A Teige, Waldemar
+P  Teige, Waldemar
 
 S  A58
 L Kupyansk
 ML Kharkov
-A Yakimenko, Anton
+P  Yakimenko, Anton
 
 S  A59
-A Melnikov
+P  Melnikov
 
 S  A60
-A Pokryshkin, Alexander "Sasha"
-A Dammers, Hans
-A Keser
+P  Pokryshkin, Alexander "Sasha"
+P  Dammers, Hans
+P  Keser
 
 S  A61
-A Džal, Franjo
+P  Džal, Franjo
 M Pokryshkin, Alexander "Sasha"
 
 S  A62
 ML Rhzev
-A Kolbasovskiy or Kobasovskiy
+P  Kolbasovskiy or Kobasovskiy
 E Kolbasovskiy or Kobasovskiy?
 
 S  A63
-A Sukov, Arkadii
-A Ostermann
+P  Sukov, Arkadii
+P  Ostermann
 
 S  A64
 L Stalingrad
 ML Kharkov
 M Khryukin
-A Eryomin
+P  Eryomin
 L Volga river
 
 S  A65
 M Raskova, Marina
 M Stalin, Josef
-A Litvak, Lilya
-A Belayaeva, Raisa
-A Maier
+P  Litvak, Lilya
+P  Belayaeva, Raisa
+P  Maier
 
 S  A66
-A Sukov, Arkadii
+P  Sukov, Arkadii
 L Tosno Station
-A Findeisen
+P  Findeisen
 
 S  A67
 ML Stalingrad
-A Graf, Hermann
+P  Graf, Hermann
 ML Kuban
 ML Leninsk
 
 S  A68
-A Budanova, Iekaterina, "Katya"
+P  Budanova, Iekaterina, "Katya"
 M Litvak, Lilya
 E Budanova: Iekaterina, not Yaketarina
 
@@ -303,34 +303,34 @@ ML Smolensk
 
 S  A70
 L Stalingrad
-A Grislawski, Alfred
-A Klubov, Alexander
+P  Grislawski, Alfred
+P  Klubov, Alexander
 
 S  A71
-A Grislawski, Alfred
-A Zangiyev
+P  Grislawski, Alfred
+P  Zangiyev
 
 S  A72
-A Sukov, Arkadii
+P  Sukov, Arkadii
 M Heyer, Hans-Joachim
 E Sukov: Arkadii or Arkadi? Does it really matter?
 
 S  A73
 ML Stalingrad
-A Antonets
-A Udalov
+P  Antonets
+P  Udalov
 
 S  A74
 ML Stalingrad
 ML Morozovskaya airfield
 L Pitomnik
-A Wilcke, Wolf-Dietrich
+P  Wilcke, Wolf-Dietrich
 ML Spanish Civil War
 ML Battle of France
 ML Battle of Britain
 
 S  A75
-A Budanova, Iekaterina, "Katya"
+P  Budanova, Iekaterina, "Katya"
 M Shestakov, Lev
 M Belayaeva, Raisa
 M Kuznetsova, Mariya
@@ -340,19 +340,19 @@ S  A76
 ML Velikye Luki
 
 S  A77
-A Grislawski, Alfred
-A Hartmann, Erich "Bubbi"
-A Shitikov
+P  Grislawski, Alfred
+P  Hartmann, Erich "Bubbi"
+P  Shitikov
 
 S  A78
 ML Stalingrad
-A Schack, Günther
+P  Schack, Günther
 
 S  A79
 ML Leningrad
 
 S  A80
-A Hahn, Hans "Assi"
+P  Hahn, Hans "Assi"
 ML Battle of France
 ML Battle of Britain
 L Demyansk
@@ -362,56 +362,56 @@ L Baltic Sea
 ML Leningrad
 
 S  A82
-A Litvak, Lilya
+P  Litvak, Lilya
 M Budanova, Iekaterina, "Katya"
 M Solomatin, Alexei
 ML Stalingrad
 
 S  A83
-A Kozhedub, Ivan
+P  Kozhedub, Ivan
 
 S  A84
 M de Gaulle, Charles
 M Stalin, Josef
-A Durand, Albert
-A Préziosi, Albert
+P  Durand, Albert
+P  Préziosi, Albert
 L Smolensk
 E Préziosi, not Preziosi
 
 S  A85
 ML Kuban river
-A Pokryshkin, Alexander "Sasha"
+P  Pokryshkin, Alexander "Sasha"
 
 S  A86
-A Durand, Albert
-A Mahé, Yves
+P  Durand, Albert
+P  Mahé, Yves
 
 S  A87
-A Solomatin, Alexei
-A Litvak, Lilya
+P  Solomatin, Alexei
+P  Litvak, Lilya
 M Budanova, Iekaterina, "Katya"
 
 S  A88
 L Baltic Sea
-A Karpenko, Nikolai
+P  Karpenko, Nikolai
 
 S  A89
 L Volkhov river
-A Hannig, Norbert
+P  Hannig, Norbert
 
 S  A90
-A Klubov, Alexander
-A Zherdev, Victor
-A Grislawski, Alfred
+P  Klubov, Alexander
+P  Zherdev, Victor
+P  Grislawski, Alfred
 
 S  A91
 L Battle of Kursk
 L Kharkov-Rogan airfield
-A Wiese, Johannes
+P  Wiese, Johannes
 
 S  A92
-A Krupinski, Walter
-A Hartmann, Erich "Bubbi"
+P  Krupinski, Walter
+P  Hartmann, Erich "Bubbi"
 L Ugrim
 E Missing close parenthesis in the "crew quality" paragraph
 
@@ -423,72 +423,72 @@ ML Battle of Britain
 
 S  A95
 L Battle of Kursk
-A Rall, Günther
-A Hartmann, Erich "Bubbi"
+P  Rall, Günther
+P  Hartmann, Erich "Bubbi"
 E Missing close parenthesis in the "crew quality" paragraph
 
 S  A96
-A Kozhedub, Ivan
+P  Kozhedub, Ivan
 L Battle of Kursk
-A Rall, Günther
+P  Rall, Günther
 
 S  A97
 L Prokorovka
-A Agdantsev
+P  Agdantsev
 
 S  A99
 L Battle of Kursk
-A Weber
-A Meindl
+P  Weber
+P  Meindl
 
 S  A100
 L Battle of Kursk
-A Vostrukhin, Petr
-A Lücke, Hermann
+P  Vostrukhin, Petr
+P  Lücke, Hermann
 
 S  A101
-A Litvak, Lilya
+P  Litvak, Lilya
 M Gorbachev, Mikhail
 
 S  A102
-A Klubov, Alexander
+P  Klubov, Alexander
 ML Battle of Kursk
 
 S  A103
 L Bolshoy Tokmak airbase
-A Pokryshkin, Alexander "Sasha"
+P  Pokryshkin, Alexander "Sasha"
 
 S  A104
-A Fedorov, Ivan
+P  Fedorov, Ivan
 
 S  A105
 L Finland
-A Pallasvuo
+P  Pallasvuo
 
 S  A106
-A Hannig, Norbert
+P  Hannig, Norbert
 
 S  A107
-A Lipfert, Helmut
+P  Lipfert, Helmut
 
 S  A108
 ML Kiev
-A Lipfert, Helmut
+P  Lipfert, Helmut
 
 S  A109
 M Lang, Emil
 M Marseille, Hans-Joachim
 ML North Africa
-A Rudorffer, Erich
+P  Rudorffer, Erich
 
 S  A110
 L Bolshaya Kostromka airfield
-A Slizen, Leontiy
-A Rall, Günther
+P  Slizen, Leontiy
+P  Rall, Günther
 M Nowotny, Walter
 
 S  A111
-A Hannig, Norbert
+P  Hannig, Norbert
 
 S  A112
 ML Stalingrad
@@ -499,31 +499,31 @@ S  A113
 ML Crimea
 ML Odessa
 L Black Sea
-A Pokryshkin, Alexander "Sasha"
-A Golubev, Georgiy
+P  Pokryshkin, Alexander "Sasha"
+P  Golubev, Georgiy
 
 S  A114
-A Debrody, György
+P  Debrody, György
 L Korsun
-A Popkov, Vitaly
-A Kenyeres
+P  Popkov, Vitaly
+P  Kenyeres
 
 S  A115
 ML Korsun
-A Borcher, Adolf
+P  Borcher, Adolf
 ML Battle of Britain
 ML Battle of Kursk
-A Glushkov, Nikolay
+P  Glushkov, Nikolay
 
 S  A116
-A Koskinen, Eino
+P  Koskinen, Eino
 
 S  A117
-A Rudel, Hans-Ulrich
-A Shestakov, Lev
+P  Rudel, Hans-Ulrich
+P  Shestakov, Lev
 
 S  A118
-A Hannig, Norbert
+P  Hannig, Norbert
 
 S  A119
 L Baltic Sea
@@ -531,43 +531,43 @@ ML Leningrad
 
 S  A120
 L Crimea
-A Lipfert, Helmut
+P  Lipfert, Helmut
 
 S  A121
 ML Sevastopol
 L Crimea
-A Lambert, August
+P  Lambert, August
 
 S  A122
 L Kacza
-A Fedorov, Ivan
+P  Fedorov, Ivan
 
 S  A123
-A Kozhedub, Ivan
+P  Kozhedub, Ivan
 
 S  A124
 L Karelian Isthmus
-A Juutilainen, Ilmari
+P  Juutilainen, Ilmari
 
 S  A125
-A Savitski, "Drako"
+P  Savitski, "Drako"
 
 S  A126
-A Serov, Vladimir
+P  Serov, Vladimir
 L Karelian front
 
 S  A127
-A Hannig, Norbert
+P  Hannig, Norbert
 
 S  A128
 L Lithuania
-A Kisyelnikov
+P  Kisyelnikov
 L Yeglav airfield
 
 S  A129
 L Karelia
-A Ala-Panula
-A Valpas
+P  Ala-Panula
+P  Valpas
 
 S  A130
 ML Romania
@@ -575,33 +575,33 @@ ML Turda
 E Rumania or Romania?
 
 S  A131
-A Tammen, Heinrich
-A Ciutac, Stefan
+P  Tammen, Heinrich
+P  Ciutac, Stefan
 L Transylvania
 
 S  A133
 ML East Prussia
-A Challe, René
+P  Challe, René
 
 S  A134
 ML Hungary
-A Debrody, György
+P  Debrody, György
 
 S  A135
-A Hartmann, Erich "Bubbi"
+P  Hartmann, Erich "Bubbi"
 
 S  A136
 L Courland Pocket
 
 S  A137
-A Skomorokhov, Nicolai
+P  Skomorokhov, Nicolai
 
 S  A138
 L Königsberg
 
 S  A139
-A Sukov, Arkadii
-A Kroshinksi, Hans-Joachim
+P  Sukov, Arkadii
+P  Kroshinksi, Hans-Joachim
 E Sukov: Arkadii or Arkadi? Does it really matter?
 
 S  A140
@@ -612,20 +612,20 @@ ML Baltic Sea
 
 S  A142
 L Königsberg
-A Marchi, Roger
-A Sauvage, Roger
+P  Marchi, Roger
+P  Sauvage, Roger
 E Königsberg, not Konigsberg
 E Niemen, not Neimen
 
 S  A143
 ML Romania
-A Cantacuzino
-A Lipfert, Helmut
+P  Cantacuzino
+P  Lipfert, Helmut
 E Rumania or Romania?
 
 S  A144
-A Kozhedub, Ivan
-A Nechaev
+P  Kozhedub, Ivan
+P  Nechaev
 L Seelow Heights
 ML Berlin
 E Seelow Heights or Seelowe Heights?
@@ -637,29 +637,29 @@ ML Vienna
 S  A146
 ML Oder river
 L Küstren
-A Merkle, Karl
+P  Merkle, Karl
 
 S  A147
-A Kozhedub, Ivan
+P  Kozhedub, Ivan
 L Berlin
 
 S  A148
-A Glinka, Dmitriy
+P  Glinka, Dmitriy
 L Shtromberg
-A Klimov, Nikolay
+P  Klimov, Nikolay
 
 S  A149
-A Savitski, "Drako"
+P  Savitski, "Drako"
 L Berlin
 
 S  A150
-A Hartmann, Erich "Bubbi"
+P  Hartmann, Erich "Bubbi"
 M Hitler, Adolf
-A Graf, Hermann
+P  Graf, Hermann
 L Czechoslovakia
 
 S  G4
-A Rudel, Hans-Ulrich
+P  Rudel, Hans-Ulrich
 
 S  G5
 L Typhoon, Operation
@@ -669,18 +669,18 @@ S  G8
 ML Battle of Kursk
 
 S  G9
-A Rudel, Hans-Ulrich
+P  Rudel, Hans-Ulrich
 
 S  G12
 ML Leningrad
-A Kaberov, Igor
+P  Kaberov, Igor
 L Sabsk
 L Luga river
 
 S  G14
 ML Leningrad
 L Lake Ladoga
-A Kaberov, Igor
+P  Kaberov, Igor
 
 S  G16
 M Stalin, Josef
@@ -697,18 +697,18 @@ S  G19
 L Don river
 L Kalach
 ML Stalingrad
-A Belyy, F
+P  Belyy, F
 
 S  G20
 ML Kharkov
 L Prikolotnoye station
-A Pstygo
+P  Pstygo
 
 S  G21
 L Stalingrad
 
 S  G22
-A Emelianenko, Vasily
+P  Emelianenko, Vasily
 ML North Caucasus
 
 S  G23
@@ -725,27 +725,27 @@ M Cordes, Udo
 S  G27
 M Stalin, Josef
 L Sumi-Belopolie rail line
-A Proshkin
-A Aleksukhin
+P  Proshkin
+P  Aleksukhin
 ML Battle of Kursk
 
 S  G28
 L Narva river
 ML Leningrad
-A Golubev
+P  Golubev
 E Golubev: Georgiy or Vasiliy?
 
 S  G29
-A Litvak, Lilya
+P  Litvak, Lilya
 
 S  G30
 ML Battle of Kursk
-A Meyers, Bruno
+P  Meyers, Bruno
 E Meyers or Meyer?
 
 S  G31
 ML Battle of Kursk
-A Chubuk
+P  Chubuk
 L Podmaslovo
 L Bryansk Front
 
@@ -755,12 +755,12 @@ L Vyborg
 L Karelia
 
 S  G33
-A Polbin, Ivan
+P  Polbin, Ivan
 L Beliy Kamen
 L Ukraine
 
 S  G34
-A Rudel, Hans-Ulrich
+P  Rudel, Hans-Ulrich
 ML Estonia
 ML Prussia
 
@@ -768,7 +768,7 @@ S  G35
 L Budapest
 
 S  G36
-A Rudel, Hans-Ulrich
+P  Rudel, Hans-Ulrich
 ML Berlin
 
 S  G37
@@ -787,7 +787,7 @@ L Oder river
 
 S  G40
 L Yuterborg
-A Onishchenko
+P  Onishchenko
 ML Berlin
 
 S  N1
@@ -801,7 +801,7 @@ ML Norway
 ML Barents Sea
 
 S  N3
-A Lipfert, Helmut
+P  Lipfert, Helmut
 L strait of Kerch
 L Kerch, strait of
 L Black Sea
@@ -818,16 +818,16 @@ ML Murmansk
 
 S  N6
 L Gulf of Finland
-A Rudel, Hans-Ulrich
-A Steen
+P  Rudel, Hans-Ulrich
+P  Steen
 
 S  N7
 L Kronstadt
 
 S  N8
 L Kronstadt
-A Rudel, Hans-Ulrich
-A Steen
+P  Rudel, Hans-Ulrich
+P  Steen
 
 S  N9
 L Kerch peninsula
@@ -841,7 +841,7 @@ E Straits or strait?
 
 S  N11
 L Sevastopol
-A Hinrichs
+P  Hinrichs
 
 S  N12
 L Feodosiya
@@ -860,7 +860,7 @@ L Volga river
 
 S  N16
 L Kerch peninsula
-A Rudel, Hans-Ulrich
+P  Rudel, Hans-Ulrich
 
 S  N18
 ML Yalta
@@ -913,11 +913,11 @@ L Khodynka
 S  M5
 ML Battle of Kursk
 L Orel
-A Sayn-Wittgenstein
+P  Sayn-Wittgenstein
 L Kratovo
 
 S  M6
-A Reshetnikov, Vasily
+P  Reshetnikov, Vasily
 L Niemen river
 L Ukraine
 L Byshiv
