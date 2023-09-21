@@ -4,50 +4,115 @@ License for this file is Creative Commons Zero.
 
 Based on the scenario book of the game "Wings of the Motherland", copyright © 2018 by Clash of Arms Inc & J.D. Webster
 
+S  T1
+T  Fighter Comparison Test
+D  1940, Fall
+A  Bf 109E-7/U1
+A  MiG-3 (std)
+MA Yak-1
+MA I-16
+
+S  T2
+T  Eagle Strike
+D  1943, summer
+P  Pokryshkin, Alexander "Sasha"
+A  P-39N
+A  Ju 87D-1
+
 S  A1
+T  The Fighting General
+D  1941-06-22
 P  Zakharov, Georgiy
-L Minsk
+U  43 IAD
+L  Minsk
 ML Spanish Civil War
 ML China
+MU 303 IAD
 ML Battle of Kursk
+A  Ju 88A-4
+A  I-16 Type 24
 
 S  A2
+T  A Useful Kill
+D  1941-07-02
 P  Goshko, Stepan
 ML Rzhev
+U  11 IAP
+A  He 111H-6
+A  Yak-1
 
 S  A3
-L Poltava
+T  To The Finish
+D  1941-09-27
+A  Il-4 (early)
+U  8 DBAP
+A  Bf 109F-4/R3
+U  JG 52
+L  Poltava
 P  Kurayev
 P  Graf, Hermann
 
 S  A4
+T  Hartmann's First
+D  1942-11-05
 P  Hartmann, Erich "Bubbi"
+U  JG 52
+A  Il-2 (std)
+MA LaGG-3
+A  Bf 109G-2/R3
 
 S  A5
+T  Stuka Pilot's Folly
+D  1943-10-17
 P  Jaekel, Egbert
+U  2./StG-2
 L Battle of Kursk
+A  La-5 (1943)
+A  Ju 87D-1
 
 S  A6
+T  Helmut's Shadow
+D  1943-12-31
 P  Lipfert, Helmut
-L strait of Kerch
-L Kerch, strait of
-L Crimea
+U  JG 52
+L  strait of Kerch
+L  Kerch, strait of
+L  Crimea
+A  Bf 109G-2/R3
+A  Yak-7B (late)
 
 S  A7
-L East Prussia
+T  Moustache Moves
+D  1944-10-16
+U  Normandie-Niemen
+A  Yak-3
+L  East Prussia
 P  Challe, René
-E René Challe, not Rene Challes
+E  René Challe, not Rene Challes
+A  Fw 190A-8
 
 S  A8
+T  A Friendly Duel
+D  1944, winter
+U  9 GIAP
 P  Lavrinenkov, Vladimir
+U  Normandie-Niemen
 P  Delfino, Louis
 MP Zakharov, Georgiy
+MU 303 IAD
+A  La-7
+A  Yak-3
 
 S  A9
+T  The Last Soviet Kill
+D  1945-05-09
 MP Hitler, Adolf
 ML Berlin
-L Prague
+L  Prague
 P  Pshenichikov, Vasiliy
+U  100 GIAP
+A  P-39N
+A  Fw 189A-2
 
 S  A10
 L Kurovitsa Airdrome
