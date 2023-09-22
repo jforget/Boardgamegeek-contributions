@@ -946,47 +946,146 @@ ML Prussia
 ML Denmark
 
 S  M1
-L Smolensk
-L Orsha
-L Minsk
+T  Urgent Recon
+D  1941-07-00
+U  163 IAP
+L  Smolensk
+MU Panzer Group II
+MU 16th Army
+MU 19th Army
+MU 20th Army
+A  I-16 Type 26
+A  Bf 109F-2/R3
+A  Bf 110E-1/R1
+L  Orsha
+L  Minsk
+
+S  M1e
+A  MiG-3
+A  I-16 Type 24
+A  I-153 (M63)
+A  I-153 (M62)
+A  Bf 109E-7/U1
+A  Bf 110E-2
+A  SB-2M103
+A  Su-2
+A  Il-4
+A  He 111H-6
+A  Ju 88A-4
+A  Fw 189
 
 S  M2
+T  Vultures Over PQ-17
+D  1942-07-00
+MU Tirpitz
+MU PQ-17
 ML North Sea
 ML Arkhangel
 ML Murmansk
-L Norway
-L Banak
-L Nordkap
-L Barents Sea
-E Barents Sea, not Barent Sea
+A  Ju 88A-4
+U  KG 30
+L  Norway
+L  Banak
+L  Nordkap
+L  Barents Sea
+E  Barents Sea, not Barent Sea
+U  Generic Armed Merchant
+
+S  M2e
+U  KG 26
+A  He 111
+
+S  M2v
+A  He 111H-6
 
 S  M3
-L Black Sea
-L Constanta
-L Yevpatoriya
-L Crimea
-L Mamaia
-L Odessa
+T  Parasites Over Constanta
+D  1941-08-00
+A  TB-3 ``Zveno''
+A  I-16SBP
+L  Black Sea
+U  63 BAB
+U  32 IAP
+L  Constanta
+A  Bf 109E-7
+U  III/JG 52
+L  Yevpatoriya
+L  Crimea
+L  Mamaia
+L  Odessa
+
+S  M3e
+A  SB-2M103
+A  Il-4
+U  Type 7 Destroyer
+A  He 111H-6
+A  Ju 88A-4
+U  Romanian Gunboat
+U  Unarmed Freighter
+A  MiG-3
+A  I-16 Type 24
+A  I-153
+A  I-16 Type 28
+A  Bf 109F-2/R3
+A  Bf 110E-2
 
 S  M4
+T  The Moscow Raids
+D  1941-07-21
 MP Hitler, Adolf
-L Moscow
+L  Moscow
+U  KG 53
 ML Minsk
-L Minsk-Dubinskaya
-L Khodynka
+A  He 111H-6
+A  MiG-3 (std)
+L  Minsk-Dubinskaya
+L  Khodynka
+MA I-16
+MA LaGG
+
+M  M4e
+A  I-16 Type 24
+A  I-16 Type 28
+A  LaGG-3/S1
+
+M  M4v
+A  Ju 88A-4
 
 S  M5
+T  A Record Night
+D  1943-07-20
+MU APDD
+A  Pe-8
+ML Operation Kutuzov
+E  Kutuzov, not Kuzutov
 ML Battle of Kursk
-L Orel
+U  Army Group Center
+U  746 APDD
+L  Orel
+MU 45th Bomber Division
+U  9th Staffel
 P  Sayn-Wittgenstein
-L Kratovo
+A  Ju 88C-6b
+L  Kratovo
+
+S  M5e
+A  Bf 109G-6/R3
+A  Fw 190A-5
+A  Il-4
 
 S  M6
+T  In Hot Water
+D  1944-07-31
 P  Reshetnikov, Vasily
-L Niemen river
-L Ukraine
-L Byshiv
-L Tilsit
-L East Prussia
-E Reshetnikov or Reshtnikov? or even Shestikov in paragraph "1 crew quality"
+U  19th Guards BAD
+L  Niemen river
+U  19th Guards DBAP
+E  Niemen, not Neimen
+L  Tilsit
+L  East Prussia
+L  Ukraine
+L  Byshiv
+A  Il-4
+E  Reshetnikov or Reshtnikov? or even Shestikov in paragraph "1 crew quality"
+E  BAD or DBAP? Are these differents units?
 
