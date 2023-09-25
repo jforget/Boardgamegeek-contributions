@@ -309,73 +309,205 @@ P  Dimitriyev
 U  StG 1
 ML Leningrad
 
+S  A27
+T  Scattered Resistance
+D  1941-09-00
+A  I-16 Type 28
+A  Bf 109F-4/R3
+A  Ju 88D-3
+
+S  A27v
+A  I-153
+
 S  A28
-L Murmansk
+T  Tricky Ivans
+D  1941-09-15
+L  Murmansk
 P  Hoffman
+U  1.(Z)/JG 77
+A  I-16 Type 24
+A  Bf 110E-1
 
 S  A29
-L Barbarossa, Operation
+T  Dueling With Fascists
+D  1941-10-00
+L  Barbarossa, Operation
+A  Yak-1
+A  Yak-1 (ser 2)
+A  Bf 109F-4/R3
+
+S  A29v
+A  I-16 Type 24
+A  LaGG-3(S1)
+A  MiG-3 (late)
+A  Bf 109E-7
+A  Bf 109F-2
 
 S  A30
+T  Picking Off Scouts
+D  1941-10-05, 1941-10-06
 P  Grislawski, Alfred
+U  9./JG 52
+MA I-16
+A  Yak-1
+A  Bf 109F-4/R3
+A  Su-2
 
 S  A31
-P  Füllgrabe
+T  Beware the Odd One
+D  1941-10-14
 P  Graf, Hermann
+U  9./JG 52
+P  Füllgrabe
+A  Yak-1
+A  Yak-1 (ser 2)
+A  Bf 109F-4/R3
 
 S  A32
+T  Defenders of Moscow
+D  1941-10-22
 ML Moscow
+A  MiG-3 (late)
+MA LaGG
+MA Yak
+U  KG 53
+U  34 IAP
+A  He 111H-6
+
+S  A32v
+A  Bf 110E-2
 
 S  A33
+T  Croats' First Kills
+D  1941-11-02
 ML Zagreb
 ML Balkans
 ML Croatia
+MU Croatian Legion
+U  15 (Kroat.)/JG 52
+ML Rostov
 P  Ferencina
 P  Baumgarten
+A  I-16 Type 24
+A  Pol. U-2
+A  Bf 109E-7
 
 S  A34
+T  Dzal's Quartet
+D  1941-11-09
 P  Džal, Franjo
+U  15 (Kroat.)/JG 52
+A  I-16 Type 24
+A  Bf 109E-7
 
 S  A35
+T  A Lucky Shot
+D  1941-11-13
 P  Kulakom
-L Moscow
+A  I-153
+U  120 IAP
+L  Moscow
+A  Bf 109F-2/R3
 P  Wagner, Edmund
+U  JG 51
+A  SB-2M103
 
 S  A36
+T  Günther Rall's Error
+D  1941-11-28
 P  Rall, Günther
+U  8./JG 52
 ML Battle of France
 ML Battle of Britain
+A  Yak-1
+A  Bf 109F-4/R3
 
 S  A37
+T  Lufbery Broken
+D  1941-12-06
+MP Lufbery, Raoul
 P  Graf, Hermann
+U  9./JG 52
 P  Grislawski, Alfred
-L Azov
+L  Azov
+A  Bf 109F-4/R3
+A  I-16 Type 24
 
 S  A38
+T  Chasing Iron Crosses
+D  1941-12-27
 P  Graf, Hermann
+A  SB-2M103
+A  I-16 Type 24
+A  Bf 109F-4/R3
 
 S  A39
-L Lake Ladoga
+T  Wrong Place Wrong Time
+U  7./JG 54
+A  Bf 109F-2/R3
+L  Lake Ladoga
 P  Raimann, Gerhard
+A  TB-3/RN
 
 S  A40
-L Leningrad
+T  Step Down Fight
+D  1942-01-01
+A  I-16 Type 24
+U  Baltic Fleet
+U  13 IAP
+L  Leningrad
+U  JG 54
+A  Bf 109F-2/R3
+A  I-16 Type 24
 
 S  A41
-L Sevastopol
+T  Lufbery Succeeds
+D  1942-01-23
+MP Lufbery, Raoul
+L  Sevastopol
+U  Black Sea Fleet
+A  Yak-1 (ser 2)
+U  8 IAP
+MA Pe-2
+MU 40 BAP
+A  Bf 109F-2/R3
+U  7./JG 77
 P  Huy, Wolf-Dietrich
 P  Alekseyev
 P  Avdeyev, Mikhail
 ML North Africa
+MA Spitfire
 
 S  A42
+T  Too Low -- Too Slow
+D  1942-02-10
+U  7./JG 51
 P  Lohoff, Helmut
+A  Pe-2
+A  Bf 109F-2/R3
 
 S  A43
+T  A Suprise Rescue
+D  1942-02-23
+A  I-16 Type 24
+U  289 IAP
+A  Su-2
+U  210 BBAP
+A  Bf 109F-4/R3
+U  I./JG 77
+MP Lufbery, Raoul
 P  Pavlichenko
 
 S  A44
+T  Stalking Iron Annies
+D  1942-02-25
 ML Demyansk
+A  Ju 52/3m
+A  Bf 109F-4/R3
+A  LaGG-3(S1)
+
+S  A44v
+A  Bf 110E
 
 S  A45
 ML Moscow
@@ -1134,7 +1266,7 @@ U  63 BAB
 U  32 IAP
 L  Constanta
 A  Bf 109E-7
-U  III/JG 52
+U  III./JG 52
 L  Yevpatoriya
 L  Crimea
 L  Mamaia
@@ -1169,10 +1301,11 @@ L  Khodynka
 MA I-16
 MA LaGG
 
-M  M4e
+S  M4e
 A  I-16 Type 24
 A  I-16 Type 28
-A  LaGG-3/S1
+A  LaGG-3(S1)
+E  LaGG-3(S1), not LaGG-3/S1
 
 M  M4v
 A  Ju 88A-4
