@@ -66,7 +66,7 @@ T  Stuka Pilot's Folly
 D  1943-10-17
 P  Jaekel, Egbert
 U  2./StG-2
-L Battle of Kursk
+L  Battle of Kursk
 A  La-5 (1943)
 A  Ju 87D-1
 
@@ -115,72 +115,198 @@ A  P-39N
 A  Fw 189A-2
 
 S  A10
-L Kurovitsa Airdrome
+T  The First Kills -- Part I
+D  1941-06-22
+A  Ju 88A-4
+U  III./KG 51
+L  Kurovitsa Airdrome
+A  I-16 Type 24
+A  I-153
 P  Rubstov
-E Rubstov or Rubtsov?
+U  66 ShAP
+E  Rubstov or Rubtsov?
 
 S  A11
+T  The First Kills -- Part II
+D  1941-06-22
+A  Ju 88A-4
+U  III./KG 51
+A  Bf 109F-2/R3
+U  JG 3
+A  I-16 Type 24
 P  Oljenik
+U  1./JG 3
+
+S  A11v
+A  I-153
+A  I-16 Type 28
 
 S  A12
+T  Pyrrhic Tenacity
+D  1941-06-22
+U  JG 27
 P  Schellman, Wolfgang
+MA I-16
+A  I-153
 P  Kuzmin
+MU Condor Legion
 ML Spain
+A  Bf 109E-7
 
 S  A13
+T  Sasha's Oops
+D  1941-06-22
+U  55 IAP
 P  Pokryshkin, Alexander "Sasha"
+A  Su-2
+U  210 BBAP
+A  MiG-3 (std)
 
 S  A14
+T  No Easy Days
+D  1941-06-24
+A  I-16 Type 24
+U  163 IAP
 P  Plotnikov
 ML Spanish Civil War
-L Minsk
+U  StG 1
+A  Ju 87R
+L  Minsk
+U  III./StG 1
 P  Mahlke
 
+S  15
+T  Doomed Riposte
+D  1941-06-25
+A  SB-2M103
+U  North-Western Front
+U  JG 51
+A  Bf 109F-2/R3
+
 S  A16
+T  Sasha's Lucky Escape
+D  1941-06-27
+MA Su-2
 P  Pokryshkin, Alexander "Sasha"
+MA Bf 109
+MA Hs 126
+A  Bf 109E-7
+U  II./JG 77
+A  MiG-3 (std)
 
 S  A17
+T  Shturmovik Intercept
+D  1941-06-28
+A  Il-2 (early)
+U  4 ShAP
+MA RZ
+A  Bf 109F-2/R3
+U  JG 51
 P  Ostermann
 
 S  A18
-L Berezina river
+T  Lumbering Giants
+D  1941-06-30
+L  Berezina river
+MU 3rd BAK
+A  TB-3/RN
+U  3 TBAP
+A  Bf 109F-2/R3
+U  III./JG 51
 
 S  A19
+T  MiG Escort Fails
+D  1941-07-02
+U  55 IAP
+A  SB-2M103
+A  MiG-3 (std)
 P  Pokryshkin, Alexander "Sasha"
+A  Bf 109E-7
+U  9/JG 77
 
 S  A20
-L Murmansk
+T  Sneaky Zerstörer
+D  1941-07-13
+L  Murmansk
+U  145 IAP
+A  Bf 110E-1
 P  Schaschke, Gerhard
+A  Bf 109F-2/R3
+A  I-16 Type 24
 
 S  A21
+T  The First Centurion
+D  1941-07-15
 P  Mölders, Werner
+U  JG 51
+MU Condor Legion
 ML Spanish Civil War
 ML Battle of France
 ML Battle of Britain
 MP Von Richthofen, Manfred, Red Baron
+A  I-16 Type 24
+ML Spain
+MA I-16
+A  Bf 109F-2/R3
 
 S  A22
+T  Dogged Determination
+D  1941-07-24
+MU 4.(F)/14
+A  Ju 88D-3
 ML Smolensk
+A  MiG-3 (std)
 P  Orlov
+U  122 IAP
 
 S  A23
+T  Low And Dirty Work
+D  1941-08-00
+A  Bf 109E-7/U1
 ML Smolensk
-L Barbarossa, Operation
+U  II./LG 2
+L  Barbarossa, Operation
+A  Yak-1
 
 S  A24
+T  LaGGs to the Fray
+D  1941-08-04
+A  LaGG-3(S1)
+MA I-16
+U  145 IAP
 P  Zaitsev, Alexander
+A  Bf 110E-1
+U  III./ZG 76
+MA Bf 109
 P  Schaschke, Gerhard
 
+S  A24v
+A  I-16 Type 28
+A  I-16 Type 24
+A  Bf 109F-2/R3
+
 S  A25
+T  Graf's First Kill
+D  1941-08-04
+U  III./JG 52
+A  Bf 109F-4/R3
 ML Romania
 ML Ukraine
 P  Graf, Hermann
 MP Grislawski, Alfred
+MA Ju-87
 ML Kiev
+A  I-16 Type 24
 P  Stein
 
 S  A26
+T  MiG vs. Zerstörer
+D  1941-08-25
+A  MiG-3 (late)
+U  15 IAP
+A  Bf 110E-1
 P  Dimitriyev
+U  StG 1
 ML Leningrad
 
 S  A28
@@ -1063,7 +1189,6 @@ U  Army Group Center
 U  746 APDD
 L  Orel
 MU 45th Bomber Division
-U  9th Staffel
 P  Sayn-Wittgenstein
 A  Ju 88C-6b
 L  Kratovo
