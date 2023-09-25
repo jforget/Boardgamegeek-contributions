@@ -1103,7 +1103,7 @@ A  Fw 189
 S  M2
 T  Vultures Over PQ-17
 D  1942-07-00
-MU Tirpitz
+MB Tirpitz
 MU PQ-17
 ML North Sea
 ML Arkhangel
@@ -1115,7 +1115,7 @@ L  Banak
 L  Nordkap
 L  Barents Sea
 E  Barents Sea, not Barent Sea
-U  Generic Armed Merchant
+B  Generic Armed Merchant
 
 S  M2e
 U  KG 26
@@ -1143,11 +1143,11 @@ L  Odessa
 S  M3e
 A  SB-2M103
 A  Il-4
-U  Type 7 Destroyer
+B  Type 7 Destroyer
 A  He 111H-6
 A  Ju 88A-4
-U  Romanian Gunboat
-U  Unarmed Freighter
+B  Romanian Gunboat
+B  Unarmed Freighter
 A  MiG-3
 A  I-16 Type 24
 A  I-153

@@ -126,6 +126,10 @@ the scenario:
 
 =item * MA aircraft type mentioned in the scenario
 
+=item * B ships (named or class) used in the scenario
+
+=item * MB ships (named or class) mentioned in the scenario
+
 =item * E Errata mentioning a typo in the booklet
 
 =back
