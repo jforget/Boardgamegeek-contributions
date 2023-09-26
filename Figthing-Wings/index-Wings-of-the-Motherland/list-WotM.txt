@@ -510,93 +510,235 @@ S  A44v
 A  Bf 110E
 
 S  A45
+T  No Longer Afraid
+D  1942-03-01
+A  Bf 110E-1
+A  MiG-3 (late)
+U  120 IAP
 ML Moscow
+U  II./ZG 76
 P  Rubtsov, Sergei
-E Rubstov or Rubtsov?
+E  Rubstov or Rubtsov?
+U  12 GIAP
 
 S  A46
-L Kharkov
+T  Victorious Near Kharkov
+D  1942-03-09
+L  Kharkov
+A  Yak-1 (ser 2)
+U  296 IAP
 P  Eryomin
-E Eryomin or Yeremin? (see paragraph "4 crew quality")
+E  Eryomin or Yeremin? (see paragraph "4 crew quality")
+A  Ju 87D-1
+A  Bf 109E-7/U2
+A  Bf 109F-4/R3
+A  Ju 88A-4
 
 S  A47
-L Lake Ladoga
+T  Death or Glory
+D  1942-03-12
+L  Lake Ladoga
 P  Golubev, Vasiliy
+U  4 GIAP
+A  Bf 109F-4/R3
+A  I-16 Type 24
 P  Schwartzkopf
+U  1./JG 54
 
 S  A48
+T  Defense by Heard
+D  1942-03-00
 ML Demyansk
 ML Kholm
+A  Bf 109F-4/R3
+A  Ju 52/3m
+A  MiG-3 (late)
 
 S  A49
+T  Earth Skimming
+D  1942-03-18
 P  Strelow, Hans
+U  5./JG 51
+A  Yak-1 (ser 2)
 
 S  A50
+T  Croatia's First Ace
+D  1942-04-07
+A  Bf 109E-7
+U  15 (Kroat.)/JG 52
+MA I-153
+A  MiG-3 (late)
 P  Mikovic, Veca
 
+S  A50v
+A  LaGG-3(S4)
+A  Yak-1 (ser 2)
+A  Yak-7B (early)
+
 S  A51
-L Crimea
+T  Chaikas Jumped
+D  1942-05-08
+L  Crimea
+A  I-153
+U  JG 52
+U  JG 77
+U  214 ShAP
+A  I-16 Type 28
+A  I-16 Type 24
+U  36 IAP
+A  Bf 109F-4/R3
 
 S  A52
-P  Graf, Hermann
+T  Lt. Graf's Hundredth
+D  1942-05-14
 ML Kharkov
-E Graf with a single "f", not Graff
+U  9./JG 52
+P  Graf, Hermann
+E  Graf with a single "f", not Graff
+A  MiG-3 (late)
+A  LaGG-3(S1)
+A  Yak-1 (ser 2)
+U  38th Air Army
+A  Bf 109F-4/R3
 
 S  A53
+T  Clear The Skies
+D  1942-05-15
 ML Kharkov
+A  LaGG-3(S1)
+U  181 IAP
+A  Ju 88A-4
+A  Bf 109F-4/R3
 P  Grislawski, Alfred
 P  Hahn, Fritz
 
 S  A54
+T  In all Directions
+D  1942-05-15
 P  Pokryshkin, Alexander "Sasha"
+MU 55 IAP
+U  16 GIAP
+MA MiG-3
+A  Yak-1 (ser 2)
 ML Kharkov
+A  Su-2
+A  Bf 109F-4/R3
 
 S  A55
-L Kirisha
-L Volkhov Front
+T  LaGGs to the Rescue
+D  1942-05-22
+A  Bf 109F-4/R3
+U  II./JG 54
+A  Il-2 (std)
+L  Kirisha
+L  Volkhov Front
+A  LaGG-3(S1)
+U  47 IAP
 P  Sukov, Arkadii
 P  Lörzer
-E Sukov: Arkadii or Arkadi? Does it really matter?
+U  JG 54
+E  Sukov: Arkadii or Arkadi? Does it really matter?
 
 S  A56
-L Don river
+T  Clever Optimization
+D  1942-06-00
+L  Don river
+A  LaGG-3(S1)
+U  268 IAD
+A  I-16 Type 24
+U  102 IAD/PVO
+A  Bf 109F-4/R3
 
 S  A57
-L Lubyan Pocket
+T  Bomber Night Ace
+D  1942-06-08
+A  Pol. U-2
+L  Lubyan Pocket
+A  He 111H-6
+U  II./KG 53
 P  Teige, Waldemar
+U  662 NBAP
 
 S  A58
-L Kupyansk
+T  Every Man for Himself
+D  1942-06-24
+L  Kupyansk
 ML Kharkov
+U  206 IAD
+A  Yak-1 (ser 2)
+A  Bf 109F-4/R3
+A  Bf 110E-1/R2
+U  I./ZG 2
+U  I./JG 52
 P  Yakimenko, Anton
 
 S  A59
+T  Cement Fighters
+D  1942-07-12
+A  Il-2 (std)
 P  Melnikov
+A  Ju 87D-1
+MA Yak
 
 S  A60
+T  Sasha Versus the Gustavs
+D  1942-07-17
+U  JG 52
+A  Bf 109G-2/R3
+U  16 GIAP
+MA Il-2
 P  Pokryshkin, Alexander "Sasha"
+U  7./JG 52
 P  Dammers, Hans
 P  Keser
+A  Yak-1 (ser 2)
 
 S  A61
+T  Dzal Meets His Match
+D  1942-07-28
+U  JG 52
+MA Bf 109E
+A  Bf 109G-2/R3
 P  Džal, Franjo
+U  15 (Kroat.)/JG 52
+A  Yak-1 (ser 2)
 MP Pokryshkin, Alexander "Sasha"
 
 S  A62
+T  Bombers Hit Hard
+D  1942-08-07
 ML Rhzev
+A  Yak-1 (ser 2)
+U  32 IAP
 P  Kolbasovskiy or Kobasovskiy
-E Kolbasovskiy or Kobasovskiy?
+E  Kolbasovskiy or Kobasovskiy?
+A  Ju 88A-4
+A  Bf 109F-4/R3
 
 S  A63
+T  A Bounce Gone Bad
+D  1942-08-09
 P  Sukov, Arkadii
+U  41 IAP
+A  LaGG-3(S35)
+A  Bf 109G-2/R3
+U  7./JG 54
 P  Ostermann
 
 S  A64
-L Stalingrad
+T  Vital Recon
+D  1942-08-24
+A  Yak-7 (early)
+A  Yak-1 (ser 2)
+U  296 IAP
+L  Stalingrad
 ML Kharkov
 MP Khryukin
+MU 8th Air Army
 P  Eryomin
-L Volga river
+L  Volga river
+A  Bf 109F-4/R3
+A  Bf 109G-2/R3
 
 S  A65
 MP Raskova, Marina
@@ -607,7 +749,7 @@ P  Maier
 
 S  A66
 P  Sukov, Arkadii
-L Tosno Station
+L  Tosno Station
 P  Findeisen
 
 S  A67
@@ -619,13 +761,13 @@ ML Leninsk
 S  A68
 P  Budanova, Iekaterina, "Katya"
 MP Litvak, Lilya
-E Budanova: Iekaterina, not Yaketarina
+E  Budanova: Iekaterina, not Yaketarina
 
 S  A69
 ML Smolensk
 
 S  A70
-L Stalingrad
+L  Stalingrad
 P  Grislawski, Alfred
 P  Klubov, Alexander
 
@@ -636,7 +778,7 @@ P  Zangiyev
 S  A72
 P  Sukov, Arkadii
 MP Heyer, Hans-Joachim
-E Sukov: Arkadii or Arkadi? Does it really matter?
+E  Sukov: Arkadii or Arkadi? Does it really matter?
 
 S  A73
 ML Stalingrad
@@ -646,7 +788,7 @@ P  Udalov
 S  A74
 ML Stalingrad
 ML Morozovskaya airfield
-L Pitomnik
+L  Pitomnik
 P  Wilcke, Wolf-Dietrich
 ML Spanish Civil War
 ML Battle of France
@@ -678,10 +820,10 @@ S  A80
 P  Hahn, Hans "Assi"
 ML Battle of France
 ML Battle of Britain
-L Demyansk
+L  Demyansk
 
 S  A81
-L Baltic Sea
+L  Baltic Sea
 ML Leningrad
 
 S  A82
@@ -698,8 +840,8 @@ MP de Gaulle, Charles
 MP Stalin, Josef
 P  Durand, Albert
 P  Préziosi, Albert
-L Smolensk
-E Préziosi, not Preziosi
+L  Smolensk
+E  Préziosi, not Preziosi
 
 S  A85
 ML Kuban river
@@ -715,11 +857,11 @@ P  Litvak, Lilya
 MP Budanova, Iekaterina, "Katya"
 
 S  A88
-L Baltic Sea
+L  Baltic Sea
 P  Karpenko, Nikolai
 
 S  A89
-L Volkhov river
+L  Volkhov river
 P  Hannig, Norbert
 
 S  A90
@@ -728,15 +870,15 @@ P  Zherdev, Victor
 P  Grislawski, Alfred
 
 S  A91
-L Battle of Kursk
-L Kharkov-Rogan airfield
+L  Battle of Kursk
+L  Kharkov-Rogan airfield
 P  Wiese, Johannes
 
 S  A92
 P  Krupinski, Walter
 P  Hartmann, Erich "Bubbi"
-L Ugrim
-E Missing close parenthesis in the "crew quality" paragraph
+L  Ugrim
+E  Missing close parenthesis in the "crew quality" paragraph
 
 S  A93
 ML Battle of Kursk
@@ -745,27 +887,27 @@ S  A94
 ML Battle of Britain
 
 S  A95
-L Battle of Kursk
+L  Battle of Kursk
 P  Rall, Günther
 P  Hartmann, Erich "Bubbi"
-E Missing close parenthesis in the "crew quality" paragraph
+E  Missing close parenthesis in the "crew quality" paragraph
 
 S  A96
 P  Kozhedub, Ivan
-L Battle of Kursk
+L  Battle of Kursk
 P  Rall, Günther
 
 S  A97
-L Prokorovka
+L  Prokorovka
 P  Agdantsev
 
 S  A99
-L Battle of Kursk
+L  Battle of Kursk
 P  Weber
 P  Meindl
 
 S  A100
-L Battle of Kursk
+L  Battle of Kursk
 P  Vostrukhin, Petr
 P  Lücke, Hermann
 
@@ -778,14 +920,14 @@ P  Klubov, Alexander
 ML Battle of Kursk
 
 S  A103
-L Bolshoy Tokmak airbase
+L  Bolshoy Tokmak airbase
 P  Pokryshkin, Alexander "Sasha"
 
 S  A104
 P  Fedorov, Ivan
 
 S  A105
-L Finland
+L  Finland
 P  Pallasvuo
 
 S  A106
@@ -805,7 +947,7 @@ ML North Africa
 P  Rudorffer, Erich
 
 S  A110
-L Bolshaya Kostromka airfield
+L  Bolshaya Kostromka airfield
 P  Slizen, Leontiy
 P  Rall, Günther
 MP Nowotny, Walter
@@ -821,13 +963,13 @@ ML Karelia
 S  A113
 ML Crimea
 ML Odessa
-L Black Sea
+L  Black Sea
 P  Pokryshkin, Alexander "Sasha"
 P  Golubev, Georgiy
 
 S  A114
 P  Debrody, György
-L Korsun
+L  Korsun
 P  Popkov, Vitaly
 P  Kenyeres
 
@@ -853,23 +995,23 @@ L Baltic Sea
 ML Leningrad
 
 S  A120
-L Crimea
+L  Crimea
 P  Lipfert, Helmut
 
 S  A121
 ML Sevastopol
-L Crimea
+L  Crimea
 P  Lambert, August
 
 S  A122
-L Kacza
+L  Kacza
 P  Fedorov, Ivan
 
 S  A123
 P  Kozhedub, Ivan
 
 S  A124
-L Karelian Isthmus
+L  Karelian Isthmus
 P  Juutilainen, Ilmari
 
 S  A125
@@ -877,30 +1019,30 @@ P  Savitski, "Drako"
 
 S  A126
 P  Serov, Vladimir
-L Karelian front
+L  Karelian front
 
 S  A127
 P  Hannig, Norbert
 
 S  A128
-L Lithuania
+L  Lithuania
 P  Kisyelnikov
 L Yeglav airfield
 
 S  A129
-L Karelia
+L  Karelia
 P  Ala-Panula
 P  Valpas
 
 S  A130
 ML Romania
 ML Turda
-E Rumania or Romania?
+E  Rumania or Romania?
 
 S  A131
 P  Tammen, Heinrich
 P  Ciutac, Stefan
-L Transylvania
+L  Transylvania
 
 S  A133
 ML East Prussia
@@ -920,12 +1062,12 @@ S  A137
 P  Skomorokhov, Nicolai
 
 S  A138
-L Königsberg
+L  Königsberg
 
 S  A139
 P  Sukov, Arkadii
 P  Kroshinksi, Hans-Joachim
-E Sukov: Arkadii or Arkadi? Does it really matter?
+E  Sukov: Arkadii or Arkadi? Does it really matter?
 
 S  A140
 ML Hungary
@@ -934,58 +1076,58 @@ S  A141
 ML Baltic Sea
 
 S  A142
-L Königsberg
+L  Königsberg
 P  Marchi, Roger
 P  Sauvage, Roger
-E Königsberg, not Konigsberg
-E Niemen, not Neimen
+E  Königsberg, not Konigsberg
+E  Niemen, not Neimen
 
 S  A143
 ML Romania
 P  Cantacuzino
 P  Lipfert, Helmut
-E Rumania or Romania?
+E  Rumania or Romania?
 
 S  A144
 P  Kozhedub, Ivan
 P  Nechaev
-L Seelow Heights
+L  Seelow Heights
 ML Berlin
-E Seelow Heights or Seelowe Heights?
+E  Seelow Heights or Seelowe Heights?
 
 S  A145
-L Austria
+L  Austria
 ML Vienna
 
 S  A146
 ML Oder river
-L Küstren
+L  Küstren
 P  Merkle, Karl
 
 S  A147
 P  Kozhedub, Ivan
-L Berlin
+L  Berlin
 
 S  A148
 P  Glinka, Dmitriy
-L Shtromberg
+L  Shtromberg
 P  Klimov, Nikolay
 
 S  A149
 P  Savitski, "Drako"
-L Berlin
+L  Berlin
 
 S  A150
 P  Hartmann, Erich "Bubbi"
 MP Hitler, Adolf
 P  Graf, Hermann
-L Czechoslovakia
+L  Czechoslovakia
 
 S  G4
 P  Rudel, Hans-Ulrich
 
 S  G5
-L Typhoon, Operation
+L  Typhoon, Operation
 ML Moscow
 
 S  G8
@@ -997,17 +1139,17 @@ P  Rudel, Hans-Ulrich
 S  G12
 ML Leningrad
 P  Kaberov, Igor
-L Sabsk
-L Luga river
+L  Sabsk
+L  Luga river
 
 S  G14
 ML Leningrad
-L Lake Ladoga
+L  Lake Ladoga
 P  Kaberov, Igor
 
 S  G16
 MP Stalin, Josef
-L Suchinichi
+L  Suchinichi
 
 S  G17
 ML Rhzev
@@ -1017,18 +1159,18 @@ S  G18
 ML Stalingrad
 
 S  G19
-L Don river
-L Kalach
+L  Don river
+L  Kalach
 ML Stalingrad
 P  Belyy, F
 
 S  G20
 ML Kharkov
-L Prikolotnoye station
+L  Prikolotnoye station
 P  Pstygo
 
 S  G21
-L Stalingrad
+L  Stalingrad
 
 S  G22
 P  Emelianenko, Vasily
@@ -1036,7 +1178,7 @@ ML North Caucasus
 
 S  G23
 ML Stalingrad
-L Pitomnik
+L  Pitomnik
 MP Pickert, Wolfgang
 
 S  G24
@@ -1047,16 +1189,16 @@ MP Cordes, Udo
 
 S  G27
 MP Stalin, Josef
-L Sumi-Belopolie rail line
+L  Sumi-Belopolie rail line
 P  Proshkin
 P  Aleksukhin
 ML Battle of Kursk
 
 S  G28
-L Narva river
+L  Narva river
 ML Leningrad
 P  Golubev
-E Golubev: Georgiy or Vasiliy?
+E  Golubev: Georgiy or Vasiliy?
 
 S  G29
 P  Litvak, Lilya
@@ -1064,23 +1206,23 @@ P  Litvak, Lilya
 S  G30
 ML Battle of Kursk
 P  Meyers, Bruno
-E Meyers or Meyer?
+E  Meyers or Meyer?
 
 S  G31
 ML Battle of Kursk
 P  Chubuk
-L Podmaslovo
-L Bryansk Front
+L  Podmaslovo
+L  Bryansk Front
 
 S  G32
 ML Finnish front
-L Vyborg
-L Karelia
+L  Vyborg
+L  Karelia
 
 S  G33
 P  Polbin, Ivan
-L Beliy Kamen
-L Ukraine
+L  Beliy Kamen
+L  Ukraine
 
 S  G34
 P  Rudel, Hans-Ulrich
@@ -1088,28 +1230,28 @@ ML Estonia
 ML Prussia
 
 S  G35
-L Budapest
+L  Budapest
 
 S  G36
 P  Rudel, Hans-Ulrich
 ML Berlin
 
 S  G37
-L Seelowe Heights
+L  Seelowe Heights
 ML Berlin
-E Seelow Heights or Seelowe Heights?
+E  Seelow Heights or Seelowe Heights?
 
 S  G38
 MP Leonidas
 ML Thermopylae
 ML Greece
-L Oder river
+L  Oder river
 
 S  G39
-L Oder river
+L  Oder river
 
 S  G40
-L Yuterborg
+L  Yuterborg
 P  Onishchenko
 ML Berlin
 
@@ -1314,7 +1456,7 @@ A  Hs 129B-2/R3
 B  Project 1125 river tank
 B  Armed trawler
 B  DB lighter
-B  MO-4 partol boat
+B  MO-4 patrol boat
 
 S  N16
 T  Boat Busting in Kerch
