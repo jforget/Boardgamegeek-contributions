@@ -1114,94 +1114,289 @@ P  Onishchenko
 ML Berlin
 
 S  N1
+T  Black Sea Torpedo Attack
+D  1942, Spring
 ML Sevastopol
-L strait of Kerch
-L Kerch, strait of
+A  He 111H-6
+U  KG 26
+L  Strait of Kerch
+L  Kerch, strait of
+B  Armed Merchant (AMC)
 
 S  N2
+T  Vultures Over PQ-17
+D  1942, July
+U  PQ-17
+MB Tirpitz
 ML Murmansk
+MB U-boat
 ML Norway
+A  Ju 88A-4
+U  KG 30
+B  Armed Merchant (AMC)
 ML Barents Sea
 
 S  N3
+T  Lipfert's MTB Kill
+D  1943-12-27
+L  Strait of Kerch
+L  Kerch, strait of
+A  Bf 109G-2/R6
 P  Lipfert, Helmut
-L strait of Kerch
-L Kerch, strait of
-L Black Sea
+U  II./JG 52
+MA P-39
+L  Black Sea
+B  Vosper class MTB
 
 S  N4
+T  Surr Strait Skirmish
+D  1941-07-19
+B  Project 7U destroyer
 ML Gulf of Riga
 ML Baltic Sea
-L Surr Strait
+L  Surr Strait
+A  Ju 88A-4
+U  KGr 806
+B  Serdity
 
 S  N5
-L Kola Bay
+T  Kola Bay Search
+D  1941-07-20
+L  Kola Bay
+A  Ju 87B-2
+U  12./LG 1
 ML Norway
 ML Murmansk
+B  Project 7 destroyer
+B  Stremitleny
+B  Armed trawler
+B  Sthil
+A  Bf 110E-2
+A  I-16 Type 24
 
 S  N6
-L Gulf of Finland
+T  The Marat is Hit
+D  1941-09-16
+L  Gulf of Finland
+U  Red Banner Fleet
+A  Ju 87B-2
+U  StG 2
+B  Marat
 P  Rudel, Hans-Ulrich
 P  Steen
+ML Kronstadt
 
 S  N7
-L Kronstadt
+T  October Revolution Hit
+D  1941-09-21
+MB Marat
+A  Ju 88A-4
+MA Bf 110
+U  Red Banner Fleet
+B  October Revolution
+L  Kronstadt
 
 S  N8
-L Kronstadt
+T  Cracking the Marat
+D  1941-09-23
+A  Ju 87B-2
+U  3./StG 2
+B  Marat
+L  Kronstadt
 P  Rudel, Hans-Ulrich
+A  I-16 Type 28
+A  I-16 Type 24
+MB Krasnyi Kavkaz
+B  Kirov
+A  Bf 109F-2/R3
 P  Steen
 
+S  N8v
+A  Bf 109G-2
+
 S  N9
-L Kerch peninsula
+T  Red Caucasus Run
+D  1942-01-03
+B  Krasnyi Kavkaz
+U  Black Sea Fleet
+ML Kerch peninsula
+A  Ju 87D-1
+U  II./StG 77
+
+S  N9v
+A  Ju 88A-4
 
 S  N10
-L Kerch peninsula
+T  The Kerch Evacuation
+D  1942-03-00
+L  Kerch peninsula
 ML Sevastopol
-L strait of Kerch
-L Kerch, strait of
-E Straits or strait?
+L  Strait of Kerch
+L  Kerch, strait of
+B  Armed Merchant (AMC)
+B  Project 7 destroyer
+B  Project 53 destroyer
+B  MO-4 subchaser
+B  Armed trawler
+B  Elpidifor transport
+B  Elpidifor gunboat
+B  G-5 torpedo boat
+B  DB-165 lighter
+B  DB-165 AAA boat
+B  Uragan guardship
+A  I-16 Type 24
+A  He 111H-6
+A  Ju 88A-4
+A  Ju 87D-1
+A  Bf 109F-4/B
+E  Straits or strait?
 
 S  N11
-L Sevastopol
+T  Don't Touch Me
+D  1942-06-19
+L  Sevastopol
+B  PZB-3
+B  Ne Tron Menya
 P  Hinrichs
+A  Ju 88A-4
+U  2./KG 51
 
 S  N12
-L Feodosiya
-L Kerch peninsula
+T  Feodosiya Bay
+D  1942-08-02, 1942-08-03
+U  Black Sea Fleet
+B  Kharkov
+B  Molotov
+ML Feodosiya
+ML Kerch peninsula
+U  6./KG 26
+A  He 111H-6
+ML Crimea
 ML Poti
+MB Krasnyi Kavkaz
+B  Project 1 destroyer leader
 
 S  N13
+T  Snowed Under
+D  1942-09-01
+B  Uragan guardship
+B  Purga
+U  Lake Ladoga Flotilla
 ML Leningrad
+A  Ju 88D-3
+U  StG 1
+B  G-5 torpedo boat
+A  LaGG-3(S35)
 
 S  N14
+T  "Die Goldene Zange"
+D  1942-09-13
+A  He 111H-6
+U  I./KG 26
+A  Ju 88A-17
+U  I.KG 30
+U  PQ-18
 ML Murmansk
+MA Sea Hurricane
+B  Armed Merchant (AMC)
+B  Project 7 destroyer
+B  Uragan guardship
+MU PQ-17
 
 S  N15
+T  Volga River Convoy
+D  1942-11-00
+ML Battle of Stalingrad
+L  Volga river
+U  Volga River Flotilla
 ML Stalingrad
-L Volga river
+A  Hs 129B-2/R3
+B  Project 1125 river tank
+B  Armed trawler
+B  DB lighter
+B  MO-4 partol boat
 
 S  N16
-L Kerch peninsula
+T  Boat Busting in Kerch
+D  1943, Spring
+L  Kerch peninsula
+A  Ju 87G-1
 P  Rudel, Hans-Ulrich
+U  1./StG 2
+B  DB-165 lighter
+B  DB 37mm AA boat
+B  Armed trawler
+B  MO-4 subchaser
+
+S  N17
+T  Hercules Hounded
+D  1943-07-23
+A  Il-4T
+U  Baltic Fleet
+B  Unarmed Merchant
+B  Hercules
+A  Bf 109G-2/R3
 
 S  N18
+T  The Last Straw
+D  1943-10-06
+B  Kharkov
+B  Besposhchadny
+B  Sposobny
 ML Yalta
 ML Alushta
 ML Feodosiya
+A  Ju 88D-3
+U  III./StG 77
 MP Stalin, Josef
-L Black Sea
+L  Black Sea
 ML Ukraine
+B  Project 1 destroyer leader
+B  Project 7 destroyer
+B  Project 7U destroyer
+U  7./StG 77
+U  8./StG 77
+U  9./StG 77
 
 S  N19
-L Baltic Sea
-L Kiel
+T  Z39 Damaged
+D  1944-06-23
+L  Baltic Sea
+B  Z39
+B  36A (Mob.) DD
+L  Kiel
+A  Pe-2FT
+
+S  N19v
+A  Il-2M
+A  Il-4 (standard)
+A  Tu-2S
+B  Z31
+A  SB-2M103
+E  Summer 1942 variant: Z31 or Z39?
 
 S  N20
+T  Baltic Sea Slaughter
+D  1945-01-00
+ML Operation Hanibal
 ML East Prussia
 ML Estonia
 ML Prussia
 ML Denmark
+B  Armed Merchant (AMC)
+B  Armed trawler
+B  Elpidifor transport
+A  Il-2M
+A  Pe-2FT
+A  Tu-2S
+A  Fw 190A-8
+
+S  N20v
+A  Il-4T
+B  Z39
+B  36A (Mob.) DD
+A  La-5FN
+A  P-39N
 
 S  M1
 T  Urgent Recon
