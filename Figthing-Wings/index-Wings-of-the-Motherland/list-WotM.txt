@@ -75,7 +75,7 @@ T  Helmut's Shadow
 D  1943-12-31
 P  Lipfert, Helmut
 U  JG 52
-L  strait of Kerch
+L  Strait of Kerch
 L  Kerch, strait of
 L  Crimea
 A  Bf 109G-2/R3
@@ -741,132 +741,310 @@ A  Bf 109F-4/R3
 A  Bf 109G-2/R3
 
 S  A65
+T  Unwelcomed
+D  1942-09-13
 MP Raskova, Marina
 MP Stalin, Josef
+A  Yak-1 (ser 2)
+MU 586 IAP
+MU 434 IAP
+U  437 IAP
 P  Litvak, Lilya
+MA Ju 88
 P  Belayaeva, Raisa
+A  Bf 109G-2/R3
 P  Maier
 
 S  A66
+T  The Upper Hand
+D  1942-09-18
+A  LaGG-3(S35)
+U  41 IAP
+A  Bf 109G-2/R3
+MU JG 54
 P  Sukov, Arkadii
+MA Il-2
+MU 448 ShAP
 L  Tosno Station
 P  Findeisen
+U  II./JG 54
+MA P-47
 
 S  A67
+T  200th and Out
+D  1942-09-26
 ML Stalingrad
 P  Graf, Hermann
 ML Kuban
+A  I-153
+U  629 IAP
 ML Leninsk
+MA P-51
+A  Bf 109G-2/R6
+A  Bf 109G-2/R3
 
 S  A68
+T  Katya's First
+D  1942-10-06
 P  Budanova, Iekaterina, "Katya"
+MU 586 IAP
 MP Litvak, Lilya
+U  437 IAP
+A  Ju 88A-4
+A  Yak-1 (ser 2)
 E  Budanova: Iekaterina, not Yaketarina
 
 S  A69
+T  Rear Defense
+D  1942-10-00
+A  Il-2M
+MA Su-2
 ML Smolensk
+A  Bf 109G-2/R3
 
 S  A70
+T  Treetop Tussle
+D  1942-11-02
 L  Stalingrad
 P  Grislawski, Alfred
+U  9./JG 52
+A  I-16 Type 28
+A  I-153
 P  Klubov, Alexander
+MA P-39
+A  Bf 109G-2/R3
 
 S  A71
+T  Damned Good
+D  1942-11-05
 P  Grislawski, Alfred
+U  7 GShAP
+A  Il-2 (std)
 P  Zangiyev
+A  Bf 109G-2/R3
 
 S  A72
+T  Ace Stalker
+D  1942-11-11
+U  41 IAP
+MA LaGG
+A  Yak-7B (early)
 P  Sukov, Arkadii
+A  Bf 109G-2/R3
 MP Heyer, Hans-Joachim
+U  8./JG 52
 E  Sukov: Arkadii or Arkadi? Does it really matter?
 
 S  A73
+T  No Guts -- No Glory
+D  1942-12-01
 ML Stalingrad
 P  Antonets
 P  Udalov
+U  236 IAP
+A  Bf 109G-2/R3
+A  Yak-1B
+A  Yak-1 (ser 2)
 
 S  A74
+T  Supplying a Lost cause
+D  1942-12-00
+MU Sixth Army
 ML Stalingrad
+A  He 111H-6
+U  JG 3
 ML Morozovskaya airfield
 L  Pitomnik
 P  Wilcke, Wolf-Dietrich
+MU Condor Legion
 ML Spanish Civil War
 ML Battle of France
 ML Battle of Britain
+MA P-514
+A  Bf 109G-2/R3
+A  Yak-7B (std)
 
 S  A75
+T  Budanova's Double
+D  1942-12-10
 P  Budanova, Iekaterina, "Katya"
+U  437 IAP
+A  Yak-1 (ser 2)
+U  9 GIAP
 MP Shestakov, Lev
 MP Belayaeva, Raisa
 MP Kuznetsova, Mariya
+MU 586 IAP
 MP Litvak, Lilya
+A  Bf 110E-1/R2
 
 S  A76
+T  Pay Back
+D  1943-01-15
 ML Velikye Luki
+A  Yak-7B (late)
+A  Yak-7B (std)
+U  653 IAP
+A  Bf 109G-2/R3
 
 S  A77
+T  Grislawski Down
+D  1942-01-18
+MA Ju-87
 P  Grislawski, Alfred
 P  Hartmann, Erich "Bubbi"
+A  I-16 Type 24
 P  Shitikov
+U  611 IAP
 
 S  A78
+T  Butcher's Bill
+D  1943-01-29
+A  Fw 190A-5
+MU I./JG 51
 ML Stalingrad
+MU III./JG 51
+MU JG 54
+MA Bf 109
+MU I./JG 26
+U  9./JG 51
 P  Schack, Günther
+A  Pe-2FT(1942)
 
 S  A79
+T  Rats Against Wulfs
+D  1943-02-00
 ML Leningrad
+A  I-16 Type 24
+A  Fw 190A-5
 
 S  A80
+T  Assi's Last Fight
+D  1943-02-21
 P  Hahn, Hans "Assi"
 ML Battle of France
 ML Battle of Britain
+U  II./JG 54
+A  La-5 (1943)
 L  Demyansk
+A  Bf 109G-2/R6
+A  Bf 109G-2/R3
 
 S  A81
+T  Bears Among Fanged Sheeps
+D  1943-03-00
+A  Yak-1B
+MA Yak-3
+A  Ju 87D-3
 L  Baltic Sea
 ML Leningrad
+A  Bf 109G-2/R6
+
+S  A81v
+A  Bf 110E
+A  Fw 190A-5
 
 S  A82
+T  White Lily's War
+D  1943-03-22
+U  9 GIAP
+MA P-39
 P  Litvak, Lilya
 MP Budanova, Iekaterina, "Katya"
+U  296 IAP
 MP Solomatin, Alexei
 ML Stalingrad
+A  Ju 88A-4
+A  Bf 109G-2/R3
+MU 9./JG 3
 
 S  A83
+T  Ivan's Baptism
+D  1943-03-26
 P  Kozhedub, Ivan
+U  240 IAP
+A  La-5 (1943)
+A  Bf 110E-1
 
 S  A84
+T  Enter the French
+D  1943-04-05
 MP de Gaulle, Charles
 MP Stalin, Josef
+A  Yak-1B
+U  Normandie
 P  Durand, Albert
 P  Préziosi, Albert
+A  Pe-2FT(early)
 L  Smolensk
+A  Fw 190A-5
+MU 303 IAD
 E  Préziosi, not Preziosi
 
 S  A85
+T  Pokryshkin's Pendulum
+D  1943-04-09
+U  16 GIAP
+MA Yak-1
+A  P-39N
+ML Caucasus Front
 ML Kuban river
+MP Lufbery, Raoul
 P  Pokryshkin, Alexander "Sasha"
+A  Bf 109G-2/R3
+A  LaGG-3(S35)
 
 S  A86
+T  "À La Mort"
+D  1943-04-13
+U  Normandie
+A  Yak-1B
 P  Durand, Albert
+A  Fw 190A-5
+U  IV./JG 51
 P  Mahé, Yves
 
 S  A87
+T  Prelude to Tragedies
+D  1943-05-05
 P  Solomatin, Alexei
 P  Litvak, Lilya
+U  296 IAP
 MP Budanova, Iekaterina, "Katya"
+A  Yak-1B
+A  Yak-1 (ser 2)
+A  Bf 109G-2/R3
 
 S  A88
+T  Baltic Skimmers
+D  1943-05-20
+A  I-153
+U  71 IAP
 L  Baltic Sea
+A  Bf 109G-2/R3
+U  LeLV 34
 P  Karpenko, Nikolai
+B  MO-4 subchaser
+B  Elpidifor transport
 
 S  A89
+T  Height Rules
+D  1943-05-27
 L  Volkhov river
+MA Bf 110
+A  Fw 190A-5
+U  5./JG 54
+A  LaGG-3(S35)
 P  Hannig, Norbert
 
 S  A90
+T  Klubov's Rematch
+D  1943-05-30
 P  Klubov, Alexander
+U  16 GIAP
+A  P-39N
 P  Zherdev, Victor
+A  Bf 109G-2/R3
 P  Grislawski, Alfred
 
 S  A91
