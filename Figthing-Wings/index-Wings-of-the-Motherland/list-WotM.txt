@@ -1048,118 +1048,292 @@ A  Bf 109G-2/R3
 P  Grislawski, Alfred
 
 S  A91
+T  Shooting Gallery
+D  1943-07-05
 L  Battle of Kursk
+A  Il-2M
+U  237 ShAP
 L  Kharkov-Rogan airfield
 P  Wiese, Johannes
+U  I./JG 52
+MA Pe-2
+A  Bf 109G-6/U4
+A  Bf 109G-6/R3
 
 S  A92
+T  Krupinski Tagged
+D  1943-07-05
 P  Krupinski, Walter
 P  Hartmann, Erich "Bubbi"
+U  7./JG 52
+A  La-5 (1943)
 L  Ugrim
+A  Bf 109G-6/R3
 E  Missing close parenthesis in the "crew quality" paragraph
 
 S  A93
+T  What if by Daylight
+D  1943-07-00
+A  Pe-8
+MA B-17
 ML Battle of Kursk
+A  Yak-7B (late)
+A  Fw 190A-5
+A  Bf 109G-6/U4
 
 S  A94
+T  Flawed Escort
+D  1943-07-06
+A  Il-2
+A  Il-2M
 ML Battle of Britain
+A  Yak-7B
+A  Bf 109G-6/R3
 
 S  A95
-L  Battle of Kursk
+T  Deadly Duo
+D  1943-07-08
+U  JG 52
 P  Rall, Günther
 P  Hartmann, Erich "Bubbi"
+A  Yak-1B
+L  Battle of Kursk
+MA LaGG
+A  Bf 109G-6/R3
 E  Missing close parenthesis in the "crew quality" paragraph
 
 S  A96
+T  Kozhedub Snipes Rall
 P  Kozhedub, Ivan
+U  240 IAP
+A  La-5 (1943)
 L  Battle of Kursk
+A  Bf 109G-6/R3
 P  Rall, Günther
+MA LaGG-3
+MA Yak-1
 
 S  A97
+T  Stuka Escort Fails
+D  1943-07-11
 L  Prokorovka
+A  Ju 87D-3
+U  StG 77
+MA Bf 109
+A  Yak-1B
+U  183 IAP
 P  Agdantsev
 
+S  A98
+T  Tank Buster Escort
+D  1943-07-00
+A  Ju 87G-1
+A  Yak-9T
+A  Yak-7B (std)
+A  Bf 190G-2/R3
+
 S  A99
+T  Out of their Element
+D  1943-07-12
+A  Il-4 (std)
 L  Battle of Kursk
+U  113 BAD
+A  Yak-7B (late)
+U  66 GIAP
+A  Fw 190A-5
+U  7./JG 51 Mölders
 P  Weber
 P  Meindl
 
 S  A100
+T  Yaks Prevail
+D  1943-07-23
 L  Battle of Kursk
+A  Fw 190A-5
+U  III./JG 51
+A  Yak-7B (late)
+U  66 GIAP
 P  Vostrukhin, Petr
 P  Lücke, Hermann
 
 S  A101
+T  Lily Vanishes
+D  1943-08-01
 P  Litvak, Lilya
+MA Il-2
+A  Bf 109G-6/R3
+U  JG 52
+U  JG 3
+A  Yak-1B
 MP Gorbachev, Mikhail
 
 S  A102
+T  Smashing Ramas
+D  1943-08-15
 P  Klubov, Alexander
 ML Battle of Kursk
+A  P-39N
+A  Fw 189A-2
+A  Bf 109G-6/R3
+
+S  A102v
+A  Bf 109G-6/U4
+A  Fw 190F-3
 
 S  A103
+T  Romanians Ripped
+D  1943-09-21
+U  5th Bomber Group
+A  Ju 88A-4
 L  Bolshoy Tokmak airbase
+A  P-39N
+U  16 GIAP
 P  Pokryshkin, Alexander "Sasha"
+MA Pe-2
+E  Rumania or Romania?
 
 S  A104
+T  One Pass Only
+D  1943-09-23
+A  Yak-9T
+U  812 IAP
+A  He 111H-6
 P  Fedorov, Ivan
 
 S  A105
+T  One Equals Two
+D  1943-10-04
+U  Baltic Fleet
+A  Yak-9D
+U  15 ORAP
 L  Finland
+A  Bf 109G-2/R3
+U  LeLV 34
 P  Pallasvuo
 
+S  A105v
+A  Yak-9T
+
 S  A106
+T  Yoo-Yo Fighting
+D  1943-10-15
 P  Hannig, Norbert
+A  La-5 (1943)
+A  Fw 190A-5
 
 S  A107
+T  Bounded by Clouds
+D  1943-10-21
+A  Bf 109G-6/R3
+U  JG 52
 P  Lipfert, Helmut
+A  Yak-1B
 
 S  A108
+T  Over the Caucasus
+D  1943-10-21
 ML Kiev
+A  Bf 109G-6/R3
+U  II./JG 52
+A  La-5FN
 P  Lipfert, Helmut
+U  31 GIAP
 
 S  A109
+T  Impossible Feat?
+D  1943-11-06
 MP Lang, Emil
+U  II./JG 54
 MP Marseille, Hans-Joachim
 ML North Africa
 P  Rudorffer, Erich
+A  Fw 190A-5
+A  Yak-7B (late)
+A  Yak-9D
+A  P-39N
+A  La-5FN
 
 S  A110
+T  Buzzard Bounce
+D  1943-11-28
+A  Ju 87G-1
+U  7./StG 2
 L  Bolshaya Kostromka airfield
+A  Yak-1B
+U  15 IAP
 P  Slizen, Leontiy
+A  Bf 109G-6/U4
+A  Bf 109G-6/R3
+U  III./JG 52
 P  Rall, Günther
 MP Nowotny, Walter
 
 S  A111
+T  Surprise Encounter
+D  1943-12-14
 P  Hannig, Norbert
+U  5./JG 54
+A  Il-2M
+A  Fw 190A-5
 
 S  A112
+T  Recon Speedsters
+D  1943-12-00
+A  Tu-2R
 ML Stalingrad
+U  47 GRAP
 ML Leningrad
 ML Karelia
+A  Bf 109G-2/R3
 
 S  A113
+T  Into the Mist
+D  1943-12-20
+MU 17th Army
 ML Crimea
+A  Ju 52/3m
 ML Odessa
 L  Black Sea
 P  Pokryshkin, Alexander "Sasha"
 P  Golubev, Georgiy
+A  P-39N
 
 S  A114
+T  Popkov vs. Pumas
+D  1944-02-01
+MU Luftflotte IV
+U  5/I. Fighter Group
 P  Debrody, György
 L  Korsun
+A  Bf 109G-6/R3
+A  La-5 (1943)
+U  5 GIAP
 P  Popkov, Vitaly
 P  Kenyeres
 
 S  A115
+T  Reversion to Insanity
+D  1944-02-09
+A  Ju 52/3m
 ML Korsun
+A  Bf 109G-6/R3
+U  11./JG 51
 P  Borcher, Adolf
 ML Battle of Britain
 ML Battle of Kursk
 P  Glushkov, Nikolay
+A  Yak-1B
+U  910 IAP
 
 S  A116
+T  LaGG vs. LaGGs
+D  1944-02-16
 P  Koskinen, Eino
+U  2/HLeLV 32
+A  LaGG-3(S4)
+A  Pe-2FT(1943)
+A  LaGG-3(S35)
+U  415 IAP
 
 S  A117
 P  Rudel, Hans-Ulrich
