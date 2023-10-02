@@ -1303,6 +1303,7 @@ T  Popkov vs. Pumas
 D  1944-02-01
 MU Luftflotte IV
 U  5/I. Fighter Group
+U  Puma Squadron
 P  Debrody, György
 L  Korsun
 A  Bf 109G-6/R3
@@ -1336,79 +1337,207 @@ A  LaGG-3(S35)
 U  415 IAP
 
 S  A117
+T  Rudel & Shestakov
+D  1944-03-13
 P  Rudel, Hans-Ulrich
+U  III./StG-2
+MA Ju 87G-1
 P  Shestakov, Lev
+U  9 GIAP
+A  Ju 87D-5
+A  La-5FN
 
 S  A118
+T  Text-Book Kills
+D  1944-03-19
 P  Hannig, Norbert
+A  Fw 190A-5
+A  La-5 (1943)
 
 S  A119
-L Baltic Sea
+T  LaGGs vs. Butcher Birds
+D  1944-04-02
+U  11 GIAP
+A  LaGG-3(S35)
+A  Fw 190A-5
+L  Baltic Sea
+U  JG 54
 ML Leningrad
+MU Army Group Center
 
 S  A120
+T  A Great Mix Up
+D  1944-04-11
 L  Crimea
+A  Ju 87D-5
+A  Bf 109G-6/R3
+U  JG 52
 P  Lipfert, Helmut
+A  Il-2M
+A  LaGG-3(S35)
+A  Yak-7B (late)
 
 S  A121
+T  Lone Wolf Lambert
+D  1944-04-19
+A  Pe-2FT(1943)
+U  135 GBAP
 ML Sevastopol
+A  Fw 190F-3
 L  Crimea
 P  Lambert, August
+U  II./SG-2
+E  SG 2 or StG 2?
+MA P-51
 
 S  A122
+T  Big Gun Bounce
+D  1944-05-06
+A  Yak-9T
+U  812 IAP
 L  Kacza
+A  Bf 109G-6/U4
 P  Fedorov, Ivan
 
 S  A123
+T  Cheating Death Again
+D  1944-06-01
+U  240 IAP
+A  La-5FN
+A  Ju 87D-3
 P  Kozhedub, Ivan
+A  Fw 190F-8
 
 S  A124
+T  Finland's Master Fencer
+D  1944-06-10
+U  334 BAD
+A  Tu-2S
+U  13th Air Army
 L  Karelian Isthmus
 P  Juutilainen, Ilmari
+A  Bf 109G-6/R3
+U  1/LeLV 34
+A  Tu-2S
+A  La-5FN
+A  P-39N
 
 S  A125
+P  Call Sign "Drako"
+D  1944-06-24
+U  3rd Interceptor Aviation Corps
+U  3 IAK
 P  Savitski, "Drako"
+A  Yak-7B (late)
+A  Fw 190A-8
+
+S  A125v
+A  Yak-9T
+A  P-39N
 
 S  A126
+T  Serov's Saga
+D  1944-06-26
+U  159 IAP
 P  Serov, Vladimir
 L  Karelian front
+A  La-5FN (1944)
+A  Bf 109G-6/R3
 
 S  A127
+T  Hannig the Tutor
+D  1944-07-00
 P  Hannig, Norbert
+E  Norbert, not Norget
+A  Fw 190A-8
 
 S  A128
+T  Marathon Fight
+D  1944-07-28
 L  Lithuania
+A  Yak-9D
+U  65 GIAP
 P  Kisyelnikov
-L Yeglav airfield
+L  Yeglav airfield
+A  Fw 190F-3
 
 S  A129
+T  Finnish Finale
+D  1944-08-09
 L  Karelia
+A  Bf 109G-6/R3
+U  3/HLeLV 29
+A  Il-2M
 P  Ala-Panula
 P  Valpas
 
 S  A130
+T  Henshel Hunting
+D  1944-09-14
+A  Hs 129B-2/R3
 ML Romania
+U  8th Assault Group
 ML Turda
+A  Fw 190F-8
+MA I.A.R. 80
+MA Bf 109
 E  Rumania or Romania?
 
 S  A131
+T  Over Transylvania
+D  1944-09-19
+A  Bf 109G-6/R3
+A  Bf 109G-14
 P  Tammen, Heinrich
+U  6./JG 52
 P  Ciutac, Stefan
 L  Transylvania
+E  Rumania or Romania?
+
+S  A132
+T  Wulfs Trapped
+D  1944-10-10
+U  Baltic Front
+U  18 GIAP
+A  Yak-3
+A  Fw 190F-8
+MP Lufbery, Raoul
 
 S  A133
+T  Danger Zone East
+D  1944-10-22
 ML East Prussia
+A  Bf 109G-14
+MA Fw 190F
+A  Yak-3
+U  Normandie-Niemen
 P  Challe, René
 
 S  A134
+T  Puma Double Fight
+D  1944-11-16
 ML Hungary
+U  Puma Squadron
 P  Debrody, György
+A  Bf 109G-14
+A  La-5FN
+A  Yak-9DD
 
 S  A135
+T  Master of it All
+D  1944-11-16
 P  Hartmann, Erich "Bubbi"
+A  Yak-9D
+A  Bf 109G-14
 
 S  A136
-L Courland Pocket
+T  Red Hounds vs. Wulfs
+D  1944-11-00
+L  Courland Pocket
+A  Fw 190F-8
+A  Fw 190A-8
+A  Yak-9D
+A  La-7 (2-gun)
 
 S  A137
 P  Skomorokhov, Nicolai
