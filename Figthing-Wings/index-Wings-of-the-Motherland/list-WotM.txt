@@ -1684,68 +1684,179 @@ A  Yak-9D
 A  Bf 109G-14
 
 S  G1
+T  Despatch Rider Dispatched
+D  1941-07-00
+A  Bf 109E-7/U1
 
 S  G2
+T  Pin Prick Rocketeers
+D  1941, summer
+A  I-153
 
 S  G3
+T  Buzzing Heinkels
+D  1941, fall
+A  He 111H-6
 
 S  G4
+T  Stuka Pilot
+D  1941, fall
 P  Rudel, Hans-Ulrich
+A  Ju 87D-1
 
 S  G5
+T  Tank Busting
+D  1941, winter
 L  Typhoon, Operation
 ML Moscow
+A  Il-2
+A  Su-2
+A  I-16 Type 24
+A  SB-2M103
+
+S  G5v
+A  Bf 109E-7/U2
+A  Ju 87D-1
+A  Bf 110E-1
+A  Ju 88A-4
 
 S  G6
+T  Carpet Bombing Tanks
+D  1942, summer
+MA Ju-87
+A  Su-2
+A  Bf 109F-4/R3
 
 S  G7
+T  The Can Opener
+D  1943, spring
+A  Hs 129B-2
 
 S  G8
+T  Black Death
+D  1943, summer
 ML Battle of Kursk
+A  Il-2M
 
 S  G9
+T  Tank Sniping
+D  1944, summer
+A  Ju 87G-1
 P  Rudel, Hans-Ulrich
+U  SG 2
+MA Fw 190
+
+S  G9v
+A  La-5FN
 
 S  G10
+T  Rat Racers
+D  1944-1945, winter
+MA Ju-87
+A  Fw 190F-8
+A  Yak-9D
+
+S  G10v
+A  Bf 109G-14/R3
 
 S  G11
+T  Doomed Riposte Finale
+D  1941-06-25
+A  SB-2M103
+A  Bf 109F-2/R3
+
+S  G11v
+A  Il-4
 
 S  G12
+T  Rats with Rockets
+D  1941-07-13
+MU Army Group Center
 ML Leningrad
+U  Baltic Fleet
+U  5 IAP
 P  Kaberov, Igor
 L  Sabsk
 L  Luga river
+A  I-16 Type 24
+
+S  G12v
+A  Bf 110E-1
 
 S  G13
+T  Road Block Busters
+D  1941, fall
+A  Ju 87D-1
 
 S  G14
+T  Ice Road Defenders
+D  1942-01-01
 ML Leningrad
 L  Lake Ladoga
+U  Baltic Fleet
+U  5 IAP
 P  Kaberov, Igor
+A  Bf 109E-7/U2
+A  LaGG-3(S1)
 
 S  G15
+T  Strong Point Attack
+D  1942-01-00
+A  Su-2
 
 S  G16
+T  Gothas at Suchinichi
+D  1942-01-18
 MP Stalin, Josef
+u  216th Infantry Division
 L  Suchinichi
+A  Bf 109F-2/R3
+A  Ju 52/3Mg7
+A  Go 242A-1
+A  MiG-3 (late)
 
 S  G17
+T  Moving Targets
+D  1942-02-00
 ML Rhzev
 ML Vyazma
+A  Bf 110E-1/R1
+U  ZG 1
+A  Il-2 (std)
+
+S  G17v
+A  Bf 109E-7/U2
 
 S  G18
+T  Flak Suppression
+D  1942, summer
+A  Fw 189A-2
 ML Stalingrad
+A  Bf 110E-1
 
 S  G19
+T  The Bridges at Kalach
+D  1942-08-20
+U  Sixth Army
 L  Don river
 L  Kalach
 ML Stalingrad
+A  Pe-2FT(1942)
+U  86 BAP
 P  Belyy, F
+A  Yak-7B (std)
+A  Bf 109F-2/R3
 
 S  G20
+T  Precision at Prikolotnoye
+D  1942-08-00
 ML Kharkov
 L  Prikolotnoye station
+MU 8th Air Army
+U  504 ShAP
+A  Il-2 (std)
 P  Pstygo
+A  Bf 109F-4/R3
 
 S  G21
 L  Stalingrad
