@@ -860,7 +860,7 @@ MU Condor Legion
 ML Spanish Civil War
 ML Battle of France
 ML Battle of Britain
-MA P-514
+MA P-51
 A  Bf 109G-2/R3
 A  Yak-7B (std)
 
@@ -1540,69 +1540,154 @@ A  Yak-9D
 A  La-7 (2-gun)
 
 S  A137
+T  Very Hight Flight
+D  1944-102-19
 P  Skomorokhov, Nicolai
+U  31 IAP
+A  Bf 109G-14
 
 S  A138
+T  Königsberg Intercept
+D  1945-01-00
+A  Tu-2R
+A  Bf 109G-14
 L  Königsberg
+A  Yak-9DD
 
 S  A139
+T  Eager Beaver
+D  1945-01-03
+A  La-5FN
+U  245 IAP
 P  Sukov, Arkadii
+A  Fw 190F-8
+A  Pe-2FT
 P  Kroshinksi, Hans-Joachim
+U  3./JG 54
 E  Sukov: Arkadii or Arkadi? Does it really matter?
 
 S  A140
+T  Iron Annies Saved
+D  1945-01-18
+MA Me 210
+A  Bf 109G-6/R3
 ML Hungary
+U  Puma Squadron
+A  La-5FN
+A  Ju 52/3m
 
 S  A141
+T  Running on Empty
+D  1945-02-00
 ML Baltic Sea
+A  Bf 109G-14
+A  Yak-9D
 
 S  A142
+T  Merry Go Round
+D  1945-02-09
+MA Il-2
 L  Königsberg
+U  Normandie-Niemen
+A  Yak-3
+A  Bf 109G-14
 P  Marchi, Roger
 P  Sauvage, Roger
 E  Königsberg, not Konigsberg
 E  Niemen, not Neimen
 
 S  A143
+T  A Fatal SLip
+D  1942-02-25
 ML Romania
+A  Bf 109G-6/R3
+A  Bf 109G-6/U4
+MA Fw 190F
 P  Cantacuzino
+A  Bf 109G-14
 P  Lipfert, Helmut
+U  I./JG 53
 E  Rumania or Romania?
 
 S  A144
+T  All Odds Okay
+D  1945-03-22
 P  Kozhedub, Ivan
 P  Nechaev
 L  Seelow Heights
 ML Berlin
+A  Fw 190A-8
+A  La-7 (2-gun)
 E  Seelow Heights or Seelowe Heights?
 
 S  A145
+T  Action Over Austria
+D  1945-04-00
 L  Austria
+A  Il-2M
+MU 6th SS Panzer Division
 ML Vienna
+A  Fw 190A-8
+A  La-7 (3-gun)
 
 S  A146
+T  Pick-a-Back Escort
+D  1945-04-14
 ML Oder river
+A  Ju 88A Mistel
+U  I./KG(J) 30
 L  Küstren
+A  Fw 190A-8
+U  JG 11
+A  Fw 190F-8
 P  Merkle, Karl
+A  Yak-3
 
 S  A147
+T  Kozhedub's Final Kills
+D  1945-04-17
 P  Kozhedub, Ivan
+A  Fw 190F-8
 L  Berlin
+A  La-7 (2-gun)
+A  Yak-9DD
 
 S  A148
+T  Fatal Joust
+D  1945-04-19
 P  Glinka, Dmitriy
+A  P-39N
+U  100 GIAP
+A  Fw 190F-8
 L  Shtromberg
 P  Klimov, Nikolay
 
 S  A149
+T  The General's Outing
+D  1945-04-27
 P  Savitski, "Drako"
+U  3rd Interceptor Aviation Corps
+U  3 IAK
 L  Berlin
+A  Yak-3
+A  Fi 156C-3
 
 S  A150
-P  Hartmann, Erich "Bubbi"
+T  Hartmann's Last Kill
+D  1945-05-08
 MP Hitler, Adolf
+U  JG 52
 P  Graf, Hermann
+P  Hartmann, Erich "Bubbi"
 L  Czechoslovakia
+A  Yak-9D
+A  Bf 109G-14
+
+S  G1
+
+S  G2
+
+S  G3
 
 S  G4
 P  Rudel, Hans-Ulrich
@@ -1611,11 +1696,19 @@ S  G5
 L  Typhoon, Operation
 ML Moscow
 
+S  G6
+
+S  G7
+
 S  G8
 ML Battle of Kursk
 
 S  G9
 P  Rudel, Hans-Ulrich
+
+S  G10
+
+S  G11
 
 S  G12
 ML Leningrad
@@ -1623,10 +1716,14 @@ P  Kaberov, Igor
 L  Sabsk
 L  Luga river
 
+S  G13
+
 S  G14
 ML Leningrad
 L  Lake Ladoga
 P  Kaberov, Igor
+
+S  G15
 
 S  G16
 MP Stalin, Josef
@@ -1667,6 +1764,8 @@ ML Stalingrad
 
 S  G25
 MP Cordes, Udo
+
+S  G26
 
 S  G27
 MP Stalin, Josef
