@@ -63,9 +63,9 @@ A  Bf 109G-2/R3
 
 S  A5
 T  Stuka Pilot's Folly
-D  1943-10-17
+D  1943-07-17
 P  Jaekel, Egbert
-U  2./StG-2
+U  2./StG 2
 L  Battle of Kursk
 A  La-5 (1943)
 A  Ju 87D-1
@@ -178,7 +178,7 @@ P  Mahlke
 S  15
 T  Doomed Riposte
 D  1941-06-25
-A  SB-2M103
+A  SB-2 M103
 U  North-Western Front
 U  JG 51
 A  Bf 109F-2/R3
@@ -218,11 +218,11 @@ S  A19
 T  MiG Escort Fails
 D  1941-07-02
 U  55 IAP
-A  SB-2M103
+A  SB-2 M103
 A  MiG-3 (std)
 P  Pokryshkin, Alexander "Sasha"
 A  Bf 109E-7
-U  9/JG 77
+U  9./JG 77
 
 S  A20
 T  Sneaky Zerstörer
@@ -271,7 +271,7 @@ A  Yak-1
 S  A24
 T  LaGGs to the Fray
 D  1941-08-04
-A  LaGG-3(S1)
+A  LaGG-3 (S1)
 MA I-16
 U  145 IAP
 P  Zaitsev, Alexander
@@ -338,7 +338,7 @@ A  Bf 109F-4/R3
 
 S  A29v
 A  I-16 Type 24
-A  LaGG-3(S1)
+A  LaGG-3 (S1)
 A  MiG-3 (late)
 A  Bf 109E-7
 A  Bf 109F-2
@@ -410,7 +410,7 @@ L  Moscow
 A  Bf 109F-2/R3
 P  Wagner, Edmund
 U  JG 51
-A  SB-2M103
+A  SB-2 M103
 
 S  A36
 T  Günther Rall's Error
@@ -437,7 +437,7 @@ S  A38
 T  Chasing Iron Crosses
 D  1941-12-27
 P  Graf, Hermann
-A  SB-2M103
+A  SB-2 M103
 A  I-16 Type 24
 A  Bf 109F-4/R3
 
@@ -504,7 +504,7 @@ D  1942-02-25
 ML Demyansk
 A  Ju 52/3m
 A  Bf 109F-4/R3
-A  LaGG-3(S1)
+A  LaGG-3 (S1)
 
 S  A44v
 A  Bf 110E
@@ -571,7 +571,7 @@ A  MiG-3 (late)
 P  Mikovic, Veca
 
 S  A50v
-A  LaGG-3(S4)
+A  LaGG-3 (S4)
 A  Yak-1 (ser 2)
 A  Yak-7B (early)
 
@@ -596,7 +596,7 @@ U  9./JG 52
 P  Graf, Hermann
 E  Graf with a single "f", not Graff
 A  MiG-3 (late)
-A  LaGG-3(S1)
+A  LaGG-3 (S1)
 A  Yak-1 (ser 2)
 U  38th Air Army
 A  Bf 109F-4/R3
@@ -605,7 +605,7 @@ S  A53
 T  Clear The Skies
 D  1942-05-15
 ML Kharkov
-A  LaGG-3(S1)
+A  LaGG-3 (S1)
 U  181 IAP
 A  Ju 88A-4
 A  Bf 109F-4/R3
@@ -632,7 +632,7 @@ U  II./JG 54
 A  Il-2 (std)
 L  Kirisha
 L  Volkhov Front
-A  LaGG-3(S1)
+A  LaGG-3 (S1)
 U  47 IAP
 P  Sukov, Arkadii
 P  Lörzer
@@ -643,7 +643,7 @@ S  A56
 T  Clever Optimization
 D  1942-06-00
 L  Don river
-A  LaGG-3(S1)
+A  LaGG-3 (S1)
 U  268 IAD
 A  I-16 Type 24
 U  102 IAD/PVO
@@ -720,7 +720,7 @@ T  A Bounce Gone Bad
 D  1942-08-09
 P  Sukov, Arkadii
 U  41 IAP
-A  LaGG-3(S35)
+A  LaGG-3 (S35)
 A  Bf 109G-2/R3
 U  7./JG 54
 P  Ostermann
@@ -758,7 +758,7 @@ P  Maier
 S  A66
 T  The Upper Hand
 D  1942-09-18
-A  LaGG-3(S35)
+A  LaGG-3 (S35)
 U  41 IAP
 A  Bf 109G-2/R3
 MU JG 54
@@ -909,7 +909,7 @@ MA Bf 109
 MU I./JG 26
 U  9./JG 51
 P  Schack, Günther
-A  Pe-2FT(1942)
+A  Pe-2FT (1942)
 
 S  A79
 T  Rats Against Wulfs
@@ -975,7 +975,7 @@ A  Yak-1B
 U  Normandie
 P  Durand, Albert
 P  Préziosi, Albert
-A  Pe-2FT(early)
+A  Pe-2FT (early)
 L  Smolensk
 A  Fw 190A-5
 MU 303 IAD
@@ -992,7 +992,7 @@ ML Kuban river
 MP Lufbery, Raoul
 P  Pokryshkin, Alexander "Sasha"
 A  Bf 109G-2/R3
-A  LaGG-3(S35)
+A  LaGG-3 (S35)
 
 S  A86
 T  "À La Mort"
@@ -1034,7 +1034,7 @@ L  Volkhov river
 MA Bf 110
 A  Fw 190A-5
 U  5./JG 54
-A  LaGG-3(S35)
+A  LaGG-3 (S35)
 P  Hannig, Norbert
 
 S  A90
@@ -1130,7 +1130,7 @@ D  1943-07-00
 A  Ju 87G-1
 A  Yak-9T
 A  Yak-7B (std)
-A  Bf 190G-2/R3
+A  Bf 109G-2/R3
 
 S  A99
 T  Out of their Element
@@ -1331,21 +1331,22 @@ T  LaGG vs. LaGGs
 D  1944-02-16
 P  Koskinen, Eino
 U  2/HLeLV 32
-A  LaGG-3(S4)
-A  Pe-2FT(1943)
-A  LaGG-3(S35)
+A  LaGG-3 (S4)
+A  Pe-2FT (1943)
+A  LaGG-3 (S35)
 U  415 IAP
 
 S  A117
 T  Rudel & Shestakov
 D  1944-03-13
 P  Rudel, Hans-Ulrich
-U  III./StG-2
+U  III./SG 2
 MA Ju 87G-1
 P  Shestakov, Lev
 U  9 GIAP
 A  Ju 87D-5
 A  La-5FN
+E  SG 2 or StG 2?
 
 S  A118
 T  Text-Book Kills
@@ -1358,7 +1359,7 @@ S  A119
 T  LaGGs vs. Butcher Birds
 D  1944-04-02
 U  11 GIAP
-A  LaGG-3(S35)
+A  LaGG-3 (S35)
 A  Fw 190A-5
 L  Baltic Sea
 U  JG 54
@@ -1374,19 +1375,19 @@ A  Bf 109G-6/R3
 U  JG 52
 P  Lipfert, Helmut
 A  Il-2M
-A  LaGG-3(S35)
+A  LaGG-3 (S35)
 A  Yak-7B (late)
 
 S  A121
 T  Lone Wolf Lambert
 D  1944-04-19
-A  Pe-2FT(1943)
+A  Pe-2FT (1943)
 U  135 GBAP
 ML Sevastopol
 A  Fw 190F-3
 L  Crimea
 P  Lambert, August
-U  II./SG-2
+U  II./SG 2
 E  SG 2 or StG 2?
 MA P-51
 
@@ -1712,7 +1713,7 @@ ML Moscow
 A  Il-2
 A  Su-2
 A  I-16 Type 24
-A  SB-2M103
+A  SB-2 M103
 
 S  G5v
 A  Bf 109E-7/U2
@@ -1745,6 +1746,7 @@ A  Ju 87G-1
 P  Rudel, Hans-Ulrich
 U  SG 2
 MA Fw 190
+E  SG 2 or StG 2?
 
 S  G9v
 A  La-5FN
@@ -1762,7 +1764,7 @@ A  Bf 109G-14/R3
 S  G11
 T  Doomed Riposte Finale
 D  1941-06-25
-A  SB-2M103
+A  SB-2 M103
 A  Bf 109F-2/R3
 
 S  G11v
@@ -1797,7 +1799,7 @@ U  Baltic Fleet
 U  5 IAP
 P  Kaberov, Igor
 A  Bf 109E-7/U2
-A  LaGG-3(S1)
+A  LaGG-3 (S1)
 
 S  G15
 T  Strong Point Attack
@@ -1811,7 +1813,7 @@ MP Stalin, Josef
 U  216th Infantry Division
 L  Suchinichi
 A  Bf 109F-2/R3
-A  Ju 52/3Mg7
+A  Ju 52/3m g7
 A  Go 242A-1
 A  MiG-3 (late)
 
@@ -1841,7 +1843,7 @@ U  Sixth Army
 L  Don river
 L  Kalach
 ML Stalingrad
-A  Pe-2FT(1942)
+A  Pe-2FT (1942)
 U  86 BAP
 P  Belyy, F
 A  Yak-7B (std)
@@ -1888,14 +1890,14 @@ A  Ju 52/3m
 A  He 111H-6
 A  Fi 156
 A  Fw 189A-2
-A  Bf 190G-2/R3
+A  Bf 109G-2/R3
 A  Il-2M
 A  Il-2 (std)
-A  LaGG-3(S35)
-A  Ju 52/3mg7
+A  LaGG-3 (S35)
+A  Ju 52/3m g7
 
 S  G23v
-A  Pe-2FT(1942)
+A  Pe-2FT (1942)
 A  Su-2
 A  I-16 Type 24
 
@@ -1907,7 +1909,7 @@ A  Pol. U-2
 U  588 NBAP
 
 S  G24v
-A  SB-2M103
+A  SB-2 M103
 
 S  G25
 T  "Loco-Killers"
@@ -1921,7 +1923,7 @@ MP Cordes, Udo
 
 S  G25v
 A  Yak-7B (early)
-A  LaGG-3(S35)
+A  LaGG-3 (S35)
 
 S  G26
 T  A Battlefield Rescue
@@ -1947,13 +1949,13 @@ ML Battle of Kursk
 S  G28
 T  Narva Bridges Snipers
 D  1943-05-21
-A  Pe-2FT(1942)
-A  Pe-2FT(1943)
+A  Pe-2FT (1942)
+A  Pe-2FT (1943)
 U  73 BAP
 L  Narva river
 ML Leningrad
 P  Golubev
-A  Bf 190G-2/R3
+A  Bf 109G-2/R3
 E  Golubev: Georgiy or Vasiliy?
 
 S  G29
@@ -1996,12 +1998,12 @@ MP Stalin, Josef
 A  Bf 109G-6/R3
 
 S  G32v
-A  Pe-2FT(1943)
+A  Pe-2FT (1943)
 
 S  G33
 T  Polbin's Revolver
 P  Polbin, Ivan
-A  Pe-2FT(1943)
+A  Pe-2FT (1943)
 U  2 GBAK
 L  Beliy Kamen
 L  Ukraine
@@ -2017,6 +2019,7 @@ ML Estonia
 ML Prussia
 A  Ju 87G-1
 A  Ju 87D-5
+E  SG 2 or StG 2?
 
 S  G34v
 A  La-5FN
@@ -2036,6 +2039,7 @@ U  SG 2
 ML Berlin
 A  Ju 87G-1
 A  Ju 87D-5
+E  SG 2 or StG 2?
 
 S  G37
 T  Human Wave Attack
@@ -2258,7 +2262,7 @@ ML Leningrad
 A  Ju 88D-3
 U  StG 1
 B  G-5 torpedo boat
-A  LaGG-3(S35)
+A  LaGG-3 (S35)
 
 S  N14
 T  "Die Goldene Zange"
@@ -2266,7 +2270,7 @@ D  1942-09-13
 A  He 111H-6
 U  I./KG 26
 A  Ju 88A-17
-U  I.KG 30
+U  I./KG 30
 U  PQ-18
 ML Murmansk
 MA Sea Hurricane
@@ -2344,7 +2348,7 @@ A  Il-2M
 A  Il-4 (standard)
 A  Tu-2S
 B  Z31
-A  SB-2M103
+A  SB-2 M103
 E  Summer 1942 variant: Z31 or Z39?
 
 S  N20
@@ -2392,7 +2396,7 @@ A  I-153 (M63)
 A  I-153 (M62)
 A  Bf 109E-7/U1
 A  Bf 110E-2
-A  SB-2M103
+A  SB-2 M103
 A  Su-2
 A  Il-4
 A  He 111H-6
@@ -2440,7 +2444,7 @@ L  Mamaia
 L  Odessa
 
 S  M3e
-A  SB-2M103
+A  SB-2 M103
 A  Il-4
 B  Type 7 Destroyer
 A  He 111H-6
@@ -2471,8 +2475,8 @@ MA LaGG
 S  M4e
 A  I-16 Type 24
 A  I-16 Type 28
-A  LaGG-3(S1)
-E  LaGG-3(S1), not LaGG-3/S1
+A  LaGG-3 (S1)
+E  LaGG-3 (S1), not LaGG-3/S1
 
 M  M4v
 A  Ju 88A-4
