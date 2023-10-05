@@ -1,13 +1,14 @@
 % -*- encoding: utf-8 -*-
 %
 %    Document providing an index of proper names in Wings of the Motherland
-%    Copyright (C) 2020 Jean Forget, licensed under Creative Commons Zero
+%    Copyright (C) 2020, 2023 Jean Forget, licensed under Creative Commons Zero
 %
 
 \documentclass[a4paper,twocolumn]{article}
 \usepackage[T1]{fontenc}
 \usepackage[utf8]{luainputenc}
 \usepackage{fancyhdr}
+\usepackage{hanging}
 
 \newcommand{\datenum}{\number\year-%
 \ifnum\month<10\relax0\fi\number\month-%
@@ -32,7 +33,9 @@ Scenarios where a person is just mentioned are in italics.
 
 \vspace{3mm}
 
+\begin{hangparas}{4mm}{1}
 \directlua{extract('P','MP')}
+\end{hangparas}
 
 \section*{Index of locations and events mentioned in the scenarios}
 
@@ -63,7 +66,9 @@ typeset it in italics.
 
 \vspace{3mm}
 
+\begin{hangparas}{4mm}{1}
 \directlua{extract('L','ML')}
+\end{hangparas}
 
 \section*{Units}
 
@@ -71,7 +76,9 @@ Nation-wide units such as Luftwaffe or the Soviet Army are not indexed.
 
 \vspace{1mm}
 
+\begin{hangparas}{4mm}{1}
 \directlua{extract('U','MU')}
+\end{hangparas}
 
 \vspace{1mm}
 
@@ -84,7 +91,9 @@ scenario main description.
 
 \vspace{1mm}
 
+\begin{hangparas}{4mm}{1}
 \directlua{extract('A','MA')}
+\end{hangparas}
 
 \section*{Ships}
 
@@ -93,7 +102,9 @@ This index includes both named ships and ship classes.
 \vspace{1mm}
 
 % Not "S" for "ship", because "S" is for "scenario". Instead, "B" for "Boat".
+\begin{hangparas}{4mm}{1}
 \directlua{extract('B','MB')}
+\end{hangparas}
 
 \section*{Errata}
 
@@ -107,7 +118,9 @@ to the scenarios from page 16 to page 114.
 
 \vspace{3mm}
 
+\begin{hangparas}{4mm}{1}
 \directlua{extract('E','-')}
+\end{hangparas}
 
 \end{document}
 
