@@ -1,0 +1,286 @@
+-*- encoding: utf-8; indent-tabs-mode: nil -*-
+
+License for this file is Creative Commons Zero.
+
+Based on the scenario book of the game "Whistling Death", copyright © 2003 by Clash of Arms Inc & J.D. Webster
+
+S  11-1
+T  Fighter Comparison Test
+D  1942, Fall
+A  A6M2 Zero
+A  P-40E Warhawk
+ML Aleutian Islands
+ML Dutch Harbor
+
+S  12-1
+T  USN Gunnery Pattern
+D  1942, Winter
+A  F4F-4 Wildcat
+A  TBF-1 Avenger
+L  South Texas
+
+S  13-1
+T  Sky Pirate
+D  1943, Fall
+U  VF-17 "Jolly Rogers"
+L  Solomons
+A  F4U-1D
+A  G4M1 Betty
+
+S  13-2
+T  Head-On Over Clark
+D  1941-12-08
+P  Steele, Don
+U  3rd Pursuit Squadron
+A  P-40E Warhawk
+L  Clark Field
+L  Philippines
+A  A6M2 Zero
+
+S  13-3
+T  End of a Samurai
+D  1942-05-07
+P  Imamura
+A  A6M2 Zero
+ML China
+MB Shoho 
+ML Coral Sea, Battle of
+A  F4F-3 Wildcat
+P  Haas, Walter
+U  VF-42
+E  "Neutralized" instead of "nuetralized"
+
+S  13-4
+T  Sandwiche Play
+D  1943-07-15
+P  Cupp, Jim
+A  F4U-1A Corsair
+L  Vella Gulf
+A  G4M1 m12 Betty
+A  A6M3 m21 Zero
+
+S  14-1
+T  Fleet Defender
+D  1944-06-19
+ML Saipan
+P  Vraciu, Alexander
+U  VF-16
+A  F6F-3
+A  D4Y2 Judy
+B  DD Fletcher
+
+S  14-2
+T  Dogfight Over Kyushu
+D  1942-07-02
+ML Okinawa
+U  VMF-224
+U  VMF-311
+A  F4U-4 Corsair
+A  N1K2 George
+U  343rd Naval Air Group
+
+S  15-1
+T  Warhawks Over Luzon
+D  1941-12-10
+ML Pearl Harbor
+L  Philippines
+A  P-40E Warhawk
+MA B-17
+A  A6M2 Zero
+L  Nichols Field
+P  Muto
+
+S  15-2
+T  A Desperate Attack
+D  1941-12-27
+A  PBY-5 Catalina
+U  Pat Wing 10
+MP MacArthur, Douglas
+ML Philippines
+ML Java
+ML Luzon
+ML Malaya
+ML Borneo
+L  Jolo Island
+A  A6M2 Zero
+U  Tainan Kokutai
+
+S  15-2v
+B  Japanese CL
+
+S  15-3
+T  Futile Courage
+D  1942-01-15
+ML Malaya
+ML Java
+ML East Indies
+ML Borneo
+ML Celebes
+L  Ambon Island
+A  Brewster Buffalo 339
+MA PBY Catalina
+MA Hudson
+A  A6M2 Zero
+
+S  16-1
+T  Demise of the 4th AG
+D  1942-02-20
+MB Lexington
+MA Kawanishi flying boat
+ML Rabaul
+U  1st Bomber Chutai
+U  2nd Bomber Chutai
+U  4th Air Group
+MA A6M Zero
+A  G4M1 m11 Betty
+A  F4F-3 Wildcat
+MA SBD Dauntless
+P  O'Hare, "Butch"
+
+S  16-2
+T  Low Level Rat Race
+D  1942-04-30
+ML New Guinea
+L  Lae
+MU Tainan Kokutai
+ML Owen Stanley mountains
+ML Port Moresby
+MA P-40
+A  A6M2 Zero
+A  P-39D-1
+P  Wagner, "Buzz"
+ML Philippines
+P  Sakai, Saburo
+
+S  17-1
+T  A Flight of Aces
+D  1942-05-07
+ML Port Moresby
+MU Tainan Kokutai
+A  A6M2 Zero
+P  Nishizawa, Hiroyoshi
+P  Ota, Toshio
+P  Sakai, Saburo
+P  Takatsuka, Toraichi
+A  P-39D-1
+ML Philippines
+ML Java
+
+S  17-2
+T  Torpedo Escort -- Coral Sea
+D  1942-05-08
+L  Coral Sea, Battle of
+MB Shoho 
+MB Neosho
+MB Sims
+A  TBD-1 Devastator
+U  VT-5
+A  F4F-3 Wildcat
+U  VF-42
+A  A6M2 Zero
+B  Shokaku
+P  Minami
+P  Miyazawa
+P  Komachi
+P  Woolen
+
+S  17-3
+T  Torpedo Defense -- Coral Sea
+D  1942-05-08
+L  Coral Sea, Battle of
+A  SBD-3 Dauntless
+A  F4F-3 Wildcat
+A  B5N2 Kate
+A  A6M2 Zero
+P  Hall, William
+MB Lexington
+MB Shokaku
+ML Port Moresby
+
+S  18-1
+T  Deadly Games of Tag
+D  1942-05-30
+ML Midway
+A  PBY-5 Catalina
+U  VP-44
+A  G4M1 m11 Betty
+ML Wake Island
+
+S  18-2
+T  Midway's Defenders
+D  1942-06-04
+L  Midway
+A  F2A-3 Buffalo
+MA F4F Wildcat
+U  VMF-211
+A  B5N2 Kate
+A  A6M2 Zero
+
+S  18-2v
+A  F4F-3 Wildcat
+A  P-38D-1 Lightning
+A  P-40E Warhawk
+
+S  19-1
+T  Thach's Weave
+D  1942-06-04
+A  F4F-4 Wildcat
+MA F2A-3 Buffalo
+A  A6M2 Zero
+P  Thach, Jimmy
+MB Yorktown
+U  VF-3
+L  Midway
+
+S  19-2
+T  Kanbaku Fighting Spirit
+D  1942-06-04
+L  Midway
+MA SBD Dauntless
+MB Hiryu
+A  D3A1 Val
+MA A6M Zero
+MB Yorktown
+A  F4F-4 Wildcat
+P  Brassfield, Art
+MA B5N2 Kate
+
+S  19-3
+T  Sakai's Error
+D  1942-08-08
+P  Sakai, Saburo
+ML Guadalcanal
+MA G4M1 Betty
+MA F4F Wildcat
+A  SBD-3 Dauntless
+ML Rabaul
+
+S  20-1
+T  The Snoopers
+D  1942-08-24
+L  Eastern Solomons
+MB Ryujo
+MB Enterprise
+MB Shokaku
+MB Zuikaku
+ML Midway
+ML Guadalcanal
+A  PBY-5 Catalina
+A  H8K1 Emily
+A  F4F-4 Wildcat
+A  A6M3 m32 Zero
+A  F1M2 Pete
+
+S  20-2
+T  The Cactus Air Force
+D  1942-08-30
+U  Cactus Air Force
+L  Guadalcanal
+A  A6M3 m32 Zero
+ML Rabaul
+A  P-400 Airacobra
+U  VMF-223
+A  F4F-4 Wildcat
+P  Smith, John
+U  67th FS
+P  Brannon, Dale

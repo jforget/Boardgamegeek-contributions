@@ -1,0 +1,50 @@
+-*- encoding: utf-8; indent-tabs-mode: nil -*-
+
+À propos de "Whistling Death"
+
+Le livret de règles comporte un index alphabétique des concepts de jeu
+importants, chaque entrée  pointant vers la ou  les règles définissant
+ou  utilisant ledit  concept. C'est  bien  ! Très  bien !  Mais il  ne
+comporte  pas  d'index alphabétiuqe  pour  le  contenu des  scénarios.
+Dommage...
+
+Ainsi que je  l'ai déjà fait pour "Wings of  the Motherland", "Achtung
+Spitfire!"  et "Over  the Reich",  j'ai donc  décidé de  constituer un
+index  des personnages  apparaissant dans  les scénarios,  ainsi qu'un
+index des lieux,  un index des modèles d'avions, un  index des navires
+(noms et classes) et un index  des unités. Et finalement, un index des
+fautes de frappe comme pour WotM.
+
+À propos, il y a sans aucun doute quelques fautes de frappe dans *mes*
+index,  ainsi que  des omissions.  Désolé.  Merci de  me signaler  ces
+erreurs, de façon que je puisse faire une version v2 corrigée.
+
+Les  scénarios sont  identifiés par  le numéro  de page  et le  numéro
+d'ordre  dans la  page. Si  un scénario  s'étend sur  plusieurs pages,
+c'est la page où est imprimé le titre qui fait foi.
+
+Les noms des individus sont écrits  avec le nom de famille d'abord, le
+prénom ensuite et le surnom (s'il  existe) en dernier. Je ne donne pas
+le grade, puisqu'il  est susceptible de changer d'une  date à l'autre.
+
+L'index inclut à  la fois les personnes avec une  part active dans les
+scénarios  et les  personnes  qui sont  simplement mentionnées,  comme
+xxxxxx dans  le scénario  des pages  52 et 53.  Lorsque le  code du
+scénario  est  imprimé en  caractères  droits,  cela signifie  que  la
+personne a  pris une  part active  au scénario et  lorsque le  code du
+scénario est en italiques, cela  signifie que la personne a simplement
+été mentionnée dans le scénario sans  y participer. Le même principe a
+été adopté pour l'index des  lieux, mais avec une certaine incohérence
+à  l'occasion. Par  exemple, lorsque  le scénario  est une  mission "à
+destination de X" ou "à proximité de Y", le code du scénario pour X ou
+Y est parfois imprimé en caractères droits, parfois en italiques.
+
+Publié sur BGG le 2024-xx-xx, voir
+https://boardgamegeek.com/filepage/265372/index-persons-locations-units-and-aircraft-types-s
+
+Pour le programme Lua, la licence est la GNU Public License, version 1
+ou ultérieure.
+
+Pour les autres fichiers, la  licence est "Creative Commons Zero". Ces
+fichiers  sont basés  sur "Whistling Death" copyright  (c) 2003  J.D.
+Webster et Clash of Arms Games.
