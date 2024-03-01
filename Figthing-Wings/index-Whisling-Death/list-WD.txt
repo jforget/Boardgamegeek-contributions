@@ -24,7 +24,7 @@ T  Sky Pirate
 D  1943, Fall
 U  VF-17 "Jolly Rogers"
 L  Solomons
-A  F4U-1D
+A  F4U-1D Corsair
 A  G4M1 Betty
 
 S  13-2
@@ -65,7 +65,7 @@ D  1944-06-19
 ML Saipan
 P  Vraciu, Alexander
 U  VF-16
-A  F6F-3
+A  F6F-3 Hellcat
 A  D4Y2 Judy
 B  DD Fletcher
 
@@ -145,9 +145,9 @@ L  Lae
 MU Tainan Kokutai
 ML Owen Stanley mountains
 ML Port Moresby
-MA P-40
+MA P-40 Warhawk
 A  A6M2 Zero
-A  P-39D-1
+A  P-39D-1 Airacobra
 P  Wagner, "Buzz"
 ML Philippines
 P  Sakai, Saburo
@@ -162,7 +162,7 @@ P  Nishizawa, Hiroyoshi
 P  Ota, Toshio
 P  Sakai, Saburo
 P  Takatsuka, Toraichi
-A  P-39D-1
+A  P-39D-1 Airacobra
 ML Philippines
 ML Java
 
@@ -284,3 +284,495 @@ A  F4F-4 Wildcat
 P  Smith, John
 U  67th FS
 P  Brannon, Dale
+
+S  21-1
+T  The Daily Grind
+D  1942-09-13
+U  Cactus Air Force
+A  G4M1 m12 Betty
+A  A6M2 Zero
+ML Rabaul
+A  F4F-4 Wildcat
+MA Airacobra
+U  Tainan Kokutai
+E  Tianan Kokutai or Tainan Kokutai?
+
+S  21-2
+T  Float-Plane Attack
+D  1942-09-14
+ML Rabaul
+A  F1M2 Pete
+A  A6M2-N Rufe
+ML Rakata Bay
+ML Santa Isabel Island
+U  Cactus Air Force
+A  F4F-4 Wildcat
+
+S  21-3
+T  All in a Day's Work
+D  1942-10-25
+ML Guadalcanal
+MP Ota, Toshio
+U  Cactus Air Force
+MP Carl, Marion
+MP Bauter, Joe
+MP Smith, John
+MP Galer, Bob
+P  Foss, Joe
+A  A6M2 Zero
+U  Tainan Kokutai
+A  F4F-4 Wildcat
+P  Yamashita, Sahei
+P  Okumura, Takao
+
+S  22-1
+T  The Ambush of CAG-10
+D  1942-10-26
+ML Guadalcanal
+ML Truk
+L  Santa Cruz, battle of
+A  A6M3 m22 Zero
+MB Enterprise
+U  CAG-10
+A  SBD-3 Dauntless
+A  TBF-1 Avenger
+A  F4F-4 Wildcat
+MB Hornet
+MB Shokaku
+MB Zuiho
+
+S  22-2
+T  A New Ball Game
+D  1942-11-18
+P  Brannon, Dale
+MU 67th FS
+L  Guadalcanal
+U  339th FS
+A  P-38F Lightning
+MA B-17
+ML Buin
+ML Rabaul
+A  A6M3 m32 Zero
+A  P-40 Warhawk
+A  P-39 Airacobra
+
+S  22-3
+T  Dobodura Dogfight
+D  1942-12-27
+ML New Guinea
+MU 11th Sentai
+ML New Britain
+ML Lae
+MA P-39 Airacobra
+ML Port Moresby
+A  P-40E Warhawk
+A  P-38F Lightning
+A  Ki-43-IIa Oscar
+A  A6M3 m32 Zero
+A  D3A2 Val
+L  Dobodura
+P  Lynch, Thomas
+P  Bong, Dick
+
+S  23-1
+T  Joe's Hat Trick
+D  1943-01-15
+P  Foss, Joe
+ML Guadalcanal
+U  VMF-121
+A  A6M3 m22 Zero
+MP Rickenbacker, Eddie
+A  F4F-4 Wildcat
+
+S  23-2
+T  Cactus Corsairs Blooded
+D  1943-02-14
+A  F4U-1 Corsair
+U  VMF-124
+ML Guadalcanal
+MA B-24
+L  Kahili airfield
+L  Bougainville Island
+A  P-38G Lightning
+A  P-40E Warhawk
+A  A6M3 m32 Zero
+L  St Valentine Day Massacre
+
+S  24-1
+T  Error of Judgement
+D  1943-03-03
+U  5th AF
+L  Bismark Sea
+MA A-20
+MA B-25
+A  P-38G Lightning
+ML Port Moresby
+A  A6M3 m22 Zero
+A  Ki-43-IIa Oscar
+
+S  24-2
+T  Wildcat Amok
+D  1943-04-07
+MP Yamamoto
+ML Operation I-GO
+ML Tulagi
+MA A6M Zero
+A  D3A2 Val
+ML Buin
+ML Guadalcanal
+U  Cactus Air Force
+MA F4U Corsair
+MA P-39 Airacobra
+MA P-40 Warhawk
+MA P-38 Lightning
+A  F4F-4 Wildcat
+P  Swett, Jim
+
+S  24-3
+T  The Attack on Yamamoto
+D  1943-04-18
+P  Yamamoto
+ML Pearl Harbor
+L  Kahili airfield
+L  Bougainville Island
+A  P-38G Lightning
+U  339th FS
+P  Mitchell, John
+ML Guadalcanal
+P  Lanphier, Tom
+P  Barber, Rex
+P  Holmes, Besby
+P  Hines, Ray
+A  G4M1 m12 Betty
+A  A6M3 m22 Zero
+P  Sugita, Shoichi
+
+S  25-1
+T  Hellhawk Fury
+D  1943-04-27
+MP Yamamoto
+ML Guadalcanal
+A  F4U-1 Corsair
+U  VMF-213 "Hellhawks"
+MA D3A Val
+A  A6M3 m32 Zero
+
+S  25-1v
+A  D3A2 Val
+
+S  25-2
+T  Cactus Teamwork
+D  1943-06-12
+A  F4F-4 Wildcat
+ML Solomons
+U  VF-11 "Sundowners"
+A  A6M3 m22 Zero
+L  Rendova Island
+A  F4U-1 Corsair
+U  VMF-121
+P  Graham, Vern
+L  Russells airstrip
+P  Porter, Bruce
+
+S  25-3
+T  Japanese Messerschmitts
+D  1943-07-21
+ML Solomons
+ML Rabaul
+ML New Guinea
+U  5th AF
+ML Lae
+ML Wewak
+A  Ki-43-IIa Oscar
+A  P-38G Lightning
+A  Ki-61-Ic Tony
+U  39th Squadron
+U  80th Squadron
+MA Me-109
+
+S  26-1
+T  Hellcat Debut
+D  1943-09-01
+A  F6F-3 Hellcat
+A  H8K2 Emily
+U  VF-6
+P  Loesch, Richard
+MB Belleau Wood
+MA Mavis
+MA A6M Zero
+ML Eastern Solomons
+MU Cactus Air Force
+MU Tainan Kokutai
+MP Yamashita, Sahei
+MU VF-22
+
+S  26-2
+T  The Black Sheep
+D  1943-09-16
+P  Boyington, Greg
+MU Flying Tigers
+A  F4U-1 Corsair
+ML Solomons
+U  VMF-214 Black Sheep
+L  Russells
+MA SBD Dauntless
+MA TBF Avenger
+ML Bougainville Island
+MA P-40 Warhawk
+MA F6F Hellcat
+A  A6M3 m32 Zero
+
+S  26-3
+T  Back to Wake Island
+D  1943-10-05
+MB Essex class
+ML Marcus Island
+ML Tarawa
+A  F6F-3 Hellcat
+ML Solomons
+L  Wake Island
+P  O'Hare, "Butch"
+MB Lexington
+MA SBD Dauntless
+MA SB2C Helldiver
+MA TBF Avenger
+A  A6M2 Zero
+U  VF-9
+P  Torrey, Phil
+
+S  27-1
+T  The Jolly Rogers
+D  1943-11-01
+U  VF-17 "Jolly Rogers"
+A  F4U-1 Corsair
+MB Bunker Hill
+ML Pearl Harbor
+MA F6F Hellcat
+ML Solomons
+ML Bougainville Island
+P  Blackburn, Tom
+A  D3A2 Val
+A  A6M3 m32 Zero
+
+S  27-2
+T  A Dangerous Old Hand
+D  1943-11-17
+ML Bougainville Island
+ML Rabaul
+ML Truk
+U  281st Air Group
+A  A6M2 Zero
+P  Iwamoto, Tetzuzo
+ML China
+ML Pearl Harbor
+ML Coral Sea, Battle of
+MA B5N2 Kate
+U  VF-17 "Jolly Rogers"
+A  F4U-1 Corsair
+MA Sikorski
+
+S  28-1
+T  Boyington Down
+D  1944-01-03
+P  Boyington, Greg
+U  VMF-214 Black Sheep
+MU Flying Tigers
+MP Foss, Joe
+L  Rabaul
+A  A6M5 Zero
+MP Thach, Jimmy
+A  F4U-1A Corsair
+
+S  28-2
+T  "Butcher Bob"
+D  1944-01-11
+MA SBD Dauntless
+A  TBF-1C Avenger
+ML Solomons
+L  Rabaul
+A  F4U-1A Corsair
+P  Hanson, "Butcher Bob"
+U  VMF-215
+A  A6M5 Zero
+
+S  28-3
+T  A "Hollywood" War
+D  1944-02-17
+MU VF-5
+L  Truk
+A  F6F-3 Hellcat
+U  VF-10 "Grim Reapers"
+A  A6M5 Zero
+A  A6M3 m32 Zero
+A  A6M2-N Rufe
+
+S  29-1
+T  Trapped by Zekes
+D  1944-02-19
+U  VF-17 "Jolly Rogers"
+P  Kapford, Ira C.
+MA TBF Avenger
+ML Rabaul
+MA A6M2-N Rufe
+A  A6M5 Zero
+A  F4U-1C Corsair
+
+S  29-2
+T  Easy Pickings
+D  1944-03-30
+ML Palau Islands
+A  F6F-3 Hellcat
+A  Ki-43-IIb Oscar
+B  Bunker Hill
+U  VF-8
+P  McCusky, Scott
+E  Scott McCusky, not to be confused with Clarence Wade McClusky
+ML Coral Sea, Battle of
+ML Midway
+
+S  29-3
+T  Melee Over Truk
+D  1944-04-29
+L  Truk
+A  F6F-3 Hellcat
+U  VF-32
+A  Ki-61-1b Tony
+A  A6M5 Zero
+E  Ki-61-one-bee, or Ki-61-eye-bee?
+
+S  30-1
+T  The Marianas Turkey Shoot
+D  1944-06-19
+U  5th Fleet
+L  Marianas
+ML Saipan
+ML Guam
+ML Tinian
+ML Iwo Jima
+A  F6F-3 Hellcat
+L  Philippine Sea, Battle of the
+MB Taiho
+MB Shokaku
+A  A6M5 Zero
+A  A6M2 Zero
+A  B6N m12 Jill
+A  D4Y2 Judy
+U  653 Kokutai
+U  601 Kokutai
+
+S  30-1v
+A  P1Y2 Frances
+
+S  31-1
+T  Risky Counter-Strike
+D  1944-06-20
+A  SB2C-1C Helldiver
+MA TBF Avenger
+MA SBD Dauntless
+A  F6F-3 Hellcat
+MB Hiyo
+MB Zuikaku
+A  A6M5 Zero
+U  VB-14
+
+S  31-1v
+A  TBF-3 Avenger
+A  SBD-5 Dauntless
+
+S  31-2
+T  Surrounded at Iwo Jima
+D  1944-06-24
+P  Sakai, Saburo
+L  Philippine Sea
+L  Iwo Jima
+U  Yokosuka Kokutai
+A  A6M5 Zero
+MP Muto, Kaneyoshi
+A  F6F-3 Hellcat
+
+S  32-1
+T  The Wilder Wildcat
+D  1944-10-25
+L  Leyte Gulf
+MA TBF Avenger
+A  FM-2 Wildcat
+P  McGraw, Joe
+A  D3A2 Val
+A  A6M5 Zero
+
+S  32-2
+T  The First Kamikazes
+D  1944-10-25
+P  Seki Yukio
+A  A6M5 Zero
+U  Air Group 201
+B  St. Lo
+B  Kitkun Bay
+P  Nishizawa, Hiroyoshi
+MP Sakai, Saburo
+MU Tainan Kokutai
+ML Rabaul
+A  FM-2 Wildcat
+MA F6F Hellcat
+MP Onishi
+
+S  32-3
+T  Combat Over Manila
+D  1944-11-05
+A  F6F-5 Hellcat
+L  Manila
+U  VF-11 "Sundowners"
+MB Hornet
+MA A6M Zero
+MA Ki-43 Oscar
+A  Ki-84 Hayate
+L  Philippines
+
+S  32-3v
+A  Ki-61 Tony
+
+S  33-1
+T  The "Big Blue Blanket"
+D  1944-12-14
+MP Thach, Jimmy
+U  Task Force 38
+L  Philippines
+MP MacArthur, Douglas
+ML Luzon
+A  F6F-5 Hellcat
+U  VF-80
+A  A6M5 Zero
+MA Ki-84 Hayate
+A  Ki-43-IIKAI Oscar
+
+S  33-2
+T  Troubled Start
+D  1945-01-16
+A  F4U-1D Corsair
+MU VMF-213 "Hellhawks"
+MU VMF-124
+MB Essex class
+ML Solomons
+ML Formosa
+A  A6M5a M52A Zero
+L  Yuligan Bay
+
+S  33-2v
+MA Ki-43 Oscar
+
+S  34-1
+T  Muto's Feat
+D  1945-02-16
+U  Task Force 58
+ML Tokyo
+MA SB2C Helldiver
+MA TBF Avenger
+A  F6F-5 Hellcat
+MA F4U Corsair
+U  VF-82
+L  Astugi airfield
+U  Yokosuka Kokutai
+A  A6M5 Zero
+A  J2M3 Raiden
+A  N1K2 George
+P  Muto, Kaneyoshi
