@@ -513,7 +513,7 @@ P  Boyington, Greg
 MU Flying Tigers
 A  F4U-1 Corsair
 ML Solomons
-U  VMF-214 Black Sheep
+U  VMF-214 "Black Sheep"
 L  Russells
 MA SBD Dauntless
 MA TBF Avenger
@@ -575,7 +575,7 @@ S  28-1
 T  Boyington Down
 D  1944-01-03
 P  Boyington, Greg
-U  VMF-214 Black Sheep
+U  VMF-214 "Black Sheep"
 MU Flying Tigers
 MP Foss, Joe
 L  Rabaul
@@ -754,7 +754,7 @@ MU VMF-124
 MB Essex class
 ML Solomons
 ML Formosa
-A  A6M5a M52A Zero
+A  A6M5a m52A Zero
 L  Yuligan Bay
 
 S  33-2v
@@ -776,3 +776,136 @@ A  A6M5 Zero
 A  J2M3 Raiden
 A  N1K2 George
 P  Muto, Kaneyoshi
+
+S  34-2
+T  Gandy's Feat
+D  1945-02-16
+MU Task Force 58
+ML Tokyo
+P  Gandy, D.W.
+L  Iwo Jima
+A  OS2U-3 Kingfisher
+A  A6M5 Zero
+A  F6F-5 Hellcat
+
+S  34-3
+T  Death Duel Over Tokyo
+D  1945-02-17
+L  Tokyo
+P  Carmichael, Daniel
+P  McConnell, William
+U  VBF-12
+A  Ki-84 Hayate
+A  F6F-5 Hellcat
+
+S  34-3v
+A  J2M3 Raiden
+
+S  35-1
+T  The Sky Explodes
+D  1945-03-19
+L  Kure
+U  343rd Kokutai
+MP Sakai, Saburo
+MA Shiden-Kai
+U  301st Hikotai
+A  F4U-1D Corsair
+U  VMF-123
+A  N1K2 George
+U  701st Hikotai
+A  F6F-5 Hellcat
+U  VBF-17
+U  407th Hikotai
+E  I do not understand why the Japanese aircraft are listed as plain N1K2 instead of N1K2-J "Shiden-Kai"
+
+S  35-2
+T  The Thunder God's Doom
+D  1945-03-24
+ML Okinawa
+A  G2M2 m23 Betty
+U  721st Jinrai Butai (Thunder God's Corps)
+A  A6M5a m52A Zero
+ML Kanoya
+MA Okha
+A  F6F-5 Hellcat
+
+S  35-3
+T  Cherry Blossoms
+D  1945-04-06
+MP Matsuo, Isao
+ML Philippines
+ML Okinawa
+A  F6F-5 Hellcat
+A  F4U-1D Corsair
+A  FM-2 Wildcat
+A  F4U-4 Corsair
+A  A6M5 Zero
+A  N1K2 George
+A  Ki-61 Tony
+A  Ki-84 Hayate
+A  Ki-43-IIKAI Oscar
+A  A6M3 m22 Zero
+A  D4Y2 Judy
+A  B6N Jill
+A  P1Y2 Frances
+A  D3A2 Val
+A  B5N Kate
+A  A6M2 Zero
+A  G4M2
+A  Okha
+
+S  36-1
+T  A Wildman's Folly
+D  1945-05-15
+P  Sugita, Shoichi
+MP Yamamoto
+MA F4U Corsair
+ML Solomons
+ML Marianas
+MP Nishizawa, Hiroyoshi
+U  343rd Kokutai
+ML Kure
+MP Muto, Kaneyoshi
+A  F6F-5 Hellcat
+P  Weatherup, Bob
+U  VF-46
+A  N1K2 George
+
+S  37-1
+T  A Daring Rescue
+D  1945-05-14
+MA SB2C Helldiver
+MU VBF-12
+A  F6F-5 Hellcat
+MA F4U Corsair
+A  OS2U-3 Kingfisher
+MB Astoria
+
+S  37-1v
+A  PBY-5 Catalina
+
+S  37-2
+T  Dogfight Over Kyushu
+D  1945-07-02
+A  F4U-4 Corsair
+ML Okinawa
+ML Kyushu
+U  VMF-224
+U  VMF-311
+MA A6M Zero
+A  N1K2 George
+U  343rd Kokutai
+
+S  37-3
+T  The Last Dogfight
+D  1945-08-15
+ML Hiroshima
+ML Nagasaki
+A  F6F-5 Hellcat
+U  VF-88
+L  Tokurozama airfield
+MB Missouri
+A  J2M3 Raiden
+A  N1K2 George
+A  Ki-84 Hayate
+A  A6M5a m52A Zero
