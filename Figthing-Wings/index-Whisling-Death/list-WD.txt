@@ -909,3 +909,126 @@ A  J2M3 Raiden
 A  N1K2 George
 A  Ki-84 Hayate
 A  A6M5a m52A Zero
+
+S  41-1
+T  Cobra's Venom
+D  1942-09-05
+A  P-400 Airacobra
+U  67th FS
+L  Guadalcanal
+B  Daihatsu L. Cr.
+B  Coastal Barge
+
+S  41-2
+T  Rat's Nest
+D  1943-11-20
+L  Tarawa Atoll
+B  Saida Maru
+A  F4F-4 Wildcat
+L  Betio Island
+
+S  41-3
+T  Peleliu Tank Plinkinbg
+D  1944-09-15
+L  Peleliu
+A  TBM-1C Avenger
+
+S  42-1
+T  Whistling Death
+D  1945-07-xx
+ML Okinawa
+A  F4U-4C Corsair
+
+S  42-2
+T  Air Raid, Pearl Harbor
+D  1941-12-07
+L  Pearl Harbor
+A  B5N2 Kate
+P  Mori, Juzo
+L  Ford Island
+B  California
+B  Pennsylvania
+B  Oklahoma
+B  West Virginia
+B  San Francisco
+B  New Orleans
+B  Helena
+B  Honolulu
+B  St. Louis
+B  Bagley
+B  Mugford
+B  Jarvis
+B  Neosho
+B  Ramapo
+B  Avocat
+B  Argonne
+B  Castor
+B  Oglala
+B  Elco class
+
+S  42-2v
+A  D3A1 Val
+
+S  44-1
+T  Nevada's Sortie
+D  1941-12-07
+L  Pearl Harbor
+B  Nevada
+A  D3A1 Val
+P  Egusa, Takashiga
+P  Makino, Saburo
+
+S  44-2
+T  Coral Sea Opener
+D  1942-05-07
+L  Coral Sea, Battle of
+MB Neosho
+B  Sims
+P  Takahashi, Kakuichi
+A  D3A1 Val
+MB Shoho
+
+S  44-2v
+B  Cimmaron class
+ML Pearl Harbor
+
+S  45-1
+T  "Scratch One Flattop"
+D  1942-05-07
+L  Coral Sea, Battle of
+MB Lexington
+MB Yorktown
+B  Shoho
+P  Dixon, Bob
+U  Scouting Two
+A  SBD-3 Dauntless
+A  A6M2 Zero
+A  F4F-3 Wildcat
+A  TBD-1 Devastator
+B  Myoko class
+B  Kagero class
+
+S  45-2
+T  Death of a Queen
+D  1942-05-08
+L  Coral Sea, Battle of
+B  Lexington "Lady Lex"
+MB Yorktown
+A  SBD-3 Dauntless
+MB Shokaku
+MA TBD Devastator
+A  B5N2 Kate
+MB Zuikaku
+A  D3A1 Val
+MB Phelps
+ML Port Moresby
+A  F4F-3 Wildcat
+B  Atlanta class
+B  Brooklyn class
+P  Shimazaki
+P  Ichihara
+P  Smith, Robert
+P  Brassfield, Art
+
+S  45-2v
+A  A6M2 Zero
