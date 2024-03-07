@@ -43,7 +43,7 @@ D  1942-05-07
 P  Imamura
 A  A6M2 Zero
 ML China
-MB Shoho 
+MB Shoho
 ML Coral Sea, Battle of
 A  F4F-3 Wildcat
 P  Haas, Walter
@@ -170,7 +170,7 @@ S  17-2
 T  Torpedo Escort -- Coral Sea
 D  1942-05-08
 L  Coral Sea, Battle of
-MB Shoho 
+MB Shoho
 MB Neosho
 MB Sims
 A  TBD-1 Devastator
@@ -920,7 +920,7 @@ B  Daihatsu L. Cr.
 B  Coastal Barge
 
 S  41-2
-T  Rat's Nest
+T  Rat's Nest -- Tarawa
 D  1943-11-20
 L  Tarawa Atoll
 B  Saida Maru
@@ -1032,3 +1032,229 @@ P  Brassfield, Art
 
 S  45-2v
 A  A6M2 Zero
+
+S  46-1
+T  Gallant Sacrifice -- Midway
+D  1942-06-04
+ML Midway
+MB Akagi
+B  Kaga
+MB Soryu
+MB Hiryu
+MA B-26
+A  TBF-1 Avenger
+U  VT-8
+A  A6M2 Zero
+MB Enterprise
+MB Yorktown
+MB Hornet
+P  Waldron, John
+P  Gay, George
+A  TBD-1 Devastator
+B  Kongo
+B  Takao
+MA D3A Val
+
+S  46-1v
+A  F4F-4 Wildcat
+A  B-26B
+
+S  47-1
+T  End of the Kido Butai
+D  1942-06-04
+A  A6M2 Zero
+U  Kido Butai
+A  SBD-3 Dauntless
+P  McClusky, Wade
+MB Yorktown
+P  Leslie, Max
+B  Kaga
+MB Akagi
+MP Best, Richard
+MB Soryu
+MB Hiryu
+MB Enterprise
+
+S  48-1
+T  The "Dragon" Bites Back
+D  1942-06-04
+MA SBD Dauntless
+MU Kido Butai
+MB Hiryu
+A  A6M2 Zero
+MA TBD Devastator
+MU VT-3
+A  D3A Val
+A  B5N2 Kate
+B  Yorktown
+A  F4F-4 Wildcat
+L  Midway, Battle of
+B  Brooklyn class
+B  Sims class
+B  Atlanta class
+B  Portland
+B  Astoria
+
+S  49-1
+T  Carrier Plinking
+D  1942-08-xx, 1942-10-xx
+ML Midway, Battle of
+MA TBF Avenger
+A  SBD-3 Dauntless
+ML Eastern Solomons, Battle of
+MP Jett, Charles
+MP Bye, Robert
+MB Ryujo
+MP Davis, Ray
+MP Shaw, Robert
+MB Shokaku
+A  A6M2 Zero
+P  Strong, Birney
+MP Richey, Gerald
+ML Santa Cruz, battle of
+P  Irvine, Charles
+B  Zuiho
+B  Myoko
+
+S  49-1v
+B  Shokaku
+A  D3A Val
+A  B5N2 Kate
+B  Ryujo
+A  TBF-1 Avenger
+
+S  49-2
+T  Tokyo Express Run
+D  1942-10-08
+ML Guadalcanal
+U  Cactus Air Force
+B  Nisshin
+A  SBD-3 Dauntless
+A  TBF-1 Avenger
+A  F4F-4 Wildcat
+A  F1M2 Pete
+A  P-39D Airacobra
+A  A6M2-N Rufe
+B  Yugumo class
+B  Akizuki class
+
+S  50-1
+T  Major Cram's Attack
+D  1942-10-15
+U  Cactus Air Force
+L  Guadalcanal
+MA SBD Dauntless
+MA P-39 Airacobra
+A  F4F-4 Wildcat
+P  Geiger
+A  PBY-5 Catalina
+P  Cram, Jack
+MU 5th AF
+MA B-17
+B  large merchant class
+B  medium merchant class
+B  Akizuki class
+
+S  50-1v
+A  SBD-3 Dauntless
+A  P-400 Airacobra
+
+S  51-1
+T  Grumman's Avengers
+D  1942-11-13
+L  Guadalcanal
+B  Hiei
+MU Cactus Air Force
+A  TBF-1 Avenger
+MA SBD Dauntless
+U  VT-10
+MB Enterprise
+MA B-17
+U  VMSB-131
+B  Kongo class
+B  Kagero class
+
+S  51-1v
+MA F4F Wildcat
+A  A6M Zero
+
+S  52-1
+T  Ninja Torpedo Attack
+D  1943-01-29
+ML Guadalcanal
+U  705th Hikotai
+U  701st Hikotai
+A  G4M1 m12 Betty
+MA G3M Nell
+ML Solomons
+B  Chicago
+B  Louisville
+B  Wichita
+MA F4F Wildcat
+MB Enterprise
+B  Brooklyn class
+
+S  52-2
+T  Wilson's War
+D  1943-05-08
+P  Wilson, Edwin
+P  Jespersen, Harry
+U  VB-11
+A  SBD-3 Dauntless
+ML Guadalcanal
+ML Kolombangara
+ML Solomons
+MB PT-109
+MP Kennedy, John F
+B  Yugumo
+
+S  52-3
+T  Black Cat Warrior
+D  1943-07-19
+U  Patrol Squadron 12 "Black Cats"
+A  PBY-5 Catalina
+ML Solomons
+P  Johnson, Harold
+U  VP-54
+ML New Georgia
+B  Kagero class
+
+S  53-1
+T  Cat and Mouse
+D  1943, summer
+ML Solomons
+A  F1M2 Pete
+B  Elco class
+
+S  53-2
+T  Helldivers at Rabaul
+D  1943-11-11
+U  VB-17
+MB Bunker Hill
+A  SB2C-1 Helldiver
+L  Rabaul
+P  Vose, James
+ML Midway, Battle of
+ML Santa Cruz, battle of
+B  Maya
+B  Takao class
+B  Suzunami
+B  Naganami
+MA D3A Val
+A  F6F-3 Hellcat
+A  A6M3a m22A Zero
+
+S  54-1
+T  Last Sting of the Vals
+D  1943-12-26
+ML Solomons
+ML Rabaul
+B  Brownson
+B  Fletcher class
+L  New Britain
+A  D3A2 Val
+MA A6M Zero
+ML Truk
+
+S  54-1v
+A  P-38G Lightning
