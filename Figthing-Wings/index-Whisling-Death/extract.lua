@@ -12,6 +12,7 @@ See the summary of GPL in the POD documentation below.
 ]]
 
 function normalize(name)
+  name = string.gsub(name, '"', '' );
   name = string.gsub(name, "é", "e");
   name = string.gsub(name, "ö", "o");
   name = string.gsub(name, "ü", "u");

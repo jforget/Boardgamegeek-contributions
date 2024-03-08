@@ -367,7 +367,7 @@ MA P-39 Airacobra
 ML Port Moresby
 A  P-40E Warhawk
 A  P-38F Lightning
-A  Ki-43-IIa Oscar
+A  Ki.43-IIa Oscar
 A  A6M3 m32 Zero
 A  D3A2 Val
 L  Dobodura
@@ -408,7 +408,7 @@ MA B-25
 A  P-38G Lightning
 ML Port Moresby
 A  A6M3 m22 Zero
-A  Ki-43-IIa Oscar
+A  Ki.43-IIa Oscar
 
 S  24-2
 T  Wildcat Amok
@@ -483,9 +483,9 @@ ML New Guinea
 U  5th AF
 ML Lae
 ML Wewak
-A  Ki-43-IIa Oscar
+A  Ki.43-IIa Oscar
 A  P-38G Lightning
-A  Ki-61-Ic Tony
+A  Ki.61-Ic Tony
 U  39th Squadron
 U  80th Squadron
 MA Me-109
@@ -622,7 +622,7 @@ T  Easy Pickings
 D  1944-03-30
 ML Palau Islands
 A  F6F-3 Hellcat
-A  Ki-43-IIb Oscar
+A  Ki.43-IIb Oscar
 B  Bunker Hill
 U  VF-8
 P  McCusky, Scott
@@ -636,9 +636,9 @@ D  1944-04-29
 L  Truk
 A  F6F-3 Hellcat
 U  VF-32
-A  Ki-61-1b Tony
+A  Ki.61-1b Tony
 A  A6M5 Zero
-E  Ki-61-one-bee, or Ki-61-eye-bee?
+E  Ki.61-one-bee, or Ki.61-eye-bee?
 
 S  30-1
 T  The Marianas Turkey Shoot
@@ -724,12 +724,12 @@ L  Manila
 U  VF-11 "Sundowners"
 MB Hornet
 MA A6M Zero
-MA Ki-43 Oscar
-A  Ki-84 Hayate
+MA Ki.43 Oscar
+A  Ki.84 Hayate
 L  Philippines
 
 S  32-3v
-A  Ki-61 Tony
+A  Ki.61 Tony
 
 S  33-1
 T  The "Big Blue Blanket"
@@ -742,8 +742,8 @@ ML Luzon
 A  F6F-5 Hellcat
 U  VF-80
 A  A6M5 Zero
-MA Ki-84 Hayate
-A  Ki-43-IIKAI Oscar
+MA Ki.84 Hayate
+A  Ki.43-IIKAI Oscar
 
 S  33-2
 T  Troubled Start
@@ -758,7 +758,7 @@ A  A6M5a m52A Zero
 L  Yuligan Bay
 
 S  33-2v
-MA Ki-43 Oscar
+MA Ki.43 Oscar
 
 S  34-1
 T  Muto's Feat
@@ -795,7 +795,7 @@ L  Tokyo
 P  Carmichael, Daniel
 P  McConnell, William
 U  VBF-12
-A  Ki-84 Hayate
+A  Ki.84 Hayate
 A  F6F-5 Hellcat
 
 S  34-3v
@@ -841,9 +841,9 @@ A  FM-2 Wildcat
 A  F4U-4 Corsair
 A  A6M5 Zero
 A  N1K2 George
-A  Ki-61 Tony
-A  Ki-84 Hayate
-A  Ki-43-IIKAI Oscar
+A  Ki.61 Tony
+A  Ki.84 Hayate
+A  Ki.43-IIKAI Oscar
 A  A6M3 m22 Zero
 A  D4Y2 Judy
 A  B6N Jill
@@ -907,7 +907,7 @@ L  Tokurozama airfield
 MB Missouri
 A  J2M3 Raiden
 A  N1K2 George
-A  Ki-84 Hayate
+A  Ki.84 Hayate
 A  A6M5a m52A Zero
 
 S  41-1
@@ -1258,3 +1258,243 @@ ML Truk
 
 S  54-1v
 A  P-38G Lightning
+
+S  54-2
+T  Night of the Avengers
+D  1944-02-16
+MB Enterprise
+U  VT-10
+A  TBF-1C Avenger
+MP Martin, William
+L  Truk
+B  Yugumo class
+B  Matsu class
+B  Cimarron class
+B  medium merchant class
+B  I class submarine
+B  large merchant class
+B  Takao class
+
+S  55-1
+T  "Minato-gawa"
+D  1944-06-15
+P  Egusa, Takashiga
+ML Pearl Harbor
+ML Midway, Battle of
+A  P1Y1 Frances
+L  Guam
+MA D4Y2 Judy
+MA A6M Zero
+MA F6F Hellcat
+B  Lexington (II)
+B  Enterprise
+B  Essex class
+B  Yorktown class
+B  South Dakota class
+B  Allen M Sumner class
+
+S  55-2
+T  Escorts Off Saipan
+D  1944-06-17, 1944-06-18
+ML "Operation A-Go"
+ML Marianas
+ML Saipan
+A  D4Y2 Judy
+A  P1Y1 Frances
+A  A6M5 m52 Zero
+ML Yap
+ML Guam
+ML Tinian
+MP Osawa
+A  FM-2 Wildcat
+B  Fletcher class
+B  Casablanca class
+
+S  56-1
+T  Marianas Turkey Shoot
+D  1944-06-19
+L  Marianas
+MP Osawa
+ML Guam
+MA B5N Kate
+MA D3A Val
+A  F6F-3 Hellcat
+B  Bunker Hill
+A  A6M5 m52 Zero
+A  D4Y2 Judy
+A  B6N2 m11 Jill
+B  South Dakota class
+B  Oakland class
+B  Essex class
+B  Fletcher (late) class
+MA SB2C Helldiver
+MA TBF Avenger
+
+S  56-2
+T  The Longest Strike
+D  1944-06-20
+MP Osawa
+MP Mitscher
+MB Hiyo
+B  Zuikaku
+MB Hornet
+A  SB2C-1C Helldiver
+P  Buell, Harold
+MU Cactus Air Force
+MB Yorktown
+MA TBF Avenger
+A  A6M5 m52 Zero
+B  Takao class
+
+S  56-2v
+A  TBF-1C Avenger
+
+S  57-1
+T  Exit the Dauntless
+D  1944-06-20
+A  SBD-5 Dauntless
+MU VB-10
+MU VB-16
+MB Enterprise
+MB Lexington (II)
+MP Osawa
+A  A6M5 m52 Zero
+MA SB2C Helldiver
+A  F6F-3 Hellcat
+B  Junyo
+B  Shoho class
+B  Yugumo class
+B  Naka class
+
+S  57-1v
+A  TBF-1C Avenger
+
+S  57-2
+T  Ring Tail Debut
+D  1944-08-04
+MB Franklin
+U  VT-13
+L  Iwo Jima
+A  TBM-1C Avenger
+A  F6F-3 Hellcat
+B  large merchant class
+B  Akizuki class
+
+S  57-2v
+A  SB2C Helldiver
+
+S  58-1
+T  Defending Taffy-3
+D  1944-10-25
+ML Philippines
+L  Leyte Gulf
+ML Surigao, Straights of
+L  San Bernardino Straight
+MB Musashi
+MP Halsey
+MB Zuikaku
+U  Taffy-3
+MP Sprague, Clifton
+MU Taffy-2
+U  VC-3
+MB Kalinin Bay
+A  FM-2 Wildcat
+A  TBM-1C Avenger
+B  Kongo class
+B  Takao class
+
+S  58-1v
+U  Taffy-2
+E  Truncated sentence: but may not what?
+
+S  58-2
+T  "Devil Divers"
+D  1944-10-25
+U  Taffy-3
+A  A6M5 Zero
+P  Seki, Yukio
+MB Kitkun Bay
+MB White Plains
+B  St. Lo
+B  Kalinin Bay
+MA FM-2 Wildcat
+B  Casablanca class
+
+S  59-1
+T  Kyushu Shooting Gallery
+D  1945-03-28
+U  VF-45
+A  F6F-5 Hellcat
+P  Swinburne, Harry
+MB Hornet
+B  Ch-13 class
+B  Type 35 class
+
+S  59-2
+T  Sink the Yamato!
+D  1945-04-07
+ML Leyte Gulf
+B  Yamato
+U  VB-83
+A  SB2C-4 Helldiver
+B  Essex
+U  VT-84
+A  TBM-3C Avenger
+MB Bunker Hill
+A  F4U-1D Corsair
+U  VBF-10
+B  Naka class
+B  Akizuki class
+P  Swanson, Chandler
+ML Coral Sea, Battle of
+
+S  59-2v
+B  Shoho class
+A  A6M5a m52A Zero
+
+S  60-1
+T  Baka Bomb Attack
+D  1945-04-12
+A  G4M2E m24 Betty
+A  Okha
+B  Mannert L. Abele
+A  D3A2 Val
+B  Allen M Sumner class
+
+S  60-2
+T  Ordeal of the USS Laffey
+D  1945-04-16
+ML "Operation Iceberg"
+ML Okinawa
+B  Laffey
+A  F4U-1D Corsair
+A  D3A2 Val
+A  D4Y3 Judy
+A  Ki.43-IIb Oscar
+B  Allen M Sumner class
+B  LCS class
+
+S  61-1
+T  "Get the Carriers"
+D  1945-05-14
+MP Mitscher
+MB Bunker Hill
+B  Enterprise
+P  Kai, Tomi
+A  A6M5 m52 Zero
+B  Randolph
+A  F6F-5 Hellcat
+A  A6M2 Zero
+B  Yorktown class
+B  Essex class
+B  South Dakota class
+B  Fletcher (late) class
+
+S  61-1v
+D  1945-05-11
+B  Bunker Hill
+A  F4U-1D Corsair
+A  D4Y3 Judy
+A  Ki.84 Hayate
+A  Ki.43-II Oscar
+A  Ki.61 Tony
