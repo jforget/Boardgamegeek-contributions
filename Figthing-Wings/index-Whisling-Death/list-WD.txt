@@ -303,7 +303,7 @@ D  1942-09-14
 ML Rabaul
 A  F1M2 Pete
 A  A6M2-N Rufe
-ML Rakata Bay
+ML Rekata Bay
 ML Santa Isabel Island
 U  Cactus Air Force
 A  F4F-4 Wildcat
@@ -527,7 +527,7 @@ T  Back to Wake Island
 D  1943-10-05
 MB Essex class
 ML Marcus Island
-ML Tarawa
+ML Tarawa Atoll
 A  F6F-3 Hellcat
 ML Solomons
 L  Wake Island
@@ -626,7 +626,7 @@ A  Ki.43-IIb Oscar
 B  Bunker Hill
 U  VF-8
 P  McCusky, Scott
-E  Scott McCusky, not to be confused with Clarence Wade McClusky
+E  Scott McCusky, not to be confused with Clarence Wade McClusky (not an erratum, but a confirmation)
 ML Coral Sea, Battle of
 ML Midway
 
@@ -703,7 +703,7 @@ A  A6M5 Zero
 S  32-2
 T  The First Kamikazes
 D  1944-10-25
-P  Seki Yukio
+P  Seki, Yukio
 A  A6M5 Zero
 U  Air Group 201
 B  St. Lo
@@ -1498,3 +1498,302 @@ A  D4Y3 Judy
 A  Ki.84 Hayate
 A  Ki.43-II Oscar
 A  Ki.61 Tony
+
+S  62-1
+T  Bombing Five's Dive
+D  1942-05-08
+L  Coral Sea, Battle of
+U  VB-5
+B  Yorktown
+A  SBD-3 Dauntless
+B  Shokaku
+MB Lexington "Lady Lex"
+A  A6M2 Zero
+B  Zuikaku
+B  Myoko class
+B  Kagero class
+U  VS-5
+A  F4F-3 Wildcat
+U  VF-42
+
+S  62-1e
+A  B5N Kate
+A  TBD-1 Devastator
+A  PBY-5 Catalina
+A  B5N2 Kate
+A  D3A1 Val
+A  G4M1 Betty
+
+S  63-1
+T  Raid on Cactus
+D  1942-09-27
+U  Takao Kokutai
+A  G4M1 m12 Betty
+L  Rabaul
+L  Guadalcanal
+A  A6M2 Zero
+A  F4F-4 Wildcat
+MA SBD Dauntless
+U  Cactus Air Force
+L  Henderson airfield
+A  P-400 Airacobra
+L  Buka Island
+L  Bougainville Island
+L  Russells Islands
+ML Solomons
+
+S  63-1e
+A  SBD-3 Dauntless
+A  F1M Pete
+A  A6M2-N Rufe
+A  PBY-5 Catalina
+A  TBF-1 Avenger
+A  F1M2 Pete
+A  H8K1 Emily
+ML Rekata Bay
+
+S  63-1v
+L  Buin airfield
+A  A6M3 m32 Zero
+
+S  64-1
+T  Trading Blows
+D  1942-10-26
+L  Santa Cruz, battle of
+ML Guadalcanal
+B  Shokaku
+B  Zuikaku
+B  Zuiho
+U  TF-16
+U  TF-17
+B  Enterprise
+B  Hornet
+A  SBD-3 Dauntless
+ML Marianas
+U  Kido Butai
+B  Myoko class
+B  Yugumo class
+U  Vanguard Force
+B  Kongo class
+B  Takao class
+B  Nagara class
+B  Kagero class
+B  Brooklyn class
+B  Atlanta class
+B  Sims class
+B  South Dakota class
+A  D4Y1 Judy
+A  A6M2 Zero
+A  B5N2 Kate
+A  D3A2 Val
+A  B5N Kate
+A  F4F-4 Wildcat
+A  SBD-3 Dauntless
+A  TBF-1 Avenger
+A  PBY-5 Catalina
+MU Cactus Air Force
+
+S  66-1
+T  Fortress Rabaul
+D  1943-11-11
+B  Bunker Hill
+L  Rabaul
+L  Simpson Harbor
+ML Solomons
+U  VF-17 "Jolly Rogers"
+L  New Georgia
+A  F4U-1A Corsair
+A  F6F-3 Hellcat
+MB Zuikaku
+MB Shokaku
+L  Ondonga
+L  New Britain
+L  Kavieng arifield
+L  New Ireland
+B  Takao class
+B  Matsu class
+B  large merchant class
+B  LST class
+B  Essex class
+B  Atlanta class
+B  Fletcher class
+U  VF-18
+U  VB-17
+A  SB2C-1 Helldiver
+U  VT-17
+A  TBF-1C Avenger
+U  AG-253
+A  A6M5 Zero
+U  AG-204
+A  A6M3 m32 Zero
+A  A6M3 m22 Zero
+A  D3A1 Val
+A  B5N2 Kate
+A  D4Y1 Judy
+U  751-Ku
+A  G4M2 m22 Betty
+
+S  66-1v
+B  Essex
+A  SBD-5 Dauntless
+
+S  66-1e
+A  F4U-1 Corsair
+A  SBD-5 Dauntless
+A  G4M1 m12 Betty
+A  D3A2 Val
+
+S  67-1
+T  Palau Sweep
+D  1944-03-30
+MP MacArthur, Douglas
+ML Hollandia
+ML New Guinea
+L  Palau Islands
+U  Task Force 58
+ML Saipan
+B  Bunker Hill
+L  Peleliu
+B  Fleet oiler class
+B  medium merchant class
+B  CH13 gunboat class
+B  T101 LST class
+B  Essex class
+A  F6F-3 Hellcat
+A  SB2C-1C Helldiver
+A  TBM-1C Avenger
+A  A6M3 m22 Zero
+A  A6M3 m32 Zero
+A  A6M2-N Rufe
+A  G4M2E m24 Betty
+A  H8K1 Emily
+
+S  67-1e
+A  TBF-1C Avenger
+A  SBD-5 Dauntless
+A  OS2U-3 Kingfisher
+A  G4M2 m22 Betty
+
+S  68-1
+T  Night Warriors
+D  1944-06-27
+A  F4U-2 Corsair
+U  VF(N)-101
+B  Enterprise
+P  Harmer, Richard
+A  G4M2a m22a Betty
+U  1st Air Fleet
+ML Marianas
+ML Hawaii
+MA F6F Hellcat
+L  Saipan
+L  Guam
+L  Saipan
+B  Yorktown class
+B  Pennsylvania class
+B  Oakland class
+B  Fletcher (late) class
+A  H8K1 Emily
+A  D4Y2 Judy
+A  F6F-3 Hellcat
+
+S  68-1e
+A  TBF-1C Avenger
+A  F6F-3E (NF) Hellcat
+A  G4M2 Betty
+A  G4M1 Betty
+
+S  68-2
+T  Zuikaku's Last Attack
+D  1944-10-24
+ML Leyte Gulf
+B  Zuikaku
+U  601 Kokutai
+U  653 Kokutai
+ML Formosa
+A  F6F-5 Hellcat
+ML Philippines
+L  Luzon
+L  Manila
+U  TG-38.3
+B  Essex class
+B  South Dakota class
+B  Oakland class
+B  Fletcher class
+A  A6M5a m52A Zero
+A  A6M5 m52 Zero
+A  B6N2 m12 Jill
+B  Zuiho
+B  Chitose
+B  Chiyoda
+B  Essex
+B  Lexington (II)
+
+S  68-2e
+A  FM-2 Wildcat
+A  A6M5 m52 Zero
+A  A6M5a m52A Zero
+A  A6M3 m32 Zero
+A  TBM-3C Avenger
+A  SB2C-3 Helldiver
+A  PBY-5 Catalina
+A  G4M2 m22 Betty
+A  B6N Jill
+A  D4Y3 Judy
+
+S  69-1
+T  "Kikusui" Attacks
+D  1945-04-xx, 1945-07-xx
+L  "Floating Chrysanthemum" (Kikusui)
+L  Okinawa
+L  Kanoya airbase
+B  Allen M Sumner class
+B  Fletcher (late) class
+B  LCS class
+B  Essex class
+B  Yorktown class
+B  Brooklyn class
+B  Oakland class
+B  Casablanca class
+B  Pennsylvania class
+B  Sims class
+B  medium merchant class
+B  LSM class
+B  LCI class
+B  Landing Craft (LCVP) class
+B  large merchant class
+B  Cimarron class
+B  small merchant class
+B  Fletcher (early) class
+A  G4M
+A  Okha
+A  F6F-5 Hellcat
+A  F4U-1D Corsair
+A  F4U-4 Corsair
+A  FM-2 Wildcat
+A  Ki.43-IIKAI Oscar
+A  Ki.61-1b Tony
+A  Ki.84-Ia Frank / Hayate
+A  D4Y3 Judy
+A  B6N2 Jill
+A  D3A2 Val
+A  B5N2 Kate
+A  D4Y2 Judy
+A  A6M5a m52A Zero
+A  N1K2 George
+A  G4M2E m24 Betty
+A  P1Y1 Frances
+A  A6M5 m52 Zero
+A  A6M3 m32 Zero
+A  A6M2 Zero
+A  B5N2 Kate
+A  A6M3a m22A Zero
+A  G4M2 m24 Betty
+A  B6N2 m12 Jill
+A  D4Y4 Judy
+A  J2M3 Jack
+
+S  69-1e
+A  TBM-3C Avenger
+A  SB2C-4 Helldiver
+A  A6M5 Zero
