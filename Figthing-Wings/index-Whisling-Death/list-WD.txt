@@ -414,7 +414,7 @@ S  24-2
 T  Wildcat Amok
 D  1943-04-07
 MP Yamamoto
-ML Operation I-GO
+ML "Operation I-GO"
 ML Tulagi
 MA A6M Zero
 A  D3A2 Val
@@ -825,7 +825,7 @@ ML Okinawa
 A  G2M2 m23 Betty
 U  721st Jinrai Butai (Thunder God's Corps)
 A  A6M5a m52A Zero
-ML Kanoya
+ML Kanoya airbase
 MA Okha
 A  F6F-5 Hellcat
 
