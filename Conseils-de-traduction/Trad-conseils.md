@@ -846,9 +846,113 @@ veux dire... Donc la réponse de McAuliffe n'était peut-être pas aussi anodine
 que je le pensais précédemment.
 
 <details>
-<summary>Compléments</summary>
+<summary>Compléments pour la traduction automatique</summary>
 
-Complément
+Google Translate ne comprend pas qu'il faut changer « 4 » en « 5 ». Mais c'est
+mineur en comparaison du style heurté et des bourdes de la traduction :
+
+> Pancho n'utiliserait jamais un mot de cinq ou six lettres lorsqu'une lettre à quatre
+> le mot ferait. Elle avait la bouche la plus sale que l'un d'entre nous des combattants jocks
+> avait déjà entendu.
+
+Deepl produit une traduction correcte, à l'exception de cette notion
+de _four-letter word_ et de « mot de cinq lettres » :
+
+> Pancho n'utilisait jamais de mots de cinq ou six lettres quand un mot de quatre lettres
+> suffisait. Elle avait la bouche la plus sale que nous, pilotes de chasse,
+> ayons jamais entendue.
+
+Pour les sites d'intelligence artificielle, j'ai ajouté une introduction pour
+préciser le contexte.
+
+> Dans son autobiographie, Chuck Yeager présente Pancho Barnes ainsi :
+> "Pancho would never use a five- or six-letter word when a four-letter
+> word would do. She had the filthiest mouth that any of us fighter
+> jocks had ever heard." Comment cela se traduit-il en français ?
+
+Chat GPT me répond
+
+> La traduction de cette citation en français pourrait être la suivante :
+>
+> « Pancho n’utilisait jamais un mot de cinq ou six lettres quand un mot
+> de quatre lettres suffisait. Elle avait la bouche la plus salée que
+> n’importe lequel d’entre nous, les pilotes de chasse, ait jamais
+> entendue. »
+>
+> C'est une traduction qui essaie de rendre à la fois le ton direct et
+> un peu vulgaire de la citation originale. Tu en penses quoi ?
+
+J'ai fait remarquer à Chat GPT le problème de « salé » au lieu de
+« ordurier » et je lui ai mentionné la signification réelle de
+« _4-letter word_ ». Chat GPT me répond que la « langue salée » est
+une image désignant la langue vulgaire et provenant de l'anglais
+« _salty language_ ». Il me propose deux nouvelles traductions quasiment
+identiques, En voici une :
+
+> « Pancho n’employait jamais un mot de cinq ou six lettres quand un bon
+> vieux gros mot faisait l’affaire. Elle avait la langue la plus
+> ordurière que nous, les pilotes de chasse, ayons jamais entendue. »
+
+Le « 4-letter » n'a pas été changé  en « 5 lettres », mais le sens est
+là. En revanche,  la modification concommittante de  « 5 ou 6-letter »
+en « 6 ou 7 lettres » n'a pas été faite.
+
+La même requête à "Le Chat" de Mistra AI donne :
+
+> "Pancho n’utilisait jamais un mot de cinq ou six lettres quand un mot
+> de quatre lettres faisait l’affaire. Elle avait le langage le plus
+> ordurier que nous, pilotes de chasse, ayons jamais entendu."
+
+avec trois notes explicatives, dont :
+
+> "Five- or six-letter word when a four-letter word would do" : en
+> anglais, les "four-letter words" désignent les jurons ou mots
+> grossiers. En français, on parle de "mots de quatre lettres" pour
+> évoquer les gros mots, mais l’idée est la même.
+
+J'ai répondu
+
+> En français, pour évoquer les gros mots, on parle plutôt de "mot de cinq lettres".
+
+Le Chat m'a donné alors deux traductions possibles :
+
+> « Pancho n’utilisait jamais un mot de six ou sept lettres quand un
+> mot de cinq lettres faisait l’affaire. Elle avait le langage le plus
+> ordurier que nous, pilotes de chasse, ayons jamais entendu. »
+
+et
+
+> « Pancho ne perdait jamais son temps avec des mots trop longs : un
+> bon gros mot de cinq lettres, et l’affaire était dans le sac. On
+> n’avait jamais entendu une bouche aussi salée que la sienne, nous
+> les pilotes. »
+
+Je n'aime pas trop la dernière version, surtout qu'elle reprend la
+mauvaise traduction « salée » du test de Chat GPT. En revanche,
+l'avant-dernière version me convient parfaitement, surtout avec la
+mention de « six ou sept lettres ».
+
+Test effectué le 3 octobre 2025.
+
+Cela dit, si le texte global de ces conseils de traduction est disponible
+publiquement seulement depuis l'automne 2025, le paragraphe sur Pancho Barnes
+était accessible depuis plusieurs années. J'ai co-écrit un article pour la revue
+[GNU/Linux Magazine](https://connect.ed-diamond.com/gnu-linux-magazine)
+sur l'instruction `goto` en programmation et sur le folklore qui lui est associé.
+L'article est paru dans le numéro 72 de la revue, en mai 2005.
+En 2025, cet article n'est plus disponible sur le site de la revue, mais il reste
+accessible sur le
+[site des Mongueurs de Perl](http://articles.mongueurs.net/magazines/linuxmag72.html).
+Étant donné que l'article mentionnait une phrase de Donald Knuth
+
+> four-letter words like goto
+
+j'avais ajouté une
+[annexe](http://articles.mongueurs.net/magazines/linuxmag72.html#h8)
+à l'article pour reprendre l'exemple de Pancho Barnes et l'explication associée.
+Les sites d'intelligence artificielle n'ont donc pas d'excuse pour ne pas avoir
+compris (ou plutôt appris) qu'il faut traduire « _a five- or six-letter word_ »
+par « un mot de six ou sept lettres ».
 
 </details>
 
