@@ -775,20 +775,20 @@ de bon sens.
 ### Expressions consacrées et métaphores
 
 Dans un jeu se situant à l'époque de Jules César, j'ai trouvé
-l'expression "javelin fodder". À titre de vérification pour les besoins de 
-ce texte, j'ai cherché la traduction de "fodder" dans un dictionnaire, et 
-j'ai trouvé "fourrage", ou bien "donner du fourrage", rien de plus. Donc, 
-à première vue, il faudrait traduire par "fourrage de pilum", ce qui ne 
-veut rien dire. En fait, il faut savoir que "cannon fodder" se traduit par 
-"chair à canon", ce qui n'était pas signalé dans l'entrée "fodder" du 
-dictionnaire. Donc, la traduction qui s'impose pour "javelin fodder" 
+l'expression "javelin fodder". À titre de vérification pour les besoins de
+ce texte, j'ai cherché la traduction de "fodder" dans un dictionnaire, et
+j'ai trouvé "fourrage", ou bien "donner du fourrage", rien de plus. Donc,
+à première vue, il faudrait traduire par "fourrage de pilum", ce qui ne
+veut rien dire. En fait, il faut savoir que "cannon fodder" se traduit par
+"chair à canon", ce qui n'était pas signalé dans l'entrée "fodder" du
+dictionnaire. Donc, la traduction qui s'impose pour "javelin fodder"
 serait "chair à pilum", sans aucun rapport avec le fourrage.
 
 Un autre exemple. Si vous avez vu
 [_L'Étoffe des Héros_](https://www.allocine.fr/film/fichefilm_gen_cfilm=26163.html),
-vous vous souvenez peut-être de 
+vous vous souvenez peut-être de
 [Pancho Barnes](https://panchobarnes.com/),
-la tenancière du saloon de la base de Muroc / Edwards, un personnage 
+la tenancière du saloon de la base de Muroc / Edwards, un personnage
 haut en couleurs. Dans son autobiographie, Chuck Yeager la décrit ainsi :
 
 > _V.O._ Pancho would never use a five- or six-letter word when a four-letter
@@ -844,14 +844,6 @@ j'ai cru comprendre que cela pouvait être une métaphore pour
 un élément particulier de l'anatomie masculine, si vous voyez ce que je
 veux dire... Donc la réponse de McAuliffe n'était peut-être pas aussi anodine
 que je le pensais précédemment.
-
-<button id="bpancho" onclick='document.getElementById("pancho").style.display="block"'>Afficher le complément</button>
-<div id='pancho' style='display:block'>
-
-Complément
-
-<button id="b2" onclick='document.getElementById("pancho").style.display="none"'>Masquer</button>
-</div>
 
 ### Jeux de mots
 
