@@ -774,7 +774,7 @@ de bon sens.
 
 ### Expressions consacrées et métaphores
 
-Dans un jeu se situant à l'époque de Jules César, j'ai trouvé 
+Dans un jeu se situant à l'époque de Jules César, j'ai trouvé
 l'expression "javelin fodder". À titre de vérification pour les besoins de 
 ce texte, j'ai cherché la traduction de "fodder" dans un dictionnaire, et 
 j'ai trouvé "fourrage", ou bien "donner du fourrage", rien de plus. Donc, 
@@ -791,50 +791,50 @@ vous vous souvenez peut-être de
 la tenancière du saloon de la base de Muroc / Edwards, un personnage 
 haut en couleurs. Dans son autobiographie, Chuck Yeager la décrit ainsi :
 
-_V.O._ Pancho would never use a five- or six-letter word when a four-letter 
-word would do. She had the filthiest mouth that any of us fighter jocks 
-had ever heard.
+> _V.O._ Pancho would never use a five- or six-letter word when a four-letter
+> word would do. She had the filthiest mouth that any of us fighter jocks
+> had ever heard.
 
 J'ai vu ces phrases traduites ainsi :
 
-_MAUVAIS_ Elle n'employait jamais un mot de cinq ou six lettres quand un mot 
-de quatre lettres pouvait suffire. Elle avait un langage ordurier auquel 
-même nous, vieux pilotes de chasse, nous n'arrivions pas à nous faire.
+> _MAUVAIS_ Elle n'employait jamais un mot de cinq ou six lettres quand un mot
+> de quatre lettres pouvait suffire. Elle avait un langage ordurier auquel
+> même nous, vieux pilotes de chasse, nous n'arrivions pas à nous faire.
 
 La traduction correcte serait plutôt :
 
-_BON_ Elle n'employait jamais un mot de six ou sept lettres quand un mot de 
-cinq lettres pouvait suffire. Elle avait un langage ordurier auquel même 
-nous, vieux pilotes de chasse, nous n'arrivions pas à nous faire.
+> _BON_ Elle n'employait jamais un mot de six ou sept lettres quand un mot de
+> cinq lettres pouvait suffire. Elle avait un langage ordurier auquel même
+> nous, vieux pilotes de chasse, nous n'arrivions pas à nous faire.
 
-Et pourquoi ? Parce que pour les Français, les termes "un mot de cinq 
-lettres" ne désignent pas n'importe quel mot de la longueur indiquée, mais 
-un mot bien particulier. Vous savez, le "mot de Cambronne", que le général 
-Koenig, assiégé à Bir-Hakeim, aurait prononcé quand on lui proposait de se 
-rendre. De même, l'expression "four-letter word" désigne pour les 
-Américains, non pas un mot, mais une série de mots à usage... disons, 
-spécialisé. Il y a le général McAuliffe, assiégé à 
+Et pourquoi ? Parce que pour les Français, les termes "un mot de cinq
+lettres" ne désignent pas n'importe quel mot de la longueur indiquée, mais
+un mot bien particulier. Vous savez, le "mot de Cambronne", que le général
+Koenig, assiégé à Bir-Hakeim, aurait prononcé quand on lui proposait de se
+rendre. De même, l'expression "four-letter word" désigne pour les
+Américains, non pas un mot, mais une série de mots à usage... disons,
+spécialisé. Il y a le général McAuliffe, assiégé à
 Bastogne en 1944 [(1)](#user-content-note1) et qui répond un "Nuts" anodin
-[(2)](#user-content-note2) aux Allemands qui l'encerclent, 
-il y a les deux mots S..t et F..k que vous connaissez bien, 
-et il y a de nombreux autres mots que je ne vous enseignerai pas. Par conséquent, la 
-véritable traduction de "four-letter word" est "mot de cinq lettres". Par 
-extension, dans la phrase citée en exemple, il faudra traduire "five or 
+[(2)](#user-content-note2) aux Allemands qui l'encerclent,
+il y a les deux mots S..t et F..k que vous connaissez bien,
+et il y a de nombreux autres mots que je ne vous enseignerai pas. Par conséquent, la
+véritable traduction de "four-letter word" est "mot de cinq lettres". Par
+extension, dans la phrase citée en exemple, il faudra traduire "five or
 six" par "six ou sept".
 
-Dans un même ordre d'idées, vous trouverez peut-être des individus 
-appelés JFK, FDR, LBJ ou Mr K. Si vous avez deviné de qui il s'agit, ce 
-n'est pas forcément le cas pour ceux qui liront votre traduction. Vous 
-pouvez laisser JFK tel quel, car, depuis le film d'Oliver Stone, il est 
-très connu sous cette dénomination. En revanche, pour les autres, il est 
-préférable de traduire en "Franklin Roosevelt", "Lyndon Johnson" et 
-"Nikita Khrouchtchev" (ou parfois "Henry Kissinger", en fonction de la 
+Dans un même ordre d'idées, vous trouverez peut-être des individus
+appelés JFK, FDR, LBJ ou Mr K. Si vous avez deviné de qui il s'agit, ce
+n'est pas forcément le cas pour ceux qui liront votre traduction. Vous
+pouvez laisser JFK tel quel, car, depuis le film d'Oliver Stone, il est
+très connu sous cette dénomination. En revanche, pour les autres, il est
+préférable de traduire en "Franklin Roosevelt", "Lyndon Johnson" et
+"Nikita Khrouchtchev" (ou parfois "Henry Kissinger", en fonction de la
 date et du contexte).
 
-<a name="note1">(1)</a> Comme quoi, les généraux commandant des troupes d'élite (Vieille 
-Garde, Légion Étrangère, Parachutistes) ont parfois les mêmes idées. À 
-propos, quelqu'un peut-il m'indiquer quel mot ordurier fut proféré par 
-Fingon, le Haut-Roi des Noldor, encerclé à la bataille des Larmes 
+<a name="note1">(1)</a> Comme quoi, les généraux commandant des troupes d'élite (Vieille
+Garde, Légion Étrangère, Parachutistes) ont parfois les mêmes idées. À
+propos, quelqu'un peut-il m'indiquer quel mot ordurier fut proféré par
+Fingon, le Haut-Roi des Noldor, encerclé à la bataille des Larmes
 Innombrables ?
 
 <a name="note2">(2)</a>En 1996 et en 2000, le mots _nuts_ était pour moi
@@ -844,6 +844,14 @@ j'ai cru comprendre que cela pouvait être une métaphore pour
 un élément particulier de l'anatomie masculine, si vous voyez ce que je
 veux dire... Donc la réponse de McAuliffe n'était peut-être pas aussi anodine
 que je le pensais précédemment.
+
+<button id="bpancho" onclick='document.getElementById("pancho").style.display="block"'>Afficher le complément</button>
+<div id='pancho' style='display:block'>
+
+Complément
+
+<button id="b2" onclick='document.getElementById("pancho").style.display="none"'>Masquer</button>
+</div>
 
 ### Jeux de mots
 
