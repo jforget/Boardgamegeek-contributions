@@ -845,6 +845,13 @@ un élément particulier de l'anatomie masculine, si vous voyez ce que je
 veux dire... Donc la réponse de McAuliffe n'était peut-être pas aussi anodine
 que je le pensais précédemment.
 
+<details>
+<summary>Compléments</summary>
+
+Complément
+
+</details>
+
 ### Jeux de mots
 
 Il est quasiment impossible de traduire tel quel un jeu de mots. Si 
