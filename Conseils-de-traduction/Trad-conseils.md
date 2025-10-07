@@ -61,6 +61,22 @@ en ajoutant quelques _post-scriptums_ datés de 2025 aux
 paragraphes qui en ont besoin.
 
 Voici un rappel des changements qui affectent ce texte.
+
+Le texte a été écrit dans dans l'idée que l'association
+« le Cercle de Stratégie » se chargerait de centraliser
+les efforts de traduction pour diffuser des traductions
+à quiconque en aurait besoin. En plus, les traductions
+seraient vérifiées par des volontaires. Maintenant, en 2025, lorsqu'un
+joueur cherche une traduction, il va directement sur
+la page du jeu dans
+[Board Game Geek](http://boardgamegeek.com/)
+ou bien il va sur le site
+[Ludistratège](http://www.ludistratege.com/).
+Le fonctionnement dans les deux cas est légèrement différent
+du fonctionnement de 1996 ou de 2000.
+
+Autres changements, plus généraux, moins liés aux jeux :
+
 En 1996, Internet commençait seulement à toucher le
 grand public. Et pour la quasi-totalité des particuliers,
 l'accès se faisait par un modem 56K, l'ADSL étant encore
@@ -822,15 +838,6 @@ véritable traduction de "four-letter word" est "mot de cinq lettres". Par
 extension, dans la phrase citée en exemple, il faudra traduire "five or
 six" par "six ou sept".
 
-Dans un même ordre d'idées, vous trouverez peut-être des individus
-appelés JFK, FDR, LBJ ou Mr K. Si vous avez deviné de qui il s'agit, ce
-n'est pas forcément le cas pour ceux qui liront votre traduction. Vous
-pouvez laisser JFK tel quel, car, depuis le film d'Oliver Stone, il est
-très connu sous cette dénomination. En revanche, pour les autres, il est
-préférable de traduire en "Franklin Roosevelt", "Lyndon Johnson" et
-"Nikita Khrouchtchev" (ou parfois "Henry Kissinger", en fonction de la
-date et du contexte).
-
 <a name="note1">(1)</a> Comme quoi, les généraux commandant des troupes d'élite (Vieille
 Garde, Légion Étrangère, Parachutistes) ont parfois les mêmes idées. À
 propos, quelqu'un peut-il m'indiquer quel mot ordurier fut proféré par
@@ -897,7 +904,7 @@ Le « 4-letter » n'a pas été changé  en « 5 lettres », mais le sens es
 là. En revanche,  la modification concommittante de  « 5 ou 6-letter »
 en « 6 ou 7 lettres » n'a pas été faite.
 
-La même requête à "Le Chat" de Mistra AI donne :
+La même requête à "Le Chat" de Mistral AI donne :
 
 > "Pancho n’utilisait jamais un mot de cinq ou six lettres quand un mot
 > de quatre lettres faisait l’affaire. Elle avait le langage le plus
@@ -934,6 +941,42 @@ mention de « six ou sept lettres ».
 
 Test effectué le 3 octobre 2025.
 
+Pour Reverso et Word Reference, j'ai juste demandé la traduction de _four letter word_.
+Word Reference et Reverso ont bel et bien traduit par « gros mot » ou « mot grossier ».
+Reverso ajoute plusieurs exemples, dont deux exemples qui 
+s'appliquent l'un à _love_ / amour et l'autre à _help_ / aider,
+et où l'expression est traduite par « mot de cinq lettres »,
+
+J'ai soumis la citation complète avec les informations de contecte à Gemini 2.5 Flash.
+La « traduction littérale et idiomatique » fournie est :
+
+> « Pancho n'aurait jamais utilisé un mot de cinq ou six lettres quand
+> un mot de quatre lettres faisait l'affaire. Elle avait le langage le
+> plus grossier (ou la bouche la plus ordurière) que nous, les pilotes
+> de chasse, ayons jamais entendu. »
+
+Dans les explications, Gemini explique que _four-letter words_ signifie « jurons »,
+« gros mots » ou « obscénités », mais il ne fait pas le rapprochement avec
+l'expression française « mot de cinq lettres ». Lorsque j'ajoute
+
+> En français, on utilise parfois l'expression "mot de cinq lettres" pour désigner un mot grossier.
+
+puis
+
+> Est-ce que cela change la traduction ?
+
+Gemini confirme la traduction avec « mot de quatre lettres ». La conclusion de sa justification :
+
+> En bref, on traduit le sens de la référence culturelle ("four-letter
+> word"), et non la référence culturelle elle-même par son équivalent
+> numérique français ("mot de cinq lettres"), car cela rendrait la
+> phrase moins fidèle au texte original.
+
+Bref, Gemini et moi ne sommes pas d'accord. En revanche, Le Chat (Mistral AI)
+me soutient.
+
+Test effectué le 6 octobre 2025.
+
 Cela dit, si le texte global de ces conseils de traduction est disponible
 publiquement seulement depuis l'automne 2025, le paragraphe sur Pancho Barnes
 était accessible depuis plusieurs années. J'ai co-écrit un article pour la revue
@@ -955,6 +998,15 @@ compris (ou plutôt appris) qu'il faut traduire « _a five- or six-letter word_
 par « un mot de six ou sept lettres ».
 
 </details>
+
+Dans un même ordre d'idées, vous trouverez peut-être des individus
+appelés JFK, FDR, LBJ ou Mr K. Si vous avez deviné de qui il s'agit, ce
+n'est pas forcément le cas pour ceux qui liront votre traduction. Vous
+pouvez laisser JFK tel quel, car, depuis le film d'Oliver Stone, il est
+très connu sous cette dénomination. En revanche, pour les autres, il est
+préférable de traduire en "Franklin Roosevelt", "Lyndon Johnson" et
+"Nikita Khrouchtchev" (ou parfois "Henry Kissinger", en fonction de la
+date et du contexte).
 
 ### Jeux de mots
 
@@ -1236,6 +1288,14 @@ relecture auront peut-être une suggestion à formuler. En revanche,
 d'autres préconisations sont très faciles à mettre en œuvre, comme le 
 pluriel de "hex" et de "F-15", ou la traduction de verbes à la voix passive. 
 Ces conseils ont donc un caractère plus catégorique.
+
+Remarque en 2025. « Les personnes chargées de la relecture » : 
+il vaudrait mieux écrire « si des volontaires se chargent de la relecture ».
+Je pense que
+[Ludistratège](http://www.ludistratege.com/)
+n'a pas de structure définie pour traiter les traductions reçues
+(ce n'est pas une critique) et que tout se fait sur la base
+du volontariat.
 
 ## Et ensuite
 
