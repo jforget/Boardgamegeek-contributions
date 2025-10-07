@@ -491,90 +491,150 @@ victoire avance d'une case.
 
 ### Les traductions évidentes et les faux amis
 
-Lorsque les mots anglais ont une étymologie saxone, il n'y a en général 
-pas de problème de traduction. Soit il s'agit d'un mot que nous avons 
-appris par cœur lors des cours d'anglais depuis la sixième, soit nous 
-cherchons dans le dictionnaire. Quand un mot anglais a une étymologie 
-latine, il est souvent tentant de le traduire par le mot français dérivé 
-de la même racine latine. Mais cela conduit parfois à des erreurs 
+Lorsque les mots anglais ont une étymologie saxonne, il n'y a en général
+pas de problème de traduction. Soit il s'agit d'un mot que nous avons
+appris par cœur lors des cours d'anglais depuis la sixième, soit nous
+cherchons dans le dictionnaire. Quand un mot anglais a une étymologie
+latine, il est souvent tentant de le traduire par le mot français dérivé
+de la même racine latine. Mais cela conduit parfois à des erreurs
 grossières. Exemples :
 
-_V.O._ Similarly.
+> _V.O._ Similarly.
 
-_MAUVAIS_ Similairement (n'existe pas dans le dictionnaire).
+> _MAUVAIS_ Similairement (n'existe pas dans le dictionnaire).
 
-_BON_ De même.
+> _BON_ De même.
 
-_V.O._ Actually.
+<details>
+<summary>Compléments pour la traduction automatique</summary>
 
-_MAUVAIS_ Actuellement
+Reverso et Word Reference sont d'accord avec moi, proposant quelques
+autres traductions possibles : « également », « de la même façon »,
+« de façon similaire ».
 
-_BON_ En fait.
+</details>
 
-_V.O._ Improve.
+> _V.O._ Actually.
 
-_MAUVAIS_ Improviser
+> _MAUVAIS_ Actuellement
 
-_BON_ Améliorer.
+> _BON_ En fait.
 
-_V.O._ To initiate a combat.
+<details>
+<summary>Compléments pour la traduction automatique</summary>
 
-_MAUVAIS_ Initier un combat (on initie un débutant, pas un combat).
+Là aussi, Reverso et Word Reference sont d'accord avec moi, proposant quelques
+autres traductions possibles : « réellement », « effectivement »,
+« en réalité ».
 
-_BON_ Déclencher un combat.
+</details>
 
-_V.O._ When the Combat Result Table result is "2", a defending unit loses 
-two steps. _Alternatively_, the defending player retreats all his units two 
-hexes.
+> _V.O._ Improve.
 
-_MAUVAIS_ Si le résultat de la table de résolution des combats est "2", une 
-unité en défense perd deux pas de pertes. _Alternativement_, le défenseur 
-fait effectuer à toutes ses unités une retraite de deux hex.
+> _MAUVAIS_ Improviser
 
-_BON_ Si le résultat de la table de résolution des combats est "2", une 
-unité en défense perd deux pas de pertes. _Ou alors_, le défenseur fait 
-effectuer à toutes ses unités une retraite de deux hex.
+> _BON_ Améliorer.
+
+<details>
+<summary>Compléments pour la traduction automatique</summary>
+
+Encore une fois, Reverso et Word Reference confirment mes dires.
+
+</details>
+
+> _V.O._ To initiate a combat.
+
+> _MAUVAIS_ Initier un combat (on initie un débutant, pas un combat).
+
+> _BON_ Déclencher un combat.
+
+<details>
+<summary>Compléments pour la traduction automatique</summary>
+
+Reverso admet la traduction « initier un combat », tout en ajoutant d'autres
+traductions comme « engager un combat » ou « lancer le combat ». Word Reference
+admet aussi la traduction « initier », tout en la qualifiant d'anglicisme.
+Par contre, pour initier un débutant, Word Reference propose bien « initier ».
+
+</details>
+
+> _V.O._ When the Combat Result Table result is "2", a defending unit loses
+> two steps. _Alternatively_, the defending player retreats all his units two
+> hexes.
+
+> _MAUVAIS_ Si le résultat de la table de résolution des combats est "2", une
+> unité en défense perd deux pas de pertes. _Alternativement_, le défenseur
+> fait effectuer à toutes ses unités une retraite de deux hex.
+
+> _BON_ Si le résultat de la table de résolution des combats est "2", une
+> unité en défense perd deux pas de pertes. _Ou alors_, le défenseur fait
+> effectuer à toutes ses unités une retraite de deux hex.
 
 "Alternativement" signifie "une fois sur deux". Cela voudrait dire que
 le défenseur n'a pas le choix, mais qu'une fois sur deux il est obligé
 de prendre des pertes, et une fois sur deux il est obligé de faire
 retraite.
 
-_V.O._ Archers and slingers fight during the Missile Phase.
+<details>
+<summary>Compléments pour la traduction automatique</summary>
 
-_MAUVAIS_ Les archers et les frondeurs combattent pendant la phase de 
-missiles.
+Word Reference confirme mes dires. Dans Reverso, la plupart des exemples
+donnés correspondent à une alternance, seuls deux d'entre eux correspondent
+à une alternative et la tradution est « sinon » dans un cas et « autrement »
+dans l'autre.
 
-_BON_ Les archers et les frondeurs combattent pendant la phase d'armes de 
-jet.
+</details>
 
-En effet, les missiles n'ont existé qu'à partir des années 1950 (ou à 
+> _V.O._ Archers and slingers fight during the Missile Phase.
+
+> _MAUVAIS_ Les archers et les frondeurs combattent pendant la phase de
+> missiles.
+
+> _BON_ Les archers et les frondeurs combattent pendant la phase d'armes de
+> jet.
+
+En effet, les missiles n'ont existé qu'à partir des années 1950 (ou à
 partir de 1943, si l'on tient compte du
 [Hs 293](https://wikimonde.com/article/Henschel_Hs_293)
 allemand). Pour les jeux antiques et médiévaux, le terme anglais
-"missile" se traduit pas "arme de jet".
+_missile_ se traduit par « arme de jet ».
 
-_V.O._ If the leader is caught alone in an hex, roll a die. On 1-5, the 
-leader escapes and is placed on the nearest friendly unit. On 6, he will 
-spend the next five years in a dungeon.
+> _V.O._ If the leader is caught alone in an hex, roll a die. On 1-5, the
+> leader escapes and is placed on the nearest friendly unit. On 6, he will
+> spend the next five years in a _dungeon_.
 
-_MAUVAIS_ Si le chef est seul dans son hex et qu'une unité ennemie y 
-pénètre, lancez un dé. De 1 à 5, le chef s'échappe. Placez le pion sur 
-l'unité amie la plus proche. Si le dé donne 6, le chef passera les cinq 
-prochaines années dans un donjon.
+> _MAUVAIS_ Si le chef est seul dans son hex et qu'une unité ennemie y
+> pénètre, lancez un dé. De 1 à 5, le chef s'échappe. Placez le pion sur
+> l'unité amie la plus proche. Si le dé donne 6, le chef passera les cinq
+> prochaines années dans un _donjon_.
 
-_BON_ Si le chef est seul dans son hex et qu'une unité ennemie y pénètre, 
-lancez un dé. De 1 à 5, le chef s'échappe. Placez le pion sur l'unité amie 
-la plus proche. Si le dé donne 6, le chef passera les cinq prochaines 
-années dans un cachot.
+> _BON_ Si le chef est seul dans son hex et qu'une unité ennemie y pénètre,
+> lancez un dé. De 1 à 5, le chef s'échappe. Placez le pion sur l'unité amie
+> la plus proche. Si le dé donne 6, le chef passera les cinq prochaines
+> années dans un _cachot_.
 
-En effet, saviez-vous que la véritable traduction de "dungeon" est 
-"cachot" ? Néanmoins, j'approuve ceux qui ont traduit le titre du jeu de 
-rôle bien connu. En effet, "Cachots et 
-Dragons", ça ne sonne pas très bien, alors que "Donjons et Dragons", ça 
-rend beaucoup mieux phonétiquement. Ce qui montre que les règles ne sont 
-pas absolues, et que l'on ne traduit pas forcément un titre (de livre, de 
+En effet, saviez-vous que la véritable traduction de _dungeon_ est
+"cachot" ? Néanmoins, j'approuve ceux qui ont traduit le titre du jeu de
+rôle bien connu. En effet, "Cachots et
+Dragons", ça ne sonne pas très bien, alors que "Donjons et Dragons", ça
+rend beaucoup mieux phonétiquement. Ce qui montre que les règles ne sont
+pas absolues, et que l'on ne traduit pas forcément un titre (de livre, de
 jeu, ou autre) comme on traduit un énoncé de règle.
+
+<details>
+<summary>Compléments pour la traduction automatique</summary>
+
+Reverso donne bien les traductions « cachot », « prison » et similaires,
+mais accepte également la traduction « donjon » avec, entre autres,
+un exemple faisant référence au jeu de rôle :
+
+> Elle était ravie d'améliorer son personnage et de se diriger vers le prochain donjon.
+
+Word Reference donne deux traductions : « cachot » et « donjon » (sachant que
+dans ce second cas, l'orthographe anglaise est au choix _dungeon_ et _donjon_).
+Aucune mention du jeu de rôle bien connu.
+
+</details>
 
 ### Traduction de more (2<sup>e</sup> partie)
 
@@ -799,6 +859,73 @@ veut rien dire. En fait, il faut savoir que "cannon fodder" se traduit par
 "chair à canon", ce qui n'était pas signalé dans l'entrée "fodder" du
 dictionnaire. Donc, la traduction qui s'impose pour "javelin fodder"
 serait "chair à pilum", sans aucun rapport avec le fourrage.
+
+<details>
+<summary>Compléments pour la traduction automatique</summary>
+
+J'ai essayé de soumettre l'expression _javelin fodder_ à Reverso et à
+Word Reference. Les deux sites ont traduit les deux mots séparément.
+Word Reference fait allusion à _cannon fodder_, sans voir le parallèle
+entre les canons et les pilums.
+
+Pour Google Traduction et Deepl, j'ai donné la phrase complète :
+
+> The legions were, on the whole, worthless javelin fodder...
+
+Google Translate a répondu à côté de la plaque :
+
+> Les légions étaient, dans l'ensemble, du fourrage en javelot sans valeur ...
+
+Deepl détecte l'expression consacrée et la conserve telle quelle, sans
+chercher à éliminer l'anachronisme :
+
+> Les légions étaient, dans l'ensemble, de la chair à canon sans valeur...
+
+Pour les sites d'intelligence artificielle, j'ai ajouté une introduction pour
+le contexte :
+
+> Dans l'historique d'une bataille à l'époque de Jules César, j'ai trouvé cette
+> phrase : "The legions were, on the whole, worthless javelin fodder...". Comment
+> cela se traduit-il en français ?
+
+Chat GPT m'a répondu
+
+> "Dans l'ensemble, les légions n'étaient que de la chair à pilum sans valeur..."
+
+avec l'explication :
+
+> "javelin fodder" : littéralement "chair à javelot", une expression
+> péjorative inspirée de "canon fodder" (chair à canon), signifiant
+> qu’ils étaient facilement sacrifiables et voués à être massacrés
+
+La réponse de Gemini 2.5 Flash :
+
+> « Les légions n'étaient, dans l'ensemble, que de la chair à javelots sans valeur... »
+
+avec le commentaire :
+
+> « javelin fodder » : chair à javelots (ou pâture à javelots).
+>
+> * « fodder » signifie littéralement fourrage (pour les animaux),
+>   mais est utilisé de manière péjorative dans le contexte militaire
+>   (comme « cannon fodder » / chair à canon) pour désigner des
+>   troupes considérées comme de la vulgaire matière première destinée
+>   à être sacrifiée ou facilement détruite.
+
+La réponse de Le Chat :
+
+> "Dans l’ensemble, les légions n’étaient que de la chair à pilum sans valeur..."
+
+L'explication complémentaire ne mentionne pas les canons :
+
+> "Javelin fodder" : "chair à pilum" (le _pilum_ étant le javelot romain)
+
+Dans le cas de Gemini, pourquoi le « s » de pluriel à « javelots », sachant
+que l'expression « chair à canon » n'utilise pas le pluriel ? Et « javelot »
+ne fait pas assez couleur locale historique, « pilum » s'impose dans le cas d'une bataille
+de l'époque de Jules César.
+
+</details>
 
 Un autre exemple. Si vous avez vu
 [_L'Étoffe des Héros_](https://www.allocine.fr/film/fichefilm_gen_cfilm=26163.html),
