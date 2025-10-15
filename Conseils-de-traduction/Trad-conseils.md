@@ -75,7 +75,7 @@ ou bien il va sur le site
 Le fonctionnement dans les deux cas est légèrement différent
 du fonctionnement de 1996 ou de 2000.
 
-Autres changements, plus généraux, moins liés aux jeux :
+### Contexte de 1996 et 2000
 
 En 1996, Internet commençait seulement à toucher le
 grand public. Et pour la quasi-totalité des particuliers,
@@ -87,9 +87,20 @@ Une autre raison pour ne pas rester trop longtemps connecté
 est que la facturation de la ligne tenait compte du
 temps de connexion.
 
+Tout le monde n'avait pas forcément un ordinateur.
+Dans ce cas, les échanges pouvaient se faire par
+téléphone ou par courrier papier. Et même entre
+deux personnes avec un ordinateur et une connexion
+Internet, pour des gros fichiers, il était préférable
+d'envoyer une disquette dans une enveloppe timbrée, plutôt
+que d'envoyer un message électronique avec une pièce jointe
+énorme (plus d'un méga-octet, on était en 2000).
+
+### Contexte de 2025
+
 Maintenant en 2025, les modems 56K ont disparu au profit
 des xxx-box alimentées par
-l'ADSL puis par la fibre optique. 
+l'ADSL puis par la fibre optique.
 Cela ne coupe pas le téléphone et la facturation est
 forfaitaire, indépendante du temps d'utilisation.
 Il est donc naturel de rester connecté tout le temps.
@@ -140,6 +151,41 @@ traduction que je voudrais publier.
 Pour l'instant, je n'ai jamais eu recours à
 des sites d'intelligence artificielle, sauf pour
 une expérimentation occasionnelle.
+
+Préalable
+---------
+
+Avant de commencer à traduire un jeu, une opération essentielle consiste
+à vérifier s'il existe déjà une traduction. Pour cela, allez voir
+sur la fiche du jeu dans
+[Board Game Geek](http://boardgamegeek.com/)
+puis dans la liste des fichiers associés à ce jeu, ainsi que dans
+[la liste des traduction de Ludistratège](http://www.ludistratege.com/),
+voire sur le site de l'éditeur, comme par exemple
+[GMT Games](https://www.gmtgames.com/t-GMTLivingRulesFR.aspx).
+Si la traduction existe (et si elle est correcte), alors inutile
+d'en commencer une autre. Cela dit, vous pouvez vérifier la qualité
+de cette traduction et, le cas échéant, soumettre (poliment) une liste
+d'améliorations possibles au traducteur.
+
+S'il n'existe pas de traduction déjà disponible, il est possible
+qu'il en existe une en cours de rédaction. Posez la question sur
+[Strategikon](https://www.strategikon.info/phpBB3/viewforum.php?f=24)
+ou éventuellement sur
+[Board Game Geek](http://boardgamegeek.com/)
+(fiche du jeu, puis forums associé à ce jeu).
+S'il s'avère que quelqu'un est déjà en train de travailler sur
+la traduction que vous vouliez faire, vous pouvez proposer de
+collaborer : relecture, traduction d'une partie, etc.
+Et si l'autre traducteur accepte votre proposition, définissez
+les modalités pratiques de votre collaboration, comme le format
+des textes, la fréquence des échanges, un site de discussion en ligne.
+
+En consultant les adresses citées, je constate que certains n'ont pas
+attendu mes conseils pour agir correctement. C'est bien.
+
+(Conseil ajouté dans la version de 2025, les sites mentionnés n'existant
+pas en 2000.)
 
 Inventaire des éléments du jeu
 -------------------------------
@@ -971,7 +1017,7 @@ propos, quelqu'un peut-il m'indiquer quel mot ordurier fut proféré par
 Fingon, le Haut-Roi des Noldor, encerclé à la bataille des Larmes
 Innombrables ?
 
-<a name="note2">(2)</a>En 1996 et en 2000, le mots _nuts_ était pour moi
+<a name="note2">(2)</a> En 1996 et en 2000, le mots _nuts_ était pour moi
 un mot anodin désignant selon le cas des noix ou des boulons (_nuts and bolts_).
 Lors de la lecture d'un article ou d'un site web, entre 2000 et 2025,
 j'ai cru comprendre que cela pouvait être une métaphore pour
