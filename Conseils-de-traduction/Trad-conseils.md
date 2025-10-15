@@ -289,22 +289,34 @@ la liste promise des fautes à éviter.
 
 ### Voix passive
 
-Les Américains aiment beaucoup la voix passive dans les règles de jeu. 
+Les Américains aiment beaucoup la voix passive dans les règles de jeu.
 Cela donne des phrases lourdes et désagréables. Ainsi, pour traduire :
 
-_V.O._ When the combat ratio is computed, a die is rolled and the Combat 
-Result Table is consulted.
+> _V.O._ When the combat ratio is computed, a die is rolled and the Combat
+> Result Table is consulted.
 
 les traductions possibles sont :
 
-_MAUVAIS_ Quand le rapport de force est calculé, un dé est lancé et la table 
-de résolution des combats est consultée.
+> _MAUVAIS_ Quand le rapport de force est calculé, un dé est lancé et la table
+> de résolution des combats est consultée.
 
-_À PEINE MIEUX_ Une fois le rapport de force calculé, on lance un dé et on
-consulte la table de résolution des combats.
+> _À PEINE MIEUX_ Une fois le rapport de force calculé, on lance un dé et on
+> consulte la table de résolution des combats.
 
-_BON_ Après avoir calculé le rapport de force, le joueur lance un dé et 
-consulte la table de résolution des combats.
+> _BON_ Après avoir calculé le rapport de force, le joueur lance un dé et
+> consulte la table de résolution des combats.
+
+<details>
+<summary>Compléments pour la traduction automatique</summary>
+
+Les outils de traduction (Google et Deepl) se contentent de la voix
+passive. Les outils d'intelligence artificielle proposent la
+traduction à la voix passive, plus une variante avec « on ».
+Je préfère la variante à la voix active avec « le joueur ».
+
+Test effectué le 15 octobre 2025
+
+</details>
 
 Dans certains cas, la forme pronominale peut donner de bons résultats :
 
@@ -314,9 +326,25 @@ _MAUVAIS_ La phase de combat est composée de quatre étapes.
 
 _BON_ La phase de combat se compose de quatre étapes.
 
-Il est possible d'utiliser la voix passive de temps en temps, mais 
-uniquement quand la traduction par un verbe à la voix active se révèle 
+<details>
+<summary>Compléments pour la traduction automatique</summary>
+
+Google Translate propose uniquement la traduction à la voix passive.
+Deepl, Chat GPT et Le chat proposent la traduction avec « se compose »,
+Chat GPT proposant en plus deux variantes, une avec « comprend », ce qui est
+judicieux, l'autre avec « est divisée », ce qui l'est moins, puisqu'on
+a la lourdeur de la voix passive. Gemini propose d'abord la voix
+passive avec « est composée », puis deux variantes avec « comprend »
+(judicieux) puis « est constituée » (pas judicieux).
+
+Test effectué le 15 octobre 2025
+
+</details>
+
+Il est possible d'utiliser la voix passive quand la traduction par un verbe à la voix active se révèle
 lourde et inélégante et que la forme pronominale ne peut pas s'appliquer.
+Il est possible de l'utiliser aussi de temps en temps, du moment
+que cela reste très limité.
 
 ### Traduction de more (1<sup>e</sup> partie)
 
@@ -1116,7 +1144,7 @@ Test effectué le 3 octobre 2025.
 
 Pour Reverso et Word Reference, j'ai juste demandé la traduction de _four letter word_.
 Word Reference et Reverso ont bel et bien traduit par « gros mot » ou « mot grossier ».
-Reverso ajoute plusieurs exemples, dont deux exemples qui 
+Reverso ajoute plusieurs exemples, dont deux exemples qui
 s'appliquent l'un à _love_ / amour et l'autre à _help_ / aider,
 et où l'expression est traduite par « mot de cinq lettres »,
 
