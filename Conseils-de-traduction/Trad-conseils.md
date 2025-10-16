@@ -287,9 +287,20 @@ Le contenu de ce carnet ou de ce fichier de notes sera très utile aux
 futurs intervenants sur la traduction, aussi bien vous après quelques
 semaines de travail que le correcteur qui relira votre traduction.
 
+Complément de 2025 : si vous butez sur un point, vous pouvez poser la question
+sur Internet. Vous pouvez le faire sur un site dédié à la traduction. Vous
+pouvez poser la question à un site d'intelligence artificielle, mais comme vous
+le verrez ci-dessous, il faut prendre le résultat de ces sites avec des
+pincettes. Enfin, vous pouvez poser la question à des humains, soit dans votre
+entourage, soit parmi les abonnés de
+[Strategikon](https://www.strategikon.info/phpBB3/viewforum.php?f=24).
+Lorsque vous aurez fait le tri dans les diverses réponses, le résultat
+sera meilleur que les réponses des sites d'intelligence artificielle.
+Et marquez le résultat de votre requête dans votre carnet ou votre fichier de notes.
+
 ## Traduction proprement dite
 
-Maintenant, vous pouvez commencer à traduire. Et pour vous aider, voici 
+Maintenant, vous pouvez commencer à traduire. Et pour vous aider, voici
 la liste promise des fautes à éviter.
 
 ### Voix passive
@@ -412,17 +423,45 @@ McDonnel Douglas.
 
 ### Les majuscules (3<sup>e</sup> partie)
 
-Je rappelle que les noms de mois et les noms de jour sont des noms 
-communs, qui ne prennent donc pas de majuscule, contrairement à ce qui se 
+Je rappelle que les noms de mois et les noms de jour sont des noms
+communs, qui ne prennent donc pas de majuscule, contrairement à ce qui se
 passe en anglais.
 
-_V.O._ When the United States entered the war on Sunday, December 7th '41...
+> _V.O._ When the United States entered the war on Sunday, December 7th '41...
 
-_MAUVAIS_ Quand les États-Unis entrèrent en guerre, 
-le Dimanche 7 Décembre 41...
+> _MAUVAIS_ Quand les États-Unis entrèrent en guerre,
+> le Dimanche 7 Décembre 41...
 
-_BON_ Quand les États-Unis entrèrent en guerre, le 
-dimanche 7 décembre 1941...
+> _BON_ Quand les États-Unis entrèrent en guerre, le
+> dimanche 7 décembre 1941...
+
+J'en profite pour faire remarquer qu'il ne faut pas tronquer une année sur deux
+chiffres, mais l'écrire en totalité avec ses quatre chiffres (ou 3 pour la fin
+de l'Antiquité et le Haut Moyen-Âge, ou 5 pour certains jeux de S-F). De gros
+efforts ont été déployés de 1995 à 1999 pour éviter la catastrophe et ces
+efforts ont été couronnés de succès. Maintenant, quelques années plus tard,
+reconnaissons que pour continuer dans cette bonne voie, les efforts à faire
+sont minimes. Autant conserver les bonnes habitudes.
+
+<details>
+<summary>Compléments pour la traduction automatique</summary>
+
+Google Translate, Deepl, Chat GPT et Le Chat sobt d'accord avec moi, aussi
+bien pour l'absence de majuscules que pour écrire les années sur 4 chiffres.
+La seule différence est qu'ils préfèrent le passé composé « sont entrés »
+au passé simple « entrèrent ».
+
+En revanche, Gemini 2.5 Flash continue à considérer que l'écriture des années
+sur deux chiffres est admissible. Curieusement, les commentaires de Gemini
+étaient en anglais, alors que j'ai posé la question en français : « Comment
+traduire en français ... ». Quant aux majuscules et minuscules, Gemini est
+d'accord avec moi.
+
+Test effectué le 16 octobre 2025
+
+---
+
+</details>
 
 ### Le genre des noms et des pronoms
 
@@ -1171,7 +1210,7 @@ Reverso ajoute plusieurs exemples, dont deux exemples qui
 s'appliquent l'un à _love_ / amour et l'autre à _help_ / aider,
 et où l'expression est traduite par « mot de cinq lettres »,
 
-J'ai soumis la citation complète avec les informations de contecte à Gemini 2.5 Flash.
+J'ai soumis la citation complète avec les informations de contexte à Gemini 2.5 Flash.
 La « traduction littérale et idiomatique » fournie est :
 
 > « Pancho n'aurait jamais utilisé un mot de cinq ou six lettres quand
@@ -1583,5 +1622,5 @@ le contenu.
 
 Jean Forget
 
-Octobre 1996, novembre 2000, septembre 2025
+Octobre 1996, novembre 2000, septembre--octobre 2025
 
