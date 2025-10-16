@@ -94,18 +94,8 @@ deux personnes avec un ordinateur et une connexion
 Internet, pour des gros fichiers, il était préférable
 d'envoyer une disquette dans une enveloppe timbrée, plutôt
 que d'envoyer un message électronique avec une pièce jointe
-énorme (plus d'un méga-octet, on était en 2000).
-
-### Contexte de 2025
-
-Maintenant en 2025, les modems 56K ont disparu au profit
-des xxx-box alimentées par
-l'ADSL puis par la fibre optique.
-Cela ne coupe pas le téléphone et la facturation est
-forfaitaire, indépendante du temps d'utilisation.
-Il est donc naturel de rester connecté tout le temps.
-Et si besoin est, les téléphones portables peuvent prendre le relais
-tant pour téléphoner que pour accéder à Internet.
+énorme (en 2000, « énorme » signifiait « plusieurs centaines
+de kilo-octets »).
 
 En 1996 et en 2000, le seul site connu permettant
 d'aider à la traduction était
@@ -113,6 +103,21 @@ d'aider à la traduction était
 de Yahoo puis Altavista.
 Il existait des logiciels de traduction, vendus sur
 disquettes ou sur CD-ROM, mais ils étaient peu performants.
+
+### Contexte de 2025
+
+Maintenant en 2025, les modems 56K ont disparu au profit
+des xxx-box alimentées par
+l'ADSL puis par la fibre optique.
+Cela ne coupe pas le téléphone. Au contraire, le téléphone fonctionne
+uniquement lorsque la box est allumée. D'autre part, la facturation est
+forfaitaire, indépendante du temps d'utilisation.
+Il est donc naturel de rester connecté tout le temps.
+Et si besoin est, les téléphones portables peuvent prendre le relais
+tant pour téléphoner que pour accéder à Internet.
+Et les pièces jointe de plusieurs méga-octets ne font peur
+à personne.
+
 En 2025, il existe des sites spécialisés comme
 [Reverso](https://context.reverso.net/traduction/),
 [Word Reference](https://www.wordreference.com/),
@@ -316,6 +321,8 @@ Je préfère la variante à la voix active avec « le joueur ».
 
 Test effectué le 15 octobre 2025
 
+---
+
 </details>
 
 Dans certains cas, la forme pronominale peut donner de bons résultats :
@@ -338,6 +345,8 @@ passive avec « est composée », puis deux variantes avec « comprend »
 (judicieux) puis « est constituée » (pas judicieux).
 
 Test effectué le 15 octobre 2025
+
+---
 
 </details>
 
@@ -586,6 +595,8 @@ Reverso et Word Reference sont d'accord avec moi, proposant quelques
 autres traductions possibles : « également », « de la même façon »,
 « de façon similaire ».
 
+---
+
 </details>
 
 > _V.O._ Actually.
@@ -601,6 +612,8 @@ Là aussi, Reverso et Word Reference sont d'accord avec moi, proposant quelques
 autres traductions possibles : « réellement », « effectivement »,
 « en réalité ».
 
+---
+
 </details>
 
 > _V.O._ Improve.
@@ -613,6 +626,8 @@ autres traductions possibles : « réellement », « effectivement »,
 <summary>Compléments pour la traduction automatique</summary>
 
 Encore une fois, Reverso et Word Reference confirment mes dires.
+
+---
 
 </details>
 
@@ -629,6 +644,8 @@ Reverso admet la traduction « initier un combat », tout en ajoutant d'autres
 traductions comme « engager un combat » ou « lancer le combat ». Word Reference
 admet aussi la traduction « initier », tout en la qualifiant d'anglicisme.
 Par contre, pour initier un débutant, Word Reference propose bien « initier ».
+
+---
 
 </details>
 
@@ -656,6 +673,8 @@ Word Reference confirme mes dires. Dans Reverso, la plupart des exemples
 donnés correspondent à une alternance, seuls deux d'entre eux correspondent
 à une alternative et la tradution est « sinon » dans un cas et « autrement »
 dans l'autre.
+
+---
 
 </details>
 
@@ -707,6 +726,8 @@ un exemple faisant référence au jeu de rôle :
 Word Reference donne deux traductions : « cachot » et « donjon » (sachant que
 dans ce second cas, l'orthographe anglaise est au choix _dungeon_ et _donjon_).
 Aucune mention du jeu de rôle bien connu.
+
+---
 
 </details>
 
@@ -999,6 +1020,8 @@ que l'expression « chair à canon » n'utilise pas le pluriel ? Et « javel
 ne fait pas assez couleur locale historique, « pilum » s'impose dans le cas d'une bataille
 de l'époque de Jules César.
 
+---
+
 </details>
 
 Un autre exemple. Si vous avez vu
@@ -1197,6 +1220,8 @@ j'avais ajouté une
 Les sites d'intelligence artificielle n'ont donc pas d'excuse pour ne pas avoir
 compris (ou plutôt appris) qu'il faut traduire « _a five- or six-letter word_ »
 par « un mot de six ou sept lettres ».
+
+---
 
 </details>
 
