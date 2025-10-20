@@ -113,9 +113,9 @@ Cela ne coupe pas le téléphone. Au contraire, le téléphone fonctionne
 uniquement lorsque la box est allumée. D'autre part, la facturation est
 forfaitaire, indépendante du temps d'utilisation.
 Il est donc naturel de rester connecté tout le temps.
-Et si besoin est, les téléphones portables peuvent prendre le relais
+Si besoin est, les téléphones portables peuvent prendre le relais
 tant pour téléphoner que pour accéder à Internet.
-Et les pièces jointe de plusieurs méga-octets ne font peur
+Et les pièces jointes de plusieurs méga-octets ne font peur
 à personne.
 
 En 2025, il existe des sites spécialisés comme
@@ -220,23 +220,51 @@ dans des règles.
 
 ## Liste des mots techniques
 
-La deuxième étape consiste à relever dans la règle tous les mots 
-techniques et spécifiques, ainsi que les abréviations. Cette liste sert à 
-établir un glossaire, de façon qu'un même mot anglais important soit toujours 
-traduit par le même mot français. La présence d'un index alphabétique des 
-règles peut faciliter grandement la constitution de cette liste. Pour 
-traduire les termes de jeu, il est préférable de s'inspirer d'une règle de 
-jeu en français, mais en s'assurant que la traduction est correcte. Pour 
-traduire les termes techniques ou historiques, il est nécessaire de 
-s'appuyer sur des ouvrages francophones traitant du même sujet. Ne pas 
-faire une confiance aveugle au dictionnaire, qu'il s'agisse du Harraps ou 
-du Larousse : ces dictionnaires traduisent le langage de l'homme de la 
+La deuxième étape consiste à relever dans la règle tous les mots
+techniques et spécifiques, ainsi que les abréviations. Cette liste sert à
+établir un glossaire, de façon qu'un même mot anglais important soit toujours
+traduit par le même mot français. La présence d'un index alphabétique des
+règles peut faciliter grandement la constitution de cette liste. Pour
+traduire les termes de jeu, il est préférable de s'inspirer d'une règle de
+jeu en français, mais en s'assurant que la traduction est correcte. Pour
+traduire les termes techniques ou historiques, il est nécessaire de
+s'appuyer sur des ouvrages francophones traitant du même sujet. Ne pas
+faire une confiance aveugle au dictionnaire, qu'il s'agisse du Harraps ou
+du Larousse : ces dictionnaires traduisent le langage de l'homme de la
 rue, pas celui du joueur ni de l'historien.
 
-Pour les mots appartenant au vocabulaire de jeux de simulation, ne 
-cherchez pas à réinventer les traductions. "Counter" se traduit par 
-"pion", inutile de traduire par "jeton" ou "plaquette" comme je l'ai déjà 
-vu. Également, la traduction consacrée par l'usage de "step" est "pas de 
+Un exemple vécu. Il y a longtemps, j'ai lu la traduction d'une règle
+pour un jeu se passant en Normandie pendant l'été 1944. J'y ai découvert
+
+> _MAUVAIS_ Scénario 2, la Falaise de Poche
+
+Si vous avez reconnu le jeu et si vous cherchez la traduction actuelle sur
+[Ludistratège](http://www.ludistratege.com/)
+vous pourrez constater que la traduction proposée a été effectuée par
+quelqu'un qui connaît bien cette campagne, ou qui a lu un livre francophone
+sur le sujet et qui a traduit :
+
+> _BON_ Scénario 2, la Poche de Falaise
+
+<details>
+<summary>Compléments pour la traduction automatique</summary>
+
+À une exception près, les différents sites de traduction donnent la bonne réponse,
+pas celle que j'ai lue dans les années 1990, en ajoutant parfois un commentaire sur
+le « terme historique bien connu ». L'exception est Word Reference qui bute sur
+« Falaise ». Notons que Reverso, que j'utilise habituellement pour traduire des
+mots isolés, connaît l'expression _Falaise Pocket_.
+
+Test effectué le 20 octobre 2025
+
+---
+
+</details>
+
+Pour les mots appartenant au vocabulaire de jeux de simulation, ne
+cherchez pas à réinventer les traductions. "Counter" se traduit par
+"pion", inutile de traduire par "jeton" ou "plaquette" comme je l'ai déjà
+vu. Également, la traduction consacrée par l'usage de "step" est "pas de
 perte". Ne cherchez pas à écrire "étape de point de force".
 
 ## Errata
@@ -338,17 +366,17 @@ Test effectué le 15 octobre 2025
 
 Dans certains cas, la forme pronominale peut donner de bons résultats :
 
-_V.O._ The combat phase is composed of four steps.
+> _V.O._ The combat phase is composed of four steps.
 
-_MAUVAIS_ La phase de combat est composée de quatre étapes.
+> _MAUVAIS_ La phase de combat est composée de quatre étapes.
 
-_BON_ La phase de combat se compose de quatre étapes.
+> _BON_ La phase de combat se compose de quatre étapes.
 
 <details>
 <summary>Compléments pour la traduction automatique</summary>
 
 Google Translate propose uniquement la traduction à la voix passive.
-Deepl, Chat GPT et Le chat proposent la traduction avec « se compose »,
+Deepl, Chat GPT et Le Chat proposent la traduction avec « se compose »,
 Chat GPT proposant en plus deux variantes, une avec « comprend », ce qui est
 judicieux, l'autre avec « est divisée », ce qui l'est moins, puisqu'on
 a la lourdeur de la voix passive. Gemini propose d'abord la voix
