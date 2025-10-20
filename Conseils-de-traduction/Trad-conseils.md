@@ -406,12 +406,12 @@ _BON_ Une pile peut attaquer deux unités ennemies ou plus.
 
 ### Mise en facteur commun des articles
 
-Il nous arrive de mettre en commun un adjectif quand il se rapporte à des 
+Il nous arrive de mettre en commun un adjectif quand il se rapporte à des
 noms liés par "et" ou par "ou", et la phrase suivante ne nous choque pas :
 Si le pion est adjacent à une ville ou à une forteresse ennemie...
 
-Les Américains le font également, mais de plus ils mettent souvent en 
-commun les articles qui se rapportent à des noms liés par "et" ou par 
+Les Américains le font également, mais de plus ils mettent souvent en
+commun les articles qui se rapportent à des noms liés par "et" ou par
 "ou". Exemple :
 
 _V.O._ If the counter is adjacent to an enemy town or fortress...
@@ -420,9 +420,27 @@ _MAUVAIS_ Si le pion est adjacent à une ville ou forteresse ennemie...
 
 _BON_ Si le pion est adjacent à une ville ou à une forteresse ennemie...
 
+<details>
+<summary>Compléments pour la traduction automatique</summary>
+
+En mettant de côté Reverso et Word Reference, qui traduisent des mots isolés ou des
+expressions courtes, tous les sites de traduction automatique ont bien utilisé deux
+articles « une » différents, l'un pour « ville » et l'autre pour « forteresse ».
+Cela dit, Le Chat hésite pour traduire _counter_ en « compteur », « marqueur » ou
+« pion ». Quant à Chat GPT, il propose une version qu'il prétend plus fluide en
+omettant l'article de « forteresse ». Pas bien. Et Gemini 2.5 Flash donne la bonne
+traduction, promet quelques variantes et « mouline dans le vide » sans rien
+afficher de plus (problème passager ?).
+
+Test effectué le 20 octobre 2025
+
+---
+
+</details>
+
 ### Les majuscules (1<sup>e</sup> partie)
 
-Dans les gros titres des journaux et dans les titres de chapitre, les 
+Dans les gros titres des journaux et dans les titres de chapitre, les
 Américains mettent des majuscules à chaque mot, sauf parfois à quelques 
 mots d'une ou deux lettres. Exemple :
 
