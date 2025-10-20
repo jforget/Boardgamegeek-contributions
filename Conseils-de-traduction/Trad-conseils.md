@@ -441,7 +441,7 @@ Test effectué le 20 octobre 2025
 ### Les majuscules (1<sup>e</sup> partie)
 
 Dans les gros titres des journaux et dans les titres de chapitre, les
-Américains mettent des majuscules à chaque mot, sauf parfois à quelques 
+Américains mettent des majuscules à chaque mot, sauf parfois à quelques
 mots d'une ou deux lettres. Exemple :
 
 _V.O._ Close Combat Declaration Phase
@@ -452,7 +452,7 @@ _BON_ Phase de déclaration des combats au corps-à-corps
 
 _BON_ PHASE DE DÉCLARATION DES COMBATS AU CORPS-À-CORPS
 
-À la réflexion (2025), je pense qu'il est possible d'attribuer 
+À la réflexion (2025), je pense qu'il est possible d'attribuer
 une majuscule à certains mots dans les titres, sans choquer les francophones,
 à condition de ne pas exagérer. Ainsi :
 
@@ -460,12 +460,48 @@ _BON QUAND MÊME_ Phase de Déclaration des Combats au Corps-à-corps
 
 ### Les majuscules (2<sup>e</sup> partie)
 
-Les Américains, ou plutôt les anglophones, aiment tellement les 
-majuscules qu'ils en insèrent parfois en plein milieu d'un mot. C'est 
-ainsi que notre port normand "le Havre" s'écrit chez eux "LeHavre". À 
-corriger donc dans ce cas et dans les cas analogues, mais ce n'est pas la 
-peine de corriger dans le cas de noms propres purement anglophones, comme 
+Les Américains, ou plutôt les anglophones, aiment tellement les
+majuscules qu'ils en insèrent parfois en plein milieu d'un mot. C'est
+ainsi que notre port normand "Le Havre" s'écrit chez eux "LeHavre". À
+corriger donc dans ce cas et dans les cas analogues, mais ce n'est pas la
+peine de corriger dans le cas de noms propres purement anglophones, comme
 McDonnel Douglas.
+
+<details>
+<summary>Compléments pour la traduction automatique</summary>
+
+Word Reference ne connaît pas _LeHavre_. Reverso, si.
+
+Pour les sites traduisant des phrases complètes, j'ai demandé
+
+> _VO_ A supply source exists in LeHavre.
+
+Google Translate répond
+
+> _MAUVAIS_ Une source d'approvisionnement existe à LeHavre.
+
+Les autres répondent correctement, avec des variantes d'un site à l'autre.
+
+> _BON_ Il existe une source d'approvisionnement au Havre. (DeepL et Gemini)
+
+> _BON_ Une source de ravitaillement se trouve au Havre. (Chat GPT)
+
+> _BON_ Une source d'approvisionnement se trouve au Havre. (Gemini)
+
+> _BON_ Une source d’approvisionnement existe au Havre. (Le Chat)
+
+> _BON_ Le Havre dispose d’une source d’approvisionnement. (Le Chat)
+
+> _BON_ Il y a une source de ravitaillement au Havre. (Le Chat)
+
+Une remarque : lorsque Chat GPT et Le Chat rappellent la version originale
+dans leur réponse, ils insèrent un blanc dans le nom de la ville.
+
+Test effectué le 20 octobre 2025
+
+---
+
+</details>
 
 ### Les majuscules (3<sup>e</sup> partie)
 
