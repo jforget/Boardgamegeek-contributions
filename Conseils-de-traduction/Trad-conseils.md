@@ -270,19 +270,19 @@ perte". Ne cherchez pas à écrire "étape de point de force".
 ## Errata
 
 En recensant les éléments à traduire, prenez en compte les errata. Pour 
-les errata portant sur des points de règle, ne les traduisez pas tels 
-quels. Il est préférable de reformuler la règle erronée pour qu'elle 
-tienne compte de son erratum. En revanche, il est nécessaire de traduire 
-l'erratum s'il porte sur la carte ou sur certains pions. Ces errata 
-doivent de préférence figurer en deux exemplaires dans les règles. 
-Insérez-les chaque erratum une première fois dans le point de règle qui s'en rapproche le 
-plus, et regroupez tous les errata à la fin des règles, dans un paragraphe 
+les errata portant sur des points de règle, ne les traduisez pas tels
+quels. Il est préférable de reformuler la règle erronée pour qu'elle
+tienne compte de son erratum. En revanche, il est nécessaire de traduire
+l'erratum s'il porte sur la carte ou sur certains pions. Ces errata
+doivent de préférence figurer en deux exemplaires dans les règles.
+Insérez-les chaque erratum une première fois dans le point de règle qui s'en rapproche le
+plus, et regroupez tous les errata à la fin des règles, dans un paragraphe
 spécial. De la sorte, le futur lecteur des règles saura où les trouver.
 
 ## Caractère du texte
 
-Esssayez de vous rendre compte de comment les règles sont écrites, 
-c'est-à-dire dans quel état d'esprit. Le jeu peut recéler des trésors 
+Essayez de vous rendre compte de comment les règles sont écrites,
+c'est-à-dire dans quel état d'esprit. Le jeu peut recéler des trésors
 d'humour noir, comme
 [_Tomorrow The World_](https://boardgamegeek.com/boardgame/7625/tomorrow-the-world).
 Il peut contenir quelques pointes d'humour acerbe, comme les jeux écrits par
@@ -290,20 +290,20 @@ Il peut contenir quelques pointes d'humour acerbe, comme les jeux écrits par
 Pour vous donner un aperçu de son style, dans
 [_A Famous Victory_](https://boardgamegeek.com/boardgame/11110/a-famous-victory) :
 
-> Remplacement du chef suprême : si Marlborough est tué, Eugène assume le 
-> rôle de chef suprême. S'ils sont tués tous les deux, abandonnez les 
+> Remplacement du chef suprême : si Marlborough est tué, Eugène assume le
+> rôle de chef suprême. S'ils sont tués tous les deux, abandonnez les
 > wargames et essayez un autre passe-temps.
 
-Il peut y avoir également quelques "vannes de copinage", comme dans 
+Il peut y avoir également quelques "vannes de copinage", comme dans
 [_Eighth Air Force_](https://boardgamegeek.com/boardgame/5630/eighth-air-force)
 de  Gene Billingsley, Rodger B. MacGowan et Dan Verssen :
 
-> Il tire alors deux cartes, à savoir la carte **Dans la ligne 
-> de mire (réservoir de carburant) / IMS (Fuel Tank)** et la 
-> carte **As / Ace Pilot** (vous devinez que le pilote du 
+> Il tire alors deux cartes, à savoir la carte **Dans la ligne
+> de mire (réservoir de carburant) / IMS (Fuel Tank)** et la
+> carte **As / Ace Pilot** (vous devinez que le pilote du
 > Mustang doit être J.D. Webster !)
 
-Même si de telles blagues ne font pas rire aux éclats ceux qui ne sont 
+Même si de telles blagues ne font pas rire aux éclats ceux qui ne sont
 pas concernés, elles les font sourire. N'hésitez donc pas à les traduire.
 
 ## Prendre des notes
@@ -414,11 +414,11 @@ Les Américains le font également, mais de plus ils mettent souvent en
 commun les articles qui se rapportent à des noms liés par "et" ou par
 "ou". Exemple :
 
-_V.O._ If the counter is adjacent to an enemy town or fortress...
+> _V.O._ If the counter is adjacent to an enemy town or fortress...
 
-_MAUVAIS_ Si le pion est adjacent à une ville ou forteresse ennemie...
+> _MAUVAIS_ Si le pion est adjacent à une ville ou forteresse ennemie...
 
-_BON_ Si le pion est adjacent à une ville ou à une forteresse ennemie...
+> _BON_ Si le pion est adjacent à une ville ou à une forteresse ennemie...
 
 <details>
 <summary>Compléments pour la traduction automatique</summary>
@@ -444,19 +444,19 @@ Dans les gros titres des journaux et dans les titres de chapitre, les
 Américains mettent des majuscules à chaque mot, sauf parfois à quelques
 mots d'une ou deux lettres. Exemple :
 
-_V.O._ Close Combat Declaration Phase
+> _V.O._ Close Combat Declaration Phase
 
-_MAUVAIS_ Phase De Déclaration Des Combats Au Corps-À-Corps
+> _MAUVAIS_ Phase De Déclaration Des Combats Au Corps-À-Corps
 
-_BON_ Phase de déclaration des combats au corps-à-corps
+> _BON_ Phase de déclaration des combats au corps-à-corps
 
-_BON_ PHASE DE DÉCLARATION DES COMBATS AU CORPS-À-CORPS
+> _BON_ PHASE DE DÉCLARATION DES COMBATS AU CORPS-À-CORPS
 
 À la réflexion (2025), je pense qu'il est possible d'attribuer
 une majuscule à certains mots dans les titres, sans choquer les francophones,
 à condition de ne pas exagérer. Ainsi :
 
-_BON QUAND MÊME_ Phase de Déclaration des Combats au Corps-à-corps
+> _BON QUAND MÊME_ Phase de Déclaration des Combats au Corps-à-corps
 
 ### Les majuscules (2<sup>e</sup> partie)
 
