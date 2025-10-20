@@ -950,13 +950,13 @@ Il faut y penser lors de la traduction.
 Vous pouvez estimer que c'est clair en fonction du contexte, mais ce qui est
 clair pour vous ne l'est peut-être pas pour un autre joueur.
 
-_V.O._ Discarded cards are put face up on the map in the "discarded" box.
+> _V.O._ Discarded cards are put face up on the map in the "discarded" box.
 
-_MAUVAIS_ Les cartes défaussées sont placées face visible sur la carte, dans la case
-"discarded" (= défausse).
+> _MAUVAIS_ Les cartes défaussées sont placées face visible sur la carte, dans la case
+> "discarded" (= défausse).
 
-_BON_ Les cartes d'action défaussées sont placées face visible sur la carte du jeu,
-dans la case "discarded" (= défausse) juste au-dessus de l'Océan Pacifique.
+> _BON_ Les cartes d'action défaussées sont placées face visible sur la carte du jeu,
+> dans la case "discarded" (= défausse) juste au-dessus de l'Océan Pacifique.
 
 ### Unités de mesures
 
@@ -1431,19 +1431,19 @@ transcrire à la façon française quand c'est possible ?
 Sachez reconnaître une énumération triée alphabétiquement et sachez
 la traduire par une énumération triée alphabétiquement, mais en français.
 
-_V.O._ The NATO units (Belgium, Canada, Denmark, France,
-Germany, Greece, Italy, Luxembourg, Netherlands, Norway, Portugal,
-Spain, Turkey, UK, USA) are printed on a blue background
+> _V.O._ The NATO units (Belgium, Canada, Denmark, France,
+> Germany, Greece, Italy, Luxembourg, Netherlands, Norway, Portugal,
+> Spain, Turkey, UK, USA) are printed on a blue background
 
-_MAUVAIS_ Les unités de l'OTAN (Belgique, Canada, Danemark,
-France, Allemagne, Grèce, Italie, Luxembourg, Pays-Bas, Norvège,
-Portugal, Espagne, Turquie, Royaume-Uni, États-Unis) sont imprimées sur
-un fond bleu.
+> _MAUVAIS_ Les unités de l'OTAN (Belgique, Canada, Danemark,
+> France, Allemagne, Grèce, Italie, Luxembourg, Pays-Bas, Norvège,
+> Portugal, Espagne, Turquie, Royaume-Uni, États-Unis) sont imprimées sur
+> un fond bleu.
 
-_BON_ Les unités de l'OTAN (Allemagne, Belgique, Canada, Danemark,
-Espagne, États-Unis, France, Grèce, Italie, Luxembourg, Norvège, Pays-Bas,
-Portugal, Royaume-Uni, Turquie) sont imprimées sur
-un fond bleu.
+> _BON_ Les unités de l'OTAN (Allemagne, Belgique, Canada, Danemark,
+> Espagne, États-Unis, France, Grèce, Italie, Luxembourg, Norvège, Pays-Bas,
+> Portugal, Royaume-Uni, Turquie) sont imprimées sur
+> un fond bleu.
 
 <details>
 <summary>Compléments pour la traduction automatique</summary>
@@ -1593,9 +1593,9 @@ _BON_
 
 ### Détails pratiques
 
-N'oubliez pas que la règle s'adresse à des personnes qui habitent de 
-l'autre côté de l'Atlantique. Quand ces personnes entrent dans un bureau 
-de poste, c'est pour échanger un portrait de George Washington contre 
+N'oubliez pas que la règle s'adresse à des personnes qui habitent de
+l'autre côté de l'Atlantique. Quand ces personnes entrent dans un bureau
+de poste, c'est pour échanger un portrait de George Washington contre
 quelques portraits de, par exemple,
 [William T. Piper](https://www.qwant.com/?q=timbre+post+William+Piper&t=images),
 [Claire Chennault](https://www.qwant.com/?q=timbre+post+Claire+Chennault&t=images)
@@ -1612,25 +1612,25 @@ contre quelques
 [portraits de Marianne](https://www.qwant.com/?q=timbre+post+Marianne&t=images).
 Donc :
 
-_V.O._ If you have any question to ask about the rules, feel free to send 
-your questions with a stamped self-addressed enveloppe. Or you can use out 
-toll-free line 1-800-555-9876.
+> _V.O._ If you have any question to ask about the rules, feel free to send
+> your questions with a stamped self-addressed enveloppe. Or you can use out
+> toll-free line 1-800-555-9876.
 
-_MAUVAIS_ Si vous avez des questions au sujet des règles, n'hésitez pas à 
-nous envoyer vos questions, avec une enveloppe timbrée à votre adresse. Ou 
-bien vous pouvez utiliser notre numéro vert 1-800-555-9876.
+> _MAUVAIS_ Si vous avez des questions au sujet des règles, n'hésitez pas à
+> nous envoyer vos questions, avec une enveloppe timbrée à votre adresse. Ou
+> bien vous pouvez utiliser notre numéro vert 1-800-555-9876.
 
-_BON_ Si vous avez des questions au sujet des règles, n'hésitez pas à nous 
-envoyer vos questions, avec une enveloppe à votre adresse et un 
-coupon-réponse international. Ou bien vous pouvez nous joindre par 
-téléphone au 1-800-555-9876 (l'appel est gratuit si vous téléphonez des 
-États-Unis).
+> _BON_ Si vous avez des questions au sujet des règles, n'hésitez pas à nous
+> envoyer vos questions, avec une enveloppe à votre adresse et un
+> coupon-réponse international. Ou bien vous pouvez nous joindre par
+> téléphone au 1-800-555-9876 (l'appel est gratuit si vous téléphonez des
+> États-Unis).
 
 _Post-scriptum de 2025_ s'il y a un chapitre qui a mal supporté
 le passage du temps, c'est bien celui-ci. Déjà en 2000, les éditeurs
 de jeu indiquaient l'adresse d'un site web dans le livret de règles
 ou sur la boîte du jeu, ce qui permettait aux joueurs européens
-de contacter l'éditeur à un prix raisonnable. 
+de contacter l'éditeur à un prix raisonnable.
 25 ans plus tard, même si vous traduisez
 la règle d'un jeu paru dans les années 1980, vérifiez sur Internet
 comment on peut joindre l'auteur et l'éditeur (messagerie, site web,
