@@ -269,7 +269,7 @@ perte". Ne cherchez pas à écrire "étape de point de force".
 
 ## Errata
 
-En recensant les éléments à traduire, prenez en compte les errata. Pour 
+En recensant les éléments à traduire, prenez en compte les errata. Pour
 les errata portant sur des points de règle, ne les traduisez pas tels
 quels. Il est préférable de reformuler la règle erronée pour qu'elle
 tienne compte de son erratum. En revanche, il est nécessaire de traduire
@@ -1428,6 +1428,9 @@ transcrire à la façon française quand c'est possible ?
 
 ### Ordre alphabétique
 
+Sachez reconnaître une énumération triée alphabétiquement et sachez
+la traduire par une énumération triée alphabétiquement, mais en français.
+
 _V.O._ The NATO units (Belgium, Canada, Denmark, France,
 Germany, Greece, Italy, Luxembourg, Netherlands, Norway, Portugal,
 Spain, Turkey, UK, USA) are printed on a blue background
@@ -1442,11 +1445,28 @@ Espagne, États-Unis, France, Grèce, Italie, Luxembourg, Norvège, Pays-Bas,
 Portugal, Royaume-Uni, Turquie) sont imprimées sur
 un fond bleu.
 
+<details>
+<summary>Compléments pour la traduction automatique</summary>
+
+Google Translate et Le Chat n'ont pas compris que la liste
+était triée alphabétiquement et il ont traduit avec l'Allemagne
+après la France et avec les États-Unis tout à la fin.
+
+Chat GPT, Gemini et même DeepL ont, quant à eux, adapté le tri
+à la traduction. Gemini est explicite à ce sujet dans les commentaires
+sur sa traduction.
+
+Test effectué le 20 octobre 2025
+
+---
+
+</details>
+
 ### Index des règles
 
 Parmi les éléments à traduire, figure bien sûr l'index des règles, s'il
-existe dans la version originale. Mais pensez au fait que les numéros de 
-page changeront à coup sûr. Donc, en prenant par exemple l'index de 
+existe dans la version originale. Mais pensez au fait que les numéros de
+page changeront à coup sûr. Donc, en prenant par exemple l'index de
 [_Achtung Spitfire!_](https://boardgamegeek.com/boardgame/5614/achtung-spitfire)
 
 _V.O._
@@ -1503,7 +1523,7 @@ _BON_
 <dt>Puissance de feu aérienne
 <dd>9.1
 </dl>
-La même remarque s'applique aux renvois d'une règle à l'autre. N'oubliez 
+La même remarque s'applique aux renvois d'une règle à l'autre. N'oubliez
 pas non plus que l'ordre alphabétique change.
 
 _V.O._
