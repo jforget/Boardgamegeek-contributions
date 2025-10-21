@@ -583,17 +583,17 @@ féminin pour les nations et pour les navires. En français, cela dépend des
 cas. Parfois nous utilisons le masculin (le Royaume-Uni et le Foch),
 parfois nous utilisons le féminin (la France et la Jeanne d'Arc).
 
-_V.O._ When the United States entered the war on Sunday, December 7th '41,
-she had obsolete fighters. But Japan's situation was the opposite: she had
-wonderful fighters such as the Zero.
+> _V.O._ When the United States entered the war on Sunday, December 7th '41,
+> she had obsolete fighters. But Japan's situation was the opposite: she had
+> wonderful fighters such as the Zero.
 
-_MAUVAIS_ Quand les États-Unis entrèrent en guerre le dimanche 7 décembre
-1941, elle n'avait que des chasseurs techniquement dépassés. La situation du
-Japon était l'inverse : elle avait des chasseurs fabuleux comme le Zéro.
+> _MAUVAIS_ Quand les États-Unis entrèrent en guerre le dimanche 7 décembre
+> 1941, elle n'avait que des chasseurs techniquement dépassés. La situation du
+> Japon était l'inverse : elle avait des chasseurs fabuleux comme le Zéro.
 
-_BON_ Quand les États-Unis entrèrent en guerre le dimanche 7 décembre 1941,
-ils n'avaient que des chasseurs techniquement dépassés. La situation du
-Japon était l'inverse : il avait des chasseurs fabuleux comme le Zéro.
+> _BON_ Quand les États-Unis entrèrent en guerre le dimanche 7 décembre 1941,
+> ils n'avaient que des chasseurs techniquement dépassés. La situation du
+> Japon était l'inverse : il avait des chasseurs fabuleux comme le Zéro.
 
 <details>
 <summary>Compléments pour la traduction automatique</summary>
@@ -627,25 +627,88 @@ Test effectué le 21 octobre 2025
 
 ### Les pluriels singuliers
 
-En français, la marque du pluriel des mots en "s", en "x" et en "z" est : 
-rien du tout. En anglais, la marque du pluriel des mots en "s" et des mots 
+En français, la marque du pluriel des mots en "s", en "x" et en "z" est :
+rien du tout. En anglais, la marque du pluriel des mots en "s" et des mots
 en "x" est "es" (je ne crois pas qu'ils aient des mots en "z"). Donc :
 
-_V.O._ Place pillboxes in the following hexes.
+> _V.O._ Place pillboxes in the following hexes.
 
-_MAUVAIS_ Placez des pillboxes dans les hexes suivants
+> _MAUVAIS_ Placez des pillboxes dans les hexes suivants
 
-_MAUVAIS_ Placez des pillboxs dans les hexs suivants
+> _MAUVAIS_ Placez des pillboxs dans les hexs suivants
 
-_BON_ Placez des pillbox dans les hex suivants
+> _BON_ Placez des pillbox dans les hex suivants
+
+<details>
+<summary>Compléments pour la traduction automatique</summary>
+
+Commençons par « hex ». À part Google Translate, tous les sites
+ont traduit « _hexes_ » par « hexagones », sans abréger. Google
+Translate a traduit par « hexs ». Pas bien. Chat GPT
+a utilisé « hexagones » dans la traduction principale, tout en suggérant
+« hex » dans ses commentaires :
+
+> Hexes : abréviation de hexagons, souvent utilisée dans les jeux de
+> plateau ou wargames pour désigner des cases hexagonales → hexagones ou
+> hex si on garde le terme technique.
+
+Comme vous pouvez le constater, « hexagones » est au pluriel et en porte
+la marque, « hex » ne porte pas la marque du pluriel tout en étant au pluriel.
+C'est bien.
+
+Passons à « pillbox ». Aucun site n'a utilisé le terme tel quel en tant que
+traduction française. DeepL s'est fourvoyé en traduisant « boîtes à pilules »,
+les autres ont traduit « casemates ». Ce qui fait qu'il faut que je trouve
+un autre exemple pour ce conseil. Notons que dans ses commentaires, Chat GPT
+indique :
+
+> Pillboxes : se traduit par casemates (ou blocausses, mais ce terme est
+> plus rare ou régional).
+
+C'est quoi ce « blocausses » ? Proposer « blockhaus », d'accord, mais pas
+« blocausses » ! Je n'ai jamais vu cette orthographe ailleurs !
+
+Test effectué le 21 octobre 2025
+
+---
+
+</details>
 
 Il en va de même pour les abréviations, les sigles et les noms propres :
 
-_V.O._ The Mirages have been intercepted by F-15s.
+> _V.O._ The Mirages have been intercepted by F-15s.
 
-_MAUVAIS_ les Mirages se sont fait intercepter par des F-15s.
+> _MAUVAIS_ les Mirages se sont fait intercepter par des F-15s.
 
-_BON_ les Mirage se sont fait intercepter par des F-15.
+> _BON_ les Mirage se sont fait intercepter par des F-15.
+
+<details>
+<summary>Compléments pour la traduction automatique</summary>
+
+Pour ce qui est des pluriels, tous les sites sont d'accord pour
+écrire « par des F-15 ». En revanche, Chat GPT et Gemini conservent
+la marque du pluriel pour « Mirage ». Pourtant, en commentant
+sur les F-15, Chat GPT indique :
+
+> F-15s : se traduit en français sans mettre de « s » au pluriel → des
+> F-15 (les désignations d’avions restent invariables en français).
+
+Pourquoi faudrait-il procéder ainsi pour les avions F-15 et pas pour
+les avions Mirage ?
+
+Le test avait un autre but, reprendre le
+[test sur la voix passive ci-dessus](#voix-passive).
+Tous les sites ont conservé la voix passive dans leur traduction.
+Seul Le Chat propose une variante de traduction avec la forme
+pronominale :
+
+> « Les Mirage se sont fait intercepter par des F-15. » (plus oral, moins formel)
+
+Test effectué le 21 octobre 2025
+
+---
+
+</details>
 
 Dans un autre ordre d'idée, pour désigner une caractéristique présente 
 chez plusieurs entités, les anglophones utilisent le pluriel, alors que 
