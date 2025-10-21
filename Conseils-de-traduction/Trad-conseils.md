@@ -402,11 +402,27 @@ que cela reste très limité.
 
 Pour traduire :
 
-_V.O._ A stack may attack two or more ennemy units.
+> _V.O._ A stack may attack two or more enemy units.
 
-_MAUVAIS_ Une pile peut attaquer deux ou plus unités ennemies.
+> _MAUVAIS_ Une pile peut attaquer deux ou plus unités ennemies.
 
-_BON_ Une pile peut attaquer deux unités ennemies ou plus.
+> _BON_ Une pile peut attaquer deux unités ennemies ou plus.
+
+<details>
+<summary>Compléments pour la traduction automatique</summary>
+
+Tous les sites de traduction (Google Translate, DeepL, Chat GPT,
+Gemini et Le Chat) font passer la mention « ou plus » après
+« unités ennemies ». C'est bien. Gemini fait remarquer que
+l'adjectif « ennemies » suit le substantif « unités » alors
+que c'est l'inverse dans la version originale. Pourquoi ne fait-il
+pas remarquer qu'il en va de même pour la menion « ou plus » ?
+
+Test effectué le 21 octobre 2025
+
+---
+
+</details>
 
 ### Mise en facteur commun des articles
 
