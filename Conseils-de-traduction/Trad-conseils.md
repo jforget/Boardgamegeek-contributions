@@ -710,37 +710,86 @@ Test effectué le 21 octobre 2025
 
 </details>
 
-Dans un autre ordre d'idée, pour désigner une caractéristique présente 
-chez plusieurs entités, les anglophones utilisent le pluriel, alors que 
+Dans un autre ordre d'idée, pour désigner une caractéristique présente
+chez plusieurs entités, les anglophones utilisent le pluriel, alors que
 les francophones utilisent le singulier. Exemple :
 
-_V.O._ Mechanized units have their movement allowances printed in white.
+> _V.O._ Mechanized units have their movement allowances printed in white.
 
-_MAUVAIS_ les unités mécanisées ont des potentiels de mouvement imprimés en 
-blanc.
+> _MAUVAIS_ les unités mécanisées ont des potentiels de mouvement imprimés en
+> blanc.
 
-_BON_ les unités mécanisées ont un potentiel de mouvement imprimé en blanc.
+> _BON_ les unités mécanisées ont un potentiel de mouvement imprimé en blanc.
 
 En 2025, le temps a passé et je ne suis plus choqué par l'utilisation du pluriel
 pour la caractéristique commune à plusieurs entités. Donc, même si chaque pion
 n'a qu'un seul potentiel de mouvement, j'admets que vous écriviez
 
-_BON QUAND MÊME_ les unités mécanisées ont des potentiels de mouvement imprimés en 
-blanc.
+> _BON QUAND MÊME_ les unités mécanisées ont des potentiels de mouvement imprimés en
+> blanc.
+
+<details>
+<summary>Compléments pour la traduction automatique</summary>
+
+Les avis sont partagés. Google Translate, DeepL et Gemini conservent le pluriel,
+Chat GPT et Le Chat utilisent le singulier.
+
+Notons que la traduction de « _movement allowance_ » est très variée.
+
+* « capacité de mouvement » pour Google Translate (c'est bien)
+
+* « distances de déplacement » pour DeepL (ce qui fait curieux dans une règle de jeu)
+
+* « valeur de mouvement » pour Chat GPT (c'est bien)
+
+* « portées de mouvement » ou « allocations de mouvement » pour Gemini (encore plus bizarre que DeepL)
+
+* « allowance de mouvement » pour Le Chat (pas bien).
+
+Le Chat ajoute ce commentaire
+
+> « movement allowances » → « allowance de mouvement » (le terme
+> « allowance » est souvent conservé tel quel dans les jeux de stratégie,
+> mais on pourrait aussi dire « valeur de mouvement » ou « points de
+> mouvement » selon le contexte).
+
+Je conteste le « souvent conservé ». Je n'ai jamais vu le terme anglophone
+« _allowance_ » tel quel dans une traduction française. En revanche,
+j'aurais été satisfait avec « valeur de mouvement » ou avec « points de
+mouvement ».
+
+Test effectué le 21 octobre 2025
+
+---
+
+</details>
 
 ### Les possessifs
 
-En français, il y a des cas où il n'y a pas besoin d'utiliser un adjectif 
-possessif pour préciser que telle ou telle caractéristique appartient à 
-une unité. Les anglophones ont tendance à utiliser quand même un adjectif 
+En français, il y a des cas où il n'y a pas besoin d'utiliser un adjectif
+possessif pour préciser que telle ou telle caractéristique appartient à
+une unité. Les anglophones ont tendance à utiliser quand même un adjectif
 possessif dans ce cas. Exemple :
 
-_V.O._ Mechanized units have their movement allowances printed in white.
+> _V.O._ Mechanized units have their movement allowances printed in white.
 
-_MAUVAIS_ les unités mécanisées ont leur potentiel de mouvement imprimé en 
-blanc.
+> _MAUVAIS_ les unités mécanisées ont leur potentiel de mouvement imprimé en
+> blanc.
 
-_BON_ les unités mécanisées ont un potentiel de mouvement imprimé en blanc.
+> _BON_ les unités mécanisées ont un potentiel de mouvement imprimé en blanc.
+
+<details>
+<summary>Compléments pour la traduction automatique</summary>
+
+C'est le même test que ci-dessus, pour une règle différente.
+Tous les sites ont conservé le possessif. Je persiste à affirmer
+que la traduction avec l'article « un » est (légèrement) meilleure.
+
+Test effectué le 21 octobre 2025
+
+---
+
+</details>
 
 ### L'ordre des adjectifs
 
@@ -1078,33 +1127,48 @@ clair pour vous ne l'est peut-être pas pour un autre joueur.
 
 ### Unités de mesures
 
-N'oubliez pas que, de part et d'autre de l'Atlantique, le système 
-d'unités de mesure change (encore que, de temps en temps, certains jeux 
-indiquent les distances en kilomètres). Donc, quand vous devez traduire 
-l'échelle du jeu, il faut d'abord convertir les distances avant de les 
-traduire. Toutefois, certains jeux peuvent indiquer des distances dans une 
-unité qui fait plus "couleur locale". Je pense notamment aux milles 
+N'oubliez pas que, de part et d'autre de l'Atlantique, le système
+d'unités de mesure change (encore que, de temps en temps, certains jeux
+indiquent les distances en kilomètres). Donc, quand vous devez traduire
+l'échelle du jeu, il faut d'abord convertir les distances avant de les
+traduire. Toutefois, certains jeux peuvent indiquer des distances dans une
+unité qui fait plus "couleur locale". Je pense notamment aux milles
 nautiques dans les jeux navals. Ou alors, dans la règle
 d'[_Air Superiority_](https://boardgamegeek.com/boardgame/3613/air-superiority) :
 
-_V.O._ Each FP represents one hundred miles per hour of speed.
+> _V.O._ Each FP represents one hundred miles per hour of speed.
 
-_MAUVAIS_ Chaque FP (point de vol) représente 100 mph de vitesse.
+> _MAUVAIS_ Chaque FP (point de vol) représente 100 mph de vitesse.
 
-_BON_ Chaque FP (point de vol) représente 100 mph de vitesse, soit 160 km/h, 
-87 nœuds, ou encore 45 m/s.
+> _BON_ Chaque FP (point de vol) représente 100 mph de vitesse, soit 160 km/h,
+> 87 nœuds, ou encore 45 m/s.
 
-Évitez toutefois de tomber dans le travers de la plupart des utilisateurs 
+Évitez toutefois de tomber dans le travers de la plupart des utilisateurs
 de machines à calculer :
 
-_MAUVAIS_ Chaque FP (point de vol) représente 100 mph de vitesse, soit 160,9 
-km/h, 86,879 nœuds, ou encore 44,694 m/s.
+> _MAUVAIS_ Chaque FP (point de vol) représente 100 mph de vitesse, soit 160,9
+> km/h, 86,879 nœuds, ou encore 44,694 m/s.
 
-Un autre problème, au sujet des unités de mesure. Les abréviations des 
-unités de mesure sont normalisées, mais il semblerait que la plupart des 
-Américains ne soient pas au courant. Ce n'est pas une raison pour 
+<details>
+<summary>Compléments pour la traduction automatique</summary>
+
+Seul Chat GPT a proposé une traduction avec 160 km/h. Tous les autres se sont
+contentés de « cent milles à l'heure », avec des variantes : « miles » à la place
+de « milles » et « par heure » à la place de « à l'heure ». Aucun site n'a suggéré
+les nœuds on les m/s. Pour un jeu concernant des avions et avec une échelle de 12
+ou 15 secondes par tour, c'est dommage.
+
+Test effectué le 21 octobre 2025
+
+---
+
+</details>
+
+Un autre problème, au sujet des unités de mesure. Les abréviations des
+unités de mesure sont normalisées, mais il semblerait que la plupart des
+Américains ne soient pas au courant. Ce n'est pas une raison pour
 continuer dans l'erreur. Donc, même si le texte original évoque
-des "sec" et des "kph", rectifiez ces horreurs en traduisant avec "s" et 
+des "sec" et des "kph", rectifiez ces horreurs en traduisant avec "s" et
 "km/h".
 
 ### Lacunes du dictionnaire
