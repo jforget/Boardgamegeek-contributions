@@ -1,19 +1,19 @@
 Conseils de traduction
 ======================
 
-Vous jouez à un jeu dont la règle est en anglais, vous trouvez ce jeu 
-intéressant et vous avez envie de favoriser sa diffusion. Pour ce faire, 
-il serait souhaitable de traduire la règle, permettant ainsi aux joueurs 
-peu enclins à lire l'anglais de jouer quand même à ce jeu. Forts de vos 
-années de collège et de lycée, où vous aviez de bonnes notes en version 
-(un peu moins bonnes en thème, mais ce n'est pas trop grave), vous décidez 
+Vous jouez à un jeu dont la règle est en anglais, vous trouvez ce jeu
+intéressant et vous avez envie de favoriser sa diffusion. Pour ce faire,
+il serait souhaitable de traduire la règle, permettant ainsi aux joueurs
+peu enclins à lire l'anglais de jouer quand même à ce jeu. Forts de vos
+années de collège et de lycée, où vous aviez de bonnes notes en version
+(un peu moins bonnes en thème, mais ce n'est pas trop grave), vous décidez
 d'entrependre cette traduction.
 
-Hélas, pendant vos années d'études, les textes utilisés pour les versions 
-étaient en général des extraits de livres classiques et contemporains. Si 
+Hélas, pendant vos années d'études, les textes utilisés pour les versions
+étaient en général des extraits de livres classiques et contemporains. Si
 votre professeur était suffisamment progressiste, il vous a fait étudier
-des articles de journaux. Vous avez peut-être même étudié des chansons 
-(Bob Dylan, les Beatles, etc). Mais, sauf exception, vous n'avez jamais 
+des articles de journaux. Vous avez peut-être même étudié des chansons
+(Bob Dylan, les Beatles, etc). Mais, sauf exception, vous n'avez jamais
 été confrontés à :
 
 * des publicités,
@@ -28,25 +28,25 @@ des articles de journaux. Vous avez peut-être même étudié des chansons
 
 * ...et des règles de jeu.
 
-Or ces textes ont leur propre vocabulaire, en partie, et également leur 
-propre syntaxe. Et apprendre à traduire du John Steinbeck ou du Bob Dylan 
-n'est pas suffisant pour être capable de traduire les œuvres complètes de 
+Or ces textes ont leur propre vocabulaire, en partie, et également leur
+propre syntaxe. Et apprendre à traduire du John Steinbeck ou du Bob Dylan
+n'est pas suffisant pour être capable de traduire les œuvres complètes de
 [Ty Bomba](https://boardgamegeek.com/boardgamedesigner/1747/ty-bomba)
 ou de [Frank Chadwick](https://boardgamegeek.com/boardgamedesigner/335/frank-chadwick).
 
-Il existe un autre danger. À force de lire des textes en anglais, règles 
-de jeu notamment, il nous arrive (éh oui, je fais partie du lot) de trop 
-nous imprégner de la syntaxe et des expressions américaines, et de les 
-traduire telles quelles en français. Du coup, les traductions "sonnent 
-faux", et choquent ceux qui ont su garder l'oreille française. Dans la 
-suite de l'article, j'expose un certain nombre d'américanismes à éviter. 
-Cette liste donne les particularités les plus fréquentes de la syntaxe 
-américaine, mais elle n'est pas exhaustive. Dans cette liste figurent des 
-erreurs que j'ai détectées dans les traductions des autres, ainsi que des 
-erreurs que d'autres ont détectées dans mes traductions (comme quoi nul 
-n'est parfait). Mais le plus grave, c'est que certains exemples 
-proviennent de règles de jeux écrites en français par des auteurs 
-francophones, ce qui montre qu'il est facile de s'imprégner de la syntaxe 
+Il existe un autre danger. À force de lire des textes en anglais, règles
+de jeu notamment, il nous arrive (éh oui, je fais partie du lot) de trop
+nous imprégner de la syntaxe et des expressions américaines, et de les
+traduire telles quelles en français. Du coup, les traductions "sonnent
+faux", et choquent ceux qui ont su garder l'oreille française. Dans la
+suite de l'article, j'expose un certain nombre d'américanismes à éviter.
+Cette liste donne les particularités les plus fréquentes de la syntaxe
+américaine, mais elle n'est pas exhaustive. Dans cette liste figurent des
+erreurs que j'ai détectées dans les traductions des autres, ainsi que des
+erreurs que d'autres ont détectées dans mes traductions (comme quoi nul
+n'est parfait). Mais le plus grave, c'est que certains exemples
+proviennent de règles de jeux écrites en français par des auteurs
+francophones, ce qui montre qu'il est facile de s'imprégner de la syntaxe
 américaine sans en avoir conscience.
 
 Statut du texte
@@ -94,7 +94,7 @@ deux personnes avec un ordinateur et une connexion
 Internet, pour des gros fichiers, il était préférable
 d'envoyer une disquette dans une enveloppe timbrée, plutôt
 que d'envoyer un message électronique avec une pièce jointe
-énorme (en 2000, « énorme » signifiait « plusieurs centaines
+énorme (en 2000, « énorme » signifiait « quelques centaines
 de kilo-octets »).
 
 En 1996 et en 2000, le seul site connu permettant
@@ -109,7 +109,7 @@ disquettes ou sur CD-ROM, mais ils étaient peu performants.
 Maintenant en 2025, les modems 56K ont disparu au profit
 des xxx-box alimentées par
 l'ADSL puis par la fibre optique.
-Cela ne coupe pas le téléphone. Au contraire, le téléphone fonctionne
+Cela ne coupe pas le téléphone. Au contraire, très souvent le téléphone fonctionne
 uniquement lorsque la box est allumée. D'autre part, la facturation est
 forfaitaire, indépendante du temps d'utilisation.
 Il est donc naturel de rester connecté tout le temps.
@@ -121,7 +121,7 @@ Et les pièces jointes de plusieurs méga-octets ne font peur
 En 2025, il existe des sites spécialisés comme
 [Reverso](https://context.reverso.net/traduction/),
 [Word Reference](https://www.wordreference.com/),
-[Deepl](https://www.deepl.com/fr/translator)
+[DeepL](https://www.deepl.com/fr/translator)
 et [Google Translate](https://translate.google.com/?sl=auto&tl=fr&op=translate).
 Les particuliers ont accès également à
 des sites d'intelligence artificielle.
@@ -149,8 +149,8 @@ Il m'arrive de demander la traduction d'une expression de 2, 3 ou 4 mots,
 mais jamais la traduction d'une phrase complète.
 
 Pour les autres langues, il m'arrive d'utiliser Google Translate
-ou Deepl et de leur soumettre un texte complet (quoique limité
-à 1500 caractères pour Deepl et à 5000 caractères pour Google Translate).
+ou DeepL et de leur soumettre un texte complet (quoique limité
+à 1500 caractères pour DeepL et à 5000 caractères pour Google Translate).
 Mais c'est pour mon utilisation personnelle, pas pour une
 traduction que je voudrais publier.
 Pour l'instant, je n'ai jamais eu recours à
@@ -195,27 +195,27 @@ pas en 2000.)
 Inventaire des éléments du jeu
 -------------------------------
 
-Un jeu n'est pas uniquement constitué d'un livret de règles. Il y a aussi 
-une carte, des pions, et le plus souvent des tables d'aide de jeu, 
-certaines imprimées parfois directement sur la carte. Il va de soi qu'il 
-est illusoire de traduire la carte et les pions, et dans certains cas, il 
-sera difficile de traduire les tables. Donc, les joueurs auxquels la 
-traduction est destinée seront amenés à lire quand même des mots anglais, 
+Un jeu n'est pas uniquement constitué d'un livret de règles. Il y a aussi
+une carte, des pions, et le plus souvent des tables d'aide de jeu,
+certaines imprimées parfois directement sur la carte. Il va de soi qu'il
+est illusoire de traduire la carte et les pions, et dans certains cas, il
+sera difficile de traduire les tables. Donc, les joueurs auxquels la
+traduction est destinée seront amenés à lire quand même des mots anglais,
 même s'ils n'ont jamais étudié l'anglais à l'école.
 
-La première étape lors d'une traduction consiste donc à faire 
-l'inventaire de ce qui pourra être traduit et de ce qu'il est impossible 
-de traduire directement. Il faut relever les termes de jeu apparaissant 
-sur les composants : ils resteront en version originale, mais il faudra 
-fournir au joueur un glossaire lui permettant de comprendre ces termes 
-lorsqu'il les lira sur la carte ou sur un pion, ou bien citer entre 
-parenthèses la version originale juste après la version traduite. En 
-revanche, il faut traduire tout ce qui est sous la forme d'un texte. La 
-traduction d'un jeu ne consiste pas simplement à traduire les règles et 
-les scénarios. Il faut traduire également l'historique, les notes de 
-l'auteur et les conseils de jeu. Tout cela fait partie du jeu, au même 
-titre que les règles et les scénarios. D'ailleurs, comme vous pourrez le 
-constater, certains exemples ci-dessous ont plus leur place dans des historiques que 
+La première étape lors d'une traduction consiste donc à faire
+l'inventaire de ce qui pourra être traduit et de ce qu'il est impossible
+de traduire directement. Il faut relever les termes de jeu apparaissant
+sur les composants : ils resteront en version originale, mais il faudra
+fournir au joueur un glossaire lui permettant de comprendre ces termes
+lorsqu'il les lira sur la carte ou sur un pion, ou bien citer entre
+parenthèses la version originale juste après la version traduite. En
+revanche, il faut traduire tout ce qui est sous la forme d'un texte. La
+traduction d'un jeu ne consiste pas simplement à traduire les règles et
+les scénarios. Il faut traduire également l'historique, les notes de
+l'auteur et les conseils de jeu. Tout cela fait partie du jeu, au même
+titre que les règles et les scénarios. D'ailleurs, comme vous pourrez le
+constater, certains exemples ci-dessous ont plus leur place dans des historiques que
 dans des règles.
 
 ## Liste des mots techniques
@@ -240,7 +240,7 @@ pour un jeu se passant en Normandie pendant l'été 1944. J'y ai découvert
 
 traduction de
 
-> _V.O. Scenario 2: The Falaise Pocket
+> _V.O._ Scenario 2: The Falaise Pocket
 
 Si vous avez reconnu le jeu et si vous cherchez la traduction actuelle sur
 [Ludistratège](http://www.ludistratege.com/)
@@ -357,7 +357,7 @@ les traductions possibles sont :
 <details>
 <summary>Compléments pour la traduction automatique</summary>
 
-Les outils de traduction (Google et Deepl) se contentent de la voix
+Les outils de traduction (Google et DeepL) se contentent de la voix
 passive. Les outils d'intelligence artificielle proposent la
 traduction à la voix passive, plus une variante avec « on ».
 Je préfère la variante à la voix active avec « le joueur ».
@@ -380,7 +380,7 @@ Dans certains cas, la forme pronominale peut donner de bons résultats :
 <summary>Compléments pour la traduction automatique</summary>
 
 Google Translate propose uniquement la traduction à la voix passive.
-Deepl, Chat GPT et Le Chat proposent la traduction avec « se compose »,
+DeepL, Chat GPT et Le Chat proposent la traduction avec « se compose »,
 Chat GPT proposant en plus deux variantes, une avec « comprend », ce qui est
 judicieux, l'autre avec « est divisée », ce qui l'est moins, puisqu'on
 a la lourdeur de la voix passive. Gemini propose d'abord la voix
@@ -553,7 +553,7 @@ sont minimes. Autant conserver les bonnes habitudes.
 <details>
 <summary>Compléments pour la traduction automatique</summary>
 
-Google Translate, Deepl, Chat GPT et Le Chat sobt d'accord avec moi, aussi
+Google Translate, DeepL, Chat GPT et Le Chat sobt d'accord avec moi, aussi
 bien pour l'absence de majuscules que pour écrire les années sur 4 chiffres.
 La seule différence est qu'ils préfèrent le passé composé « sont entrés »
 au passé simple « entrèrent ».
@@ -1143,8 +1143,8 @@ d'[_Air Superiority_](https://boardgamegeek.com/boardgame/3613/air-superiority)�
 > _BON_ Chaque FP (point de vol) représente 100 mph de vitesse, soit 160 km/h,
 > 87 nœuds, ou encore 45 m/s.
 
-Évitez toutefois de tomber dans le travers de la plupart des utilisateurs
-de machines à calculer :
+Évitez toutefois de tomber dans le
+[travers de la plupart des utilisateurs de machines à calculer](https://tvtropes.org/pmwiki/pmwiki.php/Main/LudicrousPrecision) :
 
 > _MAUVAIS_ Chaque FP (point de vol) représente 100 mph de vitesse, soit 160,9
 > km/h, 86,879 nœuds, ou encore 44,694 m/s.
@@ -1266,7 +1266,7 @@ Word Reference. Les deux sites ont traduit les deux mots séparément.
 Word Reference fait allusion à _cannon fodder_, sans voir le parallèle
 entre les canons et les pilums.
 
-Pour Google Traduction et Deepl, j'ai donné la phrase complète :
+Pour Google Traduction et DeepL, j'ai donné la phrase complète :
 
 > The legions were, on the whole, worthless javelin fodder...
 
@@ -1274,7 +1274,7 @@ Google Translate a répondu à côté de la plaque :
 
 > Les légions étaient, dans l'ensemble, du fourrage en javelot sans valeur ...
 
-Deepl détecte l'expression consacrée et la conserve telle quelle, sans
+DeepL détecte l'expression consacrée et la conserve telle quelle, sans
 chercher à éliminer l'anachronisme :
 
 > Les légions étaient, dans l'ensemble, de la chair à canon sans valeur...
@@ -1389,7 +1389,7 @@ mineur en comparaison du style heurté et des bourdes de la traduction :
 > le mot ferait. Elle avait la bouche la plus sale que l'un d'entre nous des combattants jocks
 > avait déjà entendu.
 
-Deepl produit une traduction correcte, à l'exception de cette notion
+DeepL produit une traduction correcte, à l'exception de cette notion
 de _four-letter word_ et de « mot de cinq lettres » :
 
 > Pancho n'utilisait jamais de mots de cinq ou six lettres quand un mot de quatre lettres
