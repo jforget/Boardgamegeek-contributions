@@ -238,6 +238,10 @@ pour un jeu se passant en Normandie pendant l'été 1944. J'y ai découvert
 
 > _MAUVAIS_ Scénario 2, la Falaise de Poche
 
+traduction de
+
+> _V.O. Scenario 2: The Falaise Pocket
+
 Si vous avez reconnu le jeu et si vous cherchez la traduction actuelle sur
 [Ludistratège](http://www.ludistratege.com/)
 vous pourrez constater que la traduction proposée a été effectuée par
@@ -495,7 +499,12 @@ Les autres répondent correctement, avec des variantes d'un site à l'autre.
 > _BON_ Il y a une source de ravitaillement au Havre. (Le Chat)
 
 Une remarque : lorsque Chat GPT et Le Chat rappellent la version originale
-dans leur réponse, ils insèrent un blanc dans le nom de la ville.
+dans leur réponse, ils insèrent un blanc dans le nom de la ville. Par exemple
+voici le début de la réponse de Le Chat.
+
+> La traduction la plus naturelle en français de
+> "A supply source exists in Le Havre."
+> est : [...]
 
 Test effectué le 20 octobre 2025
 
