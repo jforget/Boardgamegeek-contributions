@@ -572,28 +572,58 @@ Test effectué le 16 octobre 2025
 
 ### Le genre des noms et des pronoms
 
-À première vue, vous pourriez croire que le présent conseil est superflu, 
-mais en fait, j'ai entendu la faute lors d'une conversation (en français) 
-avec une collègue de travail. Comme quoi, ce conseil n'est peut-être pas 
+À première vue, vous pourriez croire que le présent conseil est superflu,
+mais en fait, j'ai entendu la faute lors d'une conversation (en français)
+avec une collègue de travail. Comme quoi, ce conseil n'est peut-être pas
 si inutile que ça...
 
-Mis à part pour les êtres humains et les animaux, il existe deux cas où 
-les anglophones utilisent autre chose que le neutre. Ils utilisent le 
-féminin pour les nations et pour les navires. En français, cela dépend des 
-cas. Parfois nous utilisons le masculin (le Royaume-Uni et le Foch), 
+Mis à part pour les êtres humains et les animaux, il existe deux cas où
+les anglophones utilisent autre chose que le neutre. Ils utilisent le
+féminin pour les nations et pour les navires. En français, cela dépend des
+cas. Parfois nous utilisons le masculin (le Royaume-Uni et le Foch),
 parfois nous utilisons le féminin (la France et la Jeanne d'Arc).
 
-_V.O._ When the United States entered the war on Sunday, December 7th '41, 
-she had obsolete fighters. But Japan's situation was the opposite: she had 
+_V.O._ When the United States entered the war on Sunday, December 7th '41,
+she had obsolete fighters. But Japan's situation was the opposite: she had
 wonderful fighters such as the Zero.
 
-_MAUVAIS_ Quand les États-Unis entrèrent en guerre le dimanche 7 décembre 
-1941, elle n'avait que des chasseurs techniquement dépassés. La situation du 
+_MAUVAIS_ Quand les États-Unis entrèrent en guerre le dimanche 7 décembre
+1941, elle n'avait que des chasseurs techniquement dépassés. La situation du
 Japon était l'inverse : elle avait des chasseurs fabuleux comme le Zéro.
 
-_BON_ Quand les États-Unis entrèrent en guerre le dimanche 7 décembre 1941, 
-ils n'avaient que des chasseurs techniquement dépassés. La situation du 
+_BON_ Quand les États-Unis entrèrent en guerre le dimanche 7 décembre 1941,
+ils n'avaient que des chasseurs techniquement dépassés. La situation du
 Japon était l'inverse : il avait des chasseurs fabuleux comme le Zéro.
+
+<details>
+<summary>Compléments pour la traduction automatique</summary>
+
+Google Translate conserve « elle » pour les États-Unis, tout en attribuant
+un « il » au Japon. Pas bien. Les autres sites de traduction utilisent bel et bien
+« ils » pour les États-Unis (et « il » pour le Japon). C'est bien. Chat GPT et Gemini
+ajoutent un commentaire pour justifier. En fait, Le Chat n'utilise pas « ils »,
+la formulation donnée est :
+
+> Lorsque les États-Unis entrèrent en guerre le dimanche 7 décembre
+> 1941, leurs chasseurs étaient obsolètes. Mais la situation du Japon
+> était inverse : il disposait d’appareils exceptionnels, comme le Zero.
+
+avec un commentaire analogue à ceux de Chat GPT et de Gemini :
+
+> "she" est traduit par "leurs" pour les États-Unis et "il" pour le
+> Japon, car en français, on utilise généralement le masculin pour les
+> pays (sauf exceptions comme "la France").
+
+La traduction est bonne, le commentaire peut provoquer de la confusion,
+car d'une part les pays au féminin sont suffisamment nombreux pour ne pas être
+considérés comme une exception et d'autre part, on aurait utilisé « leurs »
+pour des pays au féminin pluriel comme les Philippines.
+
+Test effectué le 21 octobre 2025
+
+---
+
+</details>
 
 ### Les pluriels singuliers
 
