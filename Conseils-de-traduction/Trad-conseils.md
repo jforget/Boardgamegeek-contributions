@@ -861,40 +861,66 @@ Test effectué le 24 octobre 2025
 
 ---
 
-
 ### Les actions
 
-En anglais, il y a deux façons d'exprimer une action, quand elle est 
-sujet d'un verbe. La première utilise le suffixe "ing", et ne pose pas de 
+En anglais, il y a deux façons d'exprimer une action, quand elle est
+sujet d'un verbe. La première utilise le suffixe "ing", et ne pose pas de
 problème de traduction.
 
-_V.O._ Entering an hex costs a number of movement points.
+> _V.O._ Entering an hex costs a number of movement points.
 
-_BON_ Entrer dans un hex coûte un certain nombre de points de mouvement.
+> _BON_ Entrer dans un hex coûte un certain nombre de points de mouvement.
 
-La deuxième façon est en fait une voix passive déguisée, ce qui engendre 
+La deuxième façon est en fait une voix passive déguisée, ce qui engendre
 parfois en français des phrases maladroites.
 
-_V.O._ Each entered hex costs a number of movement points.
+> _V.O._ Each entered hex costs a number of movement points.
 
-_MAUVAIS_ Chaque hex entré coûte un certain nombre de points de mouvement.
+> _MAUVAIS_ Chaque hex entré coûte un certain nombre de points de mouvement.
 
-_BON_ L'entrée dans un hex coûte un certain nombre de points de mouvement.
+> _BON_ L'entrée dans un hex coûte un certain nombre de points de mouvement.
 
 Cet exemple est particulièrement hideux, car le verbe "entrer" (au sens
-de "pénétrer", pas "insérer") est 
-intransitif, c'est-à-dire qu'il n'est jamais suivi d'un complément d'objet 
-direct, et que par conséquent, il est impossible de le conjuguer à la voix 
-passive. Mais même avec un verbe transitif, on peut obtenir une phrase 
+de "pénétrer", pas "insérer") est
+intransitif, c'est-à-dire qu'il n'est jamais suivi d'un complément d'objet
+direct, et que par conséquent, il est impossible de le conjuguer à la voix
+passive. Mais même avec un verbe transitif, on peut obtenir une phrase
 inélégante.
 
-_V.O._ Each conquered city advances the victory point marker one box.
+> _V.O._ Each conquered city advances the victory point marker one box.
 
-_MAUVAIS_ Chaque cité conquise fait avancer le marqueur de points de 
-victoire d'une case.
+> _MAUVAIS_ Chaque cité conquise fait avancer le marqueur de points de
+> victoire d'une case.
 
-_BON_ Chaque fois qu'une cité est conquise, le marqueur de points de 
-victoire avance d'une case.
+> _BON_ Chaque fois qu'une cité est conquise, le marqueur de points de
+> victoire avance d'une case.
+
+<details>
+<summary>Compléments pour la traduction automatique</summary>
+
+Google Translate, Chat GPT et partiellement Le Chat n'ont aucune réticence à mettre à la voix passive
+un verbe intransitif, « chaque hex entré ». DeepL, Gemini
+et Le Chat (dans une variante de traduction)
+adoptent un autre verbe, qui a l'avantage d'être transitif :
+
+> Chaque hexagone parcouru coûte un certain nombre de points de mouvement. (DeepL)
+
+> Chaque hexagone (ou case) traversé coûte un certain nombre de points de mouvement. (Gemini)
+
+> Chaque hexagone traversé coûte un certain nombre de points de mouvement. (Le Chat)
+
+Pour la conquête des cités, les différents sites proposent une traduction avec
+« chaque ville conquise ». Néanmoins, les sites d'IA proposent une variante plus fluide :
+
+> Pour chaque ville conquise, avancez le marqueur de points de victoire d’une case. (Chat GPT)
+
+> La conquête de chaque ville fait avancer le marqueur de points de victoire d'une case. (Gemini)
+
+> À chaque ville conquise, le marqueur de points de victoire progresse d’une case. (Le Chat)
+
+Test effectué le 24 octobre 2025
+
+---
 
 ### Les traductions évidentes et les faux amis
 
