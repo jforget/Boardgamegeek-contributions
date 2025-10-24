@@ -819,6 +819,7 @@ Test effectué le 24 octobre 2025
 
 ---
 
+</details>
 
 ### Le nombre d'adjectifs et autres déterminants
 
@@ -860,6 +861,8 @@ Chat GPT propose une seconde variante apportant un peu plus de fluidité :
 Test effectué le 24 octobre 2025
 
 ---
+
+</details>
 
 ### Les actions
 
@@ -921,6 +924,8 @@ Pour la conquête des cités, les différents sites proposent une traduction ave
 Test effectué le 24 octobre 2025
 
 ---
+
+</details>
 
 ### Les traductions évidentes et les faux amis
 
