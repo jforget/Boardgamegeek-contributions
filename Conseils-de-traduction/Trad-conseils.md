@@ -793,38 +793,74 @@ Test effectué le 21 octobre 2025
 
 ### L'ordre des adjectifs
 
-En règle générale, dans les deux langues, l'adjectif le plus proche du 
-nom qualifie le nom de manière permanente, alors que l'adjectif le plus 
-éloigné le qualifie de façon transitoire. Mais comme les adjectifs sont 
-toujours placés avant le nom chez eux, et le plus souvent après le nom 
-chez nous, cela signifie que, en général, il faudra traduire les adjectifs 
-en partant du dernier et en finissant par le premier. Exemple : dans la 
-plupart des jeux, une unité ne change pas de camp, mais selon la séquence 
+En règle générale, dans les deux langues, l'adjectif le plus proche du
+nom qualifie le nom de manière permanente, alors que l'adjectif le plus
+éloigné le qualifie de façon transitoire. Mais comme les adjectifs sont
+toujours placés avant le nom chez eux, et le plus souvent après le nom
+chez nous, cela signifie que, en général, il faudra traduire les adjectifs
+en partant du dernier et en finissant par le premier. Exemple : dans la
+plupart des jeux, une unité ne change pas de camp, mais selon la séquence
 de jeu, elle oscillera entre l'activation et l'inaction. Ainsi, on a :
 
-_V.O._ An inactive enemy unit
+> _V.O._ An inactive enemy unit
 
-_MAUVAIS_ Une unité inactive ennemie
+> _MAUVAIS_ Une unité inactive ennemie
 
-_BON_ Une unité ennemie inactive
+> _BON_ Une unité ennemie inactive
+
+<details>
+<summary>Compléments pour la traduction automatique</summary>
+
+Tous les sites de traduction sont d'accord (je n'ai pas essayé Reverso
+ni Word Reference, qui traduisent des mots isolés ou des expressions
+consacrées).
+
+Test effectué le 24 octobre 2025
+
+---
+
 
 ### Le nombre d'adjectifs et autres déterminants
 
-Les anglophones n'hésitent pas à aligner toute une série d'adjectifs et 
-de compléments se rapportant à un même nom. En français, il existe une 
-limite à ne pas dépasser. Cette limite est imprécise, mais largement 
-inférieure à une éventuelle limite équivalente en anglais. Cela peut 
+Les anglophones n'hésitent pas à aligner toute une série d'adjectifs et
+de compléments se rapportant à un même nom. En français, il existe une
+limite à ne pas dépasser. Cette limite est imprécise, mais largement
+inférieure à une éventuelle limite équivalente en anglais. Cela peut
 obliger à réécrire la phrase.
 
-_V.O._ A rail-transported reduced division-sized German armored unit costs 3 
-transport points.
+> _V.O._ A rail-transported reduced division-sized German armored unit costs 3
+> transport points.
 
-_MAUVAIS_ Une unité blindée allemande de la taille d'une division, réduite 
-et transportée par rail coûte 3 points de transport.
+> _MAUVAIS_ Une unité blindée allemande de la taille d'une division, réduite
+> et transportée par rail coûte 3 points de transport.
 
-_BON_ Si le joueur allemand transporte par rail une de ses unités blindées 
-de la taille d'une division, et si cette unité a subi une réduction, alors 
-il dépense 3 points de transport.
+> _BON_ Si le joueur allemand transporte par rail une de ses unités blindées
+> de la taille d'une division, et si cette unité a subi une réduction, alors
+> il dépense 3 points de transport.
+
+<details>
+<summary>Compléments pour la traduction automatique</summary>
+
+Aucun des sites n'a reformulé la phrase comme je le suggère.
+
+La présence simultanée des deux qualificatifs « _division-sized_ »
+et « _reduced_ » pose des problèmes à tous les sites. Google Translate
+et DeepL oublient le « _division_ » et traduisent par « de taille réduite ».
+Chat GPT (dans sa traduction principale), Gemini et Le Chat considèrent qu'il y a d'un côté les divisions
+complètes, de l'autre côté les divisions réduites, sans considérer que l'on
+peut avoir des divisions marquées avec un marqueur de pas de perte.
+Seul Chat GPT propose une variante de traduction qui pourrait convenir :
+
+> Une unité blindée allemande réduite de niveau division, transportée par rail, coûte 3 points de transport.
+
+Chat GPT propose une seconde variante apportant un peu plus de fluidité :
+
+> Le transport par rail d’une unité blindée allemande de taille division réduite coûte 3 points de transport.
+
+Test effectué le 24 octobre 2025
+
+---
+
 
 ### Les actions
 
