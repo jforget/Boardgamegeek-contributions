@@ -157,6 +157,22 @@ Pour l'instant, je n'ai jamais eu recours à
 des sites d'intelligence artificielle, sauf pour
 une expérimentation occasionnelle.
 
+Dans la version remaniée des conseils de traduction, je présente les essais
+que j'ai faits avec
+[Reverso](https://context.reverso.net/traduction/),
+[Word Reference](https://www.wordreference.com/),
+[DeepL](https://www.deepl.com/fr/translator)
+[Google Translate](https://translate.google.com/?sl=auto&tl=fr&op=translate),
+[Chat GPT](https://chatgpt.com/),
+[Gemini 2.5 Flash](https://gemini.google/assistant/?hl=fr)
+et [Le Chat](https://chat.mistral.ai/chat).
+En général, j'inclus Reverso et Word Reference pour les conseils de vocabulaire, mais
+je les exclus pour les conseils de syntaxe et de style.
+D'autre part, quand je cite un titre de jeu ou un titre de livre, il s'agit d'un exemple reconstitué.
+J'ai toujours le texte d'origine, mais je n'ai plus la traduction, je puise
+dans mes souvenirs pour la reconstituer. Lorsque je ne cite pas de titre,
+il s'agit d'exemples inventés, mais plausibles.
+
 Préalable
 ---------
 
@@ -218,6 +234,11 @@ titre que les règles et les scénarios. D'ailleurs, comme vous pourrez le
 constater, certains exemples ci-dessous ont plus leur place dans des historiques que
 dans des règles.
 
+En 2025, j'assouplis mes recommandations. Si vous avez pu traduire au moins
+les règles, vous pouvez les diffuser. Il est préférable d'avoir un début de
+traduction que pas de traduction du tout. Mais soyez honnêtes, ne leurrez pas vos lecteurs en
+leur laissant croire que vous avez fait tout le travail.
+
 ## Liste des mots techniques
 
 La deuxième étape consiste à relever dans la règle tous les mots
@@ -249,6 +270,9 @@ quelqu'un qui connaît bien cette campagne, ou qui a lu un livre francophone
 sur le sujet et qui a traduit :
 
 > _BON_ Scénario 2, la Poche de Falaise
+
+Je n'ai pas voulu citer le titre du jeu pour « protéger les innocents » (et les coupables),
+mais c'est quand même un exemple reconstitué, pas un exemple inventé.
 
 <details>
 <summary>Compléments pour la traduction automatique</summary>
@@ -1216,13 +1240,18 @@ d'[_Air Superiority_](https://boardgamegeek.com/boardgame/3613/air-superiority)�
 > _MAUVAIS_ Chaque FP (point de vol) représente 100 mph de vitesse, soit 160,9
 > km/h, 86,879 nœuds, ou encore 44,694 m/s.
 
+Si, en revanche, la règle originale donne l'échelle déjà en unités métriques
+(comme [Flight Leader](https://boardgamegeek.com/boardgame/3711/flight-leader),
+1 hex = 1 km, 1 niveau d'altitude = 1000 m), ce n'est pas la peine de convertir
+en unités américaines.
+
 <details>
 <summary>Compléments pour la traduction automatique</summary>
 
 Seul Chat GPT a proposé une traduction avec 160 km/h. Tous les autres se sont
 contentés de « cent milles à l'heure », avec des variantes : « miles » à la place
 de « milles » et « par heure » à la place de « à l'heure ». Aucun site n'a suggéré
-les nœuds on les m/s. Pour un jeu concernant des avions et avec une échelle de 12
+les nœuds ou les m/s. Pour un jeu concernant des avions et avec une échelle de 12
 ou 15 secondes par tour, c'est dommage.
 
 Test effectué le 21 octobre 2025
@@ -1399,7 +1428,9 @@ Un autre exemple. Si vous avez vu
 vous vous souvenez peut-être de
 [Pancho Barnes](https://panchobarnes.com/),
 la tenancière du saloon de la base de Muroc / Edwards, un personnage
-haut en couleurs. Dans son autobiographie, Chuck Yeager la décrit ainsi :
+haut en couleurs. Dans son
+[autobiographie](https://www.goodreads.com/book/show/259265.Yeager),
+Chuck Yeager la décrit ainsi :
 
 > _V.O._ Pancho would never use a five- or six-letter word when a four-letter
 > word would do. She had the filthiest mouth that any of us fighter jocks
@@ -1619,6 +1650,9 @@ any candies.
 _BON_ M. Ullman parlait continuellement de la crème, des huiles et du 
 gratin. Cela étonnait Danny, car ils se trouvaient dans les appartements 
 de luxe, pas dans les cuisines.
+
+(Exemple reconstitué, mais pour lequel je n'ai ni la version originale,
+ni la traduction.)
 
 De cette manière, le traducteur s'est arrangé pour donner à la fois la 
 traduction mot-à-mot "suite" = "appartement de luxe", et pour traduire un 
