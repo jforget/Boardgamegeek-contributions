@@ -1635,6 +1635,103 @@ préférable de traduire en "Franklin Roosevelt", "Lyndon Johnson" et
 "Nikita Khrouchtchev" (ou parfois "Henry Kissinger", en fonction de la
 date et du contexte).
 
+Un exemple inventé, inspiré de
+[Britannia](https://boardgamegeek.com/boardgame/240/britannia).
+
+> _V.O._ It broadly depicts the wars in, and migrations to, Britain
+> in the last centuries of Antiquity and during the Low Middle Ages.
+
+> _MAUVAIS_ Le jeu décrit en grandes lignes les guerres et les migrations
+> en Grande Bretagne, pendant les derniers siècles de l'Antiquité et
+> pendant les âges bas du milieu.
+
+> _ENCORE MAUVAIS_ Le jeu décrit en grandes lignes les guerres et les migrations
+> en Grande Bretagne, pendant les derniers siècles de l'Antiquité et
+> pendant le Bas Moyen Âge
+
+> _BON Le jeu décrit en grandes lignes les guerres et les migrations
+> en Grande Bretagne, pendant les derniers siècles de l'Antiquité et
+> pendant le Haut Moyen Âge
+
+D'une part nous utilisons le singulier « Moyen Âge » là où les
+anglophones utilisent le pluriel « _Middle Ages_ ». D'autre part,
+la convention pour découper le Moyen Âge en deux parties est
+différentes pour eux et pour nous. Les Francs, les Vikings et Charlemagne
+appartiennent pour nous au _Haut Moyen Âge_, mais pour eux, c'est
+_The Low Middle Ages_. Les croisades, les tournois de chevaliers et la Guerre
+de Cent Ans sont pour nous le _Bas Moyen Âge_, mais pour eux _The High Middle Ages_
+(et un peu _The Late Middle Ages_).
+
+Voir dans l'article de TV Tropes sur le
+[Haut Moyen Âge](https://tvtropes.org/pmwiki/pmwiki.php/Main/TheLowMiddleAges)
+comme dans celui sur le
+[Bas Moyen Âge](https://tvtropes.org/pmwiki/pmwiki.php/Main/TheHighMiddleAges)
+(cherchez le mot « _WARNING_ » dans les deux pages).
+
+<details>
+<summary>Compléments pour la traduction automatique</summary>
+
+Word Reference ne peut pas traduire une locution de trois mots « _high middle ages_ »
+ou « _low middle ages_ ».
+Reverso se trompe et traduit « _high middle ages_ » en « haut Moyen Âge »
+et « _low middle ages_ » en « bas Moyen Âge », avec toutefois un exemple évoquant
+une maison bâtie au XVe siècle avec une façade gothique.
+
+Gogle Traduction, DeepL et Le Chat se trompent comme Reverso. Chat GPT
+propose une première traduction qui élude le problème
+
+> Il décrit de manière générale les guerres et les migrations ayant eu
+> lieu en Grande-Bretagne durant les derniers siècles de l'Antiquité et
+> au début du Moyen Âge.
+
+puis deux autres traductions qui se prennent les pieds dans le tapis,
+avec la traduction « bas Moyen Âge ».
+
+Le cas de Gemini est plus intéressant. Il affiche deux cadres appelés
+« Choix A » et « Choix B ». Dans le choix A, il donne la mauvaise
+traduction  « bas Moyen Âge » avec un commentaire historiquement
+correct, mais qui ne s'applique pas à Britannia
+
+> "Low Middle Ages" est généralement traduit par "Bas Moyen Âge" (c'est
+> la période la plus tardive du Moyen Âge, généralement après le Haut
+> Moyen Âge).
+
+À l'inverse, dans le choix B la traduction utilise bel et bien « Haut Moyen Âge »
+avec l'explication suivante :
+
+> "Low Middle Ages" : C'est ici que la traduction peut varier.
+> L'expression la plus courante et précise en histoire française est
+> "Haut Moyen Âge" (qui couvre généralement la période ciblée après
+> l'Antiquité tardive, c. 500-1000).
+
+> * Attention : L'expression anglaise "Low Middle Ages" est parfois
+> utilisée pour désigner le Bas Moyen Âge (Late Middle Ages, c.
+> 1300-1500), mais le contexte "derniers siècles de l'Antiquité"
+> pointe clairement vers le début de l'époque médiévale.
+>
+> * Si vous voulez être extrêmement littéral, vous pourriez utiliser
+> "le Bas Moyen Âge", mais "le Haut Moyen Âge" est contextuellement
+> plus juste pour la période suivant immédiatement l'Antiquité
+> tardive.
+
+J'ai également essayé avec Wikipedia. J'affiche l'article sur le
+[Haut Moyen Âge](https://fr.wikipedia.org/wiki/Haut_Moyen_%C3%82ge)
+puis je demande l'article équivalent sur la Wikipedia anglophone. J'arrive alors sur
+[Early Middle Ages](https://en.wikipedia.org/wiki/Early_Middle_Ages).
+En cherchant le Bas Moyen Âge, je tombe en fait sur l'article
+[Moyen Âge tardif](https://fr.wikipedia.org/wiki/Moyen_%C3%82ge_tardif)
+dont l'équivalent anglophone est
+[Late Middle Ages](https://en.wikipedia.org/wiki/Late_Middle_Ages)
+décrivant la période de 1300 à 1500 environ.
+L'article [High Middle Ages](https://en.wikipedia.org/wiki/High_Middle_Ages)
+décrit la période de 1000 à 1300, ce qui correspond pour nous au
+début du Bas Moyen Âge. La wikipedia anglophone ne contient pas
+d'article intitulé « _Low Middle Ages_ ».
+
+---
+
+</details>
+
 ### Jeux de mots
 
 Il est quasiment impossible de traduire tel quel un jeu de mots. Si 
