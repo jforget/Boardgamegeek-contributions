@@ -161,7 +161,7 @@ Dans la version remaniée des conseils de traduction, je présente les essais
 que j'ai faits avec
 [Reverso](https://context.reverso.net/traduction/),
 [Word Reference](https://www.wordreference.com/),
-[DeepL](https://www.deepl.com/fr/translator)
+[DeepL](https://www.deepl.com/fr/translator),
 [Google Translate](https://translate.google.com/?sl=auto&tl=fr&op=translate),
 [Chat GPT](https://chatgpt.com/),
 [Gemini 2.5 Flash](https://gemini.google/assistant/?hl=fr)
@@ -171,7 +171,7 @@ je les exclus pour les conseils de syntaxe et de style.
 D'autre part, quand je cite un titre de jeu ou un titre de livre, il s'agit d'un exemple reconstitué.
 J'ai toujours le texte d'origine, mais je n'ai plus la traduction, je puise
 dans mes souvenirs pour la reconstituer. Lorsque je ne cite pas de titre,
-il s'agit d'exemples inventés, mais plausibles.
+il s'agit d'un exemple inventé, mais plausible.
 
 Préalable
 ---------
@@ -194,7 +194,7 @@ qu'il en existe une en cours de rédaction. Posez la question sur
 [Strategikon](https://www.strategikon.info/phpBB3/viewforum.php?f=24)
 ou éventuellement sur
 [Board Game Geek](http://boardgamegeek.com/)
-(fiche du jeu, puis forums associé à ce jeu).
+(fiche du jeu, puis forums associés à ce jeu).
 S'il s'avère que quelqu'un est déjà en train de travailler sur
 la traduction que vous vouliez faire, vous pouvez proposer de
 collaborer : relecture, traduction d'une partie, etc.
@@ -1635,6 +1635,8 @@ préférable de traduire en "Franklin Roosevelt", "Lyndon Johnson" et
 "Nikita Khrouchtchev" (ou parfois "Henry Kissinger", en fonction de la
 date et du contexte).
 
+### Des hauts et des bas
+
 Un exemple inventé, inspiré de
 [Britannia](https://boardgamegeek.com/boardgame/240/britannia).
 
@@ -1649,7 +1651,7 @@ Un exemple inventé, inspiré de
 > en Grande Bretagne, pendant les derniers siècles de l'Antiquité et
 > pendant le Bas Moyen Âge
 
-> _BON Le jeu décrit en grandes lignes les guerres et les migrations
+> _BON_ Le jeu décrit en grandes lignes les guerres et les migrations
 > en Grande Bretagne, pendant les derniers siècles de l'Antiquité et
 > pendant le Haut Moyen Âge
 
@@ -1672,12 +1674,18 @@ comme dans celui sur le
 <summary>Compléments pour la traduction automatique</summary>
 
 Word Reference ne peut pas traduire une locution de trois mots « _high middle ages_ »
-ou « _low middle ages_ ».
+ou « _low middle ages_ ». En revanche, Word Reference accepte de traduire « _middle ages_ »
+en « Moyen Âge » et propose un lien vers la traduction français → anglais
+de « haut Moyen Âge » et de « bas Moyen Âge », qui donnent respectivement,
+« _the early Middle Ages_ » (ou « _Dark Age_ » au singulier) et
+« _the late Middle Ages_ »
+
 Reverso se trompe et traduit « _high middle ages_ » en « haut Moyen Âge »
 et « _low middle ages_ » en « bas Moyen Âge », avec toutefois un exemple évoquant
-une maison bâtie au XVe siècle avec une façade gothique.
+une maison bâtie au XVe siècle avec une façade gothique, ce qui est correct
+en français mais erroné en anglais.
 
-Gogle Traduction, DeepL et Le Chat se trompent comme Reverso. Chat GPT
+Google Traduction, DeepL et Le Chat se trompent comme Reverso. Chat GPT
 propose une première traduction qui élude le problème
 
 > Il décrit de manière générale les guerres et les migrations ayant eu
@@ -1689,8 +1697,9 @@ avec la traduction « bas Moyen Âge ».
 
 Le cas de Gemini est plus intéressant. Il affiche deux cadres appelés
 « Choix A » et « Choix B ». Dans le choix A, il donne la mauvaise
-traduction  « bas Moyen Âge » avec un commentaire historiquement
-correct, mais qui ne s'applique pas à Britannia
+traduction  « bas Moyen Âge » avec un commentaire caressant les historiens francophones
+dans le sens du poil, mais qui ne s'applique pas à Britannia ni au vocabulaire
+des historiens anglophones.
 
 > "Low Middle Ages" est généralement traduit par "Bas Moyen Âge" (c'est
 > la période la plus tardive du Moyen Âge, généralement après le Haut
@@ -1703,7 +1712,7 @@ avec l'explication suivante :
 > L'expression la plus courante et précise en histoire française est
 > "Haut Moyen Âge" (qui couvre généralement la période ciblée après
 > l'Antiquité tardive, c. 500-1000).
-
+>
 > * Attention : L'expression anglaise "Low Middle Ages" est parfois
 > utilisée pour désigner le Bas Moyen Âge (Late Middle Ages, c.
 > 1300-1500), mais le contexte "derniers siècles de l'Antiquité"
@@ -1713,6 +1722,8 @@ avec l'explication suivante :
 > "le Bas Moyen Âge", mais "le Haut Moyen Âge" est contextuellement
 > plus juste pour la période suivant immédiatement l'Antiquité
 > tardive.
+
+Et Gemini me demande de lui préciser quelle est la réponse la meilleure.
 
 J'ai également essayé avec Wikipedia. J'affiche l'article sur le
 [Haut Moyen Âge](https://fr.wikipedia.org/wiki/Haut_Moyen_%C3%82ge)
@@ -1725,8 +1736,10 @@ dont l'équivalent anglophone est
 décrivant la période de 1300 à 1500 environ.
 L'article [High Middle Ages](https://en.wikipedia.org/wiki/High_Middle_Ages)
 décrit la période de 1000 à 1300, ce qui correspond pour nous au
-début du Bas Moyen Âge. La wikipedia anglophone ne contient pas
+début du Bas Moyen Âge, pas à la période entière. La Wikipedia anglophone ne contient pas
 d'article intitulé « _Low Middle Ages_ ».
+
+Test effectué les 5 et 6 novembre 2025
 
 ---
 
@@ -2104,5 +2117,5 @@ le contenu.
 
 Jean Forget
 
-Octobre 1996, novembre 2000, septembre--octobre 2025
+Octobre 1996, novembre 2000, septembre--octobre--novembre 2025
 
