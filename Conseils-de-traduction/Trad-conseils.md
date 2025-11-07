@@ -1334,7 +1334,7 @@ Google Translate donne une traduction auto-référentielle :
 
 DeepL évite l'auto-référence :
 
-> The donut is a donut shaped like an inner tube.
+> The donut is a pastry shaped like an inner tube.
 
 Chat GPT propose d'abord la même traduction auto-référentielle que Google
 Translate (avec l'orthographe « _doughnut_ » au lieu de « _donut_ »), puis
@@ -1355,9 +1355,9 @@ Commentaire de Gemini :
 >
 > * En forme de chambre à air: C'est l'élément clé qui décrit la forme torique.
 >
-> **  Literal translation: "in the shape of an inner tube" / "like an inner tube."
+>   * Literal translation: "in the shape of an inner tube" / "like an inner tube."
 >
-> ** Natural/common English: "ring-shaped" ou "toroidal" (plus
+>   * Natural/common English: "ring-shaped" ou "toroidal" (plus
 >     technique). La forme d'une chambre à air est universellement
 >     comprise comme étant "ring-shaped" (en forme d'anneau).
 
