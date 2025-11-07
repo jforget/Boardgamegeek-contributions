@@ -1407,13 +1407,68 @@ Test effectué le 7 novembre 2025
 
 </details>
 
+> _V.O._ This rule is optional and we advise you not to use it if your opponent is a rule lawyer.
+
+> _MAUVAIS_ Cette règle est facultative et nous vous conseillons de ne
+> pas l'utiliser si votre adversaire est un avocat des règles.
+
+> _BON_ Cette règle est facultative et nous vous conseillons de ne pas
+> l'utiliser si vous êtes face à un ergoteur, un pinailleur ou un
+> coupeur de cheveux en quatre.
+
+<details>
+<summary>Compléments pour la traduction automatique</summary>
+
+Word Reference ne sait pas traduire « _rule lawyer_ » puisque cette
+expression comporte deux mots. Reverso et Google Translate proposent « avocat des règles »,
+ce qui est mauvais. DeepL propose « expert en matière de règles », ce qui est
+légèrement mieux, mais pas satisfaisant.
+
+Chat GPT propose :
+
+> Cette règle est facultative, et nous vous conseillons de ne pas
+> l’utiliser si votre adversaire est un pinailleur des règles.
+
+avec des variantes « maniaque des règles », « chipote sur les règles »
+et une variante qu'il qualifie d'humoristique mais que je qualifie de mauvaise,
+« juriste des règles ».
+
+Gemini propose :
+
+> Cette règle est facultative, et nous vous déconseillons de l'utiliser
+> si votre adversaire est un _rule lawyer_.
+
+avec un commentaire expliquant que l'expression « _rule lawyer_ » est comprise
+de la communauté francophone. Néanmoins, Gemini mentionne la possibilité
+d'ajouter une explication entre parenthèses :
+
+> Cette règle est facultative, et nous vous déconseillons de l'utiliser
+> si votre adversaire est un _rule lawyer_ (ou : un chicaneur sur les
+> règles).
+
+Le Chat propose une première variante que je n'aime pas :
+
+> Cette règle est optionnelle et nous vous conseillons de ne pas
+> l’utiliser si votre adversaire est un avocat du diable des règles.
+
+puis une seconde, nettement meilleure, quoique lourde et maladroite :
+
+> Cette règle est facultative et nous vous déconseillons de l’appliquer
+> si votre adversaire est du genre à exploiter les règles à la lettre.
+
+Test effectué le 7 novembre 2025
+
+---
+
+</details>
+
 Ou alors, la couleur "green" :
 
-_V.O._ Green troops
+> _V.O._ Green troops
 
-_MAUVAIS_ Des verts
+> _MAUVAIS_ Des verts
 
-_BON_ Des bleus
+> _BON_ Des bleus
 
 Remarque : si le jeu a pour sujet la Guerre de Sécession, évitez de
 traduire "green" par "bleu", cela pourrait porter à confusion. Traduisez plutôt en "conscrit".
