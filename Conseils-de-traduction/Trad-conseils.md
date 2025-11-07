@@ -236,7 +236,15 @@ dans des règles.
 
 En 2025, j'assouplis mes recommandations. Si vous avez pu traduire au moins
 les règles, vous pouvez les diffuser. Il est préférable d'avoir un début de
-traduction que pas de traduction du tout. Mais soyez honnêtes, ne leurrez pas vos lecteurs en
+traduction que pas de traduction du tout. Comme le disait le général Patton :
+
+> Un bon plan exécuté énergiquement maintenant est meilleur qu'un plan
+> parfait exécuté la semaine prochaine.
+
+Et l'avantage de la bureautique de 2025 sur les opérations militaires de 1944,
+c'est que si vous diffusez maintenant votre bonne traduction, cela ne vous
+empêchera pas de diffuser votre traduction parfaite la semaine prochaine.
+Mais soyez honnêtes, ne leurrez pas vos lecteurs en
 leur laissant croire que vous avez fait tout le travail.
 
 ## Liste des mots techniques
@@ -1269,37 +1277,135 @@ des "sec" et des "kph", rectifiez ces horreurs en traduisant avec "s" et
 
 ### Lacunes du dictionnaire
 
-Certains termes ne peuvent pas se traduire tels quels, en regardant 
-simplement dans le dictionnaire. Un exemple, que je n'ai pas encore vu 
-dans des règles de jeu, mais qui revient souvent dans les romans de 
-science-fiction, est celui du "doughnut". Le doughnut est un beignet en 
-forme de chambre à air, très répandu en Amérique. Mais c'est aussi, pour 
-les Américains, l'archétype du tore. C'est-à-dire, un Américain ne dira 
-jamais qu'un objet a une forme torique, il dira que l'objet a la forme 
-d'un doughnut. En revanche, pour nous, l'archétype du tore est la chambre 
+Certains termes ne peuvent pas se traduire tels quels, en regardant
+simplement dans le dictionnaire. Un exemple, que je n'ai pas encore vu
+dans des règles de jeu, mais qui revient souvent dans les romans de
+science-fiction, est celui du « _doughnut_ ». Le doughnut est un beignet en
+forme de chambre à air, très répandu en Amérique. Mais c'est aussi, pour
+les Américains, l'archétype du tore. C'est-à-dire, un Américain ne dira
+jamais qu'un objet a une forme torique, il dira que l'objet a la forme
+d'un doughnut. En revanche, pour nous, l'archétype du tore est la chambre
 à air. Ainsi :
 
-_V.O._ The space base was a doughnut-shaped construction.
+> _V.O._ The space base was a doughnut-shaped construction.
 
-_MAUVAIS_ La base spatiale avait la forme d'un beignet.
+> _MAUVAIS_ La base spatiale avait la forme d'un beignet.
 
-_BON_ La base spatiale avait la forme d'une chambre à air.
+> _BON_ La base spatiale avait la forme d'une chambre à air.
 
-Remarque : comment traduisez-vous la phrase : "Le doughnut est un beignet 
-en forme de chambre à air" ? "The doughnut is a doughnut-shaped doughnut" ?
+<details>
+<summary>Compléments pour la traduction automatique</summary>
 
-Une autre lacune, qui elle a des chances de se retrouver dans un 
+Si je demande à Reverso de traduire « _doughnut-shaped_ », il me propose
+d'abord quelques exemples avec « en forme de beignet », puis un exemple
+avec « torique » et quelques exemples avec « en forme d'anneau ».
+
+Word Reference ne sait pas traduire « _doughnut-shaped_ ». Je me contente
+donc de demander la traduction de « _doughnut_ ». Le site propose deux
+traductions, l'une donnant « beignet », l'autre donnant au choix
+« anneau », « bouée » ou « boudin ».
+
+Google Translate et DeepL se contentent de la traduction « en forme
+de beignet ». Gemini et Le Chat également, mais en proposant des
+variantes avec « torique » ou « en forme d'anneau ». Chat GPT
+propose en première traduction
+
+> La base spatiale était une construction en forme d’anneau.
+
+et c'est seulement dans une variante qu'il propose
+
+> La base spatiale avait la forme d’un beignet.
+
+Test effectué le 7 novembre 2025
+
+---
+
+</details>
+
+Remarque : comment traduisez-vous la phrase : « Le doughnut est un beignet
+en forme de chambre à air » ? "The doughnut is a doughnut-shaped doughnut" ?
+
+<details>
+<summary>Compléments pour la traduction automatique</summary>
+
+Google Translate donne une traduction auto-référentielle :
+
+> The donut is a donut shaped like an inner tube.
+
+DeepL évite l'auto-référence :
+
+> The donut is a donut shaped like an inner tube.
+
+Chat GPT propose d'abord la même traduction auto-référentielle que Google
+Translate (avec l'orthographe « _doughnut_ » au lieu de « _donut_ »), puis
+des variantes analogues à la traduction de DeepL.
+
+Non seulement Gemini et Le Chat évitent l'auto-référence, mais en plus
+ils comprennent que la chambre à air est un archétype et proposent
+
+> The doughnut is a ring-shaped pastry
+
+Commentaire de Gemini :
+
+> * Doughnut: On garde le terme, car il est le sujet de la phrase et est universel.
+>
+> * Beignet: Se traduit par pastry (pâtisserie) ou fried dough (pâte
+>   frite), mais dans ce contexte, on peut aussi utiliser doughnut ou
+>   fritter. Utiliser pastry est un bon choix pour beignet.
+>
+> * En forme de chambre à air: C'est l'élément clé qui décrit la forme torique.
+>
+> **  Literal translation: "in the shape of an inner tube" / "like an inner tube."
+>
+> ** Natural/common English: "ring-shaped" ou "toroidal" (plus
+>     technique). La forme d'une chambre à air est universellement
+>     comprise comme étant "ring-shaped" (en forme d'anneau).
+
+Commentaire de Le Chat
+
+> Cependant, en anglais, on dit simplement "doughnut" ou "donut", et
+> tout le monde comprend qu’il s’agit d’un beignet en forme d’anneau.
+> L’ajout de "ring-shaped" ou "tire-shaped" n’est pas nécessaire sauf
+> pour une description technique ou humoristique.
+
+Test effectué le 7 novembre 2025
+
+---
+
+</details>
+
+Une autre lacune qui, elle, a des chances de se retrouver dans un
 historique de règle, est la traduction de "phoney".
 
-_V.O._ Phoney war
+> _V.O._ Phoney war
 
-_MAUVAIS_ Guerre bidon
+> _MAUVAIS_ Guerre bidon
 
-_BON_ Drôle de Guerre
+> _BON_ Drôle de Guerre
 
 Cela dit, j'ai entendu dire que l'expression "Drôle de Guerre" serait le résultat d'une
 erreur d'interprétation, dans laquelle le traducteur aurait entendu "Funny War" au lieu
 de "Phoney War". Toujours est-il que le texte francophone doit faire référence à la "Drôle de Guerre".
+
+<details>
+<summary>Compléments pour la traduction automatique</summary>
+
+Word Reference et Google Translate proposent uniquement « drôle de guerre ».
+Reverso propose quelques exemples avec « drôle de guerre », mais aussi d'autres avec
+« guerre fantôme ». DeepL propose d'abord « guerre factice », puis deux alternatives
+« drôle de guerre » et « guerre fictive ».
+
+Chat GPT, Gemini et Le Chat proposent d'abord « la drôle de guerre » et donnent le
+contexte historique. Ils ajoutent que si l'expression est utilisée dans un contexte autre
+que 1939-1940, alors on peut utiliser des expressions telles que « guerre fictive »,
+« guerre simulée », « guerre de façade » (Chat GPT), « guerre bidon » (Gemini),
+« guerre factive » (Le Chat) ou « fausse guerre » (Gemini et Le Chat).
+
+Test effectué le 7 novembre 2025
+
+---
+
+</details>
 
 Ou alors, la couleur "green" :
 
@@ -1309,20 +1415,20 @@ _MAUVAIS_ Des verts
 
 _BON_ Des bleus
 
-Remarque : si le jeu a pour sujet la Guerre de Sécession, évitez de 
+Remarque : si le jeu a pour sujet la Guerre de Sécession, évitez de
 traduire "green" par "bleu", cela pourrait porter à confusion. Traduisez plutôt en "conscrit".
 
-Et enfin, une mention toute particulière pour le dernier. Le mot anglais 
-"river" ne se traduit pas par "rivière", mais par "fleuve". En fait, la 
-situation est un peu plus compliquée. Parmi tous les termes désignant les 
-cours d'eau en français et en anglais, il n'y a pas de correspondance 
-exacte un pour un. Pour nous, un fleuve est un cours d'eau qui se jette 
-dans la mer, tandis qu'une rivière se jette dans un fleuve ou dans une 
-autre rivière. Pour eux, une "river" est un gros cours d'eau, et un 
-"stream" est un cours d'eau moyen. Quant aux petits cours d'eau, chez nous 
-ce sont des ruisseaux, mais chez eux ce sont des "brooks" ou des "runs". 
-C'est ainsi que le Missouri et la Saône sont des rivières, mais aussi des 
-"rivers". À l'inverse, la Veulette, longue de 1,1 km et qui se jette 
+Et enfin, une mention toute particulière pour le dernier. Le mot anglais
+"river" ne se traduit pas par "rivière", mais par "fleuve". En fait, la
+situation est un peu plus compliquée. Parmi tous les termes désignant les
+cours d'eau en français et en anglais, il n'y a pas de correspondance
+exacte un pour un. Pour nous, un fleuve est un cours d'eau qui se jette
+dans la mer, tandis qu'une rivière se jette dans un fleuve ou dans une
+autre rivière. Pour eux, une "river" est un gros cours d'eau, et un
+"stream" est un cours d'eau moyen. Quant aux petits cours d'eau, chez nous
+ce sont des ruisseaux, mais chez eux ce sont des "brooks" ou des "runs".
+C'est ainsi que le Missouri et la Saône sont des rivières, mais aussi des
+"rivers". À l'inverse, la Veulette, longue de 1,1 km et qui se jette
 dans la Manche à Veules-les-Roses, est un fleuve, mais plutôt un "brook".
 Mais dans le cas d'une règle de jeu, il est préférable de traduire fidèlement
 les mécanismes de jeu, éventuellement au détriment de l'exactitude des mots.
@@ -1339,7 +1445,7 @@ Donc, a priori, nous aurons les traductions :
 
 * run → ruisseau
 
-Néanmoins, des exceptions sont à prévoir, et il convient de faire preuve 
+Néanmoins, des exceptions sont à prévoir, et il convient de faire preuve
 de bon sens.
 
 ### Expressions consacrées et métaphores
@@ -1658,7 +1764,7 @@ Un exemple inventé, inspiré de
 D'une part nous utilisons le singulier « Moyen Âge » là où les
 anglophones utilisent le pluriel « _Middle Ages_ ». D'autre part,
 la convention pour découper le Moyen Âge en deux parties est
-différentes pour eux et pour nous. Les Francs, les Vikings et Charlemagne
+différente pour eux et pour nous. Les Francs, les Vikings et Charlemagne
 appartiennent pour nous au _Haut Moyen Âge_, mais pour eux, c'est
 _The Low Middle Ages_. Les croisades, les tournois de chevaliers et la Guerre
 de Cent Ans sont pour nous le _Bas Moyen Âge_, mais pour eux _The High Middle Ages_
