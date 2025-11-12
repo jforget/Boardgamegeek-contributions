@@ -1120,28 +1120,86 @@ Aucune mention du jeu de rôle bien connu.
 
 ### Traduction de more (2<sup>e</sup> partie)
 
-"More" ne signifie pas toujours "plus". Ce mot peut dans certains cas 
-signifier "d'autres". Exemple :
+« _More_ » ne signifie pas toujours « plus ». Ce mot peut dans certains cas
+signifier « d'autres ». Exemple :
 
-_V.O._ After the first combat round, both players can reinforce the combat 
-with more units from an adjacent area.
+> _V.O._ After the first combat round, both players can reinforce the combat
+> with more units from an adjacent area.
 
-_MAUVAIS_ Après le premier round de combat, chaque joueur peut amener en 
-renfort un nombre supérieur d'unités venant d'une zone adjacente.
+> _MAUVAIS_ Après le premier round de combat, chaque joueur peut amener en
+> renfort un nombre supérieur d'unités venant d'une zone adjacente.
 
-_BON_ Après le premier round de combat, chaque joueur peut amener en renfort 
-d'autres unités venant d'une zone adjacente.
+> _BON_ Après le premier round de combat, chaque joueur peut amener en renfort
+> d'autres unités venant d'une zone adjacente.
+
+<details>
+<summary>Compléments pour la traduction automatique</summary>
+
+Google Translate et DeepL utilisent l'adverbe « davantage », qui équivaut
+à la mauvaise traduction « un nombre supérieur de ». Chat GPT, Gemini
+et Le Chat donnent une traduction avec « des unités supplémentaires »,
+ce qui me va très bien. Chat GPT ajoute des variantes avec tout
+simplement « des renforts ».
+
+Test effectué le 12 novembre 2025
+
+---
+
+</details>
 
 ### Traduction de within
 
-Comme "more", "within" peut avoir plusieurs traductions. La plus courante 
-est "à l'intérieur", mais ce n'est pas la seule, loin de là.
+Comme « _more_ », « _within_ » peut avoir plusieurs traductions. La plus courante
+est « à l'intérieur », mais ce n'est pas la seule, loin de là.
 
-_V.O._ Within 2 hexes and within 3 game turns.
+> _V.O._ Within 2 hexes and within 3 game turns.
 
-_MAUVAIS_ À l'intérieur de 2 hex et à l'intérieur de 3 tours de jeu.
+> _MAUVAIS_ À l'intérieur de 2 hex et à l'intérieur de 3 tours de jeu.
 
-_BON_ Dans un rayon de 2 hex et dans un délai de 3 tours de jeu.
+> _BON_ Dans un rayon de 2 hex et dans un délai de 3 tours de jeu.
+
+<details>
+<summary>Compléments pour la traduction automatique</summary>
+
+Reverso donne un exemple avec « _within a 2 hexes distance_ », ainsi
+que de nombreux autres exemples avec « _within 2_ ». Aucun de ces exemples
+n'utilise la traduction maladroite « à l'intérieur ».
+
+Pour Word Reference, j'ai simplement demandé « _within_ ». La première
+traduction proposée est « à l'intérieur », comme on peut s'y attendre, mais
+heureusement la deuxième et la troisième concernent le temps et la distance
+et sont traduits par « pour dans trois jours » et « dans un rayon de 8 kilomètres »
+(pour un texte original « _within 5 miles_ », cf
+[ci-dessous](#unit%C3%A9s-de-mesures)).
+
+Google Translate évite « à l'intérieur », mais se plante quand même (avec en plus une erreur pour
+[la marque du pluriel](#les-pluriels-singuliers)) :
+
+> Dans un délai de 2 hexs et dans un délai de 3 tours de jeu.
+
+DeepL traduit exactement comme je le suggère :
+
+> Dans un rayon de 2 hexagones et dans un délai de 3 tours de jeu.
+
+Chat GPT, Gemini et Le Chat interpètent mal la limite spatiale
+en traduisant « à moins de deux hexagones ». Chat GPT et Gemini
+proposent des variantes avec « à portée de 2 hexagones »,
+ce qui ne me plaît pas vraiment et avec « dans un rayon de deux hexagones »
+ce qui est la traduction que je préconise. Ils n'ajoutent pas
+de commentaires pour signaler la différence de sens entre
+les variantes. J'ai répondu à Le Chat pour lui signaler son erreur.
+Il a donné deux traductions correctes, mais uniquement parce que je lui
+ai signalé cette erreur.
+
+> À 2 hexagones maximum et dans un délai de 3 tours de jeu.
+
+> Dans un rayon de 2 hexagones et dans les 3 tours de jeu suivants.
+
+Test effectué le 12 novembre 2025
+
+---
+
+</details>
 
 ### Traduction de each
 
@@ -1263,6 +1321,10 @@ les nœuds ou les m/s. Pour un jeu concernant des avions et avec une échelle de
 ou 15 secondes par tour, c'est dommage.
 
 Test effectué le 21 octobre 2025
+
+À l'occasion du test du 12 novembre pour
+[« _within_ »](#traduction-de-within),
+j'ai pu constater que DeepL abonde dans mon sens.
 
 ---
 
@@ -2256,6 +2318,12 @@ remarquable pour un livre de 700 pages, relié, et importé des
 _The Shallowness of Google Translate_
 
 * _Dire presque la même chose_ par Umberto Eco, chez Grasset.
+
+### Quelques pages intéressantes sur Internet
+
+* [Lexilogos](https://www.lexilogos.com/anglais_dictionnaire.htm), utile surtout pour la liste de liens dont :
+
+* [faux-amis à ne pas confondre (PDF)](http://ekladata.com/X_E5U1FyKGj3e1-miOFyu4PTPM8/Anglais-Les-faux-amis.pdf).
 
 ### Enfin, un tout petit peu plus en marge.
 
