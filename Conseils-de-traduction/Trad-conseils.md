@@ -1203,56 +1203,151 @@ Test effectué le 12 novembre 2025
 
 ### Traduction de each
 
-"Each" se traduit par "chaque". Le problème se pose en fait quand "each" est 
-suivi de deux noms. Il n'y a aucune règle stricte permettant de savoir sur 
-quel nom porte le mot "chaque". Il faut donc tester les deux cas, et voir 
+"Each" se traduit par "chaque". Le problème se pose en fait quand "each" est
+suivi de deux noms. Il n'y a aucune règle stricte permettant de savoir sur
+quel nom porte le mot "chaque". Il faut donc tester les deux cas, et voir
 lequel des deux a un sens. Exemples :
 
-_V.O._ Each armored unit combat value.
+> _V.O._ Each armored unit combat value.
 
-_MAUVAIS_ Chaque valeur de combat d'unité blindée.
+> _MAUVAIS_ Chaque valeur de combat d'unité blindée.
 
-_BON_ La valeur de combat de chaque unité blindée.
+> _BON_ La valeur de combat de chaque unité blindée.
 
-_V.O._ Each action segment.
+> _V.O._ Each action segment.
 
-_MAUVAIS_ Le segment de chaque action.
+> _MAUVAIS_ Le segment de chaque action.
 
-_BON_ Chaque segment d'action.
+> _BON_ Chaque segment d'action.
+
+<details>
+<summary>Compléments pour la traduction automatique</summary>
+
+Dans le premier cas, Google Translate, DeepL, Gemini et Le Chat ont
+compris que « chaque » qualifie les unités blindées, pas les valeurs
+de combat. Chat GPT donne trois variantes, deux bonnes et une
+mauvaise.
+
+Dans le deuxième cas, tous les sites ont compris que « chaque »
+ne qualifiait pas « action », mais segment. Cela dit, Chat GPT,
+Gemini et Le Chat proposent en plus la traduction
+
+> Chaque phase d’action
+
+ce qui, dans certains jeux, n'est pas judicieux, car il existe plusieurs
+niveaux de découpage dans la séquence de jeu. Une partie se décompose en
+tours, un tour se décompose en segments et un segment se décompose en
+phases. Cela dit, quand la séquence de jeu est plus simple avec moins
+de niveaux, autant utiliser le terme « phase ». Mais en général, c'est
+déjà le terme utilisé dans la version originale.
+
+Test effectué le 12 novembre 2025
+
+---
+
+</details>
 
 ### Traduction de when
 
-Comme vous le savez, "when" signifie "quand". Sauf que parfois, cela 
-signifie "si". Par exemple :
+Comme vous le savez, "when" signifie "quand". Sauf que parfois, cela
+signifie "si", une condition au lieu d'un temps. Par exemple :
 
-_V.O._ A unit exerts a ZOC into the six surrounding hexes, except when 
-disorganized.
+> _V.O._ A unit exerts a ZOC into the six surrounding hexes, except when
+> disorganized.
 
-_MAUVAIS_ Une unité exerce une zone de contrôle dans les six hex adjacents, 
-sauf quand désorganisée.
+> _MAUVAIS_ Une unité exerce une zone de contrôle dans les six hex adjacents,
+> sauf quand désorganisée.
 
-_PAS FAMEUX_ Une unité exerce une zone de contrôle dans les six hex 
-adjacents, sauf si désorganisée.
+> _PAS FAMEUX_ Une unité exerce une zone de contrôle dans les six hex
+> adjacents, sauf si désorganisée.
 
-_BON_ Une unité exerce une zone de contrôle dans les six hex adjacents, sauf 
-si elle est désorganisée.
+> _BON_ Une unité exerce une zone de contrôle dans les six hex adjacents, sauf
+> si elle est désorganisée.
+
+<details>
+<summary>Compléments pour la traduction automatique</summary>
+
+DeepL, Chat GPT et Gemini conservent la notion de temps et traduisent
+par :
+
+> Une unité exerce une ZDC sur les six hexagones adjacents, sauf lorsqu'elle est désorganisée.
+
+Google Translate aussi, en faisant
+[la faute d'orthographe sur « hex » au pluriel](#les-pluriels-singuliers)) :
+
+> Une unité exerce une ZOC dans les six hexs environnants, sauf lorsqu'elle est désorganisée.
+
+En revanche, Le Chat comprend qu'il s'agit plutôt d'une condition et propose
+la traduction
+
+> Une unité exerce une ZOC sur les six hexagones adjacents, sauf si elle est désorganisée.
+
+Test effectué le 12 novembre 2025
+
+---
+
+</details>
 
 ### Traduction des superlatifs
 
-_V.O._ If the entry hex is occupied, the unit is placed in the nearest empty 
-hex.
+> _V.O._ If the entry hex is occupied, the unit is placed in the nearest empty
+> hex.
 
-_MAUVAIS_ Si l'hex d'entrée est occupé, placez l'unité dans le plus proche 
-hex vide.
+> _MAUVAIS_ Si l'hex d'entrée est occupé, placez l'unité dans le plus proche
+> hex vide.
 
-_BON_ Si l'hex d'entrée est occupé, placez l'unité dans l'hex vide le plus 
-proche.
+> _BON_ Si l'hex d'entrée est occupé, placez l'unité dans l'hex vide le plus
+> proche.
 
-Encore que, dans certains cas, la syntaxe "mauvaise" n'est pas 
-franchement mauvaise, et elle peut parfois être tout-à-fait correcte. 
-Néanmoins, à chaque fois que vous être confrontés à une phrase de ce 
-genre, essayez d'examiner les deux formulations pour voir quelle est la 
+Encore que, dans certains cas, la syntaxe "mauvaise" n'est pas
+franchement mauvaise, et elle peut parfois être tout-à-fait correcte.
+Néanmoins, à chaque fois que vous être confrontés à une phrase de ce
+genre, essayez d'examiner les deux formulations pour voir quelle est la
 plus élégante.
+
+<details>
+<summary>Compléments pour la traduction automatique</summary>
+
+Tous les sites proposent une traduction où le superlatif suit le nom
+qualifié. Cela dit, Chat GPT et Gemini proposent également des variantes
+avec la syntaxe lourde et inélégante. Voici le commentaire de Chat GPT,
+qui rate le coche :
+
+> Variante un peu plus fluide (si c’est pour un livret de règles de jeu) :
+>
+> « Si l’hexagone d’entrée est occupé, placez l’unité dans le plus proche hexagone vide. »
+
+et l'explication de Gemini :
+
+> * nearest empty hex : l'hexagone vide le plus proche (ou le plus proche hexagone vide).
+
+Quant à Le Chat, la variante qu'il donne est erronée, car elle suppose que
+l'unité ne peut pas être "parachutée" à plusieurs hexagones de distance :
+
+> * « Si l’hexagone de déploiement est occupé, l’unité est placée dans l’hexagone libre adjacent. »
+> (pour un manuel plus technique)
+
+Bon, c'est vrai, une règle de ce type s'applique généralement à un marqueur
+de chef, représentant une dizaine d'individus (le général, son aide de camp et
+son escorte rapprochée) plutôt qu'à une unité de combat complète, comme un
+régiment ou une brigade et il est envisageable de téléporter le général et son
+escorte à une distance de plusieurs hexagones, ce qui est impossible pour
+un régiment. J'ai reposé la question à Le Chat en remplaçant « _unit_ »
+par « _leader counter_ » et il a donné des traductions sur le même modèle.
+La traduction erronée est encore plus erronée, avec deux erreurs au lieu d'une :
+
+> * « Si l’hexagone de déploiement est occupé, le compteur de leader est
+> placé dans l’hexagone libre adjacent. » (pour un manuel technique ou
+> un wargame)
+
+Pourquoi « compteur de leader » ? La traduction principale et la première variante
+avaient droit à « marqueur de chef » et à « pion chef ».
+
+Test effectué le 12 novembre 2025
+
+---
+
+</details>
 
 ### Traductions de "carte"
 
