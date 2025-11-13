@@ -2116,51 +2116,73 @@ Test effectué le 13 novembre 2025
 
 ### Traduction des noms propres
 
-En général, il ne faut pas traduire les noms propres. Il y a quelques 
-exceptions. Cela concerne essentiellement les noms des grandes villes, 
-comme London, Moscow et Varsaw, qui deviennent Londres, Moscou et 
-Varsovie. De même, certains prénoms sont à traduire, comme Alexander et 
+En général, il ne faut pas traduire les noms propres. Il y a quelques
+exceptions. Cela concerne essentiellement les noms des grandes villes,
+comme London, Moscow et Varsaw, qui deviennent Londres, Moscou et
+Varsovie. De même, certains prénoms sont à traduire, comme Alexander et
 William, qui deviennent Alexandre et Guillaume quand il s'agit du
 [célèbre macédonien](https://www.laculturegenerale.com/alexandre-le-grand/)
 et du [célèbre normand](https://www.worldhistory.org/trans/fr/1-16891/guillaume-le-conquerant/).
 En revanche, laissez tels quels les prénoms du général nordiste
 [William Sherman](https://www.histoiredumonde.net/William-Tecumseh-Sherman.html)
-et de l'homme d'état américain 
+et de l'homme d'état américain
 [Alexander Haig](https://fr.wikipedia.org/wiki/Alexander_Haig).
-À noter que William et Guillaume sont deux orthographes 
-différentes du même prénom. Il arrive assez souvent qu'un mot anglais 
-commençant par "w" corresponde à un mot français commençant par "g" ou 
-"gu". Essayez avec "Wales", "warrior" et "wages".
+À noter que William et Guillaume sont deux orthographes
+différentes du même prénom. Il arrive assez souvent qu'un mot anglais
+commençant par "w" corresponde à un mot français commençant par "g" ou
+"gu". Essayez avec « _Wales_ », « _warrior_ », « _warden_ » et « _wages_ ».
+Essayez également avec le prénom « _Walter_ », sachant qu'il faut en plus
+faire intervenir l'équivalence entre « al » et « au » (comme pour
+« cheval » au pluriel).
 
-Un autre cas de figure concerne les noms propres écrits en cyrillique, 
-c'est-à-dire venant du russe. Les anglophones ne transcrivent pas les 
+Un autre cas de figure concerne les noms propres écrits en cyrillique,
+c'est-à-dire venant du russe. Les anglophones ne transcrivent pas les
 caractères cyrilliques comme nous. Exemple :
 
-_V.O._ On November 19th 1942, the Soviet army counterattacks with a big 
-pincer move, involving Vatutin's Southwest Front, Rokossovsky's Don Front, 
-and Yeremenko's Stalingrad Front. Zhukov is in overall command.
+> _V.O._ On November 19th 1942, the Soviet army counterattacks with a big
+> pincer move, involving Vatutin's Southwest Front, Rokossovsky's Don Front,
+> and Yeremenko's Stalingrad Front. Zhukov is in overall command.
 
-_MAUVAIS_ Le 19 novembre 1942, les forces soviétiques contre-attaquent, avec 
-un mouvement en tenaille auquel participent le Front du Sud-Ouest de 
-Vatutin, le Front du Don de Rokossovsky, et le Front de Stalingrad de 
-Yeremenko. Zhukov assume le commandement suprême.
+> _MAUVAIS_ Le 19 novembre 1942, les forces soviétiques contre-attaquent, avec
+> un mouvement en tenaille auquel participent le Front du Sud-Ouest de
+> Vatutin, le Front du Don de Rokossovsky, et le Front de Stalingrad de
+> Yeremenko. Zhukov assume le commandement suprême.
 
-_BON_ Le 19 novembre 1942, les forces soviétiques contre-attaquent, avec un 
-mouvement en tenaille auquel participent le Front du Sud-Ouest de 
-Vatoutine, le Front du Don de Rokossovski, et le Front de Stalingrad 
-dirigé par Eremenko. Joukov assume le commandement suprême.
+> _BON_ Le 19 novembre 1942, les forces soviétiques contre-attaquent, avec un
+> mouvement en tenaille auquel participent le Front du Sud-Ouest de
+> Vatoutine, le Front du Don de Rokossovski, et le Front de Stalingrad
+> dirigé par Eremenko. Joukov assume le commandement suprême.
 
-Seulement, je reconnais qu'il y a un problème : quand il n'est plus 
-question de la Deuxième Guerre Mondiale, mais de la marine soviétique, euh 
+<details>
+<summary>Compléments pour la traduction automatique</summary>
+
+Tous les sites de traduction ont transcrit « _Zhukov_ » en « Joukov ».
+Dans le cas des trois sites d'IA, ils ont ajouté une remarque
+sur la transcription de ce nom propre. Les cinq sites ont
+également transcrit « _Vatutin_ » en « Vatoutine », mais
+sans faire aucune remarque. En revanche, DeepL et Chat GPT ont conservé
+l'orthographe « _Yeremenko_ », tandis que Le Chat a utilisé
+« Ieremenko ». Google Translate et Gemini ont correctement
+utilisé « Eremenko ». Gemini a même remarqué qu'il s'agissait
+d'une description de l'Opération Uranus.
+
+Test effectué le 13 novembre 2025
+
+---
+
+</details>
+
+Seulement, je reconnais qu'il y a un problème : quand il n'est plus
+question de la Deuxième Guerre Mondiale, mais de la marine soviétique, euh
 russo-ukraino-azero-xxx, je consulte
 [_Flottes de Combat_](http://netmarine.net/g/dossiers/fdc/),
-et j'y trouve entre autres le porte-aéronefs Baku et le destroyer Marshal Shaposhnikov. 
-Comme vous pouvez le constater, l'auteur a utilisé les équivalences russe 
-→ anglais au lieu des équivalences russe → français. Je peux sans grand 
-risque transcrire en porte-aéronefs Bakou. Mais dois-je traduire le second 
-en Maréchal Chapochnikov ou en Marshal Chapochnikov ? Et la frégate 
-Druzhnyy, dois-je l'écrire Droujni, Droujny, Droujniy, ou encore 
-différemment ? Vaut-il mieux tout laisser à la sauce anglophone, ou bien 
+et j'y trouve entre autres le porte-aéronefs Baku et le destroyer Marshal Shaposhnikov.
+Comme vous pouvez le constater, l'auteur a utilisé les équivalences russe
+→ anglais au lieu des équivalences russe → français. Je peux sans grand
+risque transcrire en porte-aéronefs Bakou. Mais dois-je traduire le second
+en Maréchal Chapochnikov ou en Marshal Chapochnikov ? Et la frégate
+Druzhnyy, dois-je l'écrire Droujni, Droujny, Droujniy, ou encore
+différemment ? Vaut-il mieux tout laisser à la sauce anglophone, ou bien
 transcrire à la façon française quand c'est possible ?
 
 ### Ordre alphabétique
