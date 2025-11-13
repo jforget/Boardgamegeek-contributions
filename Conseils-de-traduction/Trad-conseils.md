@@ -2160,11 +2160,24 @@ Tous les sites de traduction ont transcrit « _Zhukov_ » en « Joukov ».
 Dans le cas des trois sites d'IA, ils ont ajouté une remarque
 sur la transcription de ce nom propre. Les cinq sites ont
 également transcrit « _Vatutin_ » en « Vatoutine », mais
-sans faire aucune remarque. En revanche, DeepL et Chat GPT ont conservé
+sans faire aucune remarque. Quant à « _Rokossovsky_ »
+avec son "y", quatre sites ont converti en « Rokossovski »,
+seul Le Chat a conservé la transcription anglophone « _Rokossovsky_ »
+De même, DeepL et Chat GPT ont conservé
 l'orthographe « _Yeremenko_ », tandis que Le Chat a utilisé
 « Ieremenko ». Google Translate et Gemini ont correctement
 utilisé « Eremenko ». Gemini a même remarqué qu'il s'agissait
 d'une description de l'Opération Uranus.
+
+Remarques complémentaires : Le Chat a mentionné
+« une contre-offensive en tenue de pinces » au lieu
+de la traduction consacrée « ... en tenaille ».
+D'autre part, seuls Chat GPT et Gemini ont conservé la
+majuscule au mot « Front ». Le Chat se contredit à ce sujet.
+Sa traduction utilise des minuscules tandis que les
+commentaires de traduction contiennent cette remarque :
+
+> * "Front" est gardé en majuscule, car il s’agit de noms propres d’unités militaires soviétiques.
 
 Test effectué le 13 novembre 2025
 
