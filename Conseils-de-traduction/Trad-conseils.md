@@ -2411,24 +2411,24 @@ de contact.
 
 ## Finalement
 
-Faites lire votre traduction par quelqu'un d'autre, même par un étranger 
-au monde de la simulation historique. Si vous relisez vous-mêmes votre 
-prose, vous ne détecterez pas les erreurs de syntaxe et les contre-sens 
+Faites lire votre traduction par quelqu'un d'autre, même par un étranger
+au monde de la simulation historique. Si vous relisez vous-mêmes votre
+prose, vous ne détecterez pas les erreurs de syntaxe et les contre-sens
 que vous avez faits la première fois. Un œil neuf sera bénéfique.
 
-Les conseils énumérés ci-dessus ne sont pas tous faciles à appliquer, 
-j'en conviens. Notamment, il peut arriver qu'une expression consacrée 
-analogue à "doughnut" ou à "four-letter word" soit mal traduite. Il peut 
-arriver que vous "détectiez" une expression consacrée, sans pouvoir en 
-saisir le sens. Il se peut que vous ne soyez pas satisfaits de la façon 
-dont vous avez transcrit un jeu de mot ou une pointe d'humour. Dans ce 
-cas, précisez-le sur une feuille séparée. Les personnes chargées de la 
-relecture auront peut-être une suggestion à formuler. En revanche, 
-d'autres préconisations sont très faciles à mettre en œuvre, comme le 
-pluriel de "hex" et de "F-15", ou la traduction de verbes à la voix passive. 
+Les conseils énumérés ci-dessus ne sont pas tous faciles à appliquer,
+j'en conviens. Notamment, il peut arriver qu'une expression consacrée
+analogue à "doughnut" ou à "four-letter word" soit mal traduite. Il peut
+arriver que vous "détectiez" une expression consacrée, sans pouvoir en
+saisir le sens. Il se peut que vous ne soyez pas satisfaits de la façon
+dont vous avez transcrit un jeu de mot ou une pointe d'humour. Dans ce
+cas, précisez-le sur une feuille séparée. Les personnes chargées de la
+relecture auront peut-être une suggestion à formuler. En revanche,
+d'autres préconisations sont très faciles à mettre en œuvre, comme le
+pluriel de "hex" et de "F-15", ou la traduction de verbes à la voix passive.
 Ces conseils ont donc un caractère plus catégorique.
 
-Remarque en 2025. « Les personnes chargées de la relecture » : 
+Remarque en 2025. « Les personnes chargées de la relecture » :
 il vaudrait mieux écrire « si des volontaires se chargent de la relecture ».
 Je pense que
 [Ludistratège](http://www.ludistratege.com/)
@@ -2438,36 +2438,36 @@ du volontariat.
 
 ## Et ensuite
 
-Une fois votre traduction rédigée, mise en page et diffusée, ne négligez 
-pas les retours. Ne prenez pas mal le fait que l'on vous signale les 
-erreurs que vous avez commises. Une traduction est toujours perfectible, 
-c'est normal que l'on vous signale des améliorations. Et si des lecteurs 
-vous font part de leurs remarques, transmettez-les moi, que je puisse 
-compléter le présent document. Je ne citerai aucun nom, le but de ces 
+Une fois votre traduction rédigée, mise en page et diffusée, ne négligez
+pas les retours. Ne prenez pas mal le fait que l'on vous signale les
+erreurs que vous avez commises. Une traduction est toujours perfectible,
+c'est normal que l'on vous signale des améliorations. Et si des lecteurs
+vous font part de leurs remarques, transmettez-les moi, que je puisse
+compléter le présent document. Je ne citerai aucun nom, le but de ces
 conseils n'étant pas de coller au pilori un courageux traducteur bénévole.
 
 ## Pour en savoir plus
 
-Outre les grammaires et dictionnaires, toujours utiles, vous pouvez 
-consulter les ouvrages suivants, qui traitent des difficultés sémantiques 
+Outre les grammaires et dictionnaires, toujours utiles, vous pouvez
+consulter les ouvrages suivants, qui traitent des difficultés sémantiques
 et culturelles de traduction :
 
-* _Gödel Escher Bach les Brins d'une Guirlande Éternelle_ par Douglas 
-Hofstadter . Le passage en question se trouve dans le chapitre "Esprits et 
-pensées", pages 417 à 425. Si cet extrait peut se lire sans trop de 
-difficulté, ce n'est pas le cas de certains autres chapitres, soyez 
+* _Gödel Escher Bach les Brins d'une Guirlande Éternelle_ par Douglas
+Hofstadter . Le passage en question se trouve dans le chapitre "Esprits et
+pensées", pages 417 à 425. Si cet extrait peut se lire sans trop de
+difficulté, ce n'est pas le cas de certains autres chapitres, soyez
 prévenus !
 
-* _Ma Thémagie_ du même auteur. Voir le chapitre "Rôles et analogies dans la 
-pensée des humains et des machines". Plus abordable que le précédent. 
+* _Ma Thémagie_ du même auteur. Voir le chapitre "Rôles et analogies dans la
+pensée des humains et des machines". Plus abordable que le précédent.
 
-* _Le Ton Beau de Marot_ du même auteur. Malgré son titre, il s'agit d'un 
-livre en anglais, et à ma connaissance, il n'est pas traduit. Mais puisque 
-vous vous sentez concernés par cet article, vous n'aurez aucun problème 
-pour le lire en version originale.  Et comme il n'y a quasiment pas de 
-mathématiques, il est très abordable (au sens compréhension, pas au sens 
-pécunier ; quoique, je l'ai eu en solde à 79 F, ce qui est 
-remarquable pour un livre de 700 pages, relié, et importé des 
+* _Le Ton Beau de Marot_ du même auteur. Malgré son titre, il s'agit d'un
+livre en anglais, et à ma connaissance, il n'est pas traduit. Mais puisque
+vous vous sentez concernés par cet article, vous n'aurez aucun problème
+pour le lire en version originale.  Et comme il n'y a quasiment pas de
+mathématiques, il est très abordable (au sens compréhension, pas au sens
+pécunier ; quoique, je l'ai eu en solde à 79 F, ce qui est
+remarquable pour un livre de 700 pages, relié, et importé des
 États-Unis).
 
 * Un [article](https://www.theatlantic.com/technology/archive/2018/01/the-shallowness-of-google-translate/551570/) (en anglais) de Douglas Hofstadter :
@@ -2483,15 +2483,15 @@ _The Shallowness of Google Translate_
 
 ### Enfin, un tout petit peu plus en marge.
 
-* _The Discworld Companion_ par Terry Pratchett et Stephen Briggs, chapitre 
+* _The Discworld Companion_ par Terry Pratchett et Stephen Briggs, chapitre
 "The Language Barrier: It's All Klatchian To Me.".
 
-* _Do you speak science?_ par Marc Défourneaux, 
+* _Do you speak science?_ par Marc Défourneaux,
 édition Gauthier-Villars.  Ce
-livre présente la langue anglaise telle qu'elle apparaît dans les 
-documents scientifiques et techniques. Outre que cela vous permet de 
-réviser et de compléter votre vocabulaire, ce livre vous fait prendre 
-conscience que l'anglais scolaire, littéraire et journalistique, ce n'est 
+livre présente la langue anglaise telle qu'elle apparaît dans les
+documents scientifiques et techniques. Outre que cela vous permet de
+réviser et de compléter votre vocabulaire, ce livre vous fait prendre
+conscience que l'anglais scolaire, littéraire et journalistique, ce n'est
 pas la totalité de la langue anglaise, loin de là.
 
 
