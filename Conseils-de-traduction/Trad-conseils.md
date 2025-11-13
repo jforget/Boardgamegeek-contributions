@@ -2065,28 +2065,54 @@ Test effectué les 5 et 6 novembre 2025
 
 ### Jeux de mots
 
-Il est quasiment impossible de traduire tel quel un jeu de mots. Si 
-possible, il faut trouver un jeu de mots équivalent en français. Un 
-exemple particulièrement intéressant se trouve dans la traduction 
+Il est quasiment impossible de traduire tel quel un jeu de mots. Si
+possible, il faut trouver un jeu de mots équivalent en français. Un
+exemple particulièrement intéressant se trouve dans la traduction
 française du
 [roman _Shining_](https://fr.wikipedia.org/wiki/Shining,_l%27enfant_lumi%C3%A8re)
 de Stephen King. Si ma mémoire ne me trahit pas, cela donne :
 
-_V.O._ Mr Ullman was always talking about suites. But Danny could not see 
-any candies.
+> _V.O._ Mr Ullman was always talking about suites. But Danny could not see
+> any candies.
 
-_BON_ M. Ullman parlait continuellement de la crème, des huiles et du 
-gratin. Cela étonnait Danny, car ils se trouvaient dans les appartements 
-de luxe, pas dans les cuisines.
+> _BON_ M. Ullman parlait continuellement de la crème, des huiles et du
+> gratin. Cela étonnait Danny, car ils se trouvaient dans les appartements
+> de luxe, pas dans les cuisines.
 
 (Exemple reconstitué, mais pour lequel je n'ai ni la version originale,
 ni la traduction.)
 
-De cette manière, le traducteur s'est arrangé pour donner à la fois la 
-traduction mot-à-mot "suite" = "appartement de luxe", et pour traduire un 
-jeu de mots simple "suite" / "sweet" par un triple jeu de mots portant 
-également sur la nourriture. Encore une remarque au passage, avez-vous 
+De cette manière, le traducteur s'est arrangé pour donner à la fois la
+traduction mot-à-mot "suite" = "appartement de luxe", et pour traduire un
+jeu de mots simple "suite" / "sweet" par un triple jeu de mots portant
+également sur la nourriture. Encore une remarque au passage, avez-vous
 remarqué que l'on écrit "Mr" en anglais et "M." en français ?
+
+Mais si vous ne trouvez pas de jeu de mots à insérer dans votre
+traduction, tant pis, laissez tomber. Signalez-le quand même dans
+le fichier de notes où vous décrivez les problèmes de traduction.
+
+<details>
+<summary>Compléments pour la traduction automatique</summary>
+
+Tous les sites de traduction ont mentionné des bonbons (ou des
+bonbonnières ou des sucreries), aucun n'a mentionné les huiles,
+la crème et le gratin, voire les grosses légumes. De plus, tous
+les sites ont traduit « _Mr_ » en « M. ». Cela dit, Gemini a ajouté :
+
+> Voulez-vous que je vérifie si cette phrase vient d'un livre ou d'un film célèbre, comme Shining ?
+
+J'ai accepté et Gemini a confirmé que cette phrase venait bien du livre
+de Stephen King. En revanche, Gemini n'a vraisemblablement pas accès
+à la traduction française, car il confirme que ce passage correspond
+à une confusion entre les « suites (ensemble de pièces) de l'hôtel »
+et les « "sweets" (bonbons) ».
+
+Test effectué le 13 novembre 2025
+
+---
+
+</details>
 
 ### Traduction des noms propres
 
