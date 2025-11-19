@@ -2409,6 +2409,27 @@ comment on peut joindre l'auteur et l'éditeur (messagerie, site web,
 Facebook, Board Game Geek, etc) et adaptez en conséquence le paragraphe
 de contact.
 
+## Licence
+
+Ce sujet existe depuis longtemps. En 1996--2000, je n'ai pas pris la
+peine d'y consacrer un paragraphe dans les conseils de traduction
+et c'est une erreur. Je me rattrape maintenant.
+
+Donc, n'oubliez pas d'attribuer une licence (et si nécessaire un
+copyright) à votre traduction. S'il y a un « ours » (terme d'imprimerie)
+ou une liste de crédits, ajoutez votre licence à cet ours ou ces crédits.
+Sinon, ajoutez votre licence à la fin de la traduction.
+
+Si vous pouvez contacter l'auteur ou l'éditeur du jeu,
+vous pouvez lui demander quelle licence il vous permet d'utiliser
+pour la traduction. Sinon, faites au mieux.
+
+Évidemment, si vous souhaitez diffuser votre traduction sur un site comme
+[Boardgame Geek](http://boardgamegeek.com/),
+vérifiez que la licence que vous prévoyez d'utiliser soit compatible.
+J'avoue que c'est assez difficile de trouver quelles sont les
+licences autorisées dans les textes d'aide et d'instructions de BGG.
+
 ## Finalement
 
 Faites lire votre traduction par quelqu'un d'autre, même par un étranger
