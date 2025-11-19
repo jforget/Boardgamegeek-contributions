@@ -456,6 +456,29 @@ Test effectué le 21 octobre 2025
 
 </details>
 
+C'est le même problème avec cette règle très fréquente (extraite dans le cas présent de
+[Ancients](https://boardgamegeek.com/boardgame/6399/ancients-i)) :
+
+> _V.O._ In a movement phase, a player can move some, none or all his units.
+
+> _MAUVAIS_ Pendant une phase de mouvement, un joueur peut déplacer quelques,
+> aucune ou toutes ses unités.
+
+> _BON_ Pendant une phase de mouvement, un joueur peut déplacer quelques unités, ou
+> aucune, ou toutes.
+
+<details>
+<summary>Compléments pour la traduction automatique</summary>
+
+Parmi les cinq sites permettant de traduire des phrases, aucun n'a cherché
+à rééquilibrer la phrase en déplaçant le terme « unités ».
+
+Test effectué le 19 novembre 2025
+
+---
+
+</details>
+
 ### Mise en facteur commun des articles
 
 Il nous arrive de mettre en commun un adjectif quand il se rapporte à des
