@@ -2063,6 +2063,49 @@ Test effectué les 5 et 6 novembre 2025
 
 </details>
 
+### Erreurs manifestes
+
+Exemple tiré de [_Air Superiority_](https://boardgamegeek.com/boardgame/3613/air-superiority).
+
+> _V.O._ Each missile, gun pod, ECM pod, and drop-tank has a load point
+> rating based on its size and weight.
+
+> _MAUVAIS_ Chaque missile, nacelle ou bidon a une valeur de chargement basée sur
+> la taille et le poids.
+
+> _BON_ Chaque missile, nacelle ou bidon a une valeur de chargement basée sur
+> la taille et la masse.
+
+La traduction correcte de « _weight_ » est « poids ». Cela dit, la confusion
+entre « masse » et « poids » est assez répandue. C'est le cas dans la règle en
+version originale. Les emports externes des avions posent de gros problèmes
+surtout lors des virages serrés, pas tellement lorsque l'avion est en vol
+horizontal. C'est donc la masse qui importe, pas le poids. D'où la traduction
+conseillée.
+
+Remarque. J'ai extrait cet exemple d'une traduction écrite par quelqu'un d'autre
+et qui avait déjà fait la correction. La mauvaise traduction est une traduction
+reconstituée, la bonne traduction est authentique.
+
+Autres confusions fréquentes : chaleur et température, météo et climat.
+
+<details>
+<summary>Compléments pour la traduction automatique</summary>
+
+Tous les sites de traduction traduisent « _weight_ » par « poids »
+sans se poser de question. Les sites d'intelligence artificielle
+ajoutent comme à l'habitude des remarques, mais aucune remarque
+ne porte sur la confusion entre « poids » et « masse ». Seul rayon
+de soleil dans la masse nuageuse, Reverso (à qui j'ai soumis seulement
+« _weight_ » au lieu de la phrase complète) mentionne la possibilité
+de traduire par « masse ».
+
+Test effectué le 19 novembre 2025
+
+---
+
+</details>
+
 ### Jeux de mots
 
 Il est quasiment impossible de traduire tel quel un jeu de mots. Si
