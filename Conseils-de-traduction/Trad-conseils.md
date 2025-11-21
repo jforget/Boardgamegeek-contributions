@@ -152,7 +152,7 @@ Une autre possibilité que j'utilise sporadiquement consiste à consulter
 un article sur la
 [Wikipedia anglophone](http://en.wikipedia.org/).
 et à demander l'article équivalent dans la
-[Wikipedia francophone](https://fr.wikipedia.org/)
+[Wikipedia francophone](https://fr.wikipedia.org/).
 J'utilise alors le titre de ce second article comme
 traduction. Attention, cela ne réussit pas toujours.
 Par exemple, en appliquant cette méthode à
@@ -2519,14 +2519,14 @@ licences autorisées dans les textes d'aide et d'instructions de BGG.
 Le formulaire de téléchargement propose trois choix, « _All Rights Reserved_ »,
 « _Creative Commons (some rights reserved)_ » et « _No Rights Reserved_ ». Le choix
 « _No Rights Reserved_ » correspond à
-[CC0 Universel](https://creativecommons.org/publicdomain/zero/1.0/deed.fr)
+[CC0 1.0 Universel](https://creativecommons.org/publicdomain/zero/1.0/deed.fr)
 (pas de droit d'auteur).
 Au hasard de mes promenades dans BGG, j'ai trouvé que le choix
 « _Creative Commons (some rights reserved_) » peut correspondre à
 [CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/deed.fr)
-(Attribution - Pas d’Utilisation Commerciale) ou à
+(Attribution - Pas d’Utilisation Commerciale 3.0 non transposé) ou à
 [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/deed.fr)
-(https://creativecommons.org/licenses/by/3.0/deed.fr),
+(Attribution 3.0 non transposé),
 mais il peut y avoir d'autres variantes de _Creative Commons_.
 
 
