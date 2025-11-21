@@ -148,6 +148,21 @@ En général, je demande la traduction d'un seul mot à la fois.
 Il m'arrive de demander la traduction d'une expression de 2, 3 ou 4 mots,
 mais jamais la traduction d'une phrase complète.
 
+Une autre possibilité que j'utilise sporadiquement consiste à consulter
+un article sur la
+[Wikipedia anglophone](http://en.wikipedia.org/).
+et à demander l'article équivalent dans la
+[Wikipedia francophone](https://fr.wikipedia.org/)
+J'utilise alors le titre de ce second article comme
+traduction. Attention, cela ne réussit pas toujours.
+Par exemple, en appliquant cette méthode à
+[l'article « _Owl_ »](https://en.wikipedia.org/wiki/Owl),
+on obtient directement
+[l'article « Strigiformes »](https://fr.wikipedia.org/wiki/Strigiformes)
+au lieu de se voir proposer le choix entre
+[« hibou »](https://fr.wikipedia.org/wiki/Hibou)
+et [« chouette »](https://fr.wikipedia.org/wiki/Chouette).
+
 Pour les autres langues, il m'arrive d'utiliser Google Translate
 ou DeepL et de leur soumettre un texte complet (quoique limité
 à 1500 caractères pour DeepL et à 5000 caractères pour Google Translate).
@@ -2108,9 +2123,15 @@ conseillée.
 
 Remarque. J'ai extrait cet exemple d'une traduction écrite par quelqu'un d'autre
 et qui avait déjà fait la correction. La mauvaise traduction est une traduction
-reconstituée, la bonne traduction est authentique.
+inventée, la bonne traduction est authentique.
 
 Autres confusions fréquentes : chaleur et température, météo et climat.
+
+Si vous n'êtes pas sûr qu'il y a effectivement une erreur, et demandez conseil à
+des humains (ne faites pas confiance aux intelligences artificielles sur une
+telle question). Si personne n'a réussi à apporter une argumentation
+convaincante dans un sens ou dans l'autre, choisissez la traduction fidèle. On
+ne vous en voudra pas.
 
 <details>
 <summary>Compléments pour la traduction automatique</summary>
@@ -2495,6 +2516,19 @@ pour la traduction. Sinon, faites au mieux.
 vérifiez que la licence que vous prévoyez d'utiliser soit compatible.
 J'avoue que c'est assez difficile de trouver quelles sont les
 licences autorisées dans les textes d'aide et d'instructions de BGG.
+Le formulaire de téléchargement propose trois choix, « _All Rights Reserved_ »,
+« _Creative Commons (some rights reserved)_ » et « _No Rights Reserved_ ». Le choix
+« _No Rights Reserved_ » correspond à
+[CC0 Universel](https://creativecommons.org/publicdomain/zero/1.0/deed.fr)
+(pas de droit d'auteur).
+Au hasard de mes promenades dans BGG, j'ai trouvé que le choix
+« _Creative Commons (some rights reserved_) » peut correspondre à
+[CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/deed.fr)
+(Attribution - Pas d’Utilisation Commerciale) ou à
+[CC BY 3.0](https://creativecommons.org/licenses/by/3.0/deed.fr)
+(https://creativecommons.org/licenses/by/3.0/deed.fr),
+mais il peut y avoir d'autres variantes de _Creative Commons_.
+
 
 ## Finalement
 
