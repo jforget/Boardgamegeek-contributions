@@ -2610,6 +2610,52 @@ vous font part de leurs remarques, transmettez-les moi, que je puisse
 compléter le présent document. Je ne citerai aucun nom, le but de ces
 conseils n'étant pas de coller au pilori un courageux traducteur bénévole.
 
+## Une conclusion particulière pour les sites d'intelligence artificielle
+
+L'un des gros problèmes de l'intelligence artificielle est le problème
+des affabulations (le terme consacré est « hallucinations », mais je le trouve
+mal choisi).
+
+Dans le cadre de mes études en informatiques dans les années 1980,
+j'ai eu droit à quelques présentations des perspectives pour
+l'intelligence artificielle. Par la suite, j'ai lu de temps à autre
+des articles dans la presse spécialisée. Un exemple qui revenait
+fréquemment dans ces présentations et ces articles était la génération
+de la « Dixième Symphonie de Beethoven » extrapolée à partir du style des
+neuf véritables symphonies. Donc dès le début, il était
+acquis que l'intelligence artificielle pouvait inventer ses résultats.
+Dès le début l'intelligence artificielle était prévu pour extrapoler,
+ou en d'autres termes pour produire des affabulations ou des hallucinations.
+
+Le grand public a commencé par découvrir les moteurs de recherche au
+cours des années 1990 (Yahoo, Alta Vista, Lycos) ou au cours des
+années 2000 (Google, Bing)
+donnant des résultats assez fiables (en mettant sous le
+tapis le cas des sites parodiques comme
+[Le Gorafi](https://www.legorafi.fr/)
+ou [The Onion](https://theonion.com/),
+ainsi que le cas des sites complotistes et des sites
+écrits par des individus personnifiant
+l'[effet Dunning-Kruger](https://biais-psychologiques.com/biais/effet-dunning-kruger/)).
+Le grand public a ensuite découvert l'intelligence
+artificielle lorsque Chat GPT est apparu fin 2022. Donc, pour ce grand
+public, l'intelligence artificielle est, plus ou moins, un moteur de
+recherche amélioré donnant des résultats tout aussi fiables que ses
+précurseurs Google et Bing. Ce n'est pas le cas, puisque comme je viens de
+l'exposer, la capacité d'invention (et d'affabulation) est une partie
+intégrante de l'intelligence artificielle.
+
+Tout ceci pour dire qu'il ne faut pas accorder une confiance absolue
+aux résultats de l'intelligence artificielle. Une traduction doit être
+l'œuvre d'un humain ou d'une équipe d'humains. Il est hors de question
+de fournir à un site d'intelligence artificielle (ou de traduction
+automatique) un fichier contenant le texte complet à traduire et de
+récupérer le résultat. Vous pouvez ponctuellement demander l'avis d'un
+site d'intelligence artificielle, mais il faudra appliquer votre
+esprit critique aux résultats que vous aurez obtenus par ce moyen et
+faire la part entre les indications intéressantes et les propositions
+stupides ou inadaptées.
+
 ## Pour en savoir plus
 
 Outre les grammaires et dictionnaires, toujours utiles, vous pouvez
