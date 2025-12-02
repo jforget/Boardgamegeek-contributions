@@ -150,7 +150,7 @@ mais jamais la traduction d'une phrase complète.
 
 Une autre possibilité que j'utilise sporadiquement consiste à consulter
 un article sur la
-[Wikipedia anglophone](http://en.wikipedia.org/).
+[Wikipedia anglophone](http://en.wikipedia.org/)
 et à demander l'article équivalent dans la
 [Wikipedia francophone](https://fr.wikipedia.org/).
 J'utilise alors le titre de ce second article comme
@@ -1991,6 +1991,49 @@ préférable de traduire en "Franklin Roosevelt", "Lyndon Johnson" et
 "Nikita Khrouchtchev" (ou parfois "Henry Kissinger", en fonction de la
 date et du contexte).
 
+### Ne mélangez pas les pommes et les carottes
+
+Exemple inventé :
+
+_V.O._ You cannot add the firepower of artillery units with the
+firepower of infantry units. Do not mix apples and oranges.
+
+_MAUVAIS_ Ne cherchez pas à additionner la puissance de feu des
+artilleries à celle des infanteries. Ne mélangez pas les pommes et les
+oranges.
+
+_BON_ Ne cherchez pas à additionner la puissance de feu des artilleries
+à celle des infanteries. Ne mélangez pas les choux et les carottes.
+
+
+<details>
+<summary>Compléments pour la traduction automatique</summary>
+
+Reverso (à qui j'ai simplement demandé « apples and oranges »)
+propose à la fois « pommes et oranges » et « torchons et serviettes »,
+aussi bien dans la liste des traduction que dans les exemples.
+Lorsque l'on demande un peu plus de traductions, les « choux et carottes »
+apparaissent en neuvième et quatorzième positions, avec en outre
+« pommes et poires » en treizième position.
+
+Gemini et Le Chat ont traduit par
+
+> Il ne faut pas mélanger les torchons et les serviettes.
+
+Les autres (sauf Word Reference que je n'ai pas testé) conservent
+les pommes et les oranges.
+
+J'ai demandé à Le Chat et à Gemini s'il existait d'autres possibilités
+pour « apples and oranges ». Les deux sites m'ont bien proposé « choux
+et carottes ». Le Chat propose en plus « vitesse et précipitation »,
+ce qui est à mon avis inapproprié pour l'exemple utilisé.
+
+Test effectué le 2 décembre 2025.
+
+---
+
+</details>
+
 ### Des hauts et des bas
 
 Un exemple inventé, inspiré de
@@ -2623,5 +2666,5 @@ le contenu.
 
 Jean Forget
 
-Octobre 1996, novembre 2000, septembre--octobre--novembre 2025
+Octobre 1996, novembre 2000, septembre--octobre--novembre--décembre 2025
 
